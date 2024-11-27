@@ -216,3 +216,35 @@ extension CalendarId {
     }
   }
 }
+
+extension CalendarId {
+  func nameOfMonth(_ y: Int, _ m: Int) -> String? {
+    switch self {
+    case .gregorian:
+      return GregorianCalendar.nameOfMonth(m)
+    case .julian:
+      return JulianCalendar.nameOfMonth(m)
+    case .swedish:
+      return SwedishCalendar.nameOfMonth(m)
+    case .frenchRepublican:
+      return FrenchRepublicanCalendar.nameOfMonth(m)
+    case .jewish:
+      return JewishCalendar.nameOfMonth(year: y, month: m)
+    case .civilIslamic:
+      return CivilIslamicCalendar.nameOfMonth(m)
+    case .saka:
+      return SakaCalendar.nameOfMonth(m)
+    case .egyptian:
+      return EgyptianCalendar.nameOfMonth(m)
+    case .coptic:
+      return CopticCalendar.nameOfMonth(m)
+    case .ethiopian:
+      return EthiopianCalendar.nameOfMonth(m)
+    case .bahai:
+      return BahaiCalendar.nameOfMonth(m)
+
+    case .mesoamericanLongCount:
+      return nil
+    }
+  }
+}

@@ -37,6 +37,14 @@ public struct BahaiCalendar {
                            "october": 10, "november": 11, "december": 12]
     return monthDictionary[month.lowercased()]
   }
+  
+  public static func nameOfMonth(_ month: Int) -> String? {
+    let monthNames = ["january", "february", "march",
+                      "april", "may", "june",
+                      "july", "august", "september",
+                      "october", "november", "december"]
+    return monthNames[month-1]
+  }
 
   public static func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
     if M < 1 || 12 < M {
