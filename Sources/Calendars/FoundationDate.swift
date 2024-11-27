@@ -21,11 +21,11 @@ import Foundation
 fileprivate let epoch1970 = 2440587.5
 
 public struct FoundationDate {
-  public func toDate(jd: Double) -> Date {
+  public static func toDate(_ jd: Double) -> Date {
     return  Date(timeIntervalSince1970: (jd - epoch1970) * 86400)
   }
 
-  public func toJD(date: Date) -> Double {
+  public static func toJD(_ date: Date) -> Double {
     return epoch1970 + date.timeIntervalSince1970 / 86400
   }
 }
