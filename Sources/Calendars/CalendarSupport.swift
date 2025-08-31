@@ -213,7 +213,7 @@ extension CalendarId {
 
 
 extension CalendarId {
-  public func numberOfMonth(_ m: String) -> Int? {
+  public func numberOfMonth(y: Int, m: String) -> Int? {
     switch self {
     case .gregorian:
       return GregorianCalendar.numberOfMonth(m)
@@ -224,7 +224,7 @@ extension CalendarId {
     case .frenchRepublican:
       return FrenchRepublicanCalendar.numberOfMonth(m)
     case .jewish:
-      return JewishCalendar.numberOfMonth(m)
+      return JewishCalendar.numberOfMonth(year: y, month: m)
     case .civilIslamic:
       return CivilIslamicCalendar.numberOfMonth(m)
     case .saka:
@@ -237,7 +237,6 @@ extension CalendarId {
       return EthiopianCalendar.numberOfMonth(m)
     case .bahai:
       return BahaiCalendar.numberOfMonth(m)
-
     case .mesoamericanLongCount:
       return nil
     }

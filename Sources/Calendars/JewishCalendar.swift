@@ -92,14 +92,32 @@ public struct JewishCalendar {
     }
     return monthNames[month-1]
   }
-  // FIXME: Depends on year
-  public static func numberOfMonth(_ month: String) -> Int? {
-    let monthDictionary = ["Tishiri": 1, "Heshvan": 2, "march": 3,
-                           "Kislev": 4, "Shebat": 5, "Addar": 6,
-                           "Nisan": 7, "Iyar": 8, "Sivan": 9,
-                           "Tammuz": 10, "Ab": 11, "Elul": 12]
+
+  public static func numberOfMonth(year: Int, month: String) -> Int? {
+    let monthDictionary = ["tishiri": 1, "heshvan": 2, "march": 3,
+                           "kislev": 4, "shebat": 5, "addar": 6,
+                           "nisan": 7, "iyar": 8, "sivan": 9,
+                           "tammuz": 10, "ab": 11, "elul": 12]
+    let leapYearMonthDictionary = [
+      "tishiri" : 1, "heshvan" : 2, "kislev" : 3,
+      "tebet": 4, "shebat": 5, "addar i": 6,
+      "addar ii": 7,
+      "nisan": 8, "iyar": 9, "sivan": 10,
+      "tammuz": 11, "ab": 12, "elul": 13
+    ]
+    if isLeapYear(year: year) {
+      return leapYearMonthDictionary[month.lowercased()]
+    }
     return monthDictionary[month.lowercased()]
   }
+
+  public static func numberOfMonths(year: Int) -> Int? {
+    if isLeapYear(year: year) {
+      return 13
+    }
+    return 12
+  }
+
 
   public static func isProleptic(_ d: Int) -> Bool {
     return d < epoch
