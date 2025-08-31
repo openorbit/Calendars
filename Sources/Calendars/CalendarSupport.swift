@@ -34,7 +34,7 @@ public enum CalendarId : Codable, Sendable {
 }
 
 extension CalendarId {
-  var description : String {
+  public var description : String {
     switch self {
     case .gregorian:
       return "Gregorian"
@@ -62,11 +62,21 @@ extension CalendarId {
       return "Mesoamerican Long Count"
     }
   }
+  
+  /// Returns the available date components (granularity) for this calendar.
+  public var granularityComponents: [String] {
+    switch self {
+    case .gregorian, .julian, .swedish, .frenchRepublican, .jewish, .civilIslamic, .saka, .egyptian, .coptic, .ethiopian, .bahai:
+      return ["year", "month", "day"]
+    case .mesoamericanLongCount:
+      return ["baktun", "katun", "tun", "uinal", "kin"]
+    }
+  }
 }
 
 
 extension CalendarId {
-  func toJDN(Y: Int, M: Int, D: Int) -> Int {
+  public func toJDN(Y: Int, M: Int, D: Int) -> Int {
     switch self {
     case .gregorian:
       return GregorianCalendar.toJDN(Y: Y, M: M, D: D)
@@ -95,7 +105,24 @@ extension CalendarId {
     }
   }
 
-  func toDate(J: Int) -> (Int, Int, Int) {
+  /// Converts components dictionary to JDN, using the calendar's granularity.
+  ///
+  /// For most calendars, expects keys "year", "month", "day". For Mesoamerican Long Count, not yet supported.
+  public func toJDN(components: [String: Int]) -> Int {
+    switch self {
+    case .gregorian, .julian, .swedish, .frenchRepublican, .jewish, .civilIslamic, .saka, .egyptian, .coptic, .ethiopian, .bahai:
+      guard let y = components["year"], let m = components["month"], let d = components["day"] else {
+        return 0 // or consider throwing or returning nil if preferred
+      }
+      return self.toJDN(Y: y, M: m, D: d)
+    case .mesoamericanLongCount:
+      // TODO: Support Mesoamerican Long Count conversion
+      
+      return 0
+    }
+  }
+
+  public func toDate(J: Int) -> (Int, Int, Int) {
     switch self {
     case .gregorian:
       return GregorianCalendar.toDate(J: J)
@@ -124,7 +151,7 @@ extension CalendarId {
     }
   }
 
-  func isProleptic(J: Int) -> Bool {
+  public func isProleptic(J: Int) -> Bool {
     switch self {
     case .gregorian:
       return GregorianCalendar.isProleptic(J)
@@ -154,7 +181,7 @@ extension CalendarId {
   }
 }
 extension CalendarId {
-  func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
+  public func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
     switch self {
     case .gregorian:
       return GregorianCalendar.isValidDate(Y: Y, M: M, D: D)
@@ -186,7 +213,7 @@ extension CalendarId {
 
 
 extension CalendarId {
-  func numberOfMonth(_ m: String) -> Int? {
+  public func numberOfMonth(_ m: String) -> Int? {
     switch self {
     case .gregorian:
       return GregorianCalendar.numberOfMonth(m)
@@ -218,7 +245,7 @@ extension CalendarId {
 }
 
 extension CalendarId {
-  func nameOfMonth(_ y: Int, _ m: Int) -> String? {
+  public func nameOfMonth(_ y: Int, _ m: Int) -> String? {
     switch self {
     case .gregorian:
       return GregorianCalendar.nameOfMonth(m)
@@ -248,3 +275,4 @@ extension CalendarId {
     }
   }
 }
+

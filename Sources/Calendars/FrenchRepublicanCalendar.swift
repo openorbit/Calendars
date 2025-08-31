@@ -59,10 +59,10 @@ public struct FrenchRepublicanCalendar {
 
   static let algorithm = GregorianStyleCalendarAlgorithm(y: 6504, j: 111, m: 0, n: 13, r: 4, p: 1461, q: 0, v: 3, u: 1, s: 30, t: 0, w: 0, A: 396, B: 578797, C: -51)
 
-  static func toJDN(Y: Int, M: Int, D: Int) -> Int {
+  public static func toJDN(Y: Int, M: Int, D: Int) -> Int {
     algorithm.toJd(Y: Y, M: M, D: D)
   }
-  static func toDate(J: Int) -> (Int, Int, Int) {
+  public static func toDate(J: Int) -> (Int, Int, Int) {
     algorithm.toDate(J: J)
   }
 }

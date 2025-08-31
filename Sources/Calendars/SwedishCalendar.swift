@@ -72,14 +72,14 @@ public struct SwedishCalendar {
 
   static let algorithm = SwedishCalendarAlgorithm(y: 4716, j: 1401, m: 2, n: 12, r: 4, p: 1461, q: 0, v: 3, u: 5, s: 153, t: 2, w: 2)
 
-  static func toJDN(Y: Int, M: Int, D: Int) -> Int {
+  public static func toJDN(Y: Int, M: Int, D: Int) -> Int {
     algorithm.toJd(Y: Y, M: M, D: D)
   }
-  static func toDate(J: Int) -> (Int, Int, Int) {
+  public static func toDate(J: Int) -> (Int, Int, Int) {
     algorithm.toDate(J: J)
   }
 
-  static func dayOfWeek(Y: Int, M: Int, D: Int) -> Int {
+  public static func dayOfWeek(Y: Int, M: Int, D: Int) -> Int {
     let J = toJDN(Y: Y, M: M, D: D)
     let W = 1 + (J + 1) % 7
     return W

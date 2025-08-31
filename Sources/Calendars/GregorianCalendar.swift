@@ -68,21 +68,21 @@ public struct GregorianCalendar {
 
   static let algorithm = GregorianStyleCalendarAlgorithm(y: 4716, j: 1401, m: 2, n: 12, r: 4, p: 1461, q: 0, v: 3, u: 5, s: 153, t: 2, w: 2, A: 184, B: 274277, C: -38)
 
-  static func toJDN(Y: Int, M: Int, D: Int) -> Int {
+  public static func toJDN(Y: Int, M: Int, D: Int) -> Int {
     algorithm.toJd(Y: Y, M: M, D: D)
   }
-  static func toDate(J: Int) -> (Int, Int, Int) {
+  public static func toDate(J: Int) -> (Int, Int, Int) {
     algorithm.toDate(J: J)
   }
 
-  static func dayOfWeek(Y: Int, M: Int, D: Int) -> Int {
+  public static func dayOfWeek(Y: Int, M: Int, D: Int) -> Int {
     let a = (9 + M) % 12
     let b = Y - a/10
     let W = 1 + (2 + D + (13 * a + 2) / 5 + b + b / 4 - b / 100 + b / 400) % 7
     return W
   }
 
-  static func dayOfEaster(Y: Int) -> (Int, Int, Int) {
+  public static func dayOfEaster(Y: Int) -> (Int, Int, Int) {
     let a = Y / 100
     let b = a - a / 4
     let c = Y % 19
@@ -93,5 +93,4 @@ public struct GregorianCalendar {
     let D = 1 + (g - 1) % 31
     return (Y, M, D)
   }
-
 }
