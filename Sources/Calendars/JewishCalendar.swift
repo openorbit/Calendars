@@ -111,7 +111,7 @@ public struct JewishCalendar {
     return monthDictionary[month.lowercased()]
   }
 
-  public static func numberOfMonths(year: Int) -> Int? {
+  public static func numberOfMonths(year: Int) -> Int {
     if isLeapYear(year: year) {
       return 13
     }
