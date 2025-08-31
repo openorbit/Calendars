@@ -16,7 +16,7 @@
 // limitations under the License.
 //
 
-public struct JulianDate: Equatable, CustomStringConvertible, Hashable, Sendable {
+public struct JulianDate: Equatable, CustomStringConvertible, Hashable, Sendable, Codable {
   public let year: Int, month: Int, day: Int
   public var description: String { String(format: "Julian %04d-%02d-%02d", year, month, day) }
 
@@ -79,7 +79,7 @@ public struct JulianDate: Equatable, CustomStringConvertible, Hashable, Sendable
 }
 
 
-public struct GregorianDate: Equatable, CustomStringConvertible, Sendable {
+public struct GregorianDate: Equatable, CustomStringConvertible, Sendable, Codable {
   public let year: Int, month: Int, day: Int
   public var description: String { String(format: "Gregorian %04d-%02d-%02d", year, month, day) }
 
