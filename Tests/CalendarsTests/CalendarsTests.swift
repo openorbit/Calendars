@@ -228,3 +228,85 @@ import Testing
   #expect(m == 1)
   #expect(d == 1)
 }
+
+@Test func testJulianDayNames() async throws {
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 1, day: 1) == "Kal. Jan")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 1, day: 31) == "Prid. Kal. Feb")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 2, day: 1) == "Kal. Feb")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 2, day: 29) == "Prid. Kal. Mar")
+  #expect(JulianCalendar.nameOfDay(year: 2001, month: 2, day: 28) == "Prid. Kal. Mar")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 3, day: 1) == "Kal. Mar")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 3, day: 31) == "Prid. Kal. Apr")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 4, day: 1) == "Kal. Apr")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 4, day: 30) == "Prid. Kal. May")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 5, day: 1) == "Kal. May")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 5, day: 31) == "Prid. Kal. Jun")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 6, day: 1) == "Kal. Jun")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 6, day: 30) == "Prid. Kal. Jul")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 7, day: 1) == "Kal. Jul")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 7, day: 31) == "Prid. Kal. Aug")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 8, day: 1) == "Kal. Aug")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 8, day: 31) == "Prid. Kal. Sep")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 9, day: 1) == "Kal. Sep")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 9, day: 30) == "Prid. Kal. Oct")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 10, day: 1) == "Kal. Oct")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 10, day: 31) == "Prid. Kal. Nov")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 11, day: 1) == "Kal. Nov")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 11, day: 30) == "Prid. Kal. Dec")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 12, day: 1) == "Kal. Dec")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 12, day: 31) == "Prid. Kal. Jan")
+
+  // Kal switch over
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 1, day: 13) == "Idus Jan")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 1, day: 14) == "XIX Kal. Feb")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 2, day: 13) == "Idus Feb")
+  // XVII Kal, but we name the leap day bis, unclear what should be standard here
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 2, day: 14) == "XVI Kal. Mar")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 3, day: 15) == "Idus Mar")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 3, day: 16) == "XVII Kal. Apr")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 4, day: 13) == "Idus Apr")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 4, day: 14) == "XVIII Kal. May")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 5, day: 15) == "Idus May")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 5, day: 16) == "XVII Kal. Jun")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 6, day: 13) == "Idus Jun")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 6, day: 14) == "XVIII Kal. Jul")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 7, day: 15) == "Idus Jul")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 7, day: 16) == "XVII Kal. Aug")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 8, day: 13) == "Idus Aug")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 8, day: 14) == "XIX Kal. Sep")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 9, day: 13) == "Idus Sep")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 9, day: 14) == "XVIII Kal. Oct")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 10, day: 15) == "Idus Oct")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 10, day: 16) == "XVII Kal. Nov")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 11, day: 13) == "Idus Nov")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 11, day: 14) == "XVIII Kal. Dec")
+
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 12, day: 13) == "Idus Dec")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 12, day: 14) == "XIX Kal. Jan")
+
+  // Leap days
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 2, day: 24) == "Bis. VI Kal. Mar")
+  #expect(JulianCalendar.nameOfDay(year: 2000, month: 2, day: 25) == "VI Kal. Mar")
+  #expect(JulianCalendar.nameOfDay(year: 2001, month: 2, day: 24) == "VI Kal. Mar")
+}

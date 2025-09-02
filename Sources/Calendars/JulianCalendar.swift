@@ -18,6 +18,80 @@
 
 import Foundation
 
+// Jan aug dec
+fileprivate let dayNamesJAD = [
+  "Kal.",
+  "IV Non.", "III Non.", "Prid. Non.", "Non.",
+  "VIII Id.", "VII Id.", "VI Id.", "V Id.", "IV Id.", "III Id.", "Pred. Id.", "Idus",
+  "XIX Kal.", "XVIII Kal.", "XVII Kal.", "XVI Kal.", "XV Kal.", "XIV Kal.", "XIII Kal.",
+  "XII Kal.", "XI Kal.", "X Kal.", "IX Kal.", "VIII Kal.", "VII Kal.", "VI Kal.", "V Kal.",
+  "IV Kal.", "III Kal.", "Prid. Kal."
+]
+
+fileprivate let dayNamesJADKalIndex = 14
+
+fileprivate let dayNamesFebLeap = [
+  "Kal.",
+  "IV Non.", "III Non.", "Prid. Non.", "Non.",
+  "VIII Id.", "VII Id.", "VI Id.", "V Id.", "IV Id.", "III Id.", "Pred. Id.", "Idus",
+  "XVI Kal.", "XV Kal.", "XIV Kal.", "XIII Kal.",
+  "XII Kal.", "XI Kal.", "X Kal.", "IX Kal.", "VIII Kal.", "VII Kal.", "Bis. VI Kal.", "VI Kal.", "V Kal.",
+  "IV Kal.", "III Kal.", "Prid. Kal."
+]
+
+fileprivate let dayNamesFeb = [
+  "Kal.",
+  "IV Non.", "III Non.", "Prid. Non.", "Non.",
+  "VIII Id.", "VII Id.", "VI Id.", "V Id.", "IV Id.", "III Id.", "Pred. Id.", "Idus",
+  "XVI Kal.", "XV Kal.", "XIV Kal.", "XIII Kal.",
+  "XII Kal.", "XI Kal.", "X Kal.", "IX Kal.", "VIII Kal.", "VII Kal.", "VI Kal.", "V Kal.",
+  "IV Kal.", "III Kal.", "Prid. Kal."
+]
+
+fileprivate let dayNamesFebKalIndex = 14
+
+// Mar, may, jul, oct
+fileprivate let dayNamesMMJO = [
+  "Kal.",
+  "VI Non.", "V Non.", "IV Non.", "III Non.", "Prid. Non.", "Non.",
+  "VIII Id.", "VII Id.", "VI Id.", "V Id.", "IV Id.", "III Id.", "Pred. Idus", "Idus",
+  "XVII Kal.", "XVI Kal.", "XV Kal.", "XIV Kal.", "XIII Kal.",
+  "XII Kal.", "XI Kal.", "X Kal.", "IX Kal.", "VIII Kal.", "VII Kal.", "VI Kal.", "V Kal.",
+  "IV Kal.", "III Kal.", "Prid. Kal."
+]
+
+fileprivate let dayNamesMMJOKalIndex = 16
+
+// April, june, sept, nov
+fileprivate let dayNamesAJSN = [
+  "Kal.",
+  "IV Non.", "III Non.", "Prid. Non.", "Nonae",
+  "VIII Id.", "VII Id.", "VI Id.", "V Id.", "IV Id.", "III Id.", "Pred. Id.", "Idus",
+  "XVIII Kal.", "XVII Kal.", "XVI Kal.", "XV Kal.", "XIV Kal.", "XIII Kal.",
+  "XII Kal.", "XI Kal.", "X Kal.", "IX Kal.", "VIII Kal.", "VII Kal.", "VI Kal.", "V Kal.",
+  "IV Kal.", "III Kal.", "Prid. Kal."
+]
+fileprivate let dayNamesAJSNKalIndex = 14
+
+fileprivate let dayNames = [
+  dayNamesJAD, dayNamesFeb, dayNamesMMJO,
+  dayNamesAJSN, dayNamesMMJO, dayNamesAJSN,
+  dayNamesMMJO, dayNamesJAD, dayNamesAJSN,
+  dayNamesMMJO, dayNamesAJSN, dayNamesJAD
+]
+fileprivate let dayNamesLeap = [
+  dayNamesJAD, dayNamesFebLeap, dayNamesMMJO,
+  dayNamesAJSN, dayNamesMMJO, dayNamesAJSN,
+  dayNamesMMJO, dayNamesJAD, dayNamesAJSN,
+  dayNamesMMJO, dayNamesAJSN, dayNamesJAD
+]
+fileprivate let kalIndexOffset = [
+  dayNamesJADKalIndex, dayNamesFebKalIndex, dayNamesMMJOKalIndex,
+  dayNamesAJSNKalIndex, dayNamesMMJOKalIndex, dayNamesAJSNKalIndex,
+  dayNamesMMJOKalIndex, dayNamesJADKalIndex, dayNamesAJSNKalIndex,
+  dayNamesMMJOKalIndex, dayNamesAJSNKalIndex, dayNamesJADKalIndex
+]
+
 public struct JulianCalendar {
   // Corresponds to 0008-01-01 Julian calendar
   //   Before CE 8, leap years were erratic and even if the calendar
@@ -25,6 +99,24 @@ public struct JulianCalendar {
   //   makes the calendar only accurate for dating from CE 8 (or possibly
   //   a few years earlier)
   static let epoch = 1723980
+
+  // Calculate the Roman name of the day
+  public static func nameOfDay(year: Int, month: Int, day: Int) -> String {
+    let prefix =
+    if isLeapYear(year: year) {
+      dayNamesLeap[month-1][day - 1]
+    } else {
+      dayNames[month-1][day - 1]
+    }
+
+    if day >= kalIndexOffset[month-1] {
+      // We need to add 1 to the month index
+      let nextMonth = month == 12 ? 1 : (month + 1)
+      return "\(prefix) \(nameAbbrOfMonth(nextMonth))"
+    } else {
+      return "\(prefix) \(nameAbbrOfMonth(month))"
+    }
+  }
 
   public static func isLeapYear(year: Int) -> Bool {
     year % 4 == 0
@@ -39,6 +131,8 @@ public struct JulianCalendar {
 
     return normalMonthLength[month - 1]
   }
+
+
   public static func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
     if M < 1 || 12 < M {
       return false
@@ -66,6 +160,13 @@ public struct JulianCalendar {
                       "April", "May", "June",
                       "July", "August", "September",
                       "October", "November", "December"]
+    return monthNames[month-1]
+  }
+  public static func nameAbbrOfMonth(_ month: Int) -> String {
+    let monthNames = ["Jan", "Feb", "Mar",
+                      "Apr", "May", "Jun",
+                      "Jul", "Aug", "Sep",
+                      "Oct", "Nov", "Dec"]
     return monthNames[month-1]
   }
 
