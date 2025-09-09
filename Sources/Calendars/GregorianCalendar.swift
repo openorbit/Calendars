@@ -18,9 +18,42 @@
 
 import Foundation
 
-public struct GregorianCalendar {
+public struct GregorianCalendar : CalendarProtocol {
+
+  public var calendarId: String { "gregorian" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    GregorianCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return GregorianCalendar.nameOfMonth(month)
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    GregorianCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    GregorianCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    GregorianCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    GregorianCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    GregorianCalendar.toDate(J: jdn)
+  }
+
+
   // 1582-10-15
   static let epoch = 2299161
+  static let shared = GregorianCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
     year % 400 == 0 || (year % 4 == 0 && year % 100 != 0)
@@ -94,3 +127,4 @@ public struct GregorianCalendar {
     return (Y, M, D)
   }
 }
+

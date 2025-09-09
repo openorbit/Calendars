@@ -92,7 +92,40 @@ fileprivate let kalIndexOffset = [
   dayNamesMMJOKalIndex, dayNamesAJSNKalIndex, dayNamesJADKalIndex
 ]
 
-public struct JulianCalendar {
+public struct JulianCalendar : CalendarProtocol, Sendable {
+
+  public var calendarId: String { "julian" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    JulianCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return JulianCalendar.nameOfMonth(month)
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    JulianCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    JulianCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    JulianCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    JulianCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    JulianCalendar.toDate(J: jdn)
+  }
+
+
+  static let shared = JulianCalendar()
   // Corresponds to 0008-01-01 Julian calendar
   //   Before CE 8, leap years were erratic and even if the calendar
   //   was technically introduced in BCE 46, inconsistent use of leap years
@@ -101,7 +134,7 @@ public struct JulianCalendar {
   static let epoch = 1723980
 
   // Calculate the Roman name of the day
-  public static func nameOfDay(year: Int, month: Int, day: Int) -> String {
+  static public func nameOfDay(year: Int, month: Int, day: Int) -> String {
     let prefix =
     if isLeapYear(year: year) {
       dayNamesLeap[month-1][day - 1]
@@ -118,10 +151,10 @@ public struct JulianCalendar {
     }
   }
 
-  public static func isLeapYear(year: Int) -> Bool {
+  static public func isLeapYear(year: Int) -> Bool {
     year % 4 == 0
   }
-  public static func daysInMonth(year: Int, month: Int) -> Int {
+  static public func daysInMonth(year: Int, month: Int) -> Int {
     let normalMonthLength = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     if month == 2 {
       if isLeapYear(year: year) {
@@ -133,7 +166,7 @@ public struct JulianCalendar {
   }
 
 
-  public static func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
+  static public func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
     if M < 1 || 12 < M {
       return false
     }
@@ -143,11 +176,11 @@ public struct JulianCalendar {
     return true
   }
 
-  public static func isProleptic(_ d: Int) -> Bool {
+  static public func isProleptic(_ d: Int) -> Bool {
     return d < epoch
   }
 
-  public static func numberOfMonth(_ month: String) -> Int? {
+  static public func numberOfMonth(_ month: String) -> Int? {
     let monthDictionary = ["january": 1, "february": 2, "march": 3,
                            "april": 4, "may": 5, "june": 6,
                            "july": 7, "august": 8, "september": 9,
@@ -155,14 +188,14 @@ public struct JulianCalendar {
     return monthDictionary[month.lowercased()]
   }
 
-  public static func nameOfMonth(_ month: Int) -> String {
+  static public func nameOfMonth(_ month: Int) -> String {
     let monthNames = ["January", "February", "March",
                       "April", "May", "June",
                       "July", "August", "September",
                       "October", "November", "December"]
     return monthNames[month-1]
   }
-  public static func nameAbbrOfMonth(_ month: Int) -> String {
+  static public func nameAbbrOfMonth(_ month: Int) -> String {
     let monthNames = ["Jan", "Feb", "Mar",
                       "Apr", "May", "Jun",
                       "Jul", "Aug", "Sep",
@@ -173,20 +206,20 @@ public struct JulianCalendar {
 
   static let algorithm = CalendarAlgorithm(y: 4716, j: 1401, m: 2, n: 12, r: 4, p: 1461, q: 0, v: 3, u: 5, s: 153, t: 2, w: 2)
 
-  public static func toJDN(Y: Int, M: Int, D: Int) -> Int {
-    algorithm.toJd(Y: Y, M: M, D: D)
+  static public func toJDN(Y: Int, M: Int, D: Int) -> Int {
+    JulianCalendar.algorithm.toJd(Y: Y, M: M, D: D)
   }
-  public static func toDate(J: Int) -> (Int, Int, Int) {
-    algorithm.toDate(J: J)
+  static public func toDate(J: Int) -> (Int, Int, Int) {
+    JulianCalendar.algorithm.toDate(J: J)
   }
 
-  public static func dayOfWeek(Y: Int, M: Int, D: Int) -> Int {
+  static public func dayOfWeek(Y: Int, M: Int, D: Int) -> Int {
     let J = toJDN(Y: Y, M: M, D: D)
     let W = 1 + (J + 1) % 7
     return W
   }
 
-  public static func dayOfEaster(Y: Int) -> (Int, Int, Int) {
+  static public func dayOfEaster(Y: Int) -> (Int, Int, Int) {
     let a = 22 + (255 - 11 * (Y % 19)) % 30
     let g = a + (56 + 6 * Y - Y / 4 - a) % 7
     let M = 3 + g / 32
@@ -194,3 +227,4 @@ public struct JulianCalendar {
     return (Y, M, D)
   }
 }
+

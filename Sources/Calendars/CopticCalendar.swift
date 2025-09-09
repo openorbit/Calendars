@@ -19,8 +19,41 @@
 import Foundation
 
 
-public struct CopticCalendar {
+public struct CopticCalendar : CalendarProtocol {
+  public var calendarId: String { "coptic" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    CopticCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return CopticCalendar.nameOfMonth(month)!
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    CopticCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    CopticCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    CopticCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    CopticCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    CopticCalendar.toDate(J: jdn)
+  }
+
+
+
   static let epoch = 1825030
+  static let shared = CopticCalendar()
 
   public static func isProleptic(_ d: Int) -> Bool {
     return d < epoch
@@ -67,3 +100,4 @@ public struct CopticCalendar {
   }
 
 }
+

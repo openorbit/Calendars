@@ -211,35 +211,41 @@ extension CalendarId {
   }
 }
 
-
 extension CalendarId {
-  public func numberOfMonth(y: Int, m: String) -> Int? {
+  /// New, year-aware adapter with idiomatic naming.
+  public func monthNumber(for month: String, in year: Int) -> Int? {
     switch self {
     case .gregorian:
-      return GregorianCalendar.numberOfMonth(m)
+      return GregorianCalendar.numberOfMonth(month)
     case .julian:
-      return JulianCalendar.numberOfMonth(m)
+      return JulianCalendar.numberOfMonth(month)
     case .swedish:
-      return SwedishCalendar.numberOfMonth(m)
+      return SwedishCalendar.numberOfMonth(month)
     case .frenchRepublican:
-      return FrenchRepublicanCalendar.numberOfMonth(m)
+      return FrenchRepublicanCalendar.numberOfMonth(month)
     case .jewish:
-      return JewishCalendar.numberOfMonth(year: y, month: m)
+      return JewishCalendar.numberOfMonth(year: year, month: month)
     case .civilIslamic:
-      return CivilIslamicCalendar.numberOfMonth(m)
+      return CivilIslamicCalendar.numberOfMonth(month)
     case .saka:
-      return SakaCalendar.numberOfMonth(m)
+      return SakaCalendar.numberOfMonth(month)
     case .egyptian:
-      return EgyptianCalendar.numberOfMonth(m)
+      return EgyptianCalendar.numberOfMonth(month)
     case .coptic:
-      return CopticCalendar.numberOfMonth(m)
+      return CopticCalendar.numberOfMonth(month)
     case .ethiopian:
-      return EthiopianCalendar.numberOfMonth(m)
+      return EthiopianCalendar.numberOfMonth(month)
     case .bahai:
-      return BahaiCalendar.numberOfMonth(m)
+      return BahaiCalendar.numberOfMonth(month)
     case .mesoamericanLongCount:
       return nil
     }
+  }
+
+  /// Deprecated: Use monthNumber(for:in:) instead.
+  @available(*, deprecated, message: "Use monthNumber(for:in:) instead")
+  public func numberOfMonth(y: Int, m: String) -> Int? {
+    return monthNumber(for: m, in: y)
   }
 }
 
@@ -275,3 +281,21 @@ extension CalendarId {
   }
 }
 
+public protocol WeekdayProtocol {
+  var numberOfDays: Int { get }
+  func weekday(forYear year: Int, month: Int, day: Int) -> Int
+  func name(ofWeekday day: Int) -> String
+}
+
+public protocol CalendarProtocol: Sendable {
+  var calendarId: String { get }
+
+  func isValidDate(year: Int, month: Int, day: Int) -> Bool
+  func monthName(forYear year: Int, month: Int) -> String
+  func daysInMonth(year: Int, month: Int) -> Int
+  func isProleptic(julianDay jdn: Int) -> Bool
+  func monthNumber(for month: String, in year: Int) -> Int?
+
+  func jdn(forYear year: Int, month: Int, day: Int) -> Int
+  func date(fromJDN jdn: Int) -> (Int, Int, Int)
+}

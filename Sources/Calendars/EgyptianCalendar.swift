@@ -18,8 +18,39 @@
 
 import Foundation
 
-public struct EgyptianCalendar {
+public struct EgyptianCalendar : CalendarProtocol {
+  public var calendarId: String { "egyptian" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    EgyptianCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return EgyptianCalendar.nameOfMonth(month)
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    EgyptianCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    EgyptianCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    EgyptianCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    EgyptianCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    EgyptianCalendar.toDate(J: jdn)
+  }
+
   static let epoch = 1448638
+  static let shared = EgyptianCalendar()
 
   public static func daysInMonth(year: Int, month: Int) -> Int {
     if month == 13 {
@@ -68,3 +99,4 @@ public struct EgyptianCalendar {
   }
 
 }
+

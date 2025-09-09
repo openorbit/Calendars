@@ -18,8 +18,40 @@
 
 import Foundation
 
-public struct EthiopianCalendar {
+public struct EthiopianCalendar : CalendarProtocol {
+  public var calendarId: String { "ethiopian" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    EthiopianCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return EthiopianCalendar.nameOfMonth(month)!
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    EthiopianCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    EthiopianCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    EthiopianCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    EthiopianCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    EthiopianCalendar.toDate(J: jdn)
+  }
+
+
   static let epoch = 1724221
+  static let shared = EthiopianCalendar()
 
   public static func isProleptic(_ d: Int) -> Bool {
     return d < epoch
@@ -66,3 +98,4 @@ public struct EthiopianCalendar {
   }
 
 }
+

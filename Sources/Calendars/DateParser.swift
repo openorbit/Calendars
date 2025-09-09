@@ -54,7 +54,7 @@ public struct DateParser {
       let d = Int(match.2)!
       let y = Int(match.4)!
 
-      if let m = calendar.numberOfMonth(y: y, m: m) {
+      if let m = calendar.monthNumber(for: m, in: y) {
         if calendar.isValidDate(Y: y, M: m, D: d) {
           return (y, m, d)
         }
@@ -65,7 +65,7 @@ public struct DateParser {
       let m = String(match.2)
       let y = Int(match.3)!
 
-      if let m = calendar.numberOfMonth(y: y, m: m) {
+      if let m = calendar.monthNumber(for: m, in: y) {
         if calendar.isValidDate(Y: y, M: m, D: d) {
           return (y, m, d)
         }

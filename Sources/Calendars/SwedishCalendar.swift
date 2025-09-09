@@ -18,9 +18,40 @@
 
 import Foundation
 
-public struct SwedishCalendar {
+public struct SwedishCalendar : CalendarProtocol {
+  public var calendarId: String { "swedish_transitional" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    SwedishCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return SwedishCalendar.nameOfMonth(month)
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    SwedishCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    SwedishCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    SwedishCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    SwedishCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    SwedishCalendar.toDate(J: jdn)
+  }
+
   static let epoch = 2342042
   static let endEpoch = 2346425
+  static let shared = SwedishCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
     year != 1700 && year % 4 == 0
@@ -85,3 +116,4 @@ public struct SwedishCalendar {
     return W
   }
 }
+

@@ -19,8 +19,42 @@
 
 import Foundation
 
-public struct BahaiCalendar {
+public struct BahaiCalendar : CalendarProtocol {
+  public var calendarId: String { "bahai" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    BahaiCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    precondition(1 <= month && month <= 12)
+    return BahaiCalendar.nameOfMonth(month)!
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    BahaiCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    BahaiCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    BahaiCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    BahaiCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    BahaiCalendar.toDate(J: jdn)
+  }
+
+
+  
   static let epoch = 2394647
+  static let shared = BahaiCalendar()
 
   public static func isProleptic(_ d: Int) -> Bool {
     return d < epoch
@@ -66,3 +100,4 @@ public struct BahaiCalendar {
   }
 
 }
+

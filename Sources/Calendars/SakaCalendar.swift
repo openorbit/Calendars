@@ -18,8 +18,41 @@
 
 import Foundation
 
-public struct SakaCalendar {
+public struct SakaCalendar : CalendarProtocol {
+
+  public var calendarId: String { "saka" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    SakaCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return SakaCalendar.nameOfMonth(month)
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    SakaCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    SakaCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    SakaCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    SakaCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    SakaCalendar.toDate(J: jdn)
+  }
+
+
   static let epoch = 1749995
+  static let shared = SakaCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
     (year+78) % 400 == 0 || ((year+78) % 4 == 0 && (year+78) % 100 != 0)

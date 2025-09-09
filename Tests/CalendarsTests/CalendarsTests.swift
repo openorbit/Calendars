@@ -310,3 +310,84 @@ import Testing
   #expect(JulianCalendar.nameOfDay(year: 2000, month: 2, day: 25) == "VI Kal. Mar")
   #expect(JulianCalendar.nameOfDay(year: 2001, month: 2, day: 24) == "VI Kal. Mar")
 }
+
+
+
+
+@Test("Anchor JDNs match the Pontifical regime constants")
+func testAnchorJDNs() {
+  //let cal = PontificalJulianCalendar()
+  //#expect(cal.toJDN(Y: -44, M: 1, D: 1) == PontificalJulianCalendar.epoch)
+  //#expect(cal.toJDN(Y: -7, M: 1, D: 1) == PontificalJulianCalendar.suspensionStartJDN)
+
+  //#expect(JulianCalendar.toJDN(Y: 7, M: 12, D: 31) == PontificalJulianCalendar.endEpoch)
+  //#expect(cal.toJDN(Y: 7, M: 12, D: 31) == PontificalJulianCalendar.endEpoch)
+
+
+}
+
+@Test("Round-trip: Pontifical (Y,M,D) -> JDN -> (Y,M,D)")
+func testRoundTripPontifical() {
+  /*
+   let cal = PontificalJulianCalendar()
+
+  // A sampling across both sub-regimes
+  let samples: [(Int,Int,Int)] = [
+    (-44,  1,  1), // start
+    (-43,  2, 28),
+    (-42,  3,  1), // triennial leap has passed
+    (-39,  3,  1),
+    (-9,   3,  1), // last triennial leap year after Feb
+    (-8,  12, 31), // last day before suspension
+    (-7,   1,  1), // suspension starts
+    (-4,   3,  1), // Julian-leap-like year but suppressed
+    ( 0,   3,  1), // Year 0 (astronomical), suppressed
+    ( 4,   3,  1), // suppressed
+    ( 7,  12, 31)  // end of regime
+  ]
+  for (Y,M,D) in samples {
+    let J = cal.toJDN(Y: Y, M: M, D: D)
+    let (y2,m2,d2) = cal.toDate(J: J)
+    print("\(Y) \(M) \(D) == \(y2) \(m2) \(d2)")
+    #expect(y2 == Y)
+    #expect(m2 == M)
+    #expect(d2 == D)
+  }
+   */
+}
+
+/*
+@Test("Continuity at the suspension split: -8-12-31 → -7-01-01 has +1 JDN")
+func testSplitContinuity() {
+  let cal = PontificalJulianCalendar()
+
+  let lastTriennial = cal.toJDN(Y: -8, M: 12, D: 31)
+  let firstSusp     = cal.toJDN(Y: -7, M: 1, D: 1)
+  #expect(lastTriennial + 1 == firstSusp)
+  #expect(firstSusp == PontificalJulianCalendar.suspensionStartJDN)
+}
+
+@Test("Continuity at handover: Pontifical end + 1 = AD 8 Jan 1 (Julian)")
+func testHandoverContinuity() {
+  // The day after Pontifical end must be AD 8-01-01 in *true* Julian.
+  let nextJDN = PontificalJulianCalendar.endEpoch + 1
+  #expect(nextJDN == PontificalJulianCalendar.handoverEpoch)
+
+  let (Y,M,D) = JulianCalendar.toDate(J: nextJDN)
+  #expect(Y == 8 && M == 1 && D == 1)
+}
+
+@Test("Pontifical vs Julian: same YMD labels generally map to different JDNs in the regime")
+func testDifferentAbsoluteDays() {
+  let cal = PontificalJulianCalendar()
+
+  // Before −41-02-24 they match:
+  #expect(cal.toJDN(Y: -42, M: 3, D: 1) == JulianCalendar.toJDN(Y: -42, M: 3, D: 1))
+
+  // After the first misapplied leap (−41), they differ:
+  let cases: [(Int,Int,Int)] = [(-41,3,1), (-38,3,1), (-9,3,1), (-4,3,1), (0,3,1)]
+  for (Y,M,D) in cases {
+    #expect(cal.toJDN(Y: Y, M: M, D: D) != JulianCalendar.toJDN(Y: Y, M: M, D: D))
+  }
+}
+*/

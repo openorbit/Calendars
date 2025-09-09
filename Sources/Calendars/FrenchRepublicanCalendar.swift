@@ -18,8 +18,39 @@
 
 import Foundation
 
-public struct FrenchRepublicanCalendar {
+public struct FrenchRepublicanCalendar : CalendarProtocol {
+  public var calendarId: String { "french_republican" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    FrenchRepublicanCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return FrenchRepublicanCalendar.nameOfMonth(month)
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    FrenchRepublicanCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    FrenchRepublicanCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    FrenchRepublicanCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    FrenchRepublicanCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    FrenchRepublicanCalendar.toDate(J: jdn)
+  }
+
   static let epoch = 2375840
+  static let shared = FrenchRepublicanCalendar()
 
   public static func nameOfMonth(_ month: Int) -> String {
     let monthNames = ["Vendémiaire", "Brumaire", "Frimaire",
@@ -66,3 +97,4 @@ public struct FrenchRepublicanCalendar {
     algorithm.toDate(J: J)
   }
 }
+

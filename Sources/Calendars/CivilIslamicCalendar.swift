@@ -18,8 +18,41 @@
 
 import Foundation
 
-public struct CivilIslamicCalendar {
+public struct CivilIslamicCalendar : CalendarProtocol {
+  public var calendarId: String { "civil_islamic" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    CivilIslamicCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return CivilIslamicCalendar.nameOfMonth(month)
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    CivilIslamicCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    CivilIslamicCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    CivilIslamicCalendar.numberOfMonth(month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    CivilIslamicCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    CivilIslamicCalendar.toDate(J: jdn)
+  }
+
+
+
   static let epoch = 1948440
+  static let shared = CivilIslamicCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
     let yearInCycle = (year - 1) % 30 + 1
@@ -75,3 +108,4 @@ public struct CivilIslamicCalendar {
   }
 
 }
+

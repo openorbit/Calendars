@@ -76,6 +76,23 @@ public struct JulianDate: Equatable, CustomStringConvertible, Hashable, Sendable
     let newJDN = jdn + days
     return JulianDate(jdn: newJDN)
   }
+
+
+}
+
+// Difference in days between two Julian dates.
+public func - (lhs: JulianDate, rhs: JulianDate) -> Int {
+  lhs.jdn - rhs.jdn
+}
+
+// Add days to a Julian date.
+public func + (lhs: JulianDate, rhs: Int) -> JulianDate {
+  lhs.dateAdding(days: rhs)
+}
+
+// Subtract days from a Julian date.
+public func - (lhs: JulianDate, rhs: Int) -> JulianDate {
+  lhs.dateAdding(days: -rhs)
 }
 
 
@@ -131,3 +148,86 @@ public struct GregorianDate: Equatable, CustomStringConvertible, Sendable, Codab
     return GregorianDate(jdn: newJDN)
   }
 }
+
+
+// Difference in days between two Gregorian dates.
+public func - (lhs: GregorianDate, rhs: GregorianDate) -> Int {
+  lhs.jdn - rhs.jdn
+}
+
+// Add days to a Gregorian date.
+public func + (lhs: GregorianDate, rhs: Int) -> GregorianDate {
+  lhs.dateAdding(days: rhs)
+}
+
+// Subtract days from a Gregorian date.
+public func - (lhs: GregorianDate, rhs: Int) -> GregorianDate {
+  lhs.dateAdding(days: -rhs)
+}
+
+/*
+public struct RomanRepublicanDate: Equatable, CustomStringConvertible, Hashable, Sendable, Codable {
+  public let year: Int, month: Int, day: Int
+  public var description: String { String(format: "Roman %04d-%02d-%02d", year, month, day) }
+  public let epoch: Int
+  public init(calendar: RomanRepublicanCalendar, year: Int, month: Int, day: Int) {
+    self.year = year
+    self.month = month
+    self.day = day
+    self.epoch = calendar.epoch
+  }
+  public init(calendar: RomanRepublicanCalendar, jdn: Int) {
+    (year, month, day) = calendar.toDate(J: jdn)
+  }
+
+  public init(calendar: RomanRepublicanCalendar, gregorian: GregorianDate) {
+    let jd = GregorianCalendar.toJDN(Y: gregorian.year, M: gregorian.month, D: gregorian.day)
+    (year, month, day) = calendar.toDate(J: jd)
+  }
+
+  public var isProleptic : Bool {
+    get { JulianCalendar.isProleptic(JulianCalendar.toJDN(Y: year, M: month, D: day)) }
+  }
+
+  public var jdn : Int {
+    get {
+      JulianCalendar.toJDN(Y: year, M: month, D: day)
+    }
+  }
+
+  public var daysSinceEaster : Int {
+    get {
+      let jdn = JulianCalendar.toJDN(Y: year, M: month, D: day)
+      let (easterYear, easterMonth, easterDay) = JulianCalendar.dayOfEaster(Y: year)
+      return jdn - JulianCalendar.toJDN(Y: easterYear, M: easterMonth, D: easterDay)
+    }
+  }
+
+  public static func dayOfEaster(year: Int) -> JulianDate {
+    let (easterYear, easterMonth, easterDay) = JulianCalendar.dayOfEaster(Y: year)
+    return JulianDate(year: easterYear, month: easterMonth, day: easterDay)
+  }
+
+  // returns 1 for sunday, 7 for saturday
+  public var dayOfWeek : Int {
+    get {
+      JulianCalendar.dayOfWeek(Y: year, M: month, D: day)
+    }
+  }
+
+  // Returns zero for sunday, 6 for saturday
+  public var dayOfWeekIndex : Int {
+    get {
+      JulianCalendar.dayOfWeek(Y: year, M: month, D: day) - 1
+    }
+  }
+
+
+  public func dateAdding(days: Int) -> JulianDate {
+    let newJDN = jdn + days
+    return JulianDate(jdn: newJDN)
+  }
+
+
+}
+*/

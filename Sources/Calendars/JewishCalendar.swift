@@ -34,8 +34,41 @@ fileprivate struct TableA {
 }
 fileprivate let A = TableA()
 
-public struct JewishCalendar {
+public struct JewishCalendar : CalendarProtocol {
+  public var calendarId: String { "hebrew" }
+
+  public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
+    JewishCalendar.isValidDate(Y: year, M: month, D: day)
+  }
+
+  public func monthName(forYear year: Int, month: Int) -> String {
+    return JewishCalendar.nameOfMonth(year: year, month: month)
+  }
+
+  public func daysInMonth(year: Int, month: Int) -> Int {
+    JewishCalendar.daysInMonth(year: year, month: month)
+  }
+
+  public func isProleptic(julianDay jdn: Int) -> Bool {
+    JewishCalendar.isProleptic(jdn)
+  }
+
+  public func monthNumber(for month: String, in year: Int) -> Int? {
+    JewishCalendar.numberOfMonth(year: year, month: month)
+  }
+
+  public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    JewishCalendar.toJDN(Y: year, M: month, D: day)
+  }
+
+  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
+    JewishCalendar.toDate(J: jdn)
+  }
+
+
+
   static let epoch = 347998
+  static let shared = JewishCalendar()
 
   static func isAbundant(year: Int) -> Bool {
     let jdn0 = firstJDNOfYear(Y: year)
@@ -186,3 +219,4 @@ public struct JewishCalendar {
   }
 
 }
+
