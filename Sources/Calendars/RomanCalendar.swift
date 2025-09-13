@@ -446,9 +446,6 @@ public struct RomanYear : Sendable {
 }
 
 public struct RomanForwardIndex : Sendable {
-
-
-  // key = (AUC << 8) | month.rawValue
   fileprivate let years: [RomanYear]
   fileprivate let earliestJDN: Int
   fileprivate let lastJDN: Int
