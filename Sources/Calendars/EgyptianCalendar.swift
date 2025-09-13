@@ -18,6 +18,7 @@
 
 import Foundation
 
+
 fileprivate let egyptianMonths: [MonthSpec] = [
   MonthSpec(
     monthUID: "egyptian:M01",
@@ -28,7 +29,17 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Toth"
+          "en": "Toth",
+          "gr": "Θωθ",
+          "cop" : "Ⲑⲱⲟⲩⲧ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "I Akhet"
         ],
         sources: nil
       )
@@ -44,10 +55,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Paophi"
+          "en": "Paophi",
+          "gr": "Φαωφί",
+          "cop" : "Ⲡⲁⲱⲡⲉ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "II Akhet"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -59,10 +81,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "Athyr"
+          "en": "Athyr",
+          "gr": "Ἀθύρ",
+          "cop" : "Ϩⲁⲑⲱⲣ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "III Akhet"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -74,10 +107,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Cohiac"
+          "en": "Cohiac",
+          "gr": "Χοιάκ",
+          "cop" : "Ⲕⲟⲓⲁⲕ", // Also: "Ⲕⲓⲁϩⲕ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "IV Akhet"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -89,7 +133,17 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Tybi"
+          "en": "Tybi",
+          "gr": "Τυβί",
+          "cop" : "Ⲧⲱⲃⲓ",
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "I Peret"
         ],
         sources: nil
       )
@@ -104,10 +158,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Mesir"
+          "en": "Mesir",
+          "gr": "Μεχίρ",
+          "cop" : "Ⲙⲉϣⲓⲣ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "II Peret"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -119,10 +184,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Phanemoth"
+          "en": "Phanemoth",
+          "gr": "Φαμενώθ",
+          "cop" : "Ⲡⲁⲣⲉⲙϩⲁⲧ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "III Peret"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -134,10 +210,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Pharmouti"
+          "en": "Pharmouti",
+          "gr": "Φαρμουθί",
+          "cop" : "Ⲡⲁⲣⲙⲟⲩⲧⲉ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "IV Peret"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -149,7 +236,17 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Pachons"
+          "en": "Pachons",
+          "gr": "Παχών",
+          "cop" : "Ⲡⲁϣⲟⲛⲥ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "I Shemu"
         ],
         sources: nil
       )
@@ -164,10 +261,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Payni"
+          "en": "Payni",
+          "gr": "Παϋνί",
+          "cop" : "Ⲡⲁⲱⲛⲓ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "II Shemu"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -179,10 +287,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Epiphi"
+          "en": "Epiphi",
+          "gr": "Ἐπιφί",
+          "cop" : "Ⲉⲡⲓⲡ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "III Shemu"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -194,10 +313,21 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Mesori"
+          "en": "Mesori",
+          "gr": "Μεσορή",
+          "cop" : "Ⲙⲉⲥⲱⲣⲓ"
+        ],
+        sources: nil
+      ),
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "IV Shemu"
         ],
         sources: nil
       )
+
     ]
   ),
   MonthSpec(
@@ -209,7 +339,9 @@ fileprivate let egyptianMonths: [MonthSpec] = [
         nameType: .theophoric,
         priority: 80,
         variants: [
-          "en": "Epagomenal"
+          "en": "Epagomenal",
+          "gr": "ἐπαγόμεναι",
+          "cop" : "Ⲡⲓⲕⲟⲩϫⲓ ⲛ̀ⲁⲃⲟⲧ"
         ],
         sources: nil
       )
