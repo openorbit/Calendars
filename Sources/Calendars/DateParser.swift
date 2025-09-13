@@ -39,13 +39,13 @@ public struct DateParser {
   nonisolated(unsafe)
   static let dayNamedMonthYear = /(\d+) (\w+) (\d+)/
 
-  public static func parse(_ s: String, calendar: CalendarId) -> (Int, Int, Int)? {
+  public static func parse(_ s: String, calendar: CalendarProtocol) -> (Int, Int, Int)? {
     if let match = s.firstMatch(of: isoDate) {
       let y = Int(match.1)!
       let m = Int(match.2)!
       let d = Int(match.3)!
       
-      if calendar.isValidDate(Y: y, M: m, D: d) {
+      if calendar.isValidDate(year: y, month: m, day: d) {
         return (y, m, d)
       }
     }
@@ -55,7 +55,7 @@ public struct DateParser {
       let y = Int(match.4)!
 
       if let m = calendar.monthNumber(for: m, in: y) {
-        if calendar.isValidDate(Y: y, M: m, D: d) {
+        if calendar.isValidDate(year: y, month: m, day: d) {
           return (y, m, d)
         }
       }
@@ -66,7 +66,7 @@ public struct DateParser {
       let y = Int(match.3)!
 
       if let m = calendar.monthNumber(for: m, in: y) {
-        if calendar.isValidDate(Y: y, M: m, D: d) {
+        if calendar.isValidDate(year: y, month: m, day: d) {
           return (y, m, d)
         }
       }

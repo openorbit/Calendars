@@ -18,8 +18,218 @@
 
 import Foundation
 
+fileprivate let egyptianMonths: [MonthSpec] = [
+  MonthSpec(
+    monthUID: "egyptian:M01",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Toth"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+
+  MonthSpec(
+    monthUID: "egyptian:M02",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Paophi"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M03",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Athyr"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M04",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Cohiac"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M05",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Tybi"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M06",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Mesir"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M07",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Phanemoth"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M08",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Pharmouti"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M09",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Pachons"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M10",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Payni"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M11",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Epiphi"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:M12",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Mesori"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "egyptian:epagomenal",
+    intercalary: true,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .theophoric,
+        priority: 80,
+        variants: [
+          "en": "Epagomenal"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+]
+
+
 public struct EgyptianCalendar : CalendarProtocol {
-  public var calendarId: String { "egyptian" }
+  public var identifier: CalendarId { .egyptian }
+  public var calendarKey: String { "egyptian" }
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
+  {
+    var result: [ResolvedMonth] = []
+    for (i, month) in zip(1 ... egyptianMonths.count, egyptianMonths) {
+      result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
+                                  length: daysInMonth(year: year, month: i)))
+    }
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     EgyptianCalendar.isValidDate(Y: year, M: month, D: day)
@@ -45,8 +255,10 @@ public struct EgyptianCalendar : CalendarProtocol {
     EgyptianCalendar.toJDN(Y: year, M: month, D: day)
   }
 
-  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
-    EgyptianCalendar.toDate(J: jdn)
+  public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    let (y, m, d) = EgyptianCalendar.toDate(J: jdn)
+    return CalendarDateComponents(calendar: CalendarInfo(id: .egyptian, engine: self),
+                                  yearMode: .civil, year: y, month: m, day: d)
   }
 
   static let epoch = 1448638

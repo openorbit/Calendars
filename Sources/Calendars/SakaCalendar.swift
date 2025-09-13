@@ -18,9 +18,205 @@
 
 import Foundation
 
-public struct SakaCalendar : CalendarProtocol {
+fileprivate let sakaMonths: [MonthSpec] = [
+  MonthSpec(
+    monthUID: "saka:M01",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Chaitra"
+        ],
+        sources: nil
+      )
+    ]
+  ),
 
-  public var calendarId: String { "saka" }
+  MonthSpec(
+    monthUID: "saka:M02",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Vaiśākha"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M03",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Jyēṣṭha"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M04",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Ashādha"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M05",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Srāvana"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M06",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Bhādra"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M07",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Aśvin"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M08",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Kārtika"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M09",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Mārgaśīrṣa"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M10",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Pauṣa"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M11",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Māgha"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "saka:M12",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Phālguna"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+]
+
+public struct SakaCalendar : CalendarProtocol {
+  public var identifier: CalendarId { .saka }
+  public var calendarKey: String { "saka" }
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
+  {
+    var result: [ResolvedMonth] = []
+
+    for (i, month) in zip(1 ... sakaMonths.count, sakaMonths) {
+      result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
+                                  length: daysInMonth(year: year, month: i),
+                                  leapDayNumber: nil))
+    }
+
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     SakaCalendar.isValidDate(Y: year, M: month, D: day)
@@ -46,8 +242,10 @@ public struct SakaCalendar : CalendarProtocol {
     SakaCalendar.toJDN(Y: year, M: month, D: day)
   }
 
-  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
-    SakaCalendar.toDate(J: jdn)
+  public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    let (y, m, d) = SakaCalendar.toDate(J: jdn)
+    return CalendarDateComponents(calendar: CalendarInfo(id: .saka, engine: self),
+                                  yearMode: .civil, year: y, month: m, day: d)
   }
 
 

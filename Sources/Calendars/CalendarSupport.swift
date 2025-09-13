@@ -31,6 +31,8 @@ public enum CalendarId : Codable, Sendable {
   case bahai
   case jewish
   case mesoamericanLongCount
+  case romanRepublican
+  case custom(String)
 }
 
 extension CalendarId {
@@ -60,223 +62,20 @@ extension CalendarId {
       return "Bahai"
     case .mesoamericanLongCount:
       return "Mesoamerican Long Count"
+    case .romanRepublican:
+      return "Roman Republican"
+    case .custom(let s):
+      return "\(s)"
     }
   }
   
   /// Returns the available date components (granularity) for this calendar.
   public var granularityComponents: [String] {
     switch self {
-    case .gregorian, .julian, .swedish, .frenchRepublican, .jewish, .civilIslamic, .saka, .egyptian, .coptic, .ethiopian, .bahai:
+    case .gregorian, .julian, .swedish, .frenchRepublican, .jewish, .civilIslamic, .saka, .egyptian, .coptic, .ethiopian, .bahai, .romanRepublican, .custom:
       return ["year", "month", "day"]
     case .mesoamericanLongCount:
       return ["baktun", "katun", "tun", "uinal", "kin"]
-    }
-  }
-}
-
-
-extension CalendarId {
-  public func toJDN(Y: Int, M: Int, D: Int) -> Int {
-    switch self {
-    case .gregorian:
-      return GregorianCalendar.toJDN(Y: Y, M: M, D: D)
-    case .julian:
-      return JulianCalendar.toJDN(Y: Y, M: M, D: D)
-    case .swedish:
-      return SwedishCalendar.toJDN(Y: Y, M: M, D: D)
-    case .frenchRepublican:
-      return FrenchRepublicanCalendar.toJDN(Y: Y, M: M, D: D)
-    case .jewish:
-      return JewishCalendar.toJDN(Y: Y, M: M, D: D)
-    case .civilIslamic:
-      return CivilIslamicCalendar.toJDN(Y: Y, M: M, D: D)
-    case .saka:
-      return SakaCalendar.toJDN(Y: Y, M: M, D: D)
-    case .egyptian:
-      return EgyptianCalendar.toJDN(Y: Y, M: M, D: D)
-    case .coptic:
-      return CopticCalendar.toJDN(Y: Y, M: M, D: D)
-    case .ethiopian:
-      return EthiopianCalendar.toJDN(Y: Y, M: M, D: D)
-    case .bahai:
-      return BahaiCalendar.toJDN(Y: Y, M: M, D: D)
-    case .mesoamericanLongCount:
-      return 0
-    }
-  }
-
-  /// Converts components dictionary to JDN, using the calendar's granularity.
-  ///
-  /// For most calendars, expects keys "year", "month", "day". For Mesoamerican Long Count, not yet supported.
-  public func toJDN(components: [String: Int]) -> Int {
-    switch self {
-    case .gregorian, .julian, .swedish, .frenchRepublican, .jewish, .civilIslamic, .saka, .egyptian, .coptic, .ethiopian, .bahai:
-      guard let y = components["year"], let m = components["month"], let d = components["day"] else {
-        return 0 // or consider throwing or returning nil if preferred
-      }
-      return self.toJDN(Y: y, M: m, D: d)
-    case .mesoamericanLongCount:
-      // TODO: Support Mesoamerican Long Count conversion
-      
-      return 0
-    }
-  }
-
-  public func toDate(J: Int) -> (Int, Int, Int) {
-    switch self {
-    case .gregorian:
-      return GregorianCalendar.toDate(J: J)
-    case .julian:
-      return JulianCalendar.toDate(J: J)
-    case .swedish:
-      return SwedishCalendar.toDate(J: J)
-    case .frenchRepublican:
-      return FrenchRepublicanCalendar.toDate(J: J)
-    case .jewish:
-      return JewishCalendar.toDate(J: J)
-    case .civilIslamic:
-      return CivilIslamicCalendar.toDate(J: J)
-    case .saka:
-      return SakaCalendar.toDate(J: J)
-    case .egyptian:
-      return EgyptianCalendar.toDate(J: J)
-    case .coptic:
-      return CopticCalendar.toDate(J: J)
-    case .ethiopian:
-      return EthiopianCalendar.toDate(J: J)
-    case .bahai:
-      return BahaiCalendar.toDate(J: J)
-    case .mesoamericanLongCount:
-      return (0, 0, 0)
-    }
-  }
-
-  public func isProleptic(J: Int) -> Bool {
-    switch self {
-    case .gregorian:
-      return GregorianCalendar.isProleptic(J)
-    case .julian:
-      return JulianCalendar.isProleptic(J)
-    case .swedish:
-      return SwedishCalendar.isProleptic(J)
-    case .frenchRepublican:
-      return FrenchRepublicanCalendar.isProleptic(J)
-    case .jewish:
-      return JewishCalendar.isProleptic(J)
-    case .civilIslamic:
-      return CivilIslamicCalendar.isProleptic(J)
-    case .saka:
-      return SakaCalendar.isProleptic(J)
-    case .egyptian:
-      return EgyptianCalendar.isProleptic(J)
-    case .coptic:
-      return CopticCalendar.isProleptic(J)
-    case .ethiopian:
-      return EthiopianCalendar.isProleptic(J)
-    case .bahai:
-      return BahaiCalendar.isProleptic(J)
-    case .mesoamericanLongCount:
-      return MesoamericanLongCountCalendar.isProleptic(J)
-    }
-  }
-}
-extension CalendarId {
-  public func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
-    switch self {
-    case .gregorian:
-      return GregorianCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .julian:
-      return JulianCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .swedish:
-      return SwedishCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .frenchRepublican:
-      return FrenchRepublicanCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .jewish:
-      return JewishCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .civilIslamic:
-      return CivilIslamicCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .saka:
-      return SakaCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .egyptian:
-      return EgyptianCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .coptic:
-      return CopticCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .ethiopian:
-      return EthiopianCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .bahai:
-      return BahaiCalendar.isValidDate(Y: Y, M: M, D: D)
-    case .mesoamericanLongCount:
-      return false
-    }
-  }
-}
-
-extension CalendarId {
-  /// New, year-aware adapter with idiomatic naming.
-  public func monthNumber(for month: String, in year: Int) -> Int? {
-    switch self {
-    case .gregorian:
-      return GregorianCalendar.numberOfMonth(month)
-    case .julian:
-      return JulianCalendar.numberOfMonth(month)
-    case .swedish:
-      return SwedishCalendar.numberOfMonth(month)
-    case .frenchRepublican:
-      return FrenchRepublicanCalendar.numberOfMonth(month)
-    case .jewish:
-      return JewishCalendar.numberOfMonth(year: year, month: month)
-    case .civilIslamic:
-      return CivilIslamicCalendar.numberOfMonth(month)
-    case .saka:
-      return SakaCalendar.numberOfMonth(month)
-    case .egyptian:
-      return EgyptianCalendar.numberOfMonth(month)
-    case .coptic:
-      return CopticCalendar.numberOfMonth(month)
-    case .ethiopian:
-      return EthiopianCalendar.numberOfMonth(month)
-    case .bahai:
-      return BahaiCalendar.numberOfMonth(month)
-    case .mesoamericanLongCount:
-      return nil
-    }
-  }
-
-  /// Deprecated: Use monthNumber(for:in:) instead.
-  @available(*, deprecated, message: "Use monthNumber(for:in:) instead")
-  public func numberOfMonth(y: Int, m: String) -> Int? {
-    return monthNumber(for: m, in: y)
-  }
-}
-
-extension CalendarId {
-  public func nameOfMonth(_ y: Int, _ m: Int) -> String? {
-    switch self {
-    case .gregorian:
-      return GregorianCalendar.nameOfMonth(m)
-    case .julian:
-      return JulianCalendar.nameOfMonth(m)
-    case .swedish:
-      return SwedishCalendar.nameOfMonth(m)
-    case .frenchRepublican:
-      return FrenchRepublicanCalendar.nameOfMonth(m)
-    case .jewish:
-      return JewishCalendar.nameOfMonth(year: y, month: m)
-    case .civilIslamic:
-      return CivilIslamicCalendar.nameOfMonth(m)
-    case .saka:
-      return SakaCalendar.nameOfMonth(m)
-    case .egyptian:
-      return EgyptianCalendar.nameOfMonth(m)
-    case .coptic:
-      return CopticCalendar.nameOfMonth(m)
-    case .ethiopian:
-      return EthiopianCalendar.nameOfMonth(m)
-    case .bahai:
-      return BahaiCalendar.nameOfMonth(m)
-
-    case .mesoamericanLongCount:
-      return nil
     }
   }
 }
@@ -288,7 +87,10 @@ public protocol WeekdayProtocol {
 }
 
 public protocol CalendarProtocol: Sendable {
-  var calendarId: String { get }
+  var identifier: CalendarId { get }
+  var calendarKey: String { get }
+
+  func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
 
   func isValidDate(year: Int, month: Int, day: Int) -> Bool
   func monthName(forYear year: Int, month: Int) -> String
@@ -297,5 +99,11 @@ public protocol CalendarProtocol: Sendable {
   func monthNumber(for month: String, in year: Int) -> Int?
 
   func jdn(forYear year: Int, month: Int, day: Int) -> Int
-  func date(fromJDN jdn: Int) -> (Int, Int, Int)
+  func date(fromJDN jdn: Int) -> CalendarDateComponents?
+}
+
+public struct Validity: Codable, Equatable, Sendable {
+  public let scope: String   // "global", ISO region, "city:Rome", etc.
+  public let startJDN: Int?
+  public let endJDN: Int?
 }

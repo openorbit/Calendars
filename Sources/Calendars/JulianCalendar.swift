@@ -92,9 +92,206 @@ fileprivate let kalIndexOffset = [
   dayNamesMMJOKalIndex, dayNamesAJSNKalIndex, dayNamesJADKalIndex
 ]
 
-public struct JulianCalendar : CalendarProtocol, Sendable {
 
-  public var calendarId: String { "julian" }
+public struct JulianCalendar : CalendarProtocol, Sendable {
+  static let months: [MonthSpec] = [
+    MonthSpec(
+      monthUID: "julian:M01",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "January"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+
+    MonthSpec(
+      monthUID: "julian:M02",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "February"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M03",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "March"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M04",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "April"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M05",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "May"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M06",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "June"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M07",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "July"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M08",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "August"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M09",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "September"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M10",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "October"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M11",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "November"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "julian:M12",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "December"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+  ]
+
+  public var identifier: CalendarId { .julian }
+  public var calendarKey: String { "julian" }
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
+  {
+    var result: [ResolvedMonth] = []
+
+    for (i, month) in zip(1 ... 12, Self.months) {
+      result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
+                                  length: daysInMonth(year: year, month: i),
+                                  leapDayNumber: nil))
+    }
+
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     JulianCalendar.isValidDate(Y: year, M: month, D: day)
@@ -120,8 +317,10 @@ public struct JulianCalendar : CalendarProtocol, Sendable {
     JulianCalendar.toJDN(Y: year, M: month, D: day)
   }
 
-  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
-    JulianCalendar.toDate(J: jdn)
+  public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    let (y, m, d) = JulianCalendar.toDate(J: jdn)
+    return CalendarDateComponents(calendar: CalendarInfo(id: .julian, engine: self),
+                                  yearMode: .civil, year: y, month: m, day: d)
   }
 
 

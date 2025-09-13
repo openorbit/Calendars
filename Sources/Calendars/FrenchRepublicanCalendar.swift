@@ -18,8 +18,211 @@
 
 import Foundation
 
+fileprivate let frenchMonths: [MonthSpec] = [
+  MonthSpec(
+    monthUID: "french_republican:M01",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Vendémiaire"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+
+  MonthSpec(
+    monthUID: "french_republican:M02",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Brumaire"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M03",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Frimaire"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M04",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Nivôse"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M05",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Pluviôse"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M06",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Ventôse"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M07",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Germinal"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M08",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Floréal"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M09",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Prairial"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M10",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Messidor"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M11",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Thermidor"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "french_republican:M12",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Fructidor"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+
+]
+
+
 public struct FrenchRepublicanCalendar : CalendarProtocol {
-  public var calendarId: String { "french_republican" }
+
+
+  public var identifier: CalendarId { .frenchRepublican }
+  public var calendarKey: String { "french_republican" }
+
+
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
+  {
+    var result: [ResolvedMonth] = []
+
+    for (i, month) in zip(1 ... frenchMonths.count, frenchMonths) {
+      result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
+                                  length: daysInMonth(year: year, month: i),
+                                  leapDayNumber: nil))
+    }
+
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     FrenchRepublicanCalendar.isValidDate(Y: year, M: month, D: day)
@@ -45,8 +248,10 @@ public struct FrenchRepublicanCalendar : CalendarProtocol {
     FrenchRepublicanCalendar.toJDN(Y: year, M: month, D: day)
   }
 
-  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
-    FrenchRepublicanCalendar.toDate(J: jdn)
+  public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    let (y, m, d) = FrenchRepublicanCalendar.toDate(J: jdn)
+    return CalendarDateComponents(calendar: CalendarInfo(id: .frenchRepublican, engine: self),
+                                  yearMode: .civil, year: y, month: m, day: d)
   }
 
   static let epoch = 2375840

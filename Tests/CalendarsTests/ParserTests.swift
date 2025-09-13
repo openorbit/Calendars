@@ -2,7 +2,7 @@ import Testing
 @testable import Calendars
 
 @Test func testParseISODate() async throws {
-  let ymd = DateParser.parse("2022-01-01", calendar: .gregorian)
+  let ymd = DateParser.parse("2022-01-01", calendar: GregorianCalendar.shared)
 
   #expect(ymd != nil)
 
@@ -13,7 +13,7 @@ import Testing
 
 
 @Test func testParseMonthDayDate() async throws {
-  let ymd = DateParser.parse("January 1, 2022", calendar: .gregorian)
+  let ymd = DateParser.parse("January 1, 2022", calendar: GregorianCalendar.shared)
 
   #expect(ymd != nil)
 
@@ -22,7 +22,7 @@ import Testing
   #expect(ymd!.2 == 1)
 
 
-  let ymd2 = DateParser.parse("January 1 2022", calendar: .gregorian)
+  let ymd2 = DateParser.parse("January 1 2022", calendar: GregorianCalendar.shared)
 
   #expect(ymd2 != nil)
 
@@ -33,7 +33,7 @@ import Testing
 
 
 @Test func testParseDayMonthDate() async throws {
-  let ymd = DateParser.parse("1 January 2022", calendar: .gregorian)
+  let ymd = DateParser.parse("1 January 2022", calendar: GregorianCalendar.shared)
 
   #expect(ymd != nil)
 

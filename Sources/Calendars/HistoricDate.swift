@@ -26,20 +26,28 @@ public enum HistoricDateFormat {
 }
 
 public struct HistoricDateFormatter {
-  public let calendar: CalendarId
+  public let calendar: CalendarProtocol
   public let format: HistoricDateFormat
   public let numeric: Bool = false
 
   public func format(_ date: HistoricDate) -> String {
-    let (y, m, d) = calendar.toDate(J: Int(date.jd))
-    let nameOfMonth = calendar.nameOfMonth(y, m)
+    guard let date = calendar.date(fromJDN: Int(date.jd)) else {
+      return ""
+    }
+    guard let m = date.month, let d = date.day else {
+      return ""
+    }
+    let y = date.year
 
-    if !numeric, let nameOfMonth {
+    let months = calendar.months(forYear: y, mode: .civil)
+    let monthName = months[m-1].spec.names.first!.variants.first!.value
+
+    if !numeric {
       switch format {
       case .dmy:
-        return "\(d) \(nameOfMonth), \(y)"
+        return "\(d) \(monthName), \(y)"
       case .ymd:
-        return "\(String(format: "%04d", y))-\(nameOfMonth)-\(String(format: "%02d", d))"
+        return "\(String(format: "%04d", y))-\(monthName)-\(String(format: "%02d", d))"
       }
     } else {
       switch format {

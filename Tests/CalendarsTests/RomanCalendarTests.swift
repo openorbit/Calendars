@@ -36,3 +36,21 @@ import Testing
   #expect(jd.day == 29)
 
 }
+
+@Test
+func testRomanToJDN() async throws {
+  var jdn = RomanCalendar.shared.jdn(forYear:491, month: RomanMonth.IAN.slot, day: 1)
+  #expect(jdn == 1625698)
+
+  jdn = RomanCalendar.shared.jdn(forYear:491, month: RomanMonth.IAN.slot, day: 2)
+  #expect(jdn == 1625699)
+}
+
+@Test
+func testJDNToRoman() async throws {
+  let date = RomanCalendar.shared.date(fromJDN: 1625698)
+  #expect(date?.year == 491)
+  #expect(date?.month == 0)
+  #expect(date?.day == 1)
+}
+

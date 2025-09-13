@@ -18,8 +18,205 @@
 
 import Foundation
 
+fileprivate let islamicMonths: [MonthSpec] = [
+  MonthSpec(
+    monthUID: "islamic:muharram",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Muharram"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+
+  MonthSpec(
+    monthUID: "islamic:safar",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Safar"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:rabi_i",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Rabi' I"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:rabi_ii",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Rabi' II"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:jumada_i",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Jumada I"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:jumada_ii",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Jumada II"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:rajab",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Rajab"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:shaabán",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Shaabán"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:ramadan",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Ramadân"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:shawwál",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Shawwál"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:dhú_l_Qa_da",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Dhú'l-Qa'da"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "islamic:l_hijjab",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "'l-Hijjab"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+]
+
+
+
 public struct CivilIslamicCalendar : CalendarProtocol {
-  public var calendarId: String { "civil_islamic" }
+  public var identifier: CalendarId { .civilIslamic }
+  public var calendarKey: String { "civil_islamic" }
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
+  {
+    var result: [ResolvedMonth] = []
+    for (i, month) in zip(1 ... islamicMonths.count, islamicMonths) {
+      result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
+                                  length: daysInMonth(year: year, month: i)))
+    }
+
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     CivilIslamicCalendar.isValidDate(Y: year, M: month, D: day)
@@ -45,8 +242,11 @@ public struct CivilIslamicCalendar : CalendarProtocol {
     CivilIslamicCalendar.toJDN(Y: year, M: month, D: day)
   }
 
-  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
-    CivilIslamicCalendar.toDate(J: jdn)
+  public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    let (y, m, d) = CivilIslamicCalendar.toDate(J: jdn)
+
+    return CalendarDateComponents(calendar: CalendarInfo(id: .civilIslamic, engine: self),
+                                  yearMode: .civil, year: y, month: m, day: d)
   }
 
 

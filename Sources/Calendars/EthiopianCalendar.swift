@@ -18,8 +18,205 @@
 
 import Foundation
 
+fileprivate let ethiopianMonths: [MonthSpec] = [
+  MonthSpec(
+    monthUID: "ethiopian:M01",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "January"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+
+  MonthSpec(
+    monthUID: "ethiopian:M02",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "February"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M03",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "March"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M04",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "April"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M05",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "May"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M06",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "June"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M07",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "July"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M08",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "August"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M09",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "September"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M10",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "October"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M11",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "November"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "ethiopian:M12",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "December"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+]
+
 public struct EthiopianCalendar : CalendarProtocol {
-  public var calendarId: String { "ethiopian" }
+  public var identifier: CalendarId { .ethiopian }
+  public var calendarKey: String { "ethiopian" }
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
+  {
+    var result: [ResolvedMonth] = []
+
+    for (i, month) in zip(1 ... ethiopianMonths.count, ethiopianMonths) {
+      result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
+                                  length: daysInMonth(year: year, month: i),
+                                  leapDayNumber: nil))
+    }
+
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     EthiopianCalendar.isValidDate(Y: year, M: month, D: day)
@@ -45,8 +242,11 @@ public struct EthiopianCalendar : CalendarProtocol {
     EthiopianCalendar.toJDN(Y: year, M: month, D: day)
   }
 
-  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
-    EthiopianCalendar.toDate(J: jdn)
+  public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    let (y, m, d) = EthiopianCalendar.toDate(J: jdn)
+    return CalendarDateComponents(calendar: CalendarInfo(id: .ethiopian, engine: self),
+                                  yearMode: .civil, year: y, month: m, day: d)
+
   }
 
 

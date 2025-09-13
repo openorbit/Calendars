@@ -18,6 +18,231 @@
 
 import Foundation
 
+// We have different eclastical and civil orders of the months here:
+// Eclastical:
+//   Starts with Nisan and ends with Adar (or Adar I, Adar II)
+//   Eclastical index gives both Adar, Adar I and Adar II = 12
+// Civil:
+//   Starts with Tishrei and ends with Elul
+//   Civil index gives both Adar, Adar I and Adar II = 6
+fileprivate let jewishMonths: [String : MonthSpec] = [
+  "jewish:tishiri" : MonthSpec(
+    monthUID: "jewish:tishiri",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Tishiri"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+
+  "jewish:heshvan" : MonthSpec(
+    monthUID: "jewish:heshvan",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Heshvan"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:kislev" : MonthSpec(
+    monthUID: "jewish:kislev",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Kislev"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:tebet" : MonthSpec(
+    monthUID: "jewish:tebet",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Tebet"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:shebat" : MonthSpec(
+    monthUID: "jewish:shebat",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Shebat"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:addar" : MonthSpec(
+    monthUID: "jewish:addar",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Addar"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:nisan" : MonthSpec(
+    monthUID: "jewish:nisan",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Nisan"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:iyar" : MonthSpec(
+    monthUID: "jewish:iyar",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Iyar"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:sivan" : MonthSpec(
+    monthUID: "jewish:sivan",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Sivan"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:tammuz" : MonthSpec(
+    monthUID: "jewish:tammuz",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Tammuz"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:ab" : MonthSpec(
+    monthUID: "jewish:ab",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Ab"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:elul" : MonthSpec(
+    monthUID: "jewish:elul",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Elul"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+
+  "jewish:I1" : MonthSpec(
+    monthUID: "jewish:adar_i",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Adar I"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+  "jewish:I2" : MonthSpec(
+    monthUID: "jewish:adar_ii",
+    intercalary: false,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: [
+          "en": "Adar II"
+        ],
+        sources: nil
+      )
+    ]
+  ),
+]
+
+
+
+
 fileprivate struct TableA {
   let data = [
     [0, 30, 59, 88, 117, 147, 176, 206, 235, 265, 294, 324, 0],
@@ -34,8 +259,103 @@ fileprivate struct TableA {
 }
 fileprivate let A = TableA()
 
+
+// Month key, normal days, abundant extra days, deficient negative days
+let normalMonthsCivil = [
+  ("jewish:tishiri", 30, 0, 0),
+  ("jewish:heshvan", 29, 1, 0),
+  ("jewish:kislev", 30, 0, 1),
+  ("jewish:tebet", 29, 0, 0),
+  ("jewish:shebat", 30, 0, 0),
+  ("jewish:addar", 29, 0, 0),
+  ("jewish:nisan", 30, 0, 0),
+  ("jewish:iyar", 29, 0, 0),
+  ("jewish:sivan", 30, 0, 0),
+  ("jewish:tammuz", 29, 0, 0),
+  ("jewish:ab", 30, 0, 0),
+  ("jewish:elul", 29, 0, 0)
+]
+
+let normalMonthsEcclastical = [
+  ("jewish:nisan", 30, 0, 0),
+  ("jewish:iyar", 29, 0, 0),
+  ("jewish:sivan", 30, 0, 0),
+  ("jewish:tammuz", 29, 0, 0),
+  ("jewish:ab", 30, 0, 0),
+  ("jewish:elul", 29, 0, 0),
+  ("jewish:tishiri", 30, 0, 0),
+  ("jewish:heshvan", 29, 1, 0),
+  ("jewish:kislev", 30, 0, 1),
+  ("jewish:tebet", 29, 0, 0),
+  ("jewish:shebat", 30, 0, 0),
+  ("jewish:addar", 29, 0, 0),
+]
+
+let leapYearMonthsCivil = [
+  ("jewish:tishiri", 30, 0, 0),
+  ("jewish:heshvan", 29, 1, 0),
+  ("jewish:kislev", 30, 0, 1),
+  ("jewish:tebet", 29, 0, 0),
+  ("jewish:shebat", 30, 0, 0),
+  ("jewish:adar_i", 30, 0, 0),
+  ("jewish:adar_ii", 29, 0, 0),
+  ("jewish:nisan", 30, 0, 0),
+  ("jewish:iyar", 29, 0, 0),
+  ("jewish:sivan", 30, 0, 0),
+  ("jewish:tammuz", 29, 0, 0),
+  ("jewish:ab", 30, 0, 0),
+  ("jewish:elul", 29, 0, 0)
+]
+
+let leapYearMonthsEcclastical = [
+  ("jewish:nisan", 30, 0, 0),
+  ("jewish:iyar", 29, 0, 0),
+  ("jewish:sivan", 30, 0, 0),
+  ("jewish:tammuz", 29, 0, 0),
+  ("jewish:ab", 30, 0, 0),
+  ("jewish:elul", 29, 0, 0),
+  ("jewish:tishiri", 30, 0, 0),
+  ("jewish:heshvan", 29, 1, 0),
+  ("jewish:kislev", 30, 0, 1),
+  ("jewish:tebet", 29, 0, 0),
+  ("jewish:shebat", 30, 0, 0),
+  ("jewish:adar_i", 30, 0, 0),
+  ("jewish:adar_ii", 29, 0, 0),
+]
+fileprivate func getMonthTableForKey(isLeap: Bool, mode: YearMode) -> [(String, Int, Int, Int)] {
+  precondition(mode == .civil || mode == .liturgical)
+  if isLeap && mode == .civil{
+    return leapYearMonthsCivil
+  } else if isLeap && mode == .liturgical {
+    return leapYearMonthsEcclastical
+  } else if !isLeap && mode == .civil {
+    return normalMonthsCivil
+  } else if !isLeap && mode == .liturgical {
+    return normalMonthsEcclastical
+  }
+
+  fatalError("preconditions violated")
+}
+
 public struct JewishCalendar : CalendarProtocol {
-  public var calendarId: String { "hebrew" }
+  public var identifier: CalendarId { .jewish }
+  public var calendarKey: String { "jewish" }
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
+  {
+    let isLeap = JewishCalendar.isLeapYear(year: year)
+
+    let monthTable = getMonthTableForKey(isLeap: isLeap, mode: mode)
+    var result: [ResolvedMonth] = []
+
+    for ((k, days, abundant, deficient), i) in zip(monthTable, 1...monthTable.count) {
+      let abundantDays = JewishCalendar.isAbundant(year: year) ? abundant : 0
+      let deficientDays = JewishCalendar.isDeficient(year: year) ? deficient : 0
+      result.append(ResolvedMonth(spec: jewishMonths[k]!,
+                                  index: i, mode: mode,
+                                  firstDay: 1, length: days + abundantDays - deficientDays))
+    }
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     JewishCalendar.isValidDate(Y: year, M: month, D: day)
@@ -61,8 +381,10 @@ public struct JewishCalendar : CalendarProtocol {
     JewishCalendar.toJDN(Y: year, M: month, D: day)
   }
 
-  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
-    JewishCalendar.toDate(J: jdn)
+  public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    let (y, m, d) = JewishCalendar.toDate(J: jdn)
+    return CalendarDateComponents(calendar: CalendarInfo(id: .jewish, engine: self),
+                                  yearMode: .civil, year: y, month: m, day: d)
   }
 
 
@@ -93,9 +415,7 @@ public struct JewishCalendar : CalendarProtocol {
     return [3, 6, 8, 11, 14, 17, 19].contains(y)
   }
 
-  public static func daysInMonth(year: Int, month: Int) -> Int {
-    let normalMonthLength = [30, 29, 30, 29, 30, 29, 30, 29, 30, 29, 30, 29]
-    let leapYearMonthLength = [30, 29, 30, 29, 30, 30, 29, 30, 29, 30, 29, 30, 29]
+  static func daysInMonth(year: Int, month: Int) -> Int {
     if month == 2 {
       if isAbundant(year: year) {
         return 30
@@ -106,12 +426,12 @@ public struct JewishCalendar : CalendarProtocol {
       }
     }
     if isLeapYear(year: year) {
-      return leapYearMonthLength[month - 1]
+      return leapYearMonthsCivil[month - 1].1
     }
-    return normalMonthLength[month - 1]
+    return normalMonthsCivil[month - 1].1
   }
 
-  public static func nameOfMonth(year: Int, month: Int) -> String {
+  static func nameOfMonth(year: Int, month: Int) -> String {
     let monthNames = ["Tishiri", "Heshvan", "Kislev",
                       "Tebet", "Shebat", "Addar",
                       "Nisan", "Iyar", "Sivan",
@@ -126,7 +446,7 @@ public struct JewishCalendar : CalendarProtocol {
     return monthNames[month-1]
   }
 
-  public static func numberOfMonth(year: Int, month: String) -> Int? {
+  static func numberOfMonth(year: Int, month: String) -> Int? {
     let monthDictionary = ["tishiri": 1, "heshvan": 2, "march": 3,
                            "kislev": 4, "shebat": 5, "addar": 6,
                            "nisan": 7, "iyar": 8, "sivan": 9,
@@ -144,7 +464,7 @@ public struct JewishCalendar : CalendarProtocol {
     return monthDictionary[month.lowercased()]
   }
 
-  public static func numberOfMonths(year: Int) -> Int {
+  static func numberOfMonths(year: Int) -> Int {
     if isLeapYear(year: year) {
       return 13
     }
@@ -156,7 +476,7 @@ public struct JewishCalendar : CalendarProtocol {
     return d < epoch
   }
   public static func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
-    if M < 1 || 12 < M {
+    if M < 1 || numberOfMonths(year: Y) < M {
       return false
     }
     if D < 1 || daysInMonth(year: Y, month: M) < D {

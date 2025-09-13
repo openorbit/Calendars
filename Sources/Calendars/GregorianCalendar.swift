@@ -19,8 +19,208 @@
 import Foundation
 
 public struct GregorianCalendar : CalendarProtocol {
+  static let months: [MonthSpec] = [
+    MonthSpec(
+      monthUID: "gregorian:M01",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "January"
+          ],
+          sources: nil
+        )
+      ]
+    ),
 
-  public var calendarId: String { "gregorian" }
+    MonthSpec(
+      monthUID: "gregorian:M02",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "February"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M03",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "March"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M04",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "April"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M05",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "May"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M06",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "June"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M07",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "July"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M08",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "August"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M09",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "September"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M10",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "October"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M11",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "November"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+    MonthSpec(
+      monthUID: "gregorian:M12",
+      intercalary: false,
+      intercalaryRuleRef: nil,
+      names: [
+        MonthNameRecord(
+          nameType: .seasonalNumeric,
+          priority: 80,
+          variants: [
+            "en": "December"
+          ],
+          sources: nil
+        )
+      ]
+    ),
+  ]
+
+  public var identifier: CalendarId { .gregorian }
+  public var calendarKey: String { "gregorian" }
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth]
+  {
+    var result: [ResolvedMonth] = []
+    for (i, month) in zip(1 ... 12, Self.months) {
+      let leapDay : Int? =
+      if GregorianCalendar.isLeapYear(year: year) && i == 2 {
+        29
+      } else {
+        nil
+      }
+      result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
+                                  length: daysInMonth(year: year, month: i),
+                                  leapDayNumber: leapDay))
+    }
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     GregorianCalendar.isValidDate(Y: year, M: month, D: day)
@@ -46,8 +246,10 @@ public struct GregorianCalendar : CalendarProtocol {
     GregorianCalendar.toJDN(Y: year, M: month, D: day)
   }
 
-  public func date(fromJDN jdn: Int) -> (Int, Int, Int) {
-    GregorianCalendar.toDate(J: jdn)
+  public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    let (y, m, d) = GregorianCalendar.toDate(J: jdn)
+    return CalendarDateComponents(calendar: CalendarInfo(id: .gregorian, engine: self),
+                                  yearMode: .civil, year: y, month: m, day: d)
   }
 
 
