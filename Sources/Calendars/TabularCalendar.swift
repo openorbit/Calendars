@@ -61,6 +61,7 @@ public struct TableCalendar: Sendable {
     self.reverse = reverse
   }
 
+
   public func jdn(from c: TableDateComponents) -> Int? {
     let yearIndex = c.year - years.first!.year
     guard years.indices.contains(yearIndex) else {
@@ -99,5 +100,22 @@ public struct TableCalendar: Sendable {
       }
     }
     return nil
+  }
+
+  func anchor(forYear year: Int) -> YearAnchor? {
+    let yearIndex = year - years.first!.year
+    guard years.indices.contains(yearIndex) else {
+      return nil
+    }
+
+    return years[yearIndex]
+  }
+
+  func monthRows(forYear year: Int) -> [MonthRow] {
+    guard let anchor = anchor(forYear: year) else {
+      return []
+    }
+
+    return Array<MonthRow>(months[anchor.monthRows])
   }
 }

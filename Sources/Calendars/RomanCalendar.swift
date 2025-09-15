@@ -472,17 +472,32 @@ public struct RomanCalendar : CalendarProtocol {
 
   private static let table = RomanCalendarFactory.make()
 
-  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth] { return [] }
+  public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth] {
+    let months = RomanCalendar.table.monthRows(forYear: year)
+
+    var result: [ResolvedMonth] = []
+    for (i, month) in zip(1...months.count, months) {
+      result.append(ResolvedMonth(spec: romanMonths[month.monthInfoIndex],
+                                  index: i, mode: mode,
+                                  firstDay: 1, length: month.length))
+    }
+
+    return result
+  }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
     return true
   }
   public func monthName(forYear year: Int, month: Int) -> String {
-    return ""
+    let months = RomanCalendar.table.monthRows(forYear: year)
+    return romanMonths[months[month - 1].monthInfoIndex].names[0].variants["la"]!
   }
   public func daysInMonth(year: Int, month: Int) -> Int {
-    return 0
+    let months = RomanCalendar.table.monthRows(forYear: year)
+
+    return months[month-1].length
   }
+
   public func isProleptic(julianDay jdn: Int) -> Bool {
     return false
   }
