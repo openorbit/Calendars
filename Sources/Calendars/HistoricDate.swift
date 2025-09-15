@@ -40,7 +40,7 @@ public struct HistoricDateFormatter {
     let y = date.year
 
     let months = calendar.months(forYear: y, mode: .civil)
-    let monthName = months[m-1].spec.names.first!.variants.first!.value
+    let monthName = months[m-1].spec.names.first!.variants["en"]!
 
     if !numeric {
       switch format {
