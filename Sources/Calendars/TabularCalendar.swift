@@ -86,7 +86,7 @@ public struct TableCalendar: Sendable {
 
   public func components(containing jdn: Int) -> TableDateComponents? {
     let reverseIndex = (jdn - years.first!.yearStartJDN) / 32
-    guard reverseIndex < years.count else {
+    guard reverseIndex < reverse.count else {
       return nil
     }
 
