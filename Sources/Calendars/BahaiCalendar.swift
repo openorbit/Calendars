@@ -257,8 +257,8 @@ public struct BahaiCalendar : CalendarProtocol {
 
 
   
-  static let epoch = 2394647
-  static let shared = BahaiCalendar()
+  public static let epoch = 2394647
+  public static let shared = BahaiCalendar()
 
   public static func isProleptic(_ d: Int) -> Bool {
     return d < epoch

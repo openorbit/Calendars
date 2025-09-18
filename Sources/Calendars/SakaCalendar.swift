@@ -249,8 +249,8 @@ public struct SakaCalendar : CalendarProtocol {
   }
 
 
-  static let epoch = 1749995
-  static let shared = SakaCalendar()
+  public static let epoch = 1749995
+  public static let shared = SakaCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
     (year+78) % 400 == 0 || ((year+78) % 4 == 0 && (year+78) % 100 != 0)

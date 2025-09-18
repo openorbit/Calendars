@@ -251,8 +251,8 @@ public struct CivilIslamicCalendar : CalendarProtocol {
 
 
 
-  static let epoch = 1948440
-  static let shared = CivilIslamicCalendar()
+  public static let epoch = 1948440
+  public static let shared = CivilIslamicCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
     let yearInCycle = (year - 1) % 30 + 1

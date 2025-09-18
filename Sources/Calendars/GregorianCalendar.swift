@@ -254,8 +254,8 @@ public struct GregorianCalendar : CalendarProtocol {
 
 
   // 1582-10-15
-  static let epoch = 2299161
-  static let shared = GregorianCalendar()
+  public static let epoch = 2299161
+  public static let shared = GregorianCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
     year % 400 == 0 || (year % 4 == 0 && year % 100 != 0)

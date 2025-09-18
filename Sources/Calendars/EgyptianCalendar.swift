@@ -393,8 +393,8 @@ public struct EgyptianCalendar : CalendarProtocol {
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 
-  static let epoch = 1448638
-  static let shared = EgyptianCalendar()
+  public static let epoch = 1448638
+  public static let shared = EgyptianCalendar()
 
   public static func daysInMonth(year: Int, month: Int) -> Int {
     if month == 13 {

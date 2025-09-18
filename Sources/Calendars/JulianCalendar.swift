@@ -324,7 +324,7 @@ public struct JulianCalendar : CalendarProtocol, Sendable {
   }
 
 
-  static let shared = JulianCalendar()
+  public static let shared = JulianCalendar()
   // Corresponds to 0008-01-01 Julian calendar
   //   Before CE 8, leap years were erratic and even if the calendar
   //   was technically introduced in BCE 46, inconsistent use of leap years

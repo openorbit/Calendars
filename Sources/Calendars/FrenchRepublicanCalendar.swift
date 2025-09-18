@@ -254,8 +254,8 @@ public struct FrenchRepublicanCalendar : CalendarProtocol {
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 
-  static let epoch = 2375840
-  static let shared = FrenchRepublicanCalendar()
+  public static let epoch = 2375840
+  public static let shared = FrenchRepublicanCalendar()
 
   public static func nameOfMonth(_ month: Int) -> String {
     let monthNames = ["Vendémiaire", "Brumaire", "Frimaire",

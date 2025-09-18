@@ -250,8 +250,8 @@ public struct EthiopianCalendar : CalendarProtocol {
   }
 
 
-  static let epoch = 1724221
-  static let shared = EthiopianCalendar()
+  public static let epoch = 1724221
+  public static let shared = EthiopianCalendar()
 
   public static func isProleptic(_ d: Int) -> Bool {
     return d < epoch

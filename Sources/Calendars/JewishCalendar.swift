@@ -389,8 +389,8 @@ public struct JewishCalendar : CalendarProtocol {
 
 
 
-  static let epoch = 347998
-  static let shared = JewishCalendar()
+  public static let epoch = 347998
+  public static let shared = JewishCalendar()
 
   static func isAbundant(year: Int) -> Bool {
     let jdn0 = firstJDNOfYear(Y: year)

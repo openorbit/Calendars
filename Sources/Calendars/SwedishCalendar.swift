@@ -249,9 +249,9 @@ public struct SwedishCalendar : CalendarProtocol {
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 
-  static let epoch = 2342042
-  static let endEpoch = 2346425
-  static let shared = SwedishCalendar()
+  public static let epoch = 2342042
+  public static let endEpoch = 2346425
+  public static let shared = SwedishCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
     year != 1700 && year % 4 == 0

@@ -252,8 +252,8 @@ public struct CopticCalendar : CalendarProtocol {
 
 
 
-  static let epoch = 1825030
-  static let shared = CopticCalendar()
+  public static let epoch = 1825030
+  public static let shared = CopticCalendar()
 
   public static func isProleptic(_ d: Int) -> Bool {
     return d < epoch
