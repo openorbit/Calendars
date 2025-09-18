@@ -251,7 +251,7 @@ public struct BahaiCalendar : CalendarProtocol {
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = BahaiCalendar.toDate(J: jdn)
 
-    return CalendarDateComponents(calendar: CalendarInfo(id: .bahai, engine: self),
+    return CalendarDateComponents(calendar: .bahai,
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 

@@ -244,7 +244,7 @@ public struct SakaCalendar : CalendarProtocol {
 
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = SakaCalendar.toDate(J: jdn)
-    return CalendarDateComponents(calendar: CalendarInfo(id: .saka, engine: self),
+    return CalendarDateComponents(calendar: .saka,
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 

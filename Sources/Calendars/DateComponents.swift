@@ -32,4 +32,39 @@ public struct CalendarDateComponents {
   public var year: Int
   public var month: Int?
   public var day: Int?
+
+  public init(calendar: CalendarId, yearMode: YearMode, year: Int, month: Int? = nil, day: Int? = nil) {
+    self.calendar =
+    switch calendar {
+    case .gregorian:
+      CalendarInfo(id: calendar, engine: GregorianCalendar.shared)
+    case .julian:
+      CalendarInfo(id: calendar, engine: JulianCalendar.shared)
+    case .romanRepublican:
+      CalendarInfo(id: calendar, engine: RomanCalendar.shared)
+    case .frenchRepublican:
+      CalendarInfo(id: calendar, engine: FrenchRepublicanCalendar.shared)
+    case .swedish:
+      CalendarInfo(id: calendar, engine: SwedishCalendar.shared)
+    case .saka:
+      CalendarInfo(id: calendar, engine: SakaCalendar.shared)
+    case .ethiopian:
+      CalendarInfo(id: calendar, engine: EthiopianCalendar.shared)
+    case .coptic:
+      CalendarInfo(id: calendar, engine: CopticCalendar.shared)
+    case .egyptian:
+      CalendarInfo(id: calendar, engine: EgyptianCalendar.shared)
+    case .jewish:
+      CalendarInfo(id: calendar, engine: JewishCalendar.shared)
+    case .civilIslamic:
+      CalendarInfo(id: calendar, engine: CivilIslamicCalendar.shared)
+    case .bahai:
+      CalendarInfo(id: calendar, engine: BahaiCalendar.shared)
+    }
+
+    self.yearMode = yearMode
+    self.year = year
+    self.month = month
+    self.day = day
+  }
 }

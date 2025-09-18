@@ -245,7 +245,7 @@ public struct SwedishCalendar : CalendarProtocol {
 
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = SwedishCalendar.toDate(J: jdn)
-    return CalendarDateComponents(calendar: CalendarInfo(id: .swedish, engine: self),
+    return CalendarDateComponents(calendar: .swedish,
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 

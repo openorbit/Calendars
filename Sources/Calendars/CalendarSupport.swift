@@ -30,9 +30,7 @@ public enum CalendarId : Codable, Sendable, Equatable {
   case coptic
   case bahai
   case jewish
-  case mesoamericanLongCount
   case romanRepublican
-  case custom(String)
 }
 
 extension CalendarId {
@@ -60,22 +58,18 @@ extension CalendarId {
       return "Ethiopian"
     case .bahai:
       return "Bahai"
-    case .mesoamericanLongCount:
-      return "Mesoamerican Long Count"
     case .romanRepublican:
       return "Roman Republican"
-    case .custom(let s):
-      return "\(s)"
     }
   }
   
   /// Returns the available date components (granularity) for this calendar.
   public var granularityComponents: [String] {
     switch self {
-    case .gregorian, .julian, .swedish, .frenchRepublican, .jewish, .civilIslamic, .saka, .egyptian, .coptic, .ethiopian, .bahai, .romanRepublican, .custom:
+    case .gregorian, .julian, .swedish, .frenchRepublican, .jewish, .civilIslamic, .saka, .egyptian, .coptic, .ethiopian, .bahai, .romanRepublican:
       return ["year", "month", "day"]
-    case .mesoamericanLongCount:
-      return ["baktun", "katun", "tun", "uinal", "kin"]
+    //case .mesoamericanLongCount:
+    //  return ["baktun", "katun", "tun", "uinal", "kin"]
     }
   }
 }

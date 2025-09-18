@@ -528,7 +528,7 @@ public struct RomanCalendar : CalendarProtocol {
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let tc = RomanCalendar.table.components(containing: jdn)
     guard let tc else { return nil }
-    return CalendarDateComponents(calendar: CalendarInfo(id: .romanRepublican, engine: self),
+    return CalendarDateComponents(calendar: .romanRepublican,
                                   yearMode: .civil,
                                   year: tc.year,
                                   month: tc.month,

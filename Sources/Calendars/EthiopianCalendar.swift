@@ -244,7 +244,7 @@ public struct EthiopianCalendar : CalendarProtocol {
 
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = EthiopianCalendar.toDate(J: jdn)
-    return CalendarDateComponents(calendar: CalendarInfo(id: .ethiopian, engine: self),
+    return CalendarDateComponents(calendar: .ethiopian,
                                   yearMode: .civil, year: y, month: m, day: d)
 
   }

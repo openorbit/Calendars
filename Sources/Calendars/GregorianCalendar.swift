@@ -248,7 +248,7 @@ public struct GregorianCalendar : CalendarProtocol {
 
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = GregorianCalendar.toDate(J: jdn)
-    return CalendarDateComponents(calendar: CalendarInfo(id: .gregorian, engine: self),
+    return CalendarDateComponents(calendar: .gregorian,
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 

@@ -319,7 +319,7 @@ public struct JulianCalendar : CalendarProtocol, Sendable {
 
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = JulianCalendar.toDate(J: jdn)
-    return CalendarDateComponents(calendar: CalendarInfo(id: .julian, engine: self),
+    return CalendarDateComponents(calendar: .julian,
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 

@@ -250,7 +250,7 @@ public struct FrenchRepublicanCalendar : CalendarProtocol {
 
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = FrenchRepublicanCalendar.toDate(J: jdn)
-    return CalendarDateComponents(calendar: CalendarInfo(id: .frenchRepublican, engine: self),
+    return CalendarDateComponents(calendar: .frenchRepublican,
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 

@@ -245,7 +245,7 @@ public struct CopticCalendar : CalendarProtocol {
 
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = CopticCalendar.toDate(J: jdn)
-    return CalendarDateComponents(calendar: CalendarInfo(id: .coptic, engine: self),
+    return CalendarDateComponents(calendar: .coptic,
                                   yearMode: .civil, year: y, month: m, day: d)
 
   }

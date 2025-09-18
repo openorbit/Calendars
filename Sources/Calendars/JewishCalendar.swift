@@ -383,7 +383,7 @@ public struct JewishCalendar : CalendarProtocol {
 
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
     let (y, m, d) = JewishCalendar.toDate(J: jdn)
-    return CalendarDateComponents(calendar: CalendarInfo(id: .jewish, engine: self),
+    return CalendarDateComponents(calendar: .jewish,
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 
