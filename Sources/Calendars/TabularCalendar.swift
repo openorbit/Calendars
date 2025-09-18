@@ -1,69 +1,80 @@
 //
-//  TabularCalendar.swift
-//  Calendars
+// SPDX-License-Identifier: Apache-2.0
 //
-//  Created by Mattias Holm on 2025-09-13.
+// Copyright 2025 Mattias Holm
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+// http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //
 
 /// Anchor for one civil year in a table-driven calendar
-public struct YearAnchor: Sendable {
-  public let year: Int                 // AUC, regnal year, etc.
-  public let yearStartJDN: Int         // Absolute first day of this year
-  public let yearEndJDN: Int           // Absolute day of next year day of this year
-  public let monthRows: Range<Int>     // Slice into `months` for this year
+struct YearAnchor: Sendable {
+  let year: Int                 // AUC, regnal year, etc.
+  let yearStartJDN: Int         // Absolute first day of this year
+  let yearEndJDN: Int           // Absolute day of next year day of this year
+  let monthRows: Range<Int>     // Slice into `months` for this year
 
   /// Optional leading fragment when a year starts mid-month (e.g., Mar 15  - Mar 31)
   /// length == number of days in the fragment; canonicalMonth is useful for display
-  public let leadingFragment: LeadingFragment?
-  
-  public struct LeadingFragment : Sendable {
+  let leadingFragment: LeadingFragment?
+
+  struct LeadingFragment : Sendable {
     let monthInfoIndex: Int // points into the same MonthInfo bank as MonthRow
     let startDay: Int       // e.g. 15 for March 15
     let length: Int         // e.g. 17
   }
 }
 
-public struct MonthRow: Sendable {
-  public let year: Int
-  public let appearanceMonth: Int
-  public let offsetFromYearStart: Int
-  public let length: Int
-  public let isIntercalary: Bool
-  public let monthInfoIndex: Int // Metadata index
+struct MonthRow: Sendable {
+  let year: Int
+  let appearanceMonth: Int
+  let offsetFromYearStart: Int
+  let length: Int
+  let isIntercalary: Bool
+  let monthInfoIndex: Int // Metadata index
 }
 
 /// Generic YMD-like components for table calendars
-public struct TableDateComponents: Sendable {
-    public let year: Int                  // The civil-year (e.g AUC for Rome)
-    /// Appearance-based month:
-    ///  - 0 = leading fragment (if present)
-    ///  - 1..N = full months in appearance order
-    public var month: Int
-    public var day: Int                  // 1-based
+struct TableDateComponents: Sendable {
+  let year: Int                  // The civil-year (e.g AUC for Rome)
+  /// Appearance-based month:
+  ///  - 0 = leading fragment (if present)
+  ///  - 1..N = full months in appearance order
+  var month: Int
+  var day: Int                  // 1-based
 }
 
 
-public struct ReverseIndex : Sendable {
-  public let auc: Int
-  public let month: RomanMonth
-  public let jdn: Int
-  public let days: Int
-  public let notes: [String] = []
+struct ReverseIndex : Sendable {
+  let auc: Int
+  let month: RomanMonth
+  let jdn: Int
+  let days: Int
+  let notes: [String] = []
 }
 
-public struct TableCalendar: Sendable {
-  public let years: [YearAnchor]  // Sorted by year
-  public let months: [MonthRow]   // Grouped per year, ranges referenced by anchors
-  public let reverse: [Range<Int>] // Reverse mappings
+struct TableCalendar: Sendable {
+  let years: [YearAnchor]  // Sorted by year
+  let months: [MonthRow]   // Grouped per year, ranges referenced by anchors
+  let reverse: [Range<Int>] // Reverse mappings
 
-  public init(years: [YearAnchor], months: [MonthRow], reverse: [Range<Int>]) {
+  init(years: [YearAnchor], months: [MonthRow], reverse: [Range<Int>]) {
     self.years = years
     self.months = months
     self.reverse = reverse
   }
 
 
-  public func jdn(from c: TableDateComponents) -> Int? {
+  func jdn(from c: TableDateComponents) -> Int? {
     let yearIndex = c.year - years.first!.year
     guard years.indices.contains(yearIndex) else {
       return nil
@@ -85,7 +96,7 @@ public struct TableCalendar: Sendable {
     return year.yearStartJDN + m.offsetFromYearStart + (c.day - 1)
   }
 
-  public func components(containing jdn: Int) -> TableDateComponents? {
+  func components(containing jdn: Int) -> TableDateComponents? {
     let reverseIndex = (jdn - years.first!.yearStartJDN) / 32
     guard 0 <= reverseIndex && reverseIndex < reverse.count else {
       return nil
