@@ -42612,7 +42612,7 @@ enum RomanTables {
       YearAnchor(
         year: 813,
         yearStartJDN: 1742973,
-        yearEndJDN: 0,
+        yearEndJDN: 1743339,
         monthRows: 3958..<3970,
         leadingFragment: nil,
       )
@@ -46309,4 +46309,3 @@ enum RomanTables {
     return buckets
   }
 }
-
