@@ -39714,6 +39714,7 @@ enum RomanTables {
       YearAnchor(
         year: 491,
         yearStartJDN: 1625460,
+        yearEndJDN: 1625815,
         monthRows: 0..<12,
         leadingFragment: nil,
       )
@@ -39722,6 +39723,7 @@ enum RomanTables {
       YearAnchor(
         year: 492,
         yearStartJDN: 1625815,
+        yearEndJDN: 1626193,
         monthRows: 12..<25,
         leadingFragment: nil,
       )
@@ -39730,6 +39732,7 @@ enum RomanTables {
       YearAnchor(
         year: 493,
         yearStartJDN: 1626193,
+        yearEndJDN: 1626548,
         monthRows: 25..<37,
         leadingFragment: nil,
       )
@@ -39738,6 +39741,7 @@ enum RomanTables {
       YearAnchor(
         year: 494,
         yearStartJDN: 1626548,
+        yearEndJDN: 1626925,
         monthRows: 37..<50,
         leadingFragment: nil,
       )
@@ -39746,6 +39750,7 @@ enum RomanTables {
       YearAnchor(
         year: 495,
         yearStartJDN: 1626925,
+        yearEndJDN: 1627280,
         monthRows: 50..<62,
         leadingFragment: nil,
       )
@@ -39754,6 +39759,7 @@ enum RomanTables {
       YearAnchor(
         year: 496,
         yearStartJDN: 1627280,
+        yearEndJDN: 1627658,
         monthRows: 62..<75,
         leadingFragment: nil,
       )
@@ -39762,6 +39768,7 @@ enum RomanTables {
       YearAnchor(
         year: 497,
         yearStartJDN: 1627658,
+        yearEndJDN: 1628013,
         monthRows: 75..<87,
         leadingFragment: nil,
       )
@@ -39770,6 +39777,7 @@ enum RomanTables {
       YearAnchor(
         year: 498,
         yearStartJDN: 1628013,
+        yearEndJDN: 1628390,
         monthRows: 87..<100,
         leadingFragment: nil,
       )
@@ -39778,6 +39786,7 @@ enum RomanTables {
       YearAnchor(
         year: 499,
         yearStartJDN: 1628390,
+        yearEndJDN: 1628745,
         monthRows: 100..<112,
         leadingFragment: nil,
       )
@@ -39786,6 +39795,7 @@ enum RomanTables {
       YearAnchor(
         year: 500,
         yearStartJDN: 1628745,
+        yearEndJDN: 1629123,
         monthRows: 112..<125,
         leadingFragment: nil,
       )
@@ -39794,6 +39804,7 @@ enum RomanTables {
       YearAnchor(
         year: 501,
         yearStartJDN: 1629123,
+        yearEndJDN: 1629478,
         monthRows: 125..<137,
         leadingFragment: nil,
       )
@@ -39802,6 +39813,7 @@ enum RomanTables {
       YearAnchor(
         year: 502,
         yearStartJDN: 1629478,
+        yearEndJDN: 1629855,
         monthRows: 137..<150,
         leadingFragment: nil,
       )
@@ -39810,6 +39822,7 @@ enum RomanTables {
       YearAnchor(
         year: 503,
         yearStartJDN: 1629855,
+        yearEndJDN: 1630210,
         monthRows: 150..<162,
         leadingFragment: nil,
       )
@@ -39818,6 +39831,7 @@ enum RomanTables {
       YearAnchor(
         year: 504,
         yearStartJDN: 1630210,
+        yearEndJDN: 1630588,
         monthRows: 162..<175,
         leadingFragment: nil,
       )
@@ -39826,6 +39840,7 @@ enum RomanTables {
       YearAnchor(
         year: 505,
         yearStartJDN: 1630588,
+        yearEndJDN: 1630943,
         monthRows: 175..<187,
         leadingFragment: nil,
       )
@@ -39834,6 +39849,7 @@ enum RomanTables {
       YearAnchor(
         year: 506,
         yearStartJDN: 1630943,
+        yearEndJDN: 1631320,
         monthRows: 187..<200,
         leadingFragment: nil,
       )
@@ -39842,6 +39858,7 @@ enum RomanTables {
       YearAnchor(
         year: 507,
         yearStartJDN: 1631320,
+        yearEndJDN: 1631675,
         monthRows: 200..<212,
         leadingFragment: nil,
       )
@@ -39850,6 +39867,7 @@ enum RomanTables {
       YearAnchor(
         year: 508,
         yearStartJDN: 1631675,
+        yearEndJDN: 1632053,
         monthRows: 212..<225,
         leadingFragment: nil,
       )
@@ -39858,6 +39876,7 @@ enum RomanTables {
       YearAnchor(
         year: 509,
         yearStartJDN: 1632053,
+        yearEndJDN: 1632408,
         monthRows: 225..<237,
         leadingFragment: nil,
       )
@@ -39866,6 +39885,7 @@ enum RomanTables {
       YearAnchor(
         year: 510,
         yearStartJDN: 1632408,
+        yearEndJDN: 1632785,
         monthRows: 237..<250,
         leadingFragment: nil,
       )
@@ -39874,6 +39894,7 @@ enum RomanTables {
       YearAnchor(
         year: 511,
         yearStartJDN: 1632785,
+        yearEndJDN: 1633140,
         monthRows: 250..<262,
         leadingFragment: nil,
       )
@@ -39882,6 +39903,7 @@ enum RomanTables {
       YearAnchor(
         year: 512,
         yearStartJDN: 1633140,
+        yearEndJDN: 1633518,
         monthRows: 262..<275,
         leadingFragment: nil,
       )
@@ -39890,6 +39912,7 @@ enum RomanTables {
       YearAnchor(
         year: 513,
         yearStartJDN: 1633518,
+        yearEndJDN: 1633873,
         monthRows: 275..<287,
         leadingFragment: nil,
       )
@@ -39898,6 +39921,7 @@ enum RomanTables {
       YearAnchor(
         year: 514,
         yearStartJDN: 1633873,
+        yearEndJDN: 1634250,
         monthRows: 287..<300,
         leadingFragment: nil,
       )
@@ -39906,6 +39930,7 @@ enum RomanTables {
       YearAnchor(
         year: 515,
         yearStartJDN: 1634250,
+        yearEndJDN: 1634605,
         monthRows: 300..<312,
         leadingFragment: nil,
       )
@@ -39914,6 +39939,7 @@ enum RomanTables {
       YearAnchor(
         year: 516,
         yearStartJDN: 1634605,
+        yearEndJDN: 1634983,
         monthRows: 312..<325,
         leadingFragment: nil,
       )
@@ -39922,6 +39948,7 @@ enum RomanTables {
       YearAnchor(
         year: 517,
         yearStartJDN: 1634983,
+        yearEndJDN: 1635338,
         monthRows: 325..<337,
         leadingFragment: nil,
       )
@@ -39930,6 +39957,7 @@ enum RomanTables {
       YearAnchor(
         year: 518,
         yearStartJDN: 1635338,
+        yearEndJDN: 1635715,
         monthRows: 337..<350,
         leadingFragment: nil,
       )
@@ -39938,6 +39966,7 @@ enum RomanTables {
       YearAnchor(
         year: 519,
         yearStartJDN: 1635715,
+        yearEndJDN: 1636070,
         monthRows: 350..<362,
         leadingFragment: nil,
       )
@@ -39946,6 +39975,7 @@ enum RomanTables {
       YearAnchor(
         year: 520,
         yearStartJDN: 1636070,
+        yearEndJDN: 1636448,
         monthRows: 362..<375,
         leadingFragment: nil,
       )
@@ -39954,6 +39984,7 @@ enum RomanTables {
       YearAnchor(
         year: 521,
         yearStartJDN: 1636448,
+        yearEndJDN: 1636803,
         monthRows: 375..<387,
         leadingFragment: nil,
       )
@@ -39962,6 +39993,7 @@ enum RomanTables {
       YearAnchor(
         year: 522,
         yearStartJDN: 1636803,
+        yearEndJDN: 1637180,
         monthRows: 387..<400,
         leadingFragment: nil,
       )
@@ -39970,6 +40002,7 @@ enum RomanTables {
       YearAnchor(
         year: 523,
         yearStartJDN: 1637180,
+        yearEndJDN: 1637535,
         monthRows: 400..<412,
         leadingFragment: nil,
       )
@@ -39978,6 +40011,7 @@ enum RomanTables {
       YearAnchor(
         year: 524,
         yearStartJDN: 1637535,
+        yearEndJDN: 1637913,
         monthRows: 412..<425,
         leadingFragment: nil,
       )
@@ -39986,6 +40020,7 @@ enum RomanTables {
       YearAnchor(
         year: 525,
         yearStartJDN: 1637913,
+        yearEndJDN: 1638268,
         monthRows: 425..<437,
         leadingFragment: nil,
       )
@@ -39994,6 +40029,7 @@ enum RomanTables {
       YearAnchor(
         year: 526,
         yearStartJDN: 1638268,
+        yearEndJDN: 1638645,
         monthRows: 437..<450,
         leadingFragment: nil,
       )
@@ -40002,6 +40038,7 @@ enum RomanTables {
       YearAnchor(
         year: 527,
         yearStartJDN: 1638645,
+        yearEndJDN: 1639000,
         monthRows: 450..<462,
         leadingFragment: nil,
       )
@@ -40010,6 +40047,7 @@ enum RomanTables {
       YearAnchor(
         year: 528,
         yearStartJDN: 1639000,
+        yearEndJDN: 1639378,
         monthRows: 462..<475,
         leadingFragment: nil,
       )
@@ -40018,6 +40056,7 @@ enum RomanTables {
       YearAnchor(
         year: 529,
         yearStartJDN: 1639378,
+        yearEndJDN: 1639733,
         monthRows: 475..<487,
         leadingFragment: nil,
       )
@@ -40026,6 +40065,7 @@ enum RomanTables {
       YearAnchor(
         year: 530,
         yearStartJDN: 1639733,
+        yearEndJDN: 1640093,
         monthRows: 487..<500,
         leadingFragment: nil,
       )
@@ -40034,6 +40074,7 @@ enum RomanTables {
       YearAnchor(
         year: 531,
         yearStartJDN: 1640093,
+        yearEndJDN: 1640419,
         monthRows: 500..<511,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40042,6 +40083,7 @@ enum RomanTables {
       YearAnchor(
         year: 532,
         yearStartJDN: 1640419,
+        yearEndJDN: 1640797,
         monthRows: 511..<524,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40050,6 +40092,7 @@ enum RomanTables {
       YearAnchor(
         year: 533,
         yearStartJDN: 1640797,
+        yearEndJDN: 1641152,
         monthRows: 524..<536,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40058,6 +40101,7 @@ enum RomanTables {
       YearAnchor(
         year: 534,
         yearStartJDN: 1641152,
+        yearEndJDN: 1641529,
         monthRows: 536..<549,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40066,6 +40110,7 @@ enum RomanTables {
       YearAnchor(
         year: 535,
         yearStartJDN: 1641529,
+        yearEndJDN: 1641884,
         monthRows: 549..<561,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40074,6 +40119,7 @@ enum RomanTables {
       YearAnchor(
         year: 536,
         yearStartJDN: 1641884,
+        yearEndJDN: 1642239,
         monthRows: 561..<573,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40082,6 +40128,7 @@ enum RomanTables {
       YearAnchor(
         year: 537,
         yearStartJDN: 1642239,
+        yearEndJDN: 1642617,
         monthRows: 573..<586,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40090,6 +40137,7 @@ enum RomanTables {
       YearAnchor(
         year: 538,
         yearStartJDN: 1642617,
+        yearEndJDN: 1642994,
         monthRows: 586..<599,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40098,6 +40146,7 @@ enum RomanTables {
       YearAnchor(
         year: 539,
         yearStartJDN: 1642994,
+        yearEndJDN: 1643349,
         monthRows: 599..<611,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40106,6 +40155,7 @@ enum RomanTables {
       YearAnchor(
         year: 540,
         yearStartJDN: 1643349,
+        yearEndJDN: 1643704,
         monthRows: 611..<623,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40114,6 +40164,7 @@ enum RomanTables {
       YearAnchor(
         year: 541,
         yearStartJDN: 1643704,
+        yearEndJDN: 1644059,
         monthRows: 623..<635,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40122,6 +40173,7 @@ enum RomanTables {
       YearAnchor(
         year: 542,
         yearStartJDN: 1644059,
+        yearEndJDN: 1644414,
         monthRows: 635..<647,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40130,6 +40182,7 @@ enum RomanTables {
       YearAnchor(
         year: 543,
         yearStartJDN: 1644414,
+        yearEndJDN: 1644792,
         monthRows: 647..<660,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40138,6 +40191,7 @@ enum RomanTables {
       YearAnchor(
         year: 544,
         yearStartJDN: 1644792,
+        yearEndJDN: 1645147,
         monthRows: 660..<672,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40146,6 +40200,7 @@ enum RomanTables {
       YearAnchor(
         year: 545,
         yearStartJDN: 1645147,
+        yearEndJDN: 1645502,
         monthRows: 672..<684,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40154,6 +40209,7 @@ enum RomanTables {
       YearAnchor(
         year: 546,
         yearStartJDN: 1645502,
+        yearEndJDN: 1645857,
         monthRows: 684..<696,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40162,6 +40218,7 @@ enum RomanTables {
       YearAnchor(
         year: 547,
         yearStartJDN: 1645857,
+        yearEndJDN: 1646234,
         monthRows: 696..<709,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40170,6 +40227,7 @@ enum RomanTables {
       YearAnchor(
         year: 548,
         yearStartJDN: 1646234,
+        yearEndJDN: 1646589,
         monthRows: 709..<721,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40178,6 +40236,7 @@ enum RomanTables {
       YearAnchor(
         year: 549,
         yearStartJDN: 1646589,
+        yearEndJDN: 1646967,
         monthRows: 721..<734,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40186,6 +40245,7 @@ enum RomanTables {
       YearAnchor(
         year: 550,
         yearStartJDN: 1646967,
+        yearEndJDN: 1647322,
         monthRows: 734..<746,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40194,6 +40254,7 @@ enum RomanTables {
       YearAnchor(
         year: 551,
         yearStartJDN: 1647322,
+        yearEndJDN: 1647677,
         monthRows: 746..<758,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40202,6 +40263,7 @@ enum RomanTables {
       YearAnchor(
         year: 552,
         yearStartJDN: 1647677,
+        yearEndJDN: 1648054,
         monthRows: 758..<771,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40210,6 +40272,7 @@ enum RomanTables {
       YearAnchor(
         year: 553,
         yearStartJDN: 1648054,
+        yearEndJDN: 1648409,
         monthRows: 771..<783,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40218,6 +40281,7 @@ enum RomanTables {
       YearAnchor(
         year: 554,
         yearStartJDN: 1648409,
+        yearEndJDN: 1648764,
         monthRows: 783..<795,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40226,6 +40290,7 @@ enum RomanTables {
       YearAnchor(
         year: 555,
         yearStartJDN: 1648764,
+        yearEndJDN: 1649119,
         monthRows: 795..<807,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40234,6 +40299,7 @@ enum RomanTables {
       YearAnchor(
         year: 556,
         yearStartJDN: 1649119,
+        yearEndJDN: 1649474,
         monthRows: 807..<819,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40242,6 +40308,7 @@ enum RomanTables {
       YearAnchor(
         year: 557,
         yearStartJDN: 1649474,
+        yearEndJDN: 1649829,
         monthRows: 819..<831,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40250,6 +40317,7 @@ enum RomanTables {
       YearAnchor(
         year: 558,
         yearStartJDN: 1649829,
+        yearEndJDN: 1650184,
         monthRows: 831..<843,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40258,6 +40326,7 @@ enum RomanTables {
       YearAnchor(
         year: 559,
         yearStartJDN: 1650184,
+        yearEndJDN: 1650539,
         monthRows: 843..<855,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40266,6 +40335,7 @@ enum RomanTables {
       YearAnchor(
         year: 560,
         yearStartJDN: 1650539,
+        yearEndJDN: 1650894,
         monthRows: 855..<867,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40274,6 +40344,7 @@ enum RomanTables {
       YearAnchor(
         year: 561,
         yearStartJDN: 1650894,
+        yearEndJDN: 1651249,
         monthRows: 867..<879,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40282,6 +40353,7 @@ enum RomanTables {
       YearAnchor(
         year: 562,
         yearStartJDN: 1651249,
+        yearEndJDN: 1651604,
         monthRows: 879..<891,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40290,6 +40362,7 @@ enum RomanTables {
       YearAnchor(
         year: 563,
         yearStartJDN: 1651604,
+        yearEndJDN: 1651982,
         monthRows: 891..<904,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40298,6 +40371,7 @@ enum RomanTables {
       YearAnchor(
         year: 564,
         yearStartJDN: 1651982,
+        yearEndJDN: 1652337,
         monthRows: 904..<916,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40306,6 +40380,7 @@ enum RomanTables {
       YearAnchor(
         year: 565,
         yearStartJDN: 1652337,
+        yearEndJDN: 1652715,
         monthRows: 916..<929,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40314,6 +40389,7 @@ enum RomanTables {
       YearAnchor(
         year: 566,
         yearStartJDN: 1652715,
+        yearEndJDN: 1653070,
         monthRows: 929..<941,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40322,6 +40398,7 @@ enum RomanTables {
       YearAnchor(
         year: 567,
         yearStartJDN: 1653070,
+        yearEndJDN: 1653447,
         monthRows: 941..<954,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40330,6 +40407,7 @@ enum RomanTables {
       YearAnchor(
         year: 568,
         yearStartJDN: 1653447,
+        yearEndJDN: 1653825,
         monthRows: 954..<967,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40338,6 +40416,7 @@ enum RomanTables {
       YearAnchor(
         year: 569,
         yearStartJDN: 1653825,
+        yearEndJDN: 1654180,
         monthRows: 967..<979,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40346,6 +40425,7 @@ enum RomanTables {
       YearAnchor(
         year: 570,
         yearStartJDN: 1654180,
+        yearEndJDN: 1654558,
         monthRows: 979..<992,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40354,6 +40434,7 @@ enum RomanTables {
       YearAnchor(
         year: 571,
         yearStartJDN: 1654558,
+        yearEndJDN: 1654913,
         monthRows: 992..<1004,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40362,6 +40443,7 @@ enum RomanTables {
       YearAnchor(
         year: 572,
         yearStartJDN: 1654913,
+        yearEndJDN: 1655290,
         monthRows: 1004..<1017,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40370,6 +40452,7 @@ enum RomanTables {
       YearAnchor(
         year: 573,
         yearStartJDN: 1655290,
+        yearEndJDN: 1655668,
         monthRows: 1017..<1030,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40378,6 +40461,7 @@ enum RomanTables {
       YearAnchor(
         year: 574,
         yearStartJDN: 1655668,
+        yearEndJDN: 1656023,
         monthRows: 1030..<1042,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40386,6 +40470,7 @@ enum RomanTables {
       YearAnchor(
         year: 575,
         yearStartJDN: 1656023,
+        yearEndJDN: 1656401,
         monthRows: 1042..<1055,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40394,6 +40479,7 @@ enum RomanTables {
       YearAnchor(
         year: 576,
         yearStartJDN: 1656401,
+        yearEndJDN: 1656756,
         monthRows: 1055..<1067,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40402,6 +40488,7 @@ enum RomanTables {
       YearAnchor(
         year: 577,
         yearStartJDN: 1656756,
+        yearEndJDN: 1657134,
         monthRows: 1067..<1080,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40410,6 +40497,7 @@ enum RomanTables {
       YearAnchor(
         year: 578,
         yearStartJDN: 1657134,
+        yearEndJDN: 1657489,
         monthRows: 1080..<1092,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40418,6 +40506,7 @@ enum RomanTables {
       YearAnchor(
         year: 579,
         yearStartJDN: 1657489,
+        yearEndJDN: 1657866,
         monthRows: 1092..<1105,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40426,6 +40515,7 @@ enum RomanTables {
       YearAnchor(
         year: 580,
         yearStartJDN: 1657866,
+        yearEndJDN: 1658244,
         monthRows: 1105..<1118,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40434,6 +40524,7 @@ enum RomanTables {
       YearAnchor(
         year: 581,
         yearStartJDN: 1658244,
+        yearEndJDN: 1658599,
         monthRows: 1118..<1130,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40442,6 +40533,7 @@ enum RomanTables {
       YearAnchor(
         year: 582,
         yearStartJDN: 1658599,
+        yearEndJDN: 1658977,
         monthRows: 1130..<1143,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40450,6 +40542,7 @@ enum RomanTables {
       YearAnchor(
         year: 583,
         yearStartJDN: 1658977,
+        yearEndJDN: 1659332,
         monthRows: 1143..<1155,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40458,6 +40551,7 @@ enum RomanTables {
       YearAnchor(
         year: 584,
         yearStartJDN: 1659332,
+        yearEndJDN: 1659710,
         monthRows: 1155..<1168,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40466,6 +40560,7 @@ enum RomanTables {
       YearAnchor(
         year: 585,
         yearStartJDN: 1659710,
+        yearEndJDN: 1660065,
         monthRows: 1168..<1180,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40474,6 +40569,7 @@ enum RomanTables {
       YearAnchor(
         year: 586,
         yearStartJDN: 1660065,
+        yearEndJDN: 1660420,
         monthRows: 1180..<1192,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40482,6 +40578,7 @@ enum RomanTables {
       YearAnchor(
         year: 587,
         yearStartJDN: 1660420,
+        yearEndJDN: 1660797,
         monthRows: 1192..<1205,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40490,6 +40587,7 @@ enum RomanTables {
       YearAnchor(
         year: 588,
         yearStartJDN: 1660797,
+        yearEndJDN: 1661175,
         monthRows: 1205..<1218,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40498,6 +40596,7 @@ enum RomanTables {
       YearAnchor(
         year: 589,
         yearStartJDN: 1661175,
+        yearEndJDN: 1661530,
         monthRows: 1218..<1230,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40506,6 +40605,7 @@ enum RomanTables {
       YearAnchor(
         year: 590,
         yearStartJDN: 1661530,
+        yearEndJDN: 1661907,
         monthRows: 1230..<1243,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40514,6 +40614,7 @@ enum RomanTables {
       YearAnchor(
         year: 591,
         yearStartJDN: 1661907,
+        yearEndJDN: 1662285,
         monthRows: 1243..<1256,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40522,6 +40623,7 @@ enum RomanTables {
       YearAnchor(
         year: 592,
         yearStartJDN: 1662285,
+        yearEndJDN: 1662640,
         monthRows: 1256..<1268,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40530,6 +40632,7 @@ enum RomanTables {
       YearAnchor(
         year: 593,
         yearStartJDN: 1662640,
+        yearEndJDN: 1663017,
         monthRows: 1268..<1281,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40538,6 +40641,7 @@ enum RomanTables {
       YearAnchor(
         year: 594,
         yearStartJDN: 1663017,
+        yearEndJDN: 1663395,
         monthRows: 1281..<1294,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40546,6 +40650,7 @@ enum RomanTables {
       YearAnchor(
         year: 595,
         yearStartJDN: 1663395,
+        yearEndJDN: 1663750,
         monthRows: 1294..<1306,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40554,6 +40659,7 @@ enum RomanTables {
       YearAnchor(
         year: 596,
         yearStartJDN: 1663750,
+        yearEndJDN: 1664127,
         monthRows: 1306..<1319,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40562,6 +40668,7 @@ enum RomanTables {
       YearAnchor(
         year: 597,
         yearStartJDN: 1664127,
+        yearEndJDN: 1664505,
         monthRows: 1319..<1332,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40570,6 +40677,7 @@ enum RomanTables {
       YearAnchor(
         year: 598,
         yearStartJDN: 1664505,
+        yearEndJDN: 1664860,
         monthRows: 1332..<1344,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40578,6 +40686,7 @@ enum RomanTables {
       YearAnchor(
         year: 599,
         yearStartJDN: 1664860,
+        yearEndJDN: 1665255,
         monthRows: 1344..<1357,
         leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: 3, startDay: 15, length: 17),
       )
@@ -40586,6 +40695,7 @@ enum RomanTables {
       YearAnchor(
         year: 600,
         yearStartJDN: 1665255,
+        yearEndJDN: 1665522,
         monthRows: 1357..<1366,
         leadingFragment: nil,
       )
@@ -40594,6 +40704,7 @@ enum RomanTables {
       YearAnchor(
         year: 601,
         yearStartJDN: 1665522,
+        yearEndJDN: 1665877,
         monthRows: 1366..<1378,
         leadingFragment: nil,
       )
@@ -40602,6 +40713,7 @@ enum RomanTables {
       YearAnchor(
         year: 602,
         yearStartJDN: 1665877,
+        yearEndJDN: 1666255,
         monthRows: 1378..<1391,
         leadingFragment: nil,
       )
@@ -40610,6 +40722,7 @@ enum RomanTables {
       YearAnchor(
         year: 603,
         yearStartJDN: 1666255,
+        yearEndJDN: 1666610,
         monthRows: 1391..<1403,
         leadingFragment: nil,
       )
@@ -40618,6 +40731,7 @@ enum RomanTables {
       YearAnchor(
         year: 604,
         yearStartJDN: 1666610,
+        yearEndJDN: 1666988,
         monthRows: 1403..<1416,
         leadingFragment: nil,
       )
@@ -40626,6 +40740,7 @@ enum RomanTables {
       YearAnchor(
         year: 605,
         yearStartJDN: 1666988,
+        yearEndJDN: 1667343,
         monthRows: 1416..<1428,
         leadingFragment: nil,
       )
@@ -40634,6 +40749,7 @@ enum RomanTables {
       YearAnchor(
         year: 606,
         yearStartJDN: 1667343,
+        yearEndJDN: 1667721,
         monthRows: 1428..<1441,
         leadingFragment: nil,
       )
@@ -40642,6 +40758,7 @@ enum RomanTables {
       YearAnchor(
         year: 607,
         yearStartJDN: 1667721,
+        yearEndJDN: 1668076,
         monthRows: 1441..<1453,
         leadingFragment: nil,
       )
@@ -40650,6 +40767,7 @@ enum RomanTables {
       YearAnchor(
         year: 608,
         yearStartJDN: 1668076,
+        yearEndJDN: 1668454,
         monthRows: 1453..<1466,
         leadingFragment: nil,
       )
@@ -40658,6 +40776,7 @@ enum RomanTables {
       YearAnchor(
         year: 609,
         yearStartJDN: 1668454,
+        yearEndJDN: 1668809,
         monthRows: 1466..<1478,
         leadingFragment: nil,
       )
@@ -40666,6 +40785,7 @@ enum RomanTables {
       YearAnchor(
         year: 610,
         yearStartJDN: 1668809,
+        yearEndJDN: 1669187,
         monthRows: 1478..<1491,
         leadingFragment: nil,
       )
@@ -40674,6 +40794,7 @@ enum RomanTables {
       YearAnchor(
         year: 611,
         yearStartJDN: 1669187,
+        yearEndJDN: 1669542,
         monthRows: 1491..<1503,
         leadingFragment: nil,
       )
@@ -40682,6 +40803,7 @@ enum RomanTables {
       YearAnchor(
         year: 612,
         yearStartJDN: 1669542,
+        yearEndJDN: 1669920,
         monthRows: 1503..<1516,
         leadingFragment: nil,
       )
@@ -40690,6 +40812,7 @@ enum RomanTables {
       YearAnchor(
         year: 613,
         yearStartJDN: 1669920,
+        yearEndJDN: 1670275,
         monthRows: 1516..<1528,
         leadingFragment: nil,
       )
@@ -40698,6 +40821,7 @@ enum RomanTables {
       YearAnchor(
         year: 614,
         yearStartJDN: 1670275,
+        yearEndJDN: 1670653,
         monthRows: 1528..<1541,
         leadingFragment: nil,
       )
@@ -40706,6 +40830,7 @@ enum RomanTables {
       YearAnchor(
         year: 615,
         yearStartJDN: 1670653,
+        yearEndJDN: 1671008,
         monthRows: 1541..<1553,
         leadingFragment: nil,
       )
@@ -40714,6 +40839,7 @@ enum RomanTables {
       YearAnchor(
         year: 616,
         yearStartJDN: 1671008,
+        yearEndJDN: 1671363,
         monthRows: 1553..<1565,
         leadingFragment: nil,
       )
@@ -40722,6 +40848,7 @@ enum RomanTables {
       YearAnchor(
         year: 617,
         yearStartJDN: 1671363,
+        yearEndJDN: 1671741,
         monthRows: 1565..<1578,
         leadingFragment: nil,
       )
@@ -40730,6 +40857,7 @@ enum RomanTables {
       YearAnchor(
         year: 618,
         yearStartJDN: 1671741,
+        yearEndJDN: 1672096,
         monthRows: 1578..<1590,
         leadingFragment: nil,
       )
@@ -40738,6 +40866,7 @@ enum RomanTables {
       YearAnchor(
         year: 619,
         yearStartJDN: 1672096,
+        yearEndJDN: 1672474,
         monthRows: 1590..<1603,
         leadingFragment: nil,
       )
@@ -40746,6 +40875,7 @@ enum RomanTables {
       YearAnchor(
         year: 620,
         yearStartJDN: 1672474,
+        yearEndJDN: 1672829,
         monthRows: 1603..<1615,
         leadingFragment: nil,
       )
@@ -40754,6 +40884,7 @@ enum RomanTables {
       YearAnchor(
         year: 621,
         yearStartJDN: 1672829,
+        yearEndJDN: 1673207,
         monthRows: 1615..<1628,
         leadingFragment: nil,
       )
@@ -40762,6 +40893,7 @@ enum RomanTables {
       YearAnchor(
         year: 622,
         yearStartJDN: 1673207,
+        yearEndJDN: 1673562,
         monthRows: 1628..<1640,
         leadingFragment: nil,
       )
@@ -40770,6 +40902,7 @@ enum RomanTables {
       YearAnchor(
         year: 623,
         yearStartJDN: 1673562,
+        yearEndJDN: 1673940,
         monthRows: 1640..<1653,
         leadingFragment: nil,
       )
@@ -40778,6 +40911,7 @@ enum RomanTables {
       YearAnchor(
         year: 624,
         yearStartJDN: 1673940,
+        yearEndJDN: 1674295,
         monthRows: 1653..<1665,
         leadingFragment: nil,
       )
@@ -40786,6 +40920,7 @@ enum RomanTables {
       YearAnchor(
         year: 625,
         yearStartJDN: 1674295,
+        yearEndJDN: 1674673,
         monthRows: 1665..<1678,
         leadingFragment: nil,
       )
@@ -40794,6 +40929,7 @@ enum RomanTables {
       YearAnchor(
         year: 626,
         yearStartJDN: 1674673,
+        yearEndJDN: 1675028,
         monthRows: 1678..<1690,
         leadingFragment: nil,
       )
@@ -40802,6 +40938,7 @@ enum RomanTables {
       YearAnchor(
         year: 627,
         yearStartJDN: 1675028,
+        yearEndJDN: 1675406,
         monthRows: 1690..<1703,
         leadingFragment: nil,
       )
@@ -40810,6 +40947,7 @@ enum RomanTables {
       YearAnchor(
         year: 628,
         yearStartJDN: 1675406,
+        yearEndJDN: 1675761,
         monthRows: 1703..<1715,
         leadingFragment: nil,
       )
@@ -40818,6 +40956,7 @@ enum RomanTables {
       YearAnchor(
         year: 629,
         yearStartJDN: 1675761,
+        yearEndJDN: 1676139,
         monthRows: 1715..<1728,
         leadingFragment: nil,
       )
@@ -40826,6 +40965,7 @@ enum RomanTables {
       YearAnchor(
         year: 630,
         yearStartJDN: 1676139,
+        yearEndJDN: 1676494,
         monthRows: 1728..<1740,
         leadingFragment: nil,
       )
@@ -40834,6 +40974,7 @@ enum RomanTables {
       YearAnchor(
         year: 631,
         yearStartJDN: 1676494,
+        yearEndJDN: 1676872,
         monthRows: 1740..<1753,
         leadingFragment: nil,
       )
@@ -40842,6 +40983,7 @@ enum RomanTables {
       YearAnchor(
         year: 632,
         yearStartJDN: 1676872,
+        yearEndJDN: 1677227,
         monthRows: 1753..<1765,
         leadingFragment: nil,
       )
@@ -40850,6 +40992,7 @@ enum RomanTables {
       YearAnchor(
         year: 633,
         yearStartJDN: 1677227,
+        yearEndJDN: 1677605,
         monthRows: 1765..<1778,
         leadingFragment: nil,
       )
@@ -40858,6 +41001,7 @@ enum RomanTables {
       YearAnchor(
         year: 634,
         yearStartJDN: 1677605,
+        yearEndJDN: 1677960,
         monthRows: 1778..<1790,
         leadingFragment: nil,
       )
@@ -40866,6 +41010,7 @@ enum RomanTables {
       YearAnchor(
         year: 635,
         yearStartJDN: 1677960,
+        yearEndJDN: 1678338,
         monthRows: 1790..<1803,
         leadingFragment: nil,
       )
@@ -40874,6 +41019,7 @@ enum RomanTables {
       YearAnchor(
         year: 636,
         yearStartJDN: 1678338,
+        yearEndJDN: 1678693,
         monthRows: 1803..<1815,
         leadingFragment: nil,
       )
@@ -40882,6 +41028,7 @@ enum RomanTables {
       YearAnchor(
         year: 637,
         yearStartJDN: 1678693,
+        yearEndJDN: 1679071,
         monthRows: 1815..<1828,
         leadingFragment: nil,
       )
@@ -40890,6 +41037,7 @@ enum RomanTables {
       YearAnchor(
         year: 638,
         yearStartJDN: 1679071,
+        yearEndJDN: 1679426,
         monthRows: 1828..<1840,
         leadingFragment: nil,
       )
@@ -40898,6 +41046,7 @@ enum RomanTables {
       YearAnchor(
         year: 639,
         yearStartJDN: 1679426,
+        yearEndJDN: 1679804,
         monthRows: 1840..<1853,
         leadingFragment: nil,
       )
@@ -40906,6 +41055,7 @@ enum RomanTables {
       YearAnchor(
         year: 640,
         yearStartJDN: 1679804,
+        yearEndJDN: 1680159,
         monthRows: 1853..<1865,
         leadingFragment: nil,
       )
@@ -40914,6 +41064,7 @@ enum RomanTables {
       YearAnchor(
         year: 641,
         yearStartJDN: 1680159,
+        yearEndJDN: 1680514,
         monthRows: 1865..<1877,
         leadingFragment: nil,
       )
@@ -40922,6 +41073,7 @@ enum RomanTables {
       YearAnchor(
         year: 642,
         yearStartJDN: 1680514,
+        yearEndJDN: 1680892,
         monthRows: 1877..<1890,
         leadingFragment: nil,
       )
@@ -40930,6 +41082,7 @@ enum RomanTables {
       YearAnchor(
         year: 643,
         yearStartJDN: 1680892,
+        yearEndJDN: 1681247,
         monthRows: 1890..<1902,
         leadingFragment: nil,
       )
@@ -40938,6 +41091,7 @@ enum RomanTables {
       YearAnchor(
         year: 644,
         yearStartJDN: 1681247,
+        yearEndJDN: 1681602,
         monthRows: 1902..<1914,
         leadingFragment: nil,
       )
@@ -40946,6 +41100,7 @@ enum RomanTables {
       YearAnchor(
         year: 645,
         yearStartJDN: 1681602,
+        yearEndJDN: 1681980,
         monthRows: 1914..<1927,
         leadingFragment: nil,
       )
@@ -40954,6 +41109,7 @@ enum RomanTables {
       YearAnchor(
         year: 646,
         yearStartJDN: 1681980,
+        yearEndJDN: 1682335,
         monthRows: 1927..<1939,
         leadingFragment: nil,
       )
@@ -40962,6 +41118,7 @@ enum RomanTables {
       YearAnchor(
         year: 647,
         yearStartJDN: 1682335,
+        yearEndJDN: 1682690,
         monthRows: 1939..<1951,
         leadingFragment: nil,
       )
@@ -40970,6 +41127,7 @@ enum RomanTables {
       YearAnchor(
         year: 648,
         yearStartJDN: 1682690,
+        yearEndJDN: 1683068,
         monthRows: 1951..<1964,
         leadingFragment: nil,
       )
@@ -40978,6 +41136,7 @@ enum RomanTables {
       YearAnchor(
         year: 649,
         yearStartJDN: 1683068,
+        yearEndJDN: 1683423,
         monthRows: 1964..<1976,
         leadingFragment: nil,
       )
@@ -40986,6 +41145,7 @@ enum RomanTables {
       YearAnchor(
         year: 650,
         yearStartJDN: 1683423,
+        yearEndJDN: 1683778,
         monthRows: 1976..<1988,
         leadingFragment: nil,
       )
@@ -40994,6 +41154,7 @@ enum RomanTables {
       YearAnchor(
         year: 651,
         yearStartJDN: 1683778,
+        yearEndJDN: 1684156,
         monthRows: 1988..<2001,
         leadingFragment: nil,
       )
@@ -41002,6 +41163,7 @@ enum RomanTables {
       YearAnchor(
         year: 652,
         yearStartJDN: 1684156,
+        yearEndJDN: 1684511,
         monthRows: 2001..<2013,
         leadingFragment: nil,
       )
@@ -41010,6 +41172,7 @@ enum RomanTables {
       YearAnchor(
         year: 653,
         yearStartJDN: 1684511,
+        yearEndJDN: 1684866,
         monthRows: 2013..<2025,
         leadingFragment: nil,
       )
@@ -41018,6 +41181,7 @@ enum RomanTables {
       YearAnchor(
         year: 654,
         yearStartJDN: 1684866,
+        yearEndJDN: 1685244,
         monthRows: 2025..<2038,
         leadingFragment: nil,
       )
@@ -41026,6 +41190,7 @@ enum RomanTables {
       YearAnchor(
         year: 655,
         yearStartJDN: 1685244,
+        yearEndJDN: 1685599,
         monthRows: 2038..<2050,
         leadingFragment: nil,
       )
@@ -41034,6 +41199,7 @@ enum RomanTables {
       YearAnchor(
         year: 656,
         yearStartJDN: 1685599,
+        yearEndJDN: 1685977,
         monthRows: 2050..<2063,
         leadingFragment: nil,
       )
@@ -41042,6 +41208,7 @@ enum RomanTables {
       YearAnchor(
         year: 657,
         yearStartJDN: 1685977,
+        yearEndJDN: 1686332,
         monthRows: 2063..<2075,
         leadingFragment: nil,
       )
@@ -41050,6 +41217,7 @@ enum RomanTables {
       YearAnchor(
         year: 658,
         yearStartJDN: 1686332,
+        yearEndJDN: 1686710,
         monthRows: 2075..<2088,
         leadingFragment: nil,
       )
@@ -41058,6 +41226,7 @@ enum RomanTables {
       YearAnchor(
         year: 659,
         yearStartJDN: 1686710,
+        yearEndJDN: 1687065,
         monthRows: 2088..<2100,
         leadingFragment: nil,
       )
@@ -41066,6 +41235,7 @@ enum RomanTables {
       YearAnchor(
         year: 660,
         yearStartJDN: 1687065,
+        yearEndJDN: 1687443,
         monthRows: 2100..<2113,
         leadingFragment: nil,
       )
@@ -41074,6 +41244,7 @@ enum RomanTables {
       YearAnchor(
         year: 661,
         yearStartJDN: 1687443,
+        yearEndJDN: 1687798,
         monthRows: 2113..<2125,
         leadingFragment: nil,
       )
@@ -41082,6 +41253,7 @@ enum RomanTables {
       YearAnchor(
         year: 662,
         yearStartJDN: 1687798,
+        yearEndJDN: 1688176,
         monthRows: 2125..<2138,
         leadingFragment: nil,
       )
@@ -41090,6 +41262,7 @@ enum RomanTables {
       YearAnchor(
         year: 663,
         yearStartJDN: 1688176,
+        yearEndJDN: 1688531,
         monthRows: 2138..<2150,
         leadingFragment: nil,
       )
@@ -41098,6 +41271,7 @@ enum RomanTables {
       YearAnchor(
         year: 664,
         yearStartJDN: 1688531,
+        yearEndJDN: 1688909,
         monthRows: 2150..<2163,
         leadingFragment: nil,
       )
@@ -41106,6 +41280,7 @@ enum RomanTables {
       YearAnchor(
         year: 665,
         yearStartJDN: 1688909,
+        yearEndJDN: 1689264,
         monthRows: 2163..<2175,
         leadingFragment: nil,
       )
@@ -41114,6 +41289,7 @@ enum RomanTables {
       YearAnchor(
         year: 666,
         yearStartJDN: 1689264,
+        yearEndJDN: 1689642,
         monthRows: 2175..<2188,
         leadingFragment: nil,
       )
@@ -41122,6 +41298,7 @@ enum RomanTables {
       YearAnchor(
         year: 667,
         yearStartJDN: 1689642,
+        yearEndJDN: 1689997,
         monthRows: 2188..<2200,
         leadingFragment: nil,
       )
@@ -41130,6 +41307,7 @@ enum RomanTables {
       YearAnchor(
         year: 668,
         yearStartJDN: 1689997,
+        yearEndJDN: 1690352,
         monthRows: 2200..<2212,
         leadingFragment: nil,
       )
@@ -41138,6 +41316,7 @@ enum RomanTables {
       YearAnchor(
         year: 669,
         yearStartJDN: 1690352,
+        yearEndJDN: 1690730,
         monthRows: 2212..<2225,
         leadingFragment: nil,
       )
@@ -41146,6 +41325,7 @@ enum RomanTables {
       YearAnchor(
         year: 670,
         yearStartJDN: 1690730,
+        yearEndJDN: 1691085,
         monthRows: 2225..<2237,
         leadingFragment: nil,
       )
@@ -41154,6 +41334,7 @@ enum RomanTables {
       YearAnchor(
         year: 671,
         yearStartJDN: 1691085,
+        yearEndJDN: 1691463,
         monthRows: 2237..<2250,
         leadingFragment: nil,
       )
@@ -41162,6 +41343,7 @@ enum RomanTables {
       YearAnchor(
         year: 672,
         yearStartJDN: 1691463,
+        yearEndJDN: 1691818,
         monthRows: 2250..<2262,
         leadingFragment: nil,
       )
@@ -41170,6 +41352,7 @@ enum RomanTables {
       YearAnchor(
         year: 673,
         yearStartJDN: 1691818,
+        yearEndJDN: 1692196,
         monthRows: 2262..<2275,
         leadingFragment: nil,
       )
@@ -41178,6 +41361,7 @@ enum RomanTables {
       YearAnchor(
         year: 674,
         yearStartJDN: 1692196,
+        yearEndJDN: 1692551,
         monthRows: 2275..<2287,
         leadingFragment: nil,
       )
@@ -41186,6 +41370,7 @@ enum RomanTables {
       YearAnchor(
         year: 675,
         yearStartJDN: 1692551,
+        yearEndJDN: 1692929,
         monthRows: 2287..<2300,
         leadingFragment: nil,
       )
@@ -41194,6 +41379,7 @@ enum RomanTables {
       YearAnchor(
         year: 676,
         yearStartJDN: 1692929,
+        yearEndJDN: 1693284,
         monthRows: 2300..<2312,
         leadingFragment: nil,
       )
@@ -41202,6 +41388,7 @@ enum RomanTables {
       YearAnchor(
         year: 677,
         yearStartJDN: 1693284,
+        yearEndJDN: 1693662,
         monthRows: 2312..<2325,
         leadingFragment: nil,
       )
@@ -41210,6 +41397,7 @@ enum RomanTables {
       YearAnchor(
         year: 678,
         yearStartJDN: 1693662,
+        yearEndJDN: 1694017,
         monthRows: 2325..<2337,
         leadingFragment: nil,
       )
@@ -41218,6 +41406,7 @@ enum RomanTables {
       YearAnchor(
         year: 679,
         yearStartJDN: 1694017,
+        yearEndJDN: 1694395,
         monthRows: 2337..<2350,
         leadingFragment: nil,
       )
@@ -41226,6 +41415,7 @@ enum RomanTables {
       YearAnchor(
         year: 680,
         yearStartJDN: 1694395,
+        yearEndJDN: 1694750,
         monthRows: 2350..<2362,
         leadingFragment: nil,
       )
@@ -41234,6 +41424,7 @@ enum RomanTables {
       YearAnchor(
         year: 681,
         yearStartJDN: 1694750,
+        yearEndJDN: 1695128,
         monthRows: 2362..<2375,
         leadingFragment: nil,
       )
@@ -41242,6 +41433,7 @@ enum RomanTables {
       YearAnchor(
         year: 682,
         yearStartJDN: 1695128,
+        yearEndJDN: 1695483,
         monthRows: 2375..<2387,
         leadingFragment: nil,
       )
@@ -41250,6 +41442,7 @@ enum RomanTables {
       YearAnchor(
         year: 683,
         yearStartJDN: 1695483,
+        yearEndJDN: 1695861,
         monthRows: 2387..<2400,
         leadingFragment: nil,
       )
@@ -41258,6 +41451,7 @@ enum RomanTables {
       YearAnchor(
         year: 684,
         yearStartJDN: 1695861,
+        yearEndJDN: 1696216,
         monthRows: 2400..<2412,
         leadingFragment: nil,
       )
@@ -41266,6 +41460,7 @@ enum RomanTables {
       YearAnchor(
         year: 685,
         yearStartJDN: 1696216,
+        yearEndJDN: 1696594,
         monthRows: 2412..<2425,
         leadingFragment: nil,
       )
@@ -41274,6 +41469,7 @@ enum RomanTables {
       YearAnchor(
         year: 686,
         yearStartJDN: 1696594,
+        yearEndJDN: 1696949,
         monthRows: 2425..<2437,
         leadingFragment: nil,
       )
@@ -41282,6 +41478,7 @@ enum RomanTables {
       YearAnchor(
         year: 687,
         yearStartJDN: 1696949,
+        yearEndJDN: 1697327,
         monthRows: 2437..<2450,
         leadingFragment: nil,
       )
@@ -41290,6 +41487,7 @@ enum RomanTables {
       YearAnchor(
         year: 688,
         yearStartJDN: 1697327,
+        yearEndJDN: 1697682,
         monthRows: 2450..<2462,
         leadingFragment: nil,
       )
@@ -41298,6 +41496,7 @@ enum RomanTables {
       YearAnchor(
         year: 689,
         yearStartJDN: 1697682,
+        yearEndJDN: 1698037,
         monthRows: 2462..<2474,
         leadingFragment: nil,
       )
@@ -41306,6 +41505,7 @@ enum RomanTables {
       YearAnchor(
         year: 690,
         yearStartJDN: 1698037,
+        yearEndJDN: 1698415,
         monthRows: 2474..<2487,
         leadingFragment: nil,
       )
@@ -41314,6 +41514,7 @@ enum RomanTables {
       YearAnchor(
         year: 691,
         yearStartJDN: 1698415,
+        yearEndJDN: 1698770,
         monthRows: 2487..<2499,
         leadingFragment: nil,
       )
@@ -41322,6 +41523,7 @@ enum RomanTables {
       YearAnchor(
         year: 692,
         yearStartJDN: 1698770,
+        yearEndJDN: 1699125,
         monthRows: 2499..<2511,
         leadingFragment: nil,
       )
@@ -41330,6 +41532,7 @@ enum RomanTables {
       YearAnchor(
         year: 693,
         yearStartJDN: 1699125,
+        yearEndJDN: 1699503,
         monthRows: 2511..<2524,
         leadingFragment: nil,
       )
@@ -41338,6 +41541,7 @@ enum RomanTables {
       YearAnchor(
         year: 694,
         yearStartJDN: 1699503,
+        yearEndJDN: 1699858,
         monthRows: 2524..<2536,
         leadingFragment: nil,
       )
@@ -41346,6 +41550,7 @@ enum RomanTables {
       YearAnchor(
         year: 695,
         yearStartJDN: 1699858,
+        yearEndJDN: 1700213,
         monthRows: 2536..<2548,
         leadingFragment: nil,
       )
@@ -41354,6 +41559,7 @@ enum RomanTables {
       YearAnchor(
         year: 696,
         yearStartJDN: 1700213,
+        yearEndJDN: 1700591,
         monthRows: 2548..<2561,
         leadingFragment: nil,
       )
@@ -41362,6 +41568,7 @@ enum RomanTables {
       YearAnchor(
         year: 697,
         yearStartJDN: 1700591,
+        yearEndJDN: 1700946,
         monthRows: 2561..<2573,
         leadingFragment: nil,
       )
@@ -41370,6 +41577,7 @@ enum RomanTables {
       YearAnchor(
         year: 698,
         yearStartJDN: 1700946,
+        yearEndJDN: 1701301,
         monthRows: 2573..<2585,
         leadingFragment: nil,
       )
@@ -41378,6 +41586,7 @@ enum RomanTables {
       YearAnchor(
         year: 699,
         yearStartJDN: 1701301,
+        yearEndJDN: 1701678,
         monthRows: 2585..<2598,
         leadingFragment: nil,
       )
@@ -41386,6 +41595,7 @@ enum RomanTables {
       YearAnchor(
         year: 700,
         yearStartJDN: 1701678,
+        yearEndJDN: 1702033,
         monthRows: 2598..<2610,
         leadingFragment: nil,
       )
@@ -41394,6 +41604,7 @@ enum RomanTables {
       YearAnchor(
         year: 701,
         yearStartJDN: 1702033,
+        yearEndJDN: 1702388,
         monthRows: 2610..<2622,
         leadingFragment: nil,
       )
@@ -41402,6 +41613,7 @@ enum RomanTables {
       YearAnchor(
         year: 702,
         yearStartJDN: 1702388,
+        yearEndJDN: 1702766,
         monthRows: 2622..<2635,
         leadingFragment: nil,
       )
@@ -41410,6 +41622,7 @@ enum RomanTables {
       YearAnchor(
         year: 703,
         yearStartJDN: 1702766,
+        yearEndJDN: 1703121,
         monthRows: 2635..<2647,
         leadingFragment: nil,
       )
@@ -41418,6 +41631,7 @@ enum RomanTables {
       YearAnchor(
         year: 704,
         yearStartJDN: 1703121,
+        yearEndJDN: 1703476,
         monthRows: 2647..<2659,
         leadingFragment: nil,
       )
@@ -41426,6 +41640,7 @@ enum RomanTables {
       YearAnchor(
         year: 705,
         yearStartJDN: 1703476,
+        yearEndJDN: 1703831,
         monthRows: 2659..<2671,
         leadingFragment: nil,
       )
@@ -41434,6 +41649,7 @@ enum RomanTables {
       YearAnchor(
         year: 706,
         yearStartJDN: 1703831,
+        yearEndJDN: 1704186,
         monthRows: 2671..<2683,
         leadingFragment: nil,
       )
@@ -41442,6 +41658,7 @@ enum RomanTables {
       YearAnchor(
         year: 707,
         yearStartJDN: 1704186,
+        yearEndJDN: 1704541,
         monthRows: 2683..<2695,
         leadingFragment: nil,
       )
@@ -41450,6 +41667,7 @@ enum RomanTables {
       YearAnchor(
         year: 708,
         yearStartJDN: 1704541,
+        yearEndJDN: 1704986,
         monthRows: 2695..<2710,
         leadingFragment: nil,
       )
@@ -41458,6 +41676,7 @@ enum RomanTables {
       YearAnchor(
         year: 709,
         yearStartJDN: 1704986,
+        yearEndJDN: 1705351,
         monthRows: 2710..<2722,
         leadingFragment: nil,
       )
@@ -41466,6 +41685,7 @@ enum RomanTables {
       YearAnchor(
         year: 710,
         yearStartJDN: 1705351,
+        yearEndJDN: 1705717,
         monthRows: 2722..<2734,
         leadingFragment: nil,
       )
@@ -41474,6 +41694,7 @@ enum RomanTables {
       YearAnchor(
         year: 711,
         yearStartJDN: 1705717,
+        yearEndJDN: 1706082,
         monthRows: 2734..<2746,
         leadingFragment: nil,
       )
@@ -41482,6 +41703,7 @@ enum RomanTables {
       YearAnchor(
         year: 712,
         yearStartJDN: 1706082,
+        yearEndJDN: 1706447,
         monthRows: 2746..<2758,
         leadingFragment: nil,
       )
@@ -41490,6 +41712,7 @@ enum RomanTables {
       YearAnchor(
         year: 713,
         yearStartJDN: 1706447,
+        yearEndJDN: 1706813,
         monthRows: 2758..<2770,
         leadingFragment: nil,
       )
@@ -41498,6 +41721,7 @@ enum RomanTables {
       YearAnchor(
         year: 714,
         yearStartJDN: 1706813,
+        yearEndJDN: 1707178,
         monthRows: 2770..<2782,
         leadingFragment: nil,
       )
@@ -41506,6 +41730,7 @@ enum RomanTables {
       YearAnchor(
         year: 715,
         yearStartJDN: 1707178,
+        yearEndJDN: 1707543,
         monthRows: 2782..<2794,
         leadingFragment: nil,
       )
@@ -41514,6 +41739,7 @@ enum RomanTables {
       YearAnchor(
         year: 716,
         yearStartJDN: 1707543,
+        yearEndJDN: 1707909,
         monthRows: 2794..<2806,
         leadingFragment: nil,
       )
@@ -41522,6 +41748,7 @@ enum RomanTables {
       YearAnchor(
         year: 717,
         yearStartJDN: 1707909,
+        yearEndJDN: 1708274,
         monthRows: 2806..<2818,
         leadingFragment: nil,
       )
@@ -41530,6 +41757,7 @@ enum RomanTables {
       YearAnchor(
         year: 718,
         yearStartJDN: 1708274,
+        yearEndJDN: 1708639,
         monthRows: 2818..<2830,
         leadingFragment: nil,
       )
@@ -41538,6 +41766,7 @@ enum RomanTables {
       YearAnchor(
         year: 719,
         yearStartJDN: 1708639,
+        yearEndJDN: 1709005,
         monthRows: 2830..<2842,
         leadingFragment: nil,
       )
@@ -41546,6 +41775,7 @@ enum RomanTables {
       YearAnchor(
         year: 720,
         yearStartJDN: 1709005,
+        yearEndJDN: 1709370,
         monthRows: 2842..<2854,
         leadingFragment: nil,
       )
@@ -41554,6 +41784,7 @@ enum RomanTables {
       YearAnchor(
         year: 721,
         yearStartJDN: 1709370,
+        yearEndJDN: 1709735,
         monthRows: 2854..<2866,
         leadingFragment: nil,
       )
@@ -41562,6 +41793,7 @@ enum RomanTables {
       YearAnchor(
         year: 722,
         yearStartJDN: 1709735,
+        yearEndJDN: 1710101,
         monthRows: 2866..<2878,
         leadingFragment: nil,
       )
@@ -41570,6 +41802,7 @@ enum RomanTables {
       YearAnchor(
         year: 723,
         yearStartJDN: 1710101,
+        yearEndJDN: 1710466,
         monthRows: 2878..<2890,
         leadingFragment: nil,
       )
@@ -41578,6 +41811,7 @@ enum RomanTables {
       YearAnchor(
         year: 724,
         yearStartJDN: 1710466,
+        yearEndJDN: 1710831,
         monthRows: 2890..<2902,
         leadingFragment: nil,
       )
@@ -41586,6 +41820,7 @@ enum RomanTables {
       YearAnchor(
         year: 725,
         yearStartJDN: 1710831,
+        yearEndJDN: 1711197,
         monthRows: 2902..<2914,
         leadingFragment: nil,
       )
@@ -41594,6 +41829,7 @@ enum RomanTables {
       YearAnchor(
         year: 726,
         yearStartJDN: 1711197,
+        yearEndJDN: 1711562,
         monthRows: 2914..<2926,
         leadingFragment: nil,
       )
@@ -41602,6 +41838,7 @@ enum RomanTables {
       YearAnchor(
         year: 727,
         yearStartJDN: 1711562,
+        yearEndJDN: 1711927,
         monthRows: 2926..<2938,
         leadingFragment: nil,
       )
@@ -41610,6 +41847,7 @@ enum RomanTables {
       YearAnchor(
         year: 728,
         yearStartJDN: 1711927,
+        yearEndJDN: 1712293,
         monthRows: 2938..<2950,
         leadingFragment: nil,
       )
@@ -41618,6 +41856,7 @@ enum RomanTables {
       YearAnchor(
         year: 729,
         yearStartJDN: 1712293,
+        yearEndJDN: 1712658,
         monthRows: 2950..<2962,
         leadingFragment: nil,
       )
@@ -41626,6 +41865,7 @@ enum RomanTables {
       YearAnchor(
         year: 730,
         yearStartJDN: 1712658,
+        yearEndJDN: 1713023,
         monthRows: 2962..<2974,
         leadingFragment: nil,
       )
@@ -41634,6 +41874,7 @@ enum RomanTables {
       YearAnchor(
         year: 731,
         yearStartJDN: 1713023,
+        yearEndJDN: 1713389,
         monthRows: 2974..<2986,
         leadingFragment: nil,
       )
@@ -41642,6 +41883,7 @@ enum RomanTables {
       YearAnchor(
         year: 732,
         yearStartJDN: 1713389,
+        yearEndJDN: 1713754,
         monthRows: 2986..<2998,
         leadingFragment: nil,
       )
@@ -41650,6 +41892,7 @@ enum RomanTables {
       YearAnchor(
         year: 733,
         yearStartJDN: 1713754,
+        yearEndJDN: 1714119,
         monthRows: 2998..<3010,
         leadingFragment: nil,
       )
@@ -41658,6 +41901,7 @@ enum RomanTables {
       YearAnchor(
         year: 734,
         yearStartJDN: 1714119,
+        yearEndJDN: 1714485,
         monthRows: 3010..<3022,
         leadingFragment: nil,
       )
@@ -41666,6 +41910,7 @@ enum RomanTables {
       YearAnchor(
         year: 735,
         yearStartJDN: 1714485,
+        yearEndJDN: 1714850,
         monthRows: 3022..<3034,
         leadingFragment: nil,
       )
@@ -41674,6 +41919,7 @@ enum RomanTables {
       YearAnchor(
         year: 736,
         yearStartJDN: 1714850,
+        yearEndJDN: 1715215,
         monthRows: 3034..<3046,
         leadingFragment: nil,
       )
@@ -41682,6 +41928,7 @@ enum RomanTables {
       YearAnchor(
         year: 737,
         yearStartJDN: 1715215,
+        yearEndJDN: 1715581,
         monthRows: 3046..<3058,
         leadingFragment: nil,
       )
@@ -41690,6 +41937,7 @@ enum RomanTables {
       YearAnchor(
         year: 738,
         yearStartJDN: 1715581,
+        yearEndJDN: 1715946,
         monthRows: 3058..<3070,
         leadingFragment: nil,
       )
@@ -41698,6 +41946,7 @@ enum RomanTables {
       YearAnchor(
         year: 739,
         yearStartJDN: 1715946,
+        yearEndJDN: 1716311,
         monthRows: 3070..<3082,
         leadingFragment: nil,
       )
@@ -41706,6 +41955,7 @@ enum RomanTables {
       YearAnchor(
         year: 740,
         yearStartJDN: 1716311,
+        yearEndJDN: 1716677,
         monthRows: 3082..<3094,
         leadingFragment: nil,
       )
@@ -41714,6 +41964,7 @@ enum RomanTables {
       YearAnchor(
         year: 741,
         yearStartJDN: 1716677,
+        yearEndJDN: 1717042,
         monthRows: 3094..<3106,
         leadingFragment: nil,
       )
@@ -41722,6 +41973,7 @@ enum RomanTables {
       YearAnchor(
         year: 742,
         yearStartJDN: 1717042,
+        yearEndJDN: 1717407,
         monthRows: 3106..<3118,
         leadingFragment: nil,
       )
@@ -41730,6 +41982,7 @@ enum RomanTables {
       YearAnchor(
         year: 743,
         yearStartJDN: 1717407,
+        yearEndJDN: 1717773,
         monthRows: 3118..<3130,
         leadingFragment: nil,
       )
@@ -41738,6 +41991,7 @@ enum RomanTables {
       YearAnchor(
         year: 744,
         yearStartJDN: 1717773,
+        yearEndJDN: 1718138,
         monthRows: 3130..<3142,
         leadingFragment: nil,
       )
@@ -41746,6 +42000,7 @@ enum RomanTables {
       YearAnchor(
         year: 745,
         yearStartJDN: 1718138,
+        yearEndJDN: 1718503,
         monthRows: 3142..<3154,
         leadingFragment: nil,
       )
@@ -41754,6 +42009,7 @@ enum RomanTables {
       YearAnchor(
         year: 746,
         yearStartJDN: 1718503,
+        yearEndJDN: 1718869,
         monthRows: 3154..<3166,
         leadingFragment: nil,
       )
@@ -41762,6 +42018,7 @@ enum RomanTables {
       YearAnchor(
         year: 747,
         yearStartJDN: 1718869,
+        yearEndJDN: 1719234,
         monthRows: 3166..<3178,
         leadingFragment: nil,
       )
@@ -41770,6 +42027,7 @@ enum RomanTables {
       YearAnchor(
         year: 748,
         yearStartJDN: 1719234,
+        yearEndJDN: 1719599,
         monthRows: 3178..<3190,
         leadingFragment: nil,
       )
@@ -41778,6 +42036,7 @@ enum RomanTables {
       YearAnchor(
         year: 749,
         yearStartJDN: 1719599,
+        yearEndJDN: 1719964,
         monthRows: 3190..<3202,
         leadingFragment: nil,
       )
@@ -41786,6 +42045,7 @@ enum RomanTables {
       YearAnchor(
         year: 750,
         yearStartJDN: 1719964,
+        yearEndJDN: 1720329,
         monthRows: 3202..<3214,
         leadingFragment: nil,
       )
@@ -41794,6 +42054,7 @@ enum RomanTables {
       YearAnchor(
         year: 751,
         yearStartJDN: 1720329,
+        yearEndJDN: 1720694,
         monthRows: 3214..<3226,
         leadingFragment: nil,
       )
@@ -41802,6 +42063,7 @@ enum RomanTables {
       YearAnchor(
         year: 752,
         yearStartJDN: 1720694,
+        yearEndJDN: 1721059,
         monthRows: 3226..<3238,
         leadingFragment: nil,
       )
@@ -41810,6 +42072,7 @@ enum RomanTables {
       YearAnchor(
         year: 753,
         yearStartJDN: 1721059,
+        yearEndJDN: 1721424,
         monthRows: 3238..<3250,
         leadingFragment: nil,
       )
@@ -41818,6 +42081,7 @@ enum RomanTables {
       YearAnchor(
         year: 754,
         yearStartJDN: 1721424,
+        yearEndJDN: 1721789,
         monthRows: 3250..<3262,
         leadingFragment: nil,
       )
@@ -41826,6 +42090,7 @@ enum RomanTables {
       YearAnchor(
         year: 755,
         yearStartJDN: 1721789,
+        yearEndJDN: 1722154,
         monthRows: 3262..<3274,
         leadingFragment: nil,
       )
@@ -41834,6 +42099,7 @@ enum RomanTables {
       YearAnchor(
         year: 756,
         yearStartJDN: 1722154,
+        yearEndJDN: 1722519,
         monthRows: 3274..<3286,
         leadingFragment: nil,
       )
@@ -41842,6 +42108,7 @@ enum RomanTables {
       YearAnchor(
         year: 757,
         yearStartJDN: 1722519,
+        yearEndJDN: 1722885,
         monthRows: 3286..<3298,
         leadingFragment: nil,
       )
@@ -41850,6 +42117,7 @@ enum RomanTables {
       YearAnchor(
         year: 758,
         yearStartJDN: 1722885,
+        yearEndJDN: 1723250,
         monthRows: 3298..<3310,
         leadingFragment: nil,
       )
@@ -41858,6 +42126,7 @@ enum RomanTables {
       YearAnchor(
         year: 759,
         yearStartJDN: 1723250,
+        yearEndJDN: 1723615,
         monthRows: 3310..<3322,
         leadingFragment: nil,
       )
@@ -41866,6 +42135,7 @@ enum RomanTables {
       YearAnchor(
         year: 760,
         yearStartJDN: 1723615,
+        yearEndJDN: 1723980,
         monthRows: 3322..<3334,
         leadingFragment: nil,
       )
@@ -41874,6 +42144,7 @@ enum RomanTables {
       YearAnchor(
         year: 761,
         yearStartJDN: 1723980,
+        yearEndJDN: 1724346,
         monthRows: 3334..<3346,
         leadingFragment: nil,
       )
@@ -41882,6 +42153,7 @@ enum RomanTables {
       YearAnchor(
         year: 762,
         yearStartJDN: 1724346,
+        yearEndJDN: 1724711,
         monthRows: 3346..<3358,
         leadingFragment: nil,
       )
@@ -41890,6 +42162,7 @@ enum RomanTables {
       YearAnchor(
         year: 763,
         yearStartJDN: 1724711,
+        yearEndJDN: 1725076,
         monthRows: 3358..<3370,
         leadingFragment: nil,
       )
@@ -41898,6 +42171,7 @@ enum RomanTables {
       YearAnchor(
         year: 764,
         yearStartJDN: 1725076,
+        yearEndJDN: 1725441,
         monthRows: 3370..<3382,
         leadingFragment: nil,
       )
@@ -41906,6 +42180,7 @@ enum RomanTables {
       YearAnchor(
         year: 765,
         yearStartJDN: 1725441,
+        yearEndJDN: 1725807,
         monthRows: 3382..<3394,
         leadingFragment: nil,
       )
@@ -41914,6 +42189,7 @@ enum RomanTables {
       YearAnchor(
         year: 766,
         yearStartJDN: 1725807,
+        yearEndJDN: 1726172,
         monthRows: 3394..<3406,
         leadingFragment: nil,
       )
@@ -41922,6 +42198,7 @@ enum RomanTables {
       YearAnchor(
         year: 767,
         yearStartJDN: 1726172,
+        yearEndJDN: 1726537,
         monthRows: 3406..<3418,
         leadingFragment: nil,
       )
@@ -41930,6 +42207,7 @@ enum RomanTables {
       YearAnchor(
         year: 768,
         yearStartJDN: 1726537,
+        yearEndJDN: 1726902,
         monthRows: 3418..<3430,
         leadingFragment: nil,
       )
@@ -41938,6 +42216,7 @@ enum RomanTables {
       YearAnchor(
         year: 769,
         yearStartJDN: 1726902,
+        yearEndJDN: 1727268,
         monthRows: 3430..<3442,
         leadingFragment: nil,
       )
@@ -41946,6 +42225,7 @@ enum RomanTables {
       YearAnchor(
         year: 770,
         yearStartJDN: 1727268,
+        yearEndJDN: 1727633,
         monthRows: 3442..<3454,
         leadingFragment: nil,
       )
@@ -41954,6 +42234,7 @@ enum RomanTables {
       YearAnchor(
         year: 771,
         yearStartJDN: 1727633,
+        yearEndJDN: 1727998,
         monthRows: 3454..<3466,
         leadingFragment: nil,
       )
@@ -41962,6 +42243,7 @@ enum RomanTables {
       YearAnchor(
         year: 772,
         yearStartJDN: 1727998,
+        yearEndJDN: 1728363,
         monthRows: 3466..<3478,
         leadingFragment: nil,
       )
@@ -41970,6 +42252,7 @@ enum RomanTables {
       YearAnchor(
         year: 773,
         yearStartJDN: 1728363,
+        yearEndJDN: 1728729,
         monthRows: 3478..<3490,
         leadingFragment: nil,
       )
@@ -41978,6 +42261,7 @@ enum RomanTables {
       YearAnchor(
         year: 774,
         yearStartJDN: 1728729,
+        yearEndJDN: 1729094,
         monthRows: 3490..<3502,
         leadingFragment: nil,
       )
@@ -41986,6 +42270,7 @@ enum RomanTables {
       YearAnchor(
         year: 775,
         yearStartJDN: 1729094,
+        yearEndJDN: 1729459,
         monthRows: 3502..<3514,
         leadingFragment: nil,
       )
@@ -41994,6 +42279,7 @@ enum RomanTables {
       YearAnchor(
         year: 776,
         yearStartJDN: 1729459,
+        yearEndJDN: 1729824,
         monthRows: 3514..<3526,
         leadingFragment: nil,
       )
@@ -42002,6 +42288,7 @@ enum RomanTables {
       YearAnchor(
         year: 777,
         yearStartJDN: 1729824,
+        yearEndJDN: 1730190,
         monthRows: 3526..<3538,
         leadingFragment: nil,
       )
@@ -42010,6 +42297,7 @@ enum RomanTables {
       YearAnchor(
         year: 778,
         yearStartJDN: 1730190,
+        yearEndJDN: 1730555,
         monthRows: 3538..<3550,
         leadingFragment: nil,
       )
@@ -42018,6 +42306,7 @@ enum RomanTables {
       YearAnchor(
         year: 779,
         yearStartJDN: 1730555,
+        yearEndJDN: 1730920,
         monthRows: 3550..<3562,
         leadingFragment: nil,
       )
@@ -42026,6 +42315,7 @@ enum RomanTables {
       YearAnchor(
         year: 780,
         yearStartJDN: 1730920,
+        yearEndJDN: 1731285,
         monthRows: 3562..<3574,
         leadingFragment: nil,
       )
@@ -42034,6 +42324,7 @@ enum RomanTables {
       YearAnchor(
         year: 781,
         yearStartJDN: 1731285,
+        yearEndJDN: 1731651,
         monthRows: 3574..<3586,
         leadingFragment: nil,
       )
@@ -42042,6 +42333,7 @@ enum RomanTables {
       YearAnchor(
         year: 782,
         yearStartJDN: 1731651,
+        yearEndJDN: 1732016,
         monthRows: 3586..<3598,
         leadingFragment: nil,
       )
@@ -42050,6 +42342,7 @@ enum RomanTables {
       YearAnchor(
         year: 783,
         yearStartJDN: 1732016,
+        yearEndJDN: 1732381,
         monthRows: 3598..<3610,
         leadingFragment: nil,
       )
@@ -42058,6 +42351,7 @@ enum RomanTables {
       YearAnchor(
         year: 784,
         yearStartJDN: 1732381,
+        yearEndJDN: 1732746,
         monthRows: 3610..<3622,
         leadingFragment: nil,
       )
@@ -42066,6 +42360,7 @@ enum RomanTables {
       YearAnchor(
         year: 785,
         yearStartJDN: 1732746,
+        yearEndJDN: 1733112,
         monthRows: 3622..<3634,
         leadingFragment: nil,
       )
@@ -42074,6 +42369,7 @@ enum RomanTables {
       YearAnchor(
         year: 786,
         yearStartJDN: 1733112,
+        yearEndJDN: 1733477,
         monthRows: 3634..<3646,
         leadingFragment: nil,
       )
@@ -42082,6 +42378,7 @@ enum RomanTables {
       YearAnchor(
         year: 787,
         yearStartJDN: 1733477,
+        yearEndJDN: 1733842,
         monthRows: 3646..<3658,
         leadingFragment: nil,
       )
@@ -42090,6 +42387,7 @@ enum RomanTables {
       YearAnchor(
         year: 788,
         yearStartJDN: 1733842,
+        yearEndJDN: 1734207,
         monthRows: 3658..<3670,
         leadingFragment: nil,
       )
@@ -42098,6 +42396,7 @@ enum RomanTables {
       YearAnchor(
         year: 789,
         yearStartJDN: 1734207,
+        yearEndJDN: 1734573,
         monthRows: 3670..<3682,
         leadingFragment: nil,
       )
@@ -42106,6 +42405,7 @@ enum RomanTables {
       YearAnchor(
         year: 790,
         yearStartJDN: 1734573,
+        yearEndJDN: 1734938,
         monthRows: 3682..<3694,
         leadingFragment: nil,
       )
@@ -42114,6 +42414,7 @@ enum RomanTables {
       YearAnchor(
         year: 791,
         yearStartJDN: 1734938,
+        yearEndJDN: 1735303,
         monthRows: 3694..<3706,
         leadingFragment: nil,
       )
@@ -42122,6 +42423,7 @@ enum RomanTables {
       YearAnchor(
         year: 792,
         yearStartJDN: 1735303,
+        yearEndJDN: 1735668,
         monthRows: 3706..<3718,
         leadingFragment: nil,
       )
@@ -42130,6 +42432,7 @@ enum RomanTables {
       YearAnchor(
         year: 793,
         yearStartJDN: 1735668,
+        yearEndJDN: 1736034,
         monthRows: 3718..<3730,
         leadingFragment: nil,
       )
@@ -42138,6 +42441,7 @@ enum RomanTables {
       YearAnchor(
         year: 794,
         yearStartJDN: 1736034,
+        yearEndJDN: 1736399,
         monthRows: 3730..<3742,
         leadingFragment: nil,
       )
@@ -42146,6 +42450,7 @@ enum RomanTables {
       YearAnchor(
         year: 795,
         yearStartJDN: 1736399,
+        yearEndJDN: 1736764,
         monthRows: 3742..<3754,
         leadingFragment: nil,
       )
@@ -42154,6 +42459,7 @@ enum RomanTables {
       YearAnchor(
         year: 796,
         yearStartJDN: 1736764,
+        yearEndJDN: 1737129,
         monthRows: 3754..<3766,
         leadingFragment: nil,
       )
@@ -42162,6 +42468,7 @@ enum RomanTables {
       YearAnchor(
         year: 797,
         yearStartJDN: 1737129,
+        yearEndJDN: 1737495,
         monthRows: 3766..<3778,
         leadingFragment: nil,
       )
@@ -42170,6 +42477,7 @@ enum RomanTables {
       YearAnchor(
         year: 798,
         yearStartJDN: 1737495,
+        yearEndJDN: 1737860,
         monthRows: 3778..<3790,
         leadingFragment: nil,
       )
@@ -42178,6 +42486,7 @@ enum RomanTables {
       YearAnchor(
         year: 799,
         yearStartJDN: 1737860,
+        yearEndJDN: 1738225,
         monthRows: 3790..<3802,
         leadingFragment: nil,
       )
@@ -42186,6 +42495,7 @@ enum RomanTables {
       YearAnchor(
         year: 800,
         yearStartJDN: 1738225,
+        yearEndJDN: 1738590,
         monthRows: 3802..<3814,
         leadingFragment: nil,
       )
@@ -42194,6 +42504,7 @@ enum RomanTables {
       YearAnchor(
         year: 801,
         yearStartJDN: 1738590,
+        yearEndJDN: 1738956,
         monthRows: 3814..<3826,
         leadingFragment: nil,
       )
@@ -42202,6 +42513,7 @@ enum RomanTables {
       YearAnchor(
         year: 802,
         yearStartJDN: 1738956,
+        yearEndJDN: 1739321,
         monthRows: 3826..<3838,
         leadingFragment: nil,
       )
@@ -42210,6 +42522,7 @@ enum RomanTables {
       YearAnchor(
         year: 803,
         yearStartJDN: 1739321,
+        yearEndJDN: 1739686,
         monthRows: 3838..<3850,
         leadingFragment: nil,
       )
@@ -42218,6 +42531,7 @@ enum RomanTables {
       YearAnchor(
         year: 804,
         yearStartJDN: 1739686,
+        yearEndJDN: 1740051,
         monthRows: 3850..<3862,
         leadingFragment: nil,
       )
@@ -42226,6 +42540,7 @@ enum RomanTables {
       YearAnchor(
         year: 805,
         yearStartJDN: 1740051,
+        yearEndJDN: 1740417,
         monthRows: 3862..<3874,
         leadingFragment: nil,
       )
@@ -42234,6 +42549,7 @@ enum RomanTables {
       YearAnchor(
         year: 806,
         yearStartJDN: 1740417,
+        yearEndJDN: 1740782,
         monthRows: 3874..<3886,
         leadingFragment: nil,
       )
@@ -42242,6 +42558,7 @@ enum RomanTables {
       YearAnchor(
         year: 807,
         yearStartJDN: 1740782,
+        yearEndJDN: 1741147,
         monthRows: 3886..<3898,
         leadingFragment: nil,
       )
@@ -42250,6 +42567,7 @@ enum RomanTables {
       YearAnchor(
         year: 808,
         yearStartJDN: 1741147,
+        yearEndJDN: 1741512,
         monthRows: 3898..<3910,
         leadingFragment: nil,
       )
@@ -42258,6 +42576,7 @@ enum RomanTables {
       YearAnchor(
         year: 809,
         yearStartJDN: 1741512,
+        yearEndJDN: 1741878,
         monthRows: 3910..<3922,
         leadingFragment: nil,
       )
@@ -42266,6 +42585,7 @@ enum RomanTables {
       YearAnchor(
         year: 810,
         yearStartJDN: 1741878,
+        yearEndJDN: 1742243,
         monthRows: 3922..<3934,
         leadingFragment: nil,
       )
@@ -42274,6 +42594,7 @@ enum RomanTables {
       YearAnchor(
         year: 811,
         yearStartJDN: 1742243,
+        yearEndJDN: 1742608,
         monthRows: 3934..<3946,
         leadingFragment: nil,
       )
@@ -42282,6 +42603,7 @@ enum RomanTables {
       YearAnchor(
         year: 812,
         yearStartJDN: 1742608,
+        yearEndJDN: 1742973,
         monthRows: 3946..<3958,
         leadingFragment: nil,
       )
@@ -42290,6 +42612,7 @@ enum RomanTables {
       YearAnchor(
         year: 813,
         yearStartJDN: 1742973,
+        yearEndJDN: 0,
         monthRows: 3958..<3970,
         leadingFragment: nil,
       )
@@ -45986,3 +46309,4 @@ enum RomanTables {
     return buckets
   }
 }
+

@@ -9,6 +9,7 @@
 public struct YearAnchor: Sendable {
   public let year: Int                 // AUC, regnal year, etc.
   public let yearStartJDN: Int         // Absolute first day of this year
+  public let yearEndJDN: Int           // Absolute day of next year day of this year
   public let monthRows: Range<Int>     // Slice into `months` for this year
 
   /// Optional leading fragment when a year starts mid-month (e.g., Mar 15  - Mar 31)
@@ -86,17 +87,33 @@ public struct TableCalendar: Sendable {
 
   public func components(containing jdn: Int) -> TableDateComponents? {
     let reverseIndex = (jdn - years.first!.yearStartJDN) / 32
-    guard reverseIndex < reverse.count else {
+    guard 0 <= reverseIndex && reverseIndex < reverse.count else {
       return nil
     }
 
     let monthRange = months[reverse[reverseIndex]]
     // Iterate over the year to find the matching month
-    for (i, m) in zip(1..<monthRange.count, monthRange) {
+    for m in monthRange {
       let y = years[m.year - years[0].year]
       let mjdn = y.yearStartJDN + m.offsetFromYearStart
+
       if mjdn <= jdn && jdn < mjdn + m.length {
-        return TableDateComponents(year: m.year, month: i, day: jdn - mjdn + 1)
+        // We have the correct month, but it may be outside the year and belong to the next
+        // because the next year started in the middle of the month.
+        if jdn < y.yearEndJDN {
+          return TableDateComponents(year: m.year, month: m.appearanceMonth, day: jdn - mjdn + 1)
+        }
+        let nextYearIndex = m.year - years[0].year + 1
+        guard nextYearIndex < years.count else {
+          return nil
+        }
+        let nextYear = years[nextYearIndex]
+        guard let leadingFragment = nextYear.leadingFragment else {
+          return nil
+        }
+
+        return TableDateComponents(year: nextYear.year, month: 0,
+                                   day: jdn - mjdn + 1 - leadingFragment.startDay + 1)
       }
     }
     return nil
