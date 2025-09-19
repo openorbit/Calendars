@@ -91,3 +91,18 @@ func testRomanIdes15YearStartDateReverse() async throws {
   #expect(f!.month == 13)
   #expect(f!.day == 14)
 }
+
+
+@Test
+func testRomanJulianAlignmentPostTables() async throws {
+
+  let firstPostTabulatedDate
+    = RomanCalendar.shared.date(fromJDN: JulianCalendar.shared.jdn(forYear: 61, month: 1, day: 1))
+  #expect(firstPostTabulatedDate!.year == 814)
+  #expect(firstPostTabulatedDate!.month == 1)
+  #expect(firstPostTabulatedDate!.day == 1)
+
+  
+  let firstPostTabulatedJDN = RomanCalendar.shared.jdn(from: firstPostTabulatedDate!)
+  #expect(firstPostTabulatedJDN == JulianCalendar.shared.jdn(forYear: 61, month: 1, day: 1))
+}

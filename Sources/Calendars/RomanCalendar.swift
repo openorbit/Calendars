@@ -521,11 +521,36 @@ public struct RomanCalendar : CalendarProtocol {
           let m = c.month, let d = c.day else {
       return nil
     }
+
+    // We have three different ranges to deal with:
+
+    // Before AUC 491
+    if c.year < 491 {
+      // We should model this with an ideal model
+      return nil
+    } else if 60 < c.year {
+      // After AUC 813 = CE 60, we resort to Julian
+      return JulianCalendar.toJDN(Y: c.year - (813 - 60), M: m, D: d)
+    }
+
+
     return jdn(forYear: c.year, month: m, day: d)
   }
 
   // Inverse
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
+    // TODO: Take JDN ranges from tables
+    if jdn < 1625460 {
+      return nil
+    } else if jdn >= 1743339 {
+      // After our tables
+      let (y, m, d) = JulianCalendar.toDate(J: jdn)
+      return CalendarDateComponents(calendar: .romanRepublican,
+                                    yearMode: .civil,
+                                    year: y + (813 - 60),
+                                    month: m,
+                                    day: d)
+    }
     let tc = RomanCalendar.table.components(containing: jdn)
     guard let tc else { return nil }
     return CalendarDateComponents(calendar: .romanRepublican,
