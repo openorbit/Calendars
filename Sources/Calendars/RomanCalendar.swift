@@ -524,12 +524,11 @@ public struct RomanCalendar : CalendarProtocol {
     return true
   }
   public func monthName(forYear year: Int, month: Int) -> String {
-    let months = RomanCalendar.table.monthRows(forYear: year)
-    return romanMonths[months[month - 1].monthInfoIndex].names[0].variants["la"]!
+    let months = months(forYear: year, mode: .civil)
+    return months[month - 1].spec.names[0].variants["la"]!
   }
   public func daysInMonth(year: Int, month: Int) -> Int {
-    let months = RomanCalendar.table.monthRows(forYear: year)
-
+    let months = months(forYear: year, mode: .civil)
     return months[month-1].length
   }
 
