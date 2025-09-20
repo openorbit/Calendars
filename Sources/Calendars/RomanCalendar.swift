@@ -483,16 +483,41 @@ public struct RomanCalendar : CalendarProtocol {
   private static let table = RomanCalendarFactory.make()
 
   public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth] {
-    let months = RomanCalendar.table.monthRows(forYear: year)
+    switch regime(forYear: year) {
+    case .extrapolated:
+      return []
+    case .reconstructed:
+      let months = RomanCalendar.table.monthRows(forYear: year)
 
-    var result: [ResolvedMonth] = []
-    for (i, month) in zip(1...months.count, months) {
-      result.append(ResolvedMonth(spec: romanMonths[month.monthInfoIndex],
-                                  index: i, mode: mode,
-                                  firstDay: 1, length: month.length))
+      var result: [ResolvedMonth] = []
+      for (i, month) in zip(1...months.count, months) {
+        result.append(ResolvedMonth(spec: romanMonths[month.monthInfoIndex],
+                                    index: i, mode: mode,
+                                    firstDay: 1, length: month.length))
+      }
+
+      return result
+    case .ruleBased:
+      
+      var result: [ResolvedMonth] = []
+
+      for (i, (d, m)) in zip(1...12, [(31, RomanMonth.IAN), (28, RomanMonth.FEB), (31, RomanMonth.MAR), (30, RomanMonth.APR), (31, RomanMonth.MAI), (30, RomanMonth.IUN), (31, RomanMonth.QUI), (31, RomanMonth.SEX), (30, RomanMonth.SEP), (31, RomanMonth.OCT), (30, RomanMonth.NOV), (31, RomanMonth.DEC)]) {
+
+        // We are one year out of phase with Julian year counting.
+        if m == .FEB && (year + 1) % 4 == 0 {
+          result.append(ResolvedMonth(spec: romanMonths[m.slot],
+                                      index: i, mode: .civil,
+                                      firstDay: 1, length: d + 1))
+
+        } else {
+          result.append(ResolvedMonth(spec: romanMonths[m.slot],
+                                      index: i, mode: .civil,
+                                      firstDay: 1, length: d))
+        }
+      }
+
+      return result
     }
-
-    return result
   }
 
   public func isValidDate(year: Int, month: Int, day: Int) -> Bool {
