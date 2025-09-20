@@ -385,7 +385,7 @@ public enum RomanMonth: UInt8, Sendable, Equatable, Comparable {
   case INT_II
   case DEC
 
-  var slot: Int {
+  package var slot: Int {
     Int(self.rawValue)
   }
   public static func < (lhs: RomanMonth, rhs: RomanMonth) -> Bool {
