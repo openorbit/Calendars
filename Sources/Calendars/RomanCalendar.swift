@@ -559,4 +559,14 @@ public struct RomanCalendar : CalendarProtocol {
                                   month: tc.month,
                                   day: tc.day)
   }
+
+  public func regime(forYear year: Int) -> CalendarRegime {
+    if year < 491 {
+      return .extrapolated
+    } else if 60 < year {
+      return .ruleBased
+    } else {
+      return .reconstructed
+    }
+  }
 }

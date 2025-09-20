@@ -19,11 +19,19 @@
 import Foundation
 
 public enum YearMode {
-  case civil        // the calendar’s canonical year (e.g., Jan 1 → Dec 31)
-  case consular     // Roman consular year (historically drifting start day)
-  case regnal       // starts on a ruler’s accession anniversary (varies by monarch)
-  case fiscal       // jurisdiction-defined FY (e.g., Apr 1, Jul 1, Oct 1)
-  case liturgical   // church year (e.g., Advent, 1 Sep Byzantine, etc.)
+  case civil        // The calendar’s canonical year
+  case regnal       // Starts on a ruler’s accession anniversary (varies by monarch)
+  case fiscal       // Jurisdiction-defined FY (e.g., Apr 1, Jul 1, Oct 1)
+  case liturgical   // Church year (e.g., Advent, 1 Sep Byzantine, etc.)
+}
+
+public enum CalendarRegime : Sendable {
+  /// Date based on calendar being rule based, which is independent on historical reconstructtion
+  case ruleBased
+  /// Reconstructed date based on tables attested by scholars
+  case reconstructed
+  /// Date is calculated based on algorihtmic extrapolation, outside reconstructed table ranges
+  case extrapolated
 }
 
 public struct CalendarDateComponents {
@@ -33,7 +41,9 @@ public struct CalendarDateComponents {
   public var month: Int?
   public var day: Int?
 
-  public init(calendar: CalendarId, yearMode: YearMode, year: Int, month: Int? = nil, day: Int? = nil) {
+  public let regime: CalendarRegime
+
+  public init(calendar: CalendarId, yearMode: YearMode = .civil, year: Int, month: Int? = nil, day: Int? = nil) {
     self.calendar =
     switch calendar {
     case .gregorian:
@@ -66,5 +76,17 @@ public struct CalendarDateComponents {
     self.year = year
     self.month = month
     self.day = day
+
+    if calendar == .romanRepublican {
+      self.regime = RomanCalendar.shared.regime(forYear: year)
+    } else {
+      self.regime = .ruleBased
+    }
+  }
+
+  public var jdn: Int {
+    let m = month ?? 1
+    let d = day ?? 1
+    return self.calendar.engine.jdn(forYear: year, month: m, day: d)
   }
 }
