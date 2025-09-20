@@ -360,7 +360,7 @@ fileprivate let romanMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "December"
+          "la": "December"
         ],
         sources: nil
       )
