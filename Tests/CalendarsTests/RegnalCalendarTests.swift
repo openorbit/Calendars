@@ -56,4 +56,23 @@ final class RegnalCalendarTests: XCTestCase {
             XCTFail("Failed to calc regnal year 5")
         }
     }
+    
+    func testRomanConsulLookup() {
+        let rc = RegnalCalendar.shared
+        // "Lucius Iunius Brutus" (AUC 245)
+        let tenures = rc.findTenures(forMonarch: "Lucius Iunius Brutus")
+        XCTAssertFalse(tenures.isEmpty, "Should find Brutus")
+        
+        guard let tenure = tenures.first else { return }
+        // Year 1 of tenure (Consulship is usually 1 year)
+        if let range = rc.julianDateRange(forRegnalYear: 1, tenure: tenure) {
+            // AUC 245 -> 245 - 753 = -508
+            // Start default Jan 1
+            XCTAssertEqual(range.0.year, -508)
+            XCTAssertEqual(range.0.month, 1) // default
+            XCTAssertEqual(range.0.day, 1)   // default
+        } else {
+            XCTFail("Failed to calc consular year")
+        }
+    }
 }

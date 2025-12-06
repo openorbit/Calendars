@@ -45,8 +45,8 @@ public struct RegnalTenure: Codable, Identifiable {
     
     public struct YMD: Codable {
         public let year: Int
-        public let month: Int
-        public let day: Int
+        public let month: Int?
+        public let day: Int?
     }
 }
 

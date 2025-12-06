@@ -47,14 +47,30 @@ public final class RegnalCalendar: @unchecked Sendable {
         public let monarchName: String
     }
     
-    /// Returns the (start, end) JulianDate for the Nth year of the given monarch tenure.
+    /// Returns the (start, end) JulianDate for the Nth year of the given monarch/tenure.
     /// Regnal years usually start on the accession date.
     public func julianDateRange(forRegnalYear year: Int, tenure: RegnalTenure) -> (JulianDate, JulianDate)? {
-        guard let startDef = tenure.start.first?.ymd else { return nil }
+        guard let startDefinition = tenure.start.first else { return nil }
+        guard let startYMD = startDefinition.ymd else { return nil }
         
-        let startYear = startDef.year
-        let startMonth = startDef.month
-        let startDay = startDef.day
+        let rawYear = startYMD.year
+        let rawMonth = startYMD.month ?? 1
+        let rawDay = startYMD.day ?? 1
+        
+        // Resolve Calendar
+        var startYear = rawYear
+        var startMonth = rawMonth
+        var startDay = rawDay
+        
+        if startDefinition.calendar == "AUC" {
+            // Convert to Julian
+            // Simplistic approximation for republic prior to 45 BCE: 1 AUC = 753 BCE
+            // This is sufficient for simple "year of consul" display validation.
+            // A more robust app would use the RomanCalendar for years > 491.
+            startYear = rawYear - 753
+            // Months/Days in pre-Julian Roman calendar might strictly differ,
+            // but we often treat them as 1:1 if we lack better data.
+        }
         
         // Start of Nth year = Accession Day in (StartYear + N - 1)
         let regnalStartYear = startYear + (year - 1)
