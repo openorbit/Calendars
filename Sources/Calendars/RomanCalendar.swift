@@ -477,7 +477,7 @@ public struct RomanCalendar : CalendarProtocol {
 
   public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
     // Check regime first to avoid table lookup crash
-    if 60 < year {
+    if 813 < year {
        let tc = TableDateComponents(year: year, month: month, day: day)
        if let jdn = RomanCalendar.table.jdn(from: tc) {
            return jdn
@@ -520,6 +520,14 @@ public struct RomanCalendar : CalendarProtocol {
       let months = RomanCalendar.table.monthRows(forYear: year)
 
       var result: [ResolvedMonth] = []
+      
+      // Check for leading fragment (Month 0)
+      if let anchor = RomanCalendar.table.anchor(forYear: year), let frag = anchor.leadingFragment {
+          result.append(ResolvedMonth(spec: romanMonths[frag.monthInfoIndex],
+                                      index: 0, mode: mode,
+                                      firstDay: frag.startDay, length: frag.length))
+      }
+
       for (i, month) in zip(1...months.count, months) {
         result.append(ResolvedMonth(spec: romanMonths[month.monthInfoIndex],
                                     index: i, mode: mode,
@@ -554,12 +562,14 @@ public struct RomanCalendar : CalendarProtocol {
     return true
   }
   public func monthName(forYear year: Int, month: Int) -> String {
-    let months = months(forYear: year, mode: .civil)
-    return months[month - 1].spec.names[0].variants["la"]!
+    let list = months(forYear: year, mode: .civil)
+    guard let m = list.first(where: { $0.index == month }) else { return "Unknown" }
+    return m.spec.names[0].variants["la"] ?? "Unknown"
   }
   public func daysInMonth(year: Int, month: Int) -> Int {
-    let months = months(forYear: year, mode: .civil)
-    return months[month-1].length
+    let list = months(forYear: year, mode: .civil)
+    guard let m = list.first(where: { $0.index == month }) else { return 0 }
+    return m.length
   }
 
   public func isProleptic(julianDay jdn: Int) -> Bool {
@@ -582,7 +592,7 @@ public struct RomanCalendar : CalendarProtocol {
     if c.year < 491 {
       // We should model this with an ideal model
       return nil
-    } else if 60 < c.year {
+    } else if 813 < c.year {
       // After AUC 813 = CE 60, we resort to Julian
       return JulianCalendar.toJDN(Y: c.year - (813 - 60), M: m, D: d)
     }
@@ -617,7 +627,7 @@ public struct RomanCalendar : CalendarProtocol {
   public func regime(forYear year: Int) -> CalendarRegime {
     if year < 491 {
       return .extrapolated
-    } else if 60 < year {
+    } else if 813 < year {
       return .ruleBased
     } else {
       return .reconstructed
