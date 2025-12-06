@@ -785,4 +785,143 @@ public struct RomanCalendar : CalendarProtocol {
       return .reconstructed
     }
   }
+  public func formattedDayName(year: Int, month: Int, day: Int) -> String {
+      // 1. Resolve proper month spec/length from engine
+      let ms = months(forYear: year, mode: .civil)
+      guard let resolvedMonth = ms.first(where: { $0.index == month }) else { return "\(day)" }
+      
+      let m = resolvedMonth.spec.names[0].variants["la"] ?? "Unknown"
+      
+      // Determine which table to use
+      // MMJO: Mar, Mai, Qui, Oct -> Ides on 15th. 31 days.
+      // JAD: Ian, Sex, Dec -> Ides on 13th. 31 days.
+      // AJSN: Apr, Iun, Sep, Nov -> Ides on 13th. 30 days.
+      // Feb: 28 days (Civil).
+      
+      // We need to map 'RomanMonth' from the spec to our table logic
+      // Since we don't have direct access to 'RomanMonth' enum easily from ResolvedMonth without parsing UID or casting,
+      // we can infer from properties or use a helper if we exposed 'monthEnum' on ResolvedMonth.
+      // But ResolvedMonth.spec.monthUID is "roman_republican:M01" etc.
+      
+      let uid = resolvedMonth.spec.monthUID
+      let suffix = uid.split(separator: ":").last ?? ""
+      
+      var names: [String] = []
+      
+      // Map UID to array
+      switch suffix {
+      case "M03", "M05", "M07", "M10": // Mar, Mai, Qui, Oct
+          names = dayNamesMMJO
+      case "M01", "M08", "M12": // Ian, Sex, Dec
+          names = dayNamesJAD
+      case "M04", "M06", "M09", "M11": // Apr, Iun, Sep, Nov
+          names = dayNamesAJSN
+      case "M02": // Feb
+          // Check for Leap/Intercalary adjustments
+          // If length is 28, use dayNamesF.
+          // If length is 29 (Julian Leap), we insert "bis VI Kal."? AD 2025 style logic?
+          // If length is 23/24 (Pre-Julian), we truncate?
+          if resolvedMonth.length == 28 {
+              names = dayNamesF
+          } else if resolvedMonth.length == 29 {
+             // Julian Leap Year: "bis VI Kal." inserted after VI Kal (Day 24).
+             // Day 24 = VI Kal.
+             // Day 25 = bis VI Kal.
+             // Day 26 = V Kal...
+             // Let's just use dayNamesF and handle the 'bis' manually or fallback.
+             names = dayNamesF 
+             // Logic below needs to handle index mapping for 29 days.
+          } else {
+             // 23 or 24 days.
+             names = dayNamesF
+          }
+      case "I1", "I2", "I3": // Intercalaries (27 days usually)
+          // Intercalaris I/II (Mercedonius).
+          // Nones 5, Ides 13.
+          // Length 27.
+          // Similar to AJSN but shorter?
+          // Let's fallback to number if we don't have a table, or use AJSN and truncate?
+          // Array AJSN is 30 items.
+          names = dayNamesAJSN 
+      default:
+          return "\(day)"
+      }
+      
+      // Indexing logic
+      var name = ""
+      if day > 0 && day <= names.count {
+          // Normal lookup
+          // Handle Leap Year "bis VI Kal." for Feb 29
+          if suffix == "M02" && resolvedMonth.length == 29 {
+              // daysF has 28 items.
+              // 1..23 match daysF[0..22]
+              // 24 -> VI Kal. (daysF[23] is "VI Kal.")
+              // 25 -> bis VI Kal.
+              // 26 -> V Kal. (daysF[24])
+              // ...
+              // 29 -> Prid. Kal. (daysF[27])
+              
+              if day < 24 {
+                  name = names[day - 1]
+              } else if day == 24 {
+                  name = "VI Kal."
+              } else if day == 25 {
+                  name = "bis VI Kal."
+              } else {
+                  // day 26 (V) -> index 24 (V) = day-2?
+                  // day 29 (Prid) -> index 27 (Prid) = day-2.
+                  name = names[day - 2]
+              }
+          } else {
+              // Ensure we don't crash if month is shorter than array (e.g. Feb 23)
+               if day - 1 < names.count {
+                  name = names[day - 1]
+               } else {
+                  name = "\(day)"
+               }
+          }
+      } else {
+          name = "\(day)"
+      }
+      
+      // Suffix Logic (Next Month)
+      // If name contains "Kal." or "Prid." (unless it is Kalendae)
+      if (name.contains("Kal.") && name != "Kalendae") || name.contains("Prid. Kal.") {
+          // Find next month name
+          var nextM = month + 1
+          var nextY = year
+          if nextM > 12 { // Assuming 12 months for visual... but Roman has 12/13.
+              // Engine.months returns list.
+              // We need the next month in the list, or first of next year?
+          }
+          
+          // Better: ask engine for months of this year, find current, get next.
+          // If current is last, ask for months of next year, get first.
+          
+          var nextMonthName = ""
+          
+          if let idx = ms.firstIndex(where: { $0.index == month }) {
+              if idx < ms.count - 1 {
+                  let nm = ms[idx + 1]
+                  nextMonthName = nm.spec.names[0].variants["la"] ?? ""
+                  // Shorten? "Februarius" -> "Feb."
+                  // Simple truncation for now: 3 chars?
+                  nextMonthName = String(nextMonthName.prefix(3)) + "."
+              } else {
+                  // Next year
+                  let nextMs = months(forYear: year + 1, mode: .civil)
+                  if let nm = nextMs.first {
+                      nextMonthName = nm.spec.names[0].variants["la"] ?? ""
+                      nextMonthName = String(nextMonthName.prefix(3)) + "."
+                  }
+              }
+          }
+          
+          if !nextMonthName.isEmpty {
+              return "\(name) \(nextMonthName)"
+          }
+      }
+      
+      return name
+  }
 }
