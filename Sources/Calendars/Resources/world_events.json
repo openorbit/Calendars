@@ -1,0 +1,57 @@
+[
+    {
+        "id": "BATTLE_HASTINGS",
+        "year": 1066,
+        "month": 10,
+        "day": 14,
+        "calendar": "julian",
+        "title": "Battle of Hastings",
+        "description": "William the Conqueror defeats King Harold Godwinson, marking the beginning of the Norman Conquest of England.",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+        "category": "battle"
+    },
+    {
+        "id": "MAGNA_CARTA",
+        "year": 1215,
+        "month": 6,
+        "day": 15,
+        "calendar": "julian",
+        "title": "Sealing of Magna Carta",
+        "description": "King John of England agrees to the Magna Carta at Runnymede.",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Magna_Carta",
+        "category": "political"
+    },
+    {
+        "id": "CONST_FALL",
+        "year": 1453,
+        "month": 5,
+        "day": 29,
+        "calendar": "julian",
+        "title": "Fall of Constantinople",
+        "description": "Capture of the capital of the Byzantine Empire by the Ottoman Empire.",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+        "category": "battle"
+    },
+    {
+        "id": "LUTHER_THESES",
+        "year": 1517,
+        "month": 10,
+        "day": 31,
+        "calendar": "julian",
+        "title": "Luther's 95 Theses",
+        "description": "Martin Luther posts his Ninety-five Theses on the door of All Saints' Church in Wittenberg.",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+        "category": "religious"
+    },
+    {
+        "id": "GREGORIAN_Reform",
+        "year": 1582,
+        "month": 10,
+        "day": 15,
+        "calendar": "gregorian",
+        "title": "Introduction of Gregorian Calendar",
+        "description": "First day of the Gregorian calendar in Catholic countries (skipping Oct 5-14).",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+        "category": "political"
+    }
+]

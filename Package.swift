@@ -30,7 +30,8 @@ let package = Package(
         .target(
             name: "Calendars",
             resources: [
-                .copy("Resources/RegnalData")
+                .copy("Resources/RegnalData"),
+                .process("Resources/world_events.json")
             ]),
 
         .executableTarget(
