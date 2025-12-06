@@ -50,12 +50,25 @@ public struct RegnalTenure: Codable, Identifiable {
     }
 }
 
-public struct RegnalOffice: Codable, Identifiable {
+public struct RegnalOffice: Codable, Identifiable, Sendable {
     public let id: String
-    public let name: Name
-    public let region: String
+    public let label: String
+    public let polityID: String
     
-    public struct Name: Codable {
-        public let normalized: String
+    enum CodingKeys: String, CodingKey {
+        case id, label
+        case polityID = "polity_id"
+    }
+}
+
+public struct RegnalPolity: Codable, Identifiable, Sendable {
+    public let id: String
+    public let label: String
+    public let region: String
+    public let notes: String?
+    
+    enum CodingKeys: String, CodingKey {
+        case id, label, region, notes
+        // Ignore calendar_rule_id, valid_julian for now if not needed
     }
 }

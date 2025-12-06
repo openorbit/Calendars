@@ -476,8 +476,30 @@ public struct RomanCalendar : CalendarProtocol {
   public var calendarKey: String
 
   public func jdn(forYear year: Int, month: Int, day: Int) -> Int {
+    // Check regime first to avoid table lookup crash
+    if 60 < year {
+       let tc = TableDateComponents(year: year, month: month, day: day)
+       if let jdn = RomanCalendar.table.jdn(from: tc) {
+           return jdn
+       }
+       
+       // Fallback for years outside table
+       // Assuming input year is AUC.
+       // Convert AUC to Julian Year: AUC 1 = 753 BC (-752).
+       // Julian Year = AUC - 753.
+       // Example: AUC 754 = AD 1. (754 - 753 = 1).
+       // Example: AUC 2025 = AD 1272. (2025 - 753 = 1272).
+       return JulianCalendar.toJDN(Y: year - 753, M: month, D: day)
+    }
+    
+    // Original logic was just:
     let tc = TableDateComponents(year: year, month: month, day: day)
-    return RomanCalendar.table.jdn(from: tc)!
+    if let result = RomanCalendar.table.jdn(from: tc) {
+        return result
+    }
+    
+    // Fallback if table lookup failed
+    return JulianCalendar.toJDN(Y: year - 753, M: month, D: day)
   }
 
   private static let table = RomanCalendarFactory.make()
@@ -485,7 +507,15 @@ public struct RomanCalendar : CalendarProtocol {
   public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth] {
     switch regime(forYear: year) {
     case .extrapolated:
-      return []
+      // Fallback to rule-based logic for now
+      var result: [ResolvedMonth] = []
+      for (i, (d, m)) in zip(1...12, [(31, RomanMonth.IAN), (28, RomanMonth.FEB), (31, RomanMonth.MAR), (30, RomanMonth.APR), (31, RomanMonth.MAI), (30, RomanMonth.IUN), (31, RomanMonth.QUI), (31, RomanMonth.SEX), (30, RomanMonth.SEP), (31, RomanMonth.OCT), (30, RomanMonth.NOV), (31, RomanMonth.DEC)]) {
+          result.append(ResolvedMonth(spec: romanMonths[m.slot],
+                                      index: i, mode: .civil,
+                                      firstDay: 1, length: d))
+      }
+      return result
+
     case .reconstructed:
       let months = RomanCalendar.table.monthRows(forYear: year)
 

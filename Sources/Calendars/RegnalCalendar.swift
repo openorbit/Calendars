@@ -5,29 +5,48 @@ public final class RegnalCalendar: @unchecked Sendable {
     
     public let tenures: [RegnalTenure]
     public let persons: [String: RegnalPerson]
+    public let offices: [String: RegnalOffice]
+    public let polities: [String: RegnalPolity]
     
     private init() {
         // Load data into local vars first
         var t: [RegnalTenure] = []
         var p: [String: RegnalPerson] = [:]
+        var o: [String: RegnalOffice] = [:]
+        var pol: [String: RegnalPolity] = [:]
         
         if let resourceURL = Bundle.module.url(forResource: "RegnalData", withExtension: nil) {
             let fileManager = FileManager.default
             if let enumerator = fileManager.enumerator(at: resourceURL, includingPropertiesForKeys: nil) {
                 for case let fileURL as URL in enumerator {
                     if fileURL.pathExtension == "json" {
-                        if fileURL.lastPathComponent.contains("tenures") {
+                        let filename = fileURL.lastPathComponent
+                        if filename.contains("tenures") {
                             if let data = try? Data(contentsOf: fileURL),
                                let items = try? JSONDecoder().decode([RegnalTenure].self, from: data) {
                                 t.append(contentsOf: items)
                             }
-                        } else if fileURL.lastPathComponent.contains("persons") {
+                        } else if filename.contains("persons") {
                             if let data = try? Data(contentsOf: fileURL),
                                let items = try? JSONDecoder().decode([RegnalPerson].self, from: data) {
                                 for person in items {
                                     p[person.id] = person
                                 }
                             }
+                        } else if filename.contains("offices") {
+                             if let data = try? Data(contentsOf: fileURL),
+                                let items = try? JSONDecoder().decode([RegnalOffice].self, from: data) {
+                                 for office in items {
+                                     o[office.id] = office
+                                 }
+                             }
+                        } else if filename.contains("polities") {
+                             if let data = try? Data(contentsOf: fileURL),
+                                let items = try? JSONDecoder().decode([RegnalPolity].self, from: data) {
+                                 for polity in items {
+                                     pol[polity.id] = polity
+                                 }
+                             }
                         }
                     }
                 }
@@ -38,6 +57,8 @@ public final class RegnalCalendar: @unchecked Sendable {
         
         self.tenures = t
         self.persons = p
+        self.offices = o
+        self.polities = pol
     }
     
     // MARK: - Date Calculation
@@ -59,8 +80,8 @@ public final class RegnalCalendar: @unchecked Sendable {
         
         // Resolve Calendar
         var startYear = rawYear
-        var startMonth = rawMonth
-        var startDay = rawDay
+        let startMonth = rawMonth
+        let startDay = rawDay
         
         if startDefinition.calendar == "AUC" {
             // Convert to Julian
@@ -89,5 +110,28 @@ public final class RegnalCalendar: @unchecked Sendable {
         let personIDs = persons.filter { $0.value.name.normalized.localizedCaseInsensitiveContains(name) || $0.value.variants.contains { $0.form.localizedCaseInsensitiveContains(name) } }.map { $0.key }
         
         return tenures.filter { personIDs.contains($0.personID) }
+    }
+    
+    // MARK: - Accessors
+    
+    public var allPolities: [RegnalPolity] {
+        polities.values.sorted { $0.label < $1.label }
+    }
+    
+    public func offices(forPolity polityID: String) -> [RegnalOffice] {
+        return offices.values.filter { $0.polityID == polityID }.sorted { $0.label < $1.label }
+    }
+    
+    public func tenures(forOffice officeID: String) -> [RegnalTenure] {
+        tenures.filter { $0.officeID == officeID }.sorted {
+            // Sort by start year
+            let startA = $0.start.first?.ymd?.year ?? Int.min
+            let startB = $1.start.first?.ymd?.year ?? Int.min
+            return startA < startB
+        }
+    }
+    
+    public func person(forID id: String) -> RegnalPerson? {
+        persons[id]
     }
 }
