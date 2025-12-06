@@ -462,18 +462,13 @@ public struct SwedishFeasts {
     records: feastRecords,
     config: .init(activeRegions: [.universal, .scandinavia, .sweden])
   )
-  public let parser: MedievalFeastParser
+
   public let resolver: FeastDateResolver
   public init() {
     // Parser + resolver as before
-    parser = MedievalFeastParser(feastProvider: feasts,
-                                lexiconProvider: StaticLexiconProvider())
+
     resolver = FeastDateResolver(feastProvider: feasts)
   }
 
-  public func resolve(_ year: Int, _ phrase: String) -> FeastDateResolver.Response? {
-    guard let p = parser.parse(phrase) else { return nil }
-    let req = FeastDateResolver.Request(year: year, feastID: p.anchorFeastID, offsetDays: p.offsetDays, weekday: p.weekday)
-    return resolver.resolve(req)
-  }
+
 }
