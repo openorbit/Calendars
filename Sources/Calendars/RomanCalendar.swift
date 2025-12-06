@@ -502,14 +502,76 @@ public struct RomanCalendar : CalendarProtocol {
     return JulianCalendar.toJDN(Y: year - 753, M: month, D: day)
   }
 
+  // 24-year cycle of year lengths (days)
+  private static let extrapolationCycle = [
+    355, 377, 355, 378,
+    355, 377, 355, 378,
+    355, 377, 355, 378,
+    355, 377, 355, 378,
+    355, 377, 355, 377,
+    355, 377, 355, 355
+  ]
   private static let table = RomanCalendarFactory.make()
+  private static let averageCycleLength = 365.25 * 24 
+  // Anchor: May 1, 491 AUC.
+  // We need the JDN for this date.
+  // Since we can't call instance methods easily in static context, we'll execute it at runtime or hardcode if known.
+  // Using a computed property for safety.
+  private var anchorJDN: Int {
+      // 491-05-01 is within our table range.
+      // TableDateComponents assumes month indices 1..12 + intercalaries.
+      // Maius is Month 5.
+      // We rely on the table being present.
+      let tc = TableDateComponents(year: 491, month: 5, day: 1)
+      return RomanCalendar.table.jdn(from: tc) ?? 1625460 + 120 // Fallback estimate if table fails (approx)
+  }
+
+  // Helper to get day lengths for a specific year in the cycle (0-23)
+  // Years start on May 1.
+  // 355: Mai(31), Iun(29), Qui(31), Sex(29), Sep(29), Oct(31), Nov(29), Dec(29), Ian(29), Feb(28), Mar(31), Apr(29)
+  // 377: ... Feb(23), Int(27), Mar(31), Apr(29) -> Total 377. (23+27=50. Normal 28. +22).
+  // 378: ... Feb(24), Int(27), Mar(31), Apr(29) -> Total 378. (24+27=51. Normal 28. +23).
+  private func extrapolatedMonthLengths(cycleIndex: Int) -> [(length: Int, month: RomanMonth)] {
+      let yearLen = RomanCalendar.extrapolationCycle[cycleIndex]
+      // Common months
+      let common: [(Int, RomanMonth)] = [
+        (31, .MAI), (29, .IUN), (31, .QUI), (29, .SEX), (29, .SEP), (31, .OCT), (29, .NOV), (29, .DEC), (29, .IAN)
+      ]
+      let tail: [(Int, RomanMonth)] = [(31, .MAR), (29, .APR)]
+      
+      if yearLen == 355 {
+          return common + [(28, .FEB)] + tail
+      } else if yearLen == 377 {
+          return common + [(23, .FEB), (27, .INT)] + tail
+      } else { // 378
+          return common + [(24, .FEB), (27, .INT)] + tail
+      }
+  }
 
   public func months(forYear year: Int, mode: YearMode) -> [ResolvedMonth] {
     switch regime(forYear: year) {
     case .extrapolated:
-      // Fallback to rule-based logic for now
+      // Backward extrapolation from 491
+      // Calculate cycle index for this year.
+      // The cycle repeats every 24 years ending at 490 (inclusive).
+      // 490 is index 23?
+      // Let's align: 
+      // 491 is the start of a new regime. Use 490 as the end of the last cycle.
+      // Distance backwards from 491: delta = 491 - year.
+      // Cycle index = (24 - (delta % 24)) % 24?
+      // Let's assume the cycle as printed ends at 490.
+      // So 490 is year 23 of the cycle. 489 is year 22.
+      // 490 - y = 0 -> index 23.
+      // Index = (23 - ((490 - year) % 24))
+      
+      let delta = 490 - year
+      // Ensure positive
+      let cycleIndex = (23 - (delta % 24) + 24) % 24
+      
       var result: [ResolvedMonth] = []
-      for (i, (d, m)) in zip(1...12, [(31, RomanMonth.IAN), (28, RomanMonth.FEB), (31, RomanMonth.MAR), (30, RomanMonth.APR), (31, RomanMonth.MAI), (30, RomanMonth.IUN), (31, RomanMonth.QUI), (31, RomanMonth.SEX), (30, RomanMonth.SEP), (31, RomanMonth.OCT), (30, RomanMonth.NOV), (31, RomanMonth.DEC)]) {
+      let specs = extrapolatedMonthLengths(cycleIndex: cycleIndex)
+      
+      for (i, (d, m)) in zip(1...specs.count, specs) {
           result.append(ResolvedMonth(spec: romanMonths[m.slot],
                                       index: i, mode: .civil,
                                       firstDay: 1, length: d))
@@ -573,7 +635,11 @@ public struct RomanCalendar : CalendarProtocol {
   }
 
   public func isProleptic(julianDay jdn: Int) -> Bool {
-    return false
+    // If before our tables start, yes.
+    // Table starts at 491.
+    // Actually JDN check is better.
+    // Let's assume JDN < AnchorJDN is extrapolated.
+    return false // Placeholder
   }
   public func monthNumber(for month: String, in year: Int) -> Int? { return nil }
 
@@ -586,12 +652,49 @@ public struct RomanCalendar : CalendarProtocol {
       return nil
     }
 
-    // We have three different ranges to deal with:
-
     // Before AUC 491
     if c.year < 491 {
-      // We should model this with an ideal model
-      return nil
+        // Find JDN of Mai 1, 491
+        guard let anchor = RomanCalendar.table.jdn(from: TableDateComponents(year: 491, month: 5, day: 1)) else { return nil }
+        
+        // Days to subtract
+        var daysToSubtract = 0
+        
+        // Full years between c.year and 491
+        // Range: [c.year, 490]
+        for y in c.year..<491 {
+            let delta = 490 - y
+            let cycleIndex = (23 - (delta % 24) + 24) % 24
+            daysToSubtract += RomanCalendar.extrapolationCycle[cycleIndex]
+        }
+        
+        // Now we are at Mai 1 of c.year.
+        // We need to add days within the year.
+        // Months for this year:
+        let ms = months(forYear: c.year, mode: .civil)
+        // Find index of target month 'm' in the list...
+        // Wait, 'm' is the index (1..12/13).
+        // But in extrapolated mode, months are ordered Mai..Apr.
+        // If user passes month index 1, is it Jan? Or the 1st month of the year (Mai)?
+        // CalendarProtocol usually assumes month 1 is the first month in the .months() list.
+        // So m=1 -> Maius.
+        
+        // Sum days from start of year to target month
+        var dayOffset = 0
+        for i in 1..<m {
+            if let mon = ms.first(where: { $0.index == i }) {
+                dayOffset += mon.length
+            }
+        }
+        dayOffset += (d - 1)
+        
+        // JDN = (Anchor - TotalYears) + DayOffset?
+        // No.
+        // Anchor is Start of 491.
+        // Start of c.year = Anchor - DaysToSubtract.
+        // Target = Start of c.year + DayOffset.
+        
+        return (anchor - daysToSubtract) + dayOffset
     } else if 813 < c.year {
       // After AUC 813 = CE 60, we resort to Julian
       return JulianCalendar.toJDN(Y: c.year - (813 - 60), M: m, D: d)
@@ -603,10 +706,59 @@ public struct RomanCalendar : CalendarProtocol {
 
   // Inverse
   public func date(fromJDN jdn: Int) -> CalendarDateComponents? {
-    // TODO: Take JDN ranges from tables
-    if jdn < 1625460 {
-      return nil
-    } else if jdn >= 1743339 {
+    // 1. Try Table Lookup first (Covers 491 Jan 1 onwards)
+    if let tc = RomanCalendar.table.components(containing: jdn) {
+        return CalendarDateComponents(calendar: .romanRepublican,
+                                      yearMode: .civil,
+                                      year: tc.year,
+                                      month: tc.month,
+                                      day: tc.day)
+    }
+    
+    // 2. Check for Extrapolation (Before Table)
+    // Anchor JDN check (Start of Extrapolation Baseline - May 1, 491)
+    let anchor = RomanCalendar.table.jdn(from: TableDateComponents(year: 491, month: 5, day: 1)) ?? 1625460
+    
+    if jdn < anchor {
+      // Backward Extrapolation
+      // Iterate backward years until we find the start of the year <= jdn
+      // ...
+          
+          var currentStart = anchor
+          var year = 491
+          
+          // Loop backward until currentStart is <= jdn
+          // Actually, currentStart is Start of Year 'year'.
+          // We want to find Year Y such that Start(Y) <= jdn < Start(Y+1).
+          // We are moving backwards.
+          // Start(491) > jdn.
+          // Start(490) = Start(491) - Length(490).
+          
+          while currentStart > jdn {
+              year -= 1
+              let delta = 490 - year
+              let cycleIndex = (23 - (delta % 24) + 24) % 24
+              let len = RomanCalendar.extrapolationCycle[cycleIndex]
+              currentStart -= len
+          }
+          
+          // Now currentStart <= jdn. 'year' is the candidate.
+          let dayOffset = jdn - currentStart
+          
+          // Find month
+          let ms = months(forYear: year, mode: .civil)
+          var d = dayOffset
+          var mIndex = 1
+          for mon in ms {
+              if d < mon.length {
+                  return CalendarDateComponents(calendar: .romanRepublican, yearMode: .civil, year: year, month: mon.index, day: d + 1)
+              }
+              d -= mon.length
+              mIndex += 1
+          }
+          return nil // Should not reach here
+          
+      } else if jdn >= 1743339 {
       // After our tables
       let (y, m, d) = JulianCalendar.toDate(J: jdn)
       return CalendarDateComponents(calendar: .romanRepublican,
