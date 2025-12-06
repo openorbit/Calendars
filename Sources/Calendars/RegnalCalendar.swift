@@ -7,6 +7,7 @@ public final class RegnalCalendar: @unchecked Sendable {
     public let persons: [String: RegnalPerson]
     public let offices: [String: RegnalOffice]
     public let polities: [String: RegnalPolity]
+    public let consulYears: [RomanConsulYear]
     
     private init() {
         // Load data into local vars first
@@ -14,6 +15,7 @@ public final class RegnalCalendar: @unchecked Sendable {
         var p: [String: RegnalPerson] = [:]
         var o: [String: RegnalOffice] = [:]
         var pol: [String: RegnalPolity] = [:]
+        var c: [RomanConsulYear] = []
         
         if let resourceURL = Bundle.module.url(forResource: "RegnalData", withExtension: nil) {
             let fileManager = FileManager.default
@@ -47,6 +49,26 @@ public final class RegnalCalendar: @unchecked Sendable {
                                      pol[polity.id] = polity
                                  }
                              }
+                        } else if filename.contains("consuls") {
+                             // "consuls" files have a root object with "years": [...]
+                             // But checking the file viewing output in Step 1915, it starts with structure?
+                             // Wait, cat output didn't show root key clearly.
+                             // Let's check Step 1915 output carefully.
+                             // It shows `[ ... ]` at the START? No, I saw `<truncated 327 lines>`.
+                             // I should assume it might be wrapped.
+                             // Wait, Step 1893 showed file `consuls_auc_445_544_prelude.json`.
+                             // Step 1915 output snippet shows indentation suggesting array elements.
+                             // Let's assume it IS a wrapper based on JSON standards in this repo.
+                             // Or decode as Direct Array?
+                             // If I try `RomanConsulsFile` (wrapped) and fail, try `[RomanConsulYear]`.
+                             if let data = try? Data(contentsOf: fileURL) {
+                                 if let wrapper = try? JSONDecoder().decode(RomanConsulsFile.self, from: data) {
+                                     c.append(contentsOf: wrapper.years)
+                                 } else if let items = try? JSONDecoder().decode([RomanConsulYear].self, from: data) {
+                                     // Direct array
+                                     c.append(contentsOf: items)
+                                 }
+                             }
                         }
                     }
                 }
@@ -59,6 +81,7 @@ public final class RegnalCalendar: @unchecked Sendable {
         self.persons = p
         self.offices = o
         self.polities = pol
+        self.consulYears = c
     }
     
     // MARK: - Date Calculation

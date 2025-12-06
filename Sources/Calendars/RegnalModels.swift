@@ -69,6 +69,29 @@ public struct RegnalPolity: Codable, Identifiable, Sendable {
     
     enum CodingKeys: String, CodingKey {
         case id, label, region, notes
-        // Ignore calendar_rule_id, valid_julian for now if not needed
     }
+}
+
+public struct RomanConsulYear: Codable, Identifiable, Sendable {
+    public let auc: Int
+    public let bc: Int
+    public let consuls: [ConsulName]?
+    public let suffects: [ConsulName]?
+    public let notes: String?
+    
+    // Derived ID
+    public var id: Int { auc }
+    
+    public var consulList: [ConsulName] { consuls ?? [] }
+    public var suffectList: [ConsulName] { suffects ?? [] }
+    public var noteText: String { notes ?? "" }
+    
+    public struct ConsulName: Codable, Sendable {
+        public let name: String
+    }
+}
+
+// Wrapper for the file structure
+struct RomanConsulsFile: Codable {
+    let years: [RomanConsulYear]
 }
