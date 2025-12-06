@@ -285,11 +285,18 @@ public struct GregorianCalendar : CalendarProtocol {
   }
 
   public static func numberOfMonth(_ month: String) -> Int? {
-    let monthDictionary = ["january": 1, "february": 2, "march": 3,
-                           "april": 4, "may": 5, "june": 6,
-                           "july": 7, "august": 8, "september": 9,
-                           "october": 10, "november": 11, "december": 12]
-    return monthDictionary[month.lowercased()]
+    let lower = month.lowercased()
+    let full = ["january": 1, "february": 2, "march": 3,
+                "april": 4, "may": 5, "june": 6,
+                "july": 7, "august": 8, "september": 9,
+                "october": 10, "november": 11, "december": 12]
+    if let m = full[lower] { return m }
+    
+    let abbr = ["jan": 1, "feb": 2, "mar": 3,
+                "apr": 4, "may": 5, "jun": 6,
+                "jul": 7, "aug": 8, "sep": 9,
+                "oct": 10, "nov": 11, "dec": 12]
+    return abbr[lower]
   }
 
   public static func nameOfMonth(_ month: Int) -> String {
