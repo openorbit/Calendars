@@ -130,10 +130,23 @@ public final class RegnalCalendar: @unchecked Sendable {
     
     /// Finds tenure candidates by monarch name (fuzzy or exact)
     public func findTenures(forMonarch name: String) -> [RegnalTenure] {
-        let personIDs = persons.filter { $0.value.name.normalized.localizedCaseInsensitiveContains(name) || $0.value.variants.contains { $0.form.localizedCaseInsensitiveContains(name) } }.map { $0.key }
+        let cleanName = name.normalizedRegnalName()
+        
+        let personIDs = persons.filter {
+            let pName = $0.value.name.normalized.normalizedRegnalName()
+            if pName.localizedCaseInsensitiveContains(cleanName) { return true }
+            
+            // Check variants
+            if $0.value.variants.contains(where: { $0.form.normalizedRegnalName().localizedCaseInsensitiveContains(cleanName) }) { return true }
+            
+            return false
+        }.map { $0.key }
         
         return tenures.filter { personIDs.contains($0.personID) }
     }
+
+
+
     
     // MARK: - Accessors
     
@@ -156,5 +169,52 @@ public final class RegnalCalendar: @unchecked Sendable {
     
     public func person(forID id: String) -> RegnalPerson? {
         persons[id]
+    }
+}
+
+extension String {
+    func normalizedRegnalName() -> String {
+        var s = self.trimmingCharacters(in: .whitespacesAndNewlines).replacingOccurrences(of: ".", with: "").lowercased()
+        
+        // Manual common abbreviations
+        if s.starts(with: "hen ") { s = s.replacingOccurrences(of: "hen ", with: "henry ") }
+        if s.starts(with: "geo ") { s = s.replacingOccurrences(of: "geo ", with: "george ") }
+        if s.starts(with: "wdr ") { s = s.replacingOccurrences(of: "wdr ", with: "william ") } // less common, maybe Edw?
+        if s.starts(with: "edw ") { s = s.replacingOccurrences(of: "edw ", with: "edward ") }
+        if s.starts(with: "eliz ") { s = s.replacingOccurrences(of: "eliz ", with: "elizabeth ") }
+        if s.starts(with: "chas ") { s = s.replacingOccurrences(of: "chas ", with: "charles ") }
+        if s.starts(with: "jam ") { s = s.replacingOccurrences(of: "jam ", with: "james ") }
+        if s.starts(with: "ric ") { s = s.replacingOccurrences(of: "ric ", with: "richard ") }
+        
+        // Arabic to Roman numerals (1-20 usually sufficient for monarchs)
+        // regex replacement might be safer to ensure it IS a number at end?
+        // Patterns like "henry 8" -> "henry viii"
+        // We look for digits at the end of the string
+        if let range = s.range(of: "\\d+$", options: .regularExpression) {
+             let numStr = String(s[range])
+             if let n = Int(numStr) {
+                 let roman = toRoman(n)
+                 s = s.replacingOccurrences(of: numStr, with: roman, options: .backwards, range: range)
+             }
+        }
+        
+        return s
+    }
+    
+    private func toRoman(_ n: Int) -> String {
+        let romanValues = [
+            (1000, "m"), (900, "cm"), (500, "d"), (400, "cd"),
+            (100, "c"), (90, "xc"), (50, "l"), (40, "xl"),
+            (10, "x"), (9, "ix"), (5, "v"), (4, "iv"), (1, "i")
+        ]
+        var num = n
+        var result = ""
+        for (value, letter) in romanValues {
+            while num >= value {
+                result += letter
+                num -= value
+            }
+        }
+        return result
     }
 }
