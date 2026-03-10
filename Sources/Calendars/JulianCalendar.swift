@@ -92,6 +92,13 @@ fileprivate let kalIndexOffset = [
   dayNamesMMJOKalIndex, dayNamesAJSNKalIndex, dayNamesJADKalIndex
 ]
 
+public enum JulianYearStartCulture: String, Codable, Sendable, CaseIterable {
+  case civilJan1
+  case annunciationMar25
+  case christmasDec25
+  case byzantineSep1
+}
+
 
 public struct JulianCalendar : CalendarProtocol, Sendable {
   static let months: [MonthSpec] = [
@@ -323,6 +330,34 @@ public struct JulianCalendar : CalendarProtocol, Sendable {
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 
+  public func startOfYearJDN(year: Int, culture: JulianYearStartCulture) -> Int? {
+    guard let boundary = startBoundary(forLabeledYear: year, culture: culture) else {
+      return nil
+    }
+    return jdn(forYear: boundary.year, month: boundary.month, day: boundary.day)
+  }
+
+  public func endOfYearJDN(year: Int, culture: JulianYearStartCulture) -> Int? {
+    guard let nextStart = startOfYearJDN(year: year + 1, culture: culture) else {
+      return nil
+    }
+    return nextStart - 1
+  }
+
+  public func startOfYearDate(year: Int, culture: JulianYearStartCulture) -> CalendarDateComponents? {
+    guard let jdn = startOfYearJDN(year: year, culture: culture) else {
+      return nil
+    }
+    return date(fromJDN: jdn)
+  }
+
+  public func endOfYearDate(year: Int, culture: JulianYearStartCulture) -> CalendarDateComponents? {
+    guard let jdn = endOfYearJDN(year: year, culture: culture) else {
+      return nil
+    }
+    return date(fromJDN: jdn)
+  }
+
 
   public static let shared = JulianCalendar()
   // Corresponds to 0008-01-01 Julian calendar
@@ -432,5 +467,17 @@ public struct JulianCalendar : CalendarProtocol, Sendable {
     let D = 1 + (g - 1) % 31
     return (Y, M, D)
   }
-}
 
+  private func startBoundary(forLabeledYear year: Int, culture: JulianYearStartCulture) -> (year: Int, month: Int, day: Int)? {
+    switch culture {
+    case .civilJan1:
+      return (year, 1, 1)
+    case .annunciationMar25:
+      return (year, 3, 25)
+    case .christmasDec25:
+      return (year - 1, 12, 25)
+    case .byzantineSep1:
+      return (year - 1, 9, 1)
+    }
+  }
+}

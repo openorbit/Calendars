@@ -94,6 +94,28 @@ public protocol CalendarProtocol: Sendable {
 
   func jdn(forYear year: Int, month: Int, day: Int) -> Int
   func date(fromJDN jdn: Int) -> CalendarDateComponents?
+
+  /// Returns the first Julian day number in the calendar year.
+  func startOfYearJDN(year: Int) -> Int?
+  /// Returns the last Julian day number in the calendar year.
+  func endOfYearJDN(year: Int) -> Int?
+}
+
+public extension CalendarProtocol {
+  func startOfYearJDN(year: Int) -> Int? {
+    guard isValidDate(year: year, month: 1, day: 1) else {
+      return nil
+    }
+    return jdn(forYear: year, month: 1, day: 1)
+  }
+
+  func endOfYearJDN(year: Int) -> Int? {
+    let lastDay = daysInMonth(year: year, month: 12)
+    guard isValidDate(year: year, month: 12, day: lastDay) else {
+      return nil
+    }
+    return jdn(forYear: year, month: 12, day: lastDay)
+  }
 }
 
 public struct Validity: Codable, Equatable, Sendable {

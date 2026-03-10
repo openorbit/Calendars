@@ -634,6 +634,40 @@ public struct RomanCalendar : CalendarProtocol {
     return m.length
   }
 
+  public func startOfYearJDN(year: Int) -> Int? {
+    switch regime(forYear: year) {
+    case .reconstructed:
+      guard let anchor = RomanCalendar.table.anchor(forYear: year) else {
+        return nil
+      }
+      return anchor.yearStartJDN
+    case .extrapolated, .ruleBased:
+      let months = months(forYear: year, mode: .civil).sorted { $0.index < $1.index }
+      guard let first = months.first else {
+        return nil
+      }
+      return jdn(forYear: year, month: first.index, day: first.firstDay)
+    }
+  }
+
+  public func endOfYearJDN(year: Int) -> Int? {
+    switch regime(forYear: year) {
+    case .reconstructed:
+      guard let anchor = RomanCalendar.table.anchor(forYear: year) else {
+        return nil
+      }
+      // Table anchors store end as an exclusive bound.
+      return anchor.yearEndJDN - 1
+    case .extrapolated, .ruleBased:
+      let months = months(forYear: year, mode: .civil).sorted { $0.index < $1.index }
+      guard let last = months.last else {
+        return nil
+      }
+      let lastDay = last.firstDay + last.length - 1
+      return jdn(forYear: year, month: last.index, day: lastDay)
+    }
+  }
+
   public func isProleptic(julianDay jdn: Int) -> Bool {
     // If before our tables start, yes.
     // Table starts at 491.
