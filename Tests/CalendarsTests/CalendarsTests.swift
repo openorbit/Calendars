@@ -39,6 +39,25 @@ import Testing
   #expect(first.intersection(with: disjoint) == nil)
 }
 
+@Test func hypothesisSetsDoNotCollapseDifferentCalendarInterpretations() {
+  let julian = HistoricalDateInterval(
+    begin: HistoricalDateComponents(calendarID: .julian, year: 1702, month: 3, day: 12)
+  )
+  let gregorian = HistoricalDateInterval(
+    begin: HistoricalDateComponents(calendarID: .gregorian, year: 1702, month: 3, day: 12)
+  )
+  let hypotheses = HistoricalDateHypothesisSet(hypotheses: [
+    HistoricalDateHypothesis(interval: julian),
+    HistoricalDateHypothesis(interval: gregorian)
+  ])
+
+  #expect(hypotheses.resolvedInterval == nil)
+  let julianJDN = JulianCalendar.toJDN(Y: 1702, M: 3, D: 12)
+  let gregorianJDN = GregorianCalendar.toJDN(Y: 1702, M: 3, D: 12)
+  #expect(hypotheses.absoluteHull?.beginJDN == min(julianJDN, gregorianJDN))
+  #expect(hypotheses.absoluteHull?.endJDN == max(julianJDN, gregorianJDN))
+}
+
 @Test func testFirstSwedishDateToJulian() async throws {
   let jd = SwedishCalendar.toJDN(Y: 1700, M: 3, D: 1)
   let jdJulian = JulianCalendar.toJDN(Y: 1700, M: 2, D: 29)

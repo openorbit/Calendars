@@ -118,6 +118,83 @@ public struct JulianDayInterval: Codable, Sendable, Hashable {
     if let begin, let end, begin > end { return nil }
     return JulianDayInterval(beginJDN: begin, endJDN: end)
   }
+
+  /// The smallest interval containing both receivers. This is a bounding hull,
+  /// not a claim that every day between disjoint alternatives is possible.
+  public func hull(with other: JulianDayInterval) -> JulianDayInterval {
+    let begin: Int?
+    if let lhs = beginJDN, let rhs = other.beginJDN {
+      begin = min(lhs, rhs)
+    } else { begin = nil }
+
+    let end: Int?
+    if let lhs = endJDN, let rhs = other.endJDN {
+      end = max(lhs, rhs)
+    } else { end = nil }
+    return JulianDayInterval(beginJDN: begin, endJDN: end)
+  }
+
+  public func contains(jdn: Int) -> Bool {
+    (beginJDN.map { jdn >= $0 } ?? true) && (endJDN.map { jdn <= $0 } ?? true)
+  }
+
+  public func contains(_ other: JulianDayInterval) -> Bool {
+    let containsBegin = beginJDN.map { bound in other.beginJDN.map { $0 >= bound } ?? false } ?? true
+    let containsEnd = endJDN.map { bound in other.endJDN.map { $0 <= bound } ?? false } ?? true
+    return containsBegin && containsEnd
+  }
+
+  public func shifted(beginBy beginDays: Int, endBy endDays: Int) -> JulianDayInterval {
+    JulianDayInterval(
+      beginJDN: beginJDN.map { $0 + beginDays },
+      endJDN: endJDN.map { $0 + endDays }
+    )
+  }
+}
+
+/// One calendar interpretation of an expression. Alternatives must remain
+/// distinct until a user or a historical calendar policy resolves them.
+public struct HistoricalDateHypothesis: Codable, Sendable, Hashable, Identifiable {
+  public let id: String
+  public let interval: HistoricalDateInterval
+  public let confidence: Double?
+  public let rationale: String?
+
+  public init(
+    id: String? = nil,
+    interval: HistoricalDateInterval,
+    confidence: Double? = nil,
+    rationale: String? = nil
+  ) {
+    self.id = id ?? interval.begin?.calendarID.rawValue ?? "unresolved"
+    self.interval = interval
+    self.confidence = confidence
+    self.rationale = rationale
+  }
+}
+
+public struct HistoricalDateHypothesisSet: Codable, Sendable, Hashable {
+  public let hypotheses: [HistoricalDateHypothesis]
+
+  public init(hypotheses: [HistoricalDateHypothesis]) {
+    var seen = Set<String>()
+    self.hypotheses = hypotheses.filter { seen.insert($0.id).inserted }
+  }
+
+  /// Returns a single interval only when every retained interpretation agrees
+  /// on the same absolute bounds.
+  public var resolvedInterval: HistoricalDateInterval? {
+    guard let first = hypotheses.first?.interval else { return nil }
+    return hypotheses.dropFirst().allSatisfy {
+      $0.interval.beginJDN == first.beginJDN && $0.interval.endJDN == first.endJDN
+    } ? first : nil
+  }
+
+  public var absoluteHull: JulianDayInterval? {
+    hypotheses.map(\.interval.jdnInterval).reduce(nil) { partial, interval in
+      partial?.hull(with: interval) ?? interval
+    }
+  }
 }
 
 /// A lossless historical expression together with its materialized absolute-day projection.
