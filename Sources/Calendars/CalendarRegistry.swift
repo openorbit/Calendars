@@ -52,6 +52,9 @@ public struct CalendarRegistry : Sendable {
   public func calendar(for id: String) -> CalendarProtocol? {
     return map[id.lowercased()]
   }
+  public func calendar(for id: CalendarId) -> CalendarProtocol? {
+    map.values.first { $0.identifier == id }
+  }
   public func calendarID(for id: String) -> CalendarId? {
     return idMap[id.lowercased()]
   }

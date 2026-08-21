@@ -1,6 +1,44 @@
 import Testing
 @testable import Calendars
 
+@Test func partialHistoricalDatesProjectToInclusiveJDNBounds() {
+  let year = HistoricalDateComponents(calendarID: .gregorian, year: 1702)
+  let month = HistoricalDateComponents(calendarID: .gregorian, year: 1702, month: 3)
+  let day = HistoricalDateComponents(calendarID: .gregorian, year: 1702, month: 3, day: 12)
+
+  #expect(year.projectedJDNBounds()?.beginJDN == GregorianCalendar.toJDN(Y: 1702, M: 1, D: 1))
+  #expect(year.projectedJDNBounds()?.endJDN == GregorianCalendar.toJDN(Y: 1702, M: 12, D: 31))
+  #expect(month.projectedJDNBounds()?.beginJDN == GregorianCalendar.toJDN(Y: 1702, M: 3, D: 1))
+  #expect(month.projectedJDNBounds()?.endJDN == GregorianCalendar.toJDN(Y: 1702, M: 3, D: 31))
+  #expect(day.projectedJDNBounds()?.beginJDN == day.projectedJDNBounds()?.endJDN)
+}
+
+@Test func historicalDateQualifiersProduceOpenBounds() {
+  let year = HistoricalDateComponents(calendarID: .julian, year: 1702)
+  let before = HistoricalDateInterval(begin: year, qualifier: .before)
+  let after = HistoricalDateInterval(begin: year, qualifier: .after)
+
+  #expect(before.beginJDN == nil)
+  #expect(before.endJDN == JulianCalendar.toJDN(Y: 1702, M: 1, D: 1) - 1)
+  #expect(after.beginJDN == JulianCalendar.toJDN(Y: 1702, M: 12, D: 31) + 1)
+  #expect(after.endJDN == nil)
+}
+
+@Test func historicalDateProjectionUsesCalendarIdentifierRatherThanLookupKey() {
+  let swedish = HistoricalDateComponents(calendarID: .swedish, year: 1702, month: 3)
+  #expect(swedish.projectedJDNBounds()?.beginJDN == SwedishCalendar.toJDN(Y: 1702, M: 3, D: 1))
+  #expect(swedish.projectedJDNBounds()?.endJDN == SwedishCalendar.toJDN(Y: 1702, M: 3, D: 31))
+}
+
+@Test func julianDayIntervalsIntersectAndDetectDisjointRanges() {
+  let first = JulianDayInterval(beginJDN: 100, endJDN: 200)
+  let second = JulianDayInterval(beginJDN: 150, endJDN: 250)
+  let disjoint = JulianDayInterval(beginJDN: 300, endJDN: nil)
+
+  #expect(first.intersection(with: second) == JulianDayInterval(beginJDN: 150, endJDN: 200))
+  #expect(first.intersection(with: disjoint) == nil)
+}
+
 @Test func testFirstSwedishDateToJulian() async throws {
   let jd = SwedishCalendar.toJDN(Y: 1700, M: 3, D: 1)
   let jdJulian = JulianCalendar.toJDN(Y: 1700, M: 2, D: 29)

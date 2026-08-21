@@ -18,14 +18,14 @@
 
 import Foundation
 
-public enum YearMode {
+public enum YearMode: String, Codable, Sendable, Hashable {
   case civil        // The calendar’s canonical year
   case regnal       // Starts on a ruler’s accession anniversary (varies by monarch)
   case fiscal       // Jurisdiction-defined FY (e.g., Apr 1, Jul 1, Oct 1)
   case liturgical   // Church year (e.g., Advent, 1 Sep Byzantine, etc.)
 }
 
-public enum CalendarRegime : Sendable {
+public enum CalendarRegime: String, Codable, Sendable, Hashable {
   /// Date based on calendar being rule based, which is independent on historical reconstructtion
   case ruleBased
   /// Reconstructed date based on tables attested by scholars

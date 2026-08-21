@@ -7,7 +7,7 @@ let package = Package(
     name: "Calendars",
 
     platforms: [
-      .macOS(.v13)
+      .macOS(.v12)
     ],
 
     products: [

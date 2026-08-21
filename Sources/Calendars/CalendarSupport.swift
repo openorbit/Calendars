@@ -18,7 +18,7 @@
 
 import Foundation
 
-public enum CalendarId : String, Codable, Sendable, Equatable, CaseIterable {
+public enum CalendarId : String, Codable, Sendable, Equatable, Hashable, CaseIterable {
   case julian
   case gregorian
   case swedish
