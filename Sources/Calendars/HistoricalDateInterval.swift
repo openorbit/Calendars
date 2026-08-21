@@ -150,6 +150,49 @@ public struct JulianDayInterval: Codable, Sendable, Hashable {
       endJDN: endJDN.map { $0 + endDays }
     )
   }
+
+  /// Number of included days when both bounds are finite.
+  public var dayCount: Int? {
+    guard let beginJDN, let endJDN else { return nil }
+    let (distance, overflowed) = endJDN.subtractingReportingOverflow(beginJDN)
+    guard !overflowed else { return nil }
+    let (count, countOverflowed) = distance.addingReportingOverflow(1)
+    return countOverflowed ? nil : count
+  }
+
+  public func isAdjacent(to other: JulianDayInterval) -> Bool {
+    if let endJDN, let otherBegin = other.beginJDN,
+       endJDN.addingReportingOverflow(1) == (otherBegin, false) { return true }
+    if let otherEnd = other.endJDN, let beginJDN,
+       otherEnd.addingReportingOverflow(1) == (beginJDN, false) { return true }
+    return false
+  }
+
+  public func unionIfOverlappingOrAdjacent(with other: JulianDayInterval) -> JulianDayInterval? {
+    guard overlaps(other) || isAdjacent(to: other) else { return nil }
+    return hull(with: other)
+  }
+
+  /// Shifts inclusive bounds, returning nil instead of overflowing or producing an inverted interval.
+  public func shiftedSafely(beginBy beginDays: Int, endBy endDays: Int) -> JulianDayInterval? {
+    let begin = beginJDN.flatMap { value -> Int? in
+      let result = value.addingReportingOverflow(beginDays)
+      return result.overflow ? nil : result.partialValue
+    }
+    let end = endJDN.flatMap { value -> Int? in
+      let result = value.addingReportingOverflow(endDays)
+      return result.overflow ? nil : result.partialValue
+    }
+    if beginJDN != nil && begin == nil || endJDN != nil && end == nil { return nil }
+    if let begin, let end, begin > end { return nil }
+    return JulianDayInterval(beginJDN: begin, endJDN: end)
+  }
+
+  /// Expands outward by the supplied nonnegative day counts.
+  public func expandedSafely(beginBy beginDays: Int, endBy endDays: Int) -> JulianDayInterval? {
+    guard beginDays >= 0, endDays >= 0 else { return nil }
+    return shiftedSafely(beginBy: -beginDays, endBy: endDays)
+  }
 }
 
 /// One calendar interpretation of an expression. Alternatives must remain
@@ -238,7 +281,36 @@ public struct HistoricalDateInterval: Codable, Sendable, Hashable {
     }
   }
 
+  /// Creates a calculated absolute interval without inventing historical calendar components.
+  public init(
+    projectedJDNBounds: JulianDayInterval,
+    precision: HistoricalDatePrecision = .interval,
+    qualifier: HistoricalDateQualifier = .calculated,
+    projectionVersion: Int = Self.currentProjectionVersion
+  ) {
+    begin = nil
+    end = nil
+    beginJDN = projectedJDNBounds.beginJDN
+    endJDN = projectedJDNBounds.endJDN
+    self.precision = precision
+    self.qualifier = qualifier
+    self.projectionVersion = projectionVersion
+  }
+
   public var jdnInterval: JulianDayInterval {
     JulianDayInterval(beginJDN: beginJDN, endJDN: endJDN)
+  }
+
+
+  public func intersection(with other: HistoricalDateInterval) -> HistoricalDateInterval? {
+    jdnInterval.intersection(with: other.jdnInterval).map {
+      HistoricalDateInterval(projectedJDNBounds: $0, qualifier: .calculated)
+    }
+  }
+
+  public func shiftedSafely(beginBy beginDays: Int, endBy endDays: Int) -> HistoricalDateInterval? {
+    jdnInterval.shiftedSafely(beginBy: beginDays, endBy: endDays).map {
+      HistoricalDateInterval(projectedJDNBounds: $0, qualifier: .calculated)
+    }
   }
 }

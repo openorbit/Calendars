@@ -39,6 +39,26 @@ import Testing
   #expect(first.intersection(with: disjoint) == nil)
 }
 
+@Test func canonicalIntervalsSupportSafeReasoningOperations() {
+  let first = JulianDayInterval(beginJDN: 100, endJDN: 200)
+  let adjacent = JulianDayInterval(beginJDN: 201, endJDN: 250)
+  #expect(first.dayCount == 101)
+  #expect(first.isAdjacent(to: adjacent))
+  #expect(first.unionIfOverlappingOrAdjacent(with: adjacent) == JulianDayInterval(beginJDN: 100, endJDN: 250))
+  #expect(first.shiftedSafely(beginBy: -10, endBy: 20) == JulianDayInterval(beginJDN: 90, endJDN: 220))
+  #expect(first.expandedSafely(beginBy: 10, endBy: 20) == JulianDayInterval(beginJDN: 90, endJDN: 220))
+}
+
+@Test func calculatedHistoricalIntervalsDoNotInventCalendarComponents() {
+  let calculated = HistoricalDateInterval(
+    projectedJDNBounds: JulianDayInterval(beginJDN: 100, endJDN: 200)
+  )
+  #expect(calculated.begin == nil)
+  #expect(calculated.end == nil)
+  #expect(calculated.qualifier == .calculated)
+  #expect(calculated.shiftedSafely(beginBy: 10, endBy: 10)?.jdnInterval == JulianDayInterval(beginJDN: 110, endJDN: 210))
+}
+
 @Test func hypothesisSetsDoNotCollapseDifferentCalendarInterpretations() {
   let julian = HistoricalDateInterval(
     begin: HistoricalDateComponents(calendarID: .julian, year: 1702, month: 3, day: 12)
