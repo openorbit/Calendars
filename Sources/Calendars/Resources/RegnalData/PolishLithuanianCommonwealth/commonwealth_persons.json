@@ -1,0 +1,288 @@
+[
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_SIGISMUND_II",
+    "name": {
+      "normalized": "Sigismund II Augustus"
+    },
+    "variants": [
+      {
+        "form": "Zygmunt II August",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigismund II Augustus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_HENRY",
+    "name": {
+      "normalized": "Henry"
+    },
+    "variants": [
+      {
+        "form": "Henryk Walezy",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Henry",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_ANNA",
+    "name": {
+      "normalized": "Anna Jagiellon"
+    },
+    "variants": [
+      {
+        "form": "Anna Jagiellonka",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anna Jagiellon",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_STEPHEN_BATHORY",
+    "name": {
+      "normalized": "Stephen Báthory"
+    },
+    "variants": [
+      {
+        "form": "Stefan Batory",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephen Báthory",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_SIGISMUND_III",
+    "name": {
+      "normalized": "Sigismund III Vasa"
+    },
+    "variants": [
+      {
+        "form": "Zygmunt III Waza",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigismund III Vasa",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_WLADYSLAW_IV",
+    "name": {
+      "normalized": "Władysław IV Vasa"
+    },
+    "variants": [
+      {
+        "form": "Władysław IV Waza",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Władysław IV Vasa",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_JOHN_II_CASIMIR",
+    "name": {
+      "normalized": "John II Casimir"
+    },
+    "variants": [
+      {
+        "form": "Jan II Kazimierz",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John II Casimir",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_MICHAEL_I",
+    "name": {
+      "normalized": "Michael I"
+    },
+    "variants": [
+      {
+        "form": "Michał Korybut Wiśniowiecki",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_JOHN_III",
+    "name": {
+      "normalized": "John III Sobieski"
+    },
+    "variants": [
+      {
+        "form": "Jan III Sobieski",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John III Sobieski",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_II",
+    "name": {
+      "normalized": "Augustus II"
+    },
+    "variants": [
+      {
+        "form": "August II Mocny",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Augustus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_I",
+    "name": {
+      "normalized": "Stanislaus I"
+    },
+    "variants": [
+      {
+        "form": "Stanisław I Leszczyński",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stanislaus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_III",
+    "name": {
+      "normalized": "Augustus III"
+    },
+    "variants": [
+      {
+        "form": "August III Sas",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Augustus III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_II",
+    "name": {
+      "normalized": "Stanislaus II Augustus"
+    },
+    "variants": [
+      {
+        "form": "Stanisław August Poniatowski",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stanislaus II Augustus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

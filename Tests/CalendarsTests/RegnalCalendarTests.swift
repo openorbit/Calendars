@@ -48,6 +48,8 @@ struct RegnalCalendarTests {
             "POLITY_OSTROGOTHIC_KINGDOM",
             "POLITY_OTTOMAN_EMPIRE",
             "POLITY_PAPACY",
+            "POLITY_POLAND",
+            "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
             "POLITY_PORTUGAL",
             "POLITY_REGNUM_FRANCORUM",
             "POLITY_ROMAN_REPUBLIC",
@@ -100,6 +102,8 @@ struct RegnalCalendarTests {
         "POLITY_OSTROGOTHIC_KINGDOM",
         "POLITY_OTTOMAN_EMPIRE",
         "POLITY_PAPACY",
+        "POLITY_POLAND",
+        "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
         "POLITY_PORTUGAL",
         "POLITY_REGNUM_FRANCORUM",
         "POLITY_ROMAN_REPUBLIC",
@@ -214,6 +218,60 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Polish succession preserves the seniorate restorations")
+    func polishSuccessionPreservesTheSeniorateRestorations() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_POLAND_RULER")
+        let mieszkoIII = tenures.filter {
+            $0.personID == "P_POLAND_MIESZKO_III"
+        }
+        let leszekI = tenures.filter {
+            $0.personID == "P_POLAND_LESZEK_I"
+        }
+        let sigismundII = try #require(
+            tenures.first { $0.personID == "P_POLAND_SIGISMUND_II" }
+        )
+
+        #expect(tenures.count == 47)
+        #expect(mieszkoIII.count == 4)
+        #expect(leszekI.count == 4)
+        #expect(sigismundII.end.first?.ymd?.year == 1569)
+        #expect(sigismundII.end.first?.ymd?.month == 7)
+        #expect(sigismundII.end.first?.ymd?.day == 1)
+        #expect(
+            calendar.person(forID: "P_POLAND_CASIMIR_III")?.variants.contains {
+                $0.form == "Kazimierz III Wielki" && $0.lang == "pl"
+            } == true
+        )
+    }
+
+    @Test("Commonwealth succession remains elective and ends at the partition")
+    func commonwealthSuccessionRemainsElectiveAndEndsAtThePartition() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_COMMONWEALTH_MONARCH")
+        let augustusII = tenures.filter {
+            $0.personID == "P_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_II"
+        }
+        let stanislausI = tenures.filter {
+            $0.personID == "P_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_I"
+        }
+        let finalKing = try #require(
+            tenures.first {
+                $0.personID == "P_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_II"
+            }
+        )
+
+        #expect(tenures.count == 15)
+        #expect(augustusII.count == 2)
+        #expect(stanislausI.count == 2)
+        #expect(stanislausI.allSatisfy { $0.status == "disputed" })
+        #expect(finalKing.end.first?.ymd?.year == 1795)
+        #expect(finalKing.end.first?.ymd?.month == 11)
+        #expect(finalKing.end.first?.ymd?.day == 25)
+        #expect(
+            calendar.offices["OFFICE_COMMONWEALTH_MONARCH"]?.polityID
+                == "POLITY_POLISH_LITHUANIAN_COMMONWEALTH"
+        )
     }
 
     @Test("Ottoman succession preserves restorations and the interregnum")

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "P_POLAND_MIESZKO_I",
+    "name": {
+      "normalized": "Mieszko I"
+    },
+    "variants": [
+      {
+        "form": "Mieszko I",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mieszko I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_BOLESLAW_I",
+    "name": {
+      "normalized": "Bolesław I"
+    },
+    "variants": [
+      {
+        "form": "Bolesław I Chrobry",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bolesław I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_MIESZKO_II",
+    "name": {
+      "normalized": "Mieszko II"
+    },
+    "variants": [
+      {
+        "form": "Mieszko II Lambert",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mieszko II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_BEZPRYM",
+    "name": {
+      "normalized": "Bezprym"
+    },
+    "variants": [
+      {
+        "form": "Bezprym",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bezprym",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_CASIMIR_I",
+    "name": {
+      "normalized": "Casimir I"
+    },
+    "variants": [
+      {
+        "form": "Kazimierz I Odnowiciel",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Casimir I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_BOLESLAW_II",
+    "name": {
+      "normalized": "Bolesław II"
+    },
+    "variants": [
+      {
+        "form": "Bolesław II Szczodry",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bolesław II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_WLADYSLAW_I_HERMAN",
+    "name": {
+      "normalized": "Władysław I Herman"
+    },
+    "variants": [
+      {
+        "form": "Władysław I Herman",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Władysław I Herman",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_BOLESLAW_III",
+    "name": {
+      "normalized": "Bolesław III"
+    },
+    "variants": [
+      {
+        "form": "Bolesław III Krzywousty",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bolesław III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_WLADYSLAW_II",
+    "name": {
+      "normalized": "Władysław II"
+    },
+    "variants": [
+      {
+        "form": "Władysław II Wygnaniec",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Władysław II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_BOLESLAW_IV",
+    "name": {
+      "normalized": "Bolesław IV"
+    },
+    "variants": [
+      {
+        "form": "Bolesław IV Kędzierzawy",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bolesław IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_MIESZKO_III",
+    "name": {
+      "normalized": "Mieszko III"
+    },
+    "variants": [
+      {
+        "form": "Mieszko III Stary",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mieszko III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_CASIMIR_II",
+    "name": {
+      "normalized": "Casimir II"
+    },
+    "variants": [
+      {
+        "form": "Kazimierz II Sprawiedliwy",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Casimir II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_LESZEK_I",
+    "name": {
+      "normalized": "Leszek I"
+    },
+    "variants": [
+      {
+        "form": "Leszek Biały",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leszek I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_WLADYSLAW_III",
+    "name": {
+      "normalized": "Władysław III"
+    },
+    "variants": [
+      {
+        "form": "Władysław III Laskonogi",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Władysław III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_MIESZKO_IV",
+    "name": {
+      "normalized": "Mieszko IV"
+    },
+    "variants": [
+      {
+        "form": "Mieszko IV Plątonogi",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mieszko IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_KONRAD_I",
+    "name": {
+      "normalized": "Konrad I"
+    },
+    "variants": [
+      {
+        "form": "Konrad I Mazowiecki",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Konrad I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_HENRY_I",
+    "name": {
+      "normalized": "Henry I"
+    },
+    "variants": [
+      {
+        "form": "Henryk I Brodaty",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Henry I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_HENRY_II",
+    "name": {
+      "normalized": "Henry II"
+    },
+    "variants": [
+      {
+        "form": "Henryk II Pobożny",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Henry II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_BOLESLAW_II_HORNED",
+    "name": {
+      "normalized": "Bolesław II the Horned"
+    },
+    "variants": [
+      {
+        "form": "Bolesław II Rogatka",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bolesław II the Horned",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_BOLESLAW_V",
+    "name": {
+      "normalized": "Bolesław V"
+    },
+    "variants": [
+      {
+        "form": "Bolesław V Wstydliwy",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bolesław V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_LESZEK_II",
+    "name": {
+      "normalized": "Leszek II"
+    },
+    "variants": [
+      {
+        "form": "Leszek II Czarny",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leszek II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_HENRY_IV",
+    "name": {
+      "normalized": "Henry IV"
+    },
+    "variants": [
+      {
+        "form": "Henryk IV Probus",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Henry IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_PRZEMYSL_II",
+    "name": {
+      "normalized": "Przemysł II"
+    },
+    "variants": [
+      {
+        "form": "Przemysł II",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Przemysł II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_WLADYSLAW_I",
+    "name": {
+      "normalized": "Władysław I"
+    },
+    "variants": [
+      {
+        "form": "Władysław I Łokietek",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Władysław I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_WENCESLAUS_II",
+    "name": {
+      "normalized": "Wenceslaus II"
+    },
+    "variants": [
+      {
+        "form": "Wacław II",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Wenceslaus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_WENCESLAUS_III",
+    "name": {
+      "normalized": "Wenceslaus III"
+    },
+    "variants": [
+      {
+        "form": "Wacław III",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Wenceslaus III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_CASIMIR_III",
+    "name": {
+      "normalized": "Casimir III"
+    },
+    "variants": [
+      {
+        "form": "Kazimierz III Wielki",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Casimir III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_LOUIS_I",
+    "name": {
+      "normalized": "Louis I"
+    },
+    "variants": [
+      {
+        "form": "Ludwik Węgierski",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_JADWIGA",
+    "name": {
+      "normalized": "Jadwiga"
+    },
+    "variants": [
+      {
+        "form": "Jadwiga",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jadwiga",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_WLADYSLAW_II_JAGIELLO",
+    "name": {
+      "normalized": "Władysław II Jagiełło"
+    },
+    "variants": [
+      {
+        "form": "Władysław II Jagiełło",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Władysław II Jagiełło",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_WLADYSLAW_III_VARNA",
+    "name": {
+      "normalized": "Władysław III"
+    },
+    "variants": [
+      {
+        "form": "Władysław III Warneńczyk",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Władysław III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_CASIMIR_IV",
+    "name": {
+      "normalized": "Casimir IV"
+    },
+    "variants": [
+      {
+        "form": "Kazimierz IV Jagiellończyk",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Casimir IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_JOHN_I_ALBERT",
+    "name": {
+      "normalized": "John I Albert"
+    },
+    "variants": [
+      {
+        "form": "Jan I Olbracht",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John I Albert",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_ALEXANDER",
+    "name": {
+      "normalized": "Alexander"
+    },
+    "variants": [
+      {
+        "form": "Aleksander Jagiellończyk",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_SIGISMUND_I",
+    "name": {
+      "normalized": "Sigismund I"
+    },
+    "variants": [
+      {
+        "form": "Zygmunt I Stary",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigismund I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POLAND_SIGISMUND_II",
+    "name": {
+      "normalized": "Sigismund II Augustus"
+    },
+    "variants": [
+      {
+        "form": "Zygmunt II August",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigismund II Augustus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

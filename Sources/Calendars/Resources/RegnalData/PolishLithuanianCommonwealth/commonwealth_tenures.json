@@ -1,0 +1,501 @@
+[
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_SIGISMUND_II",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_SIGISMUND_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1569,
+          "month": 7,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1572
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_HENRY",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_HENRY",
+    "ordinal": null,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1573
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1575
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_ANNA",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_ANNA",
+    "ordinal": null,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1575
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1587
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_STEPHEN_BATHORY",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_STEPHEN_BATHORY",
+    "ordinal": null,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1576
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1586
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_SIGISMUND_III",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_SIGISMUND_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1587
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1632
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_WLADYSLAW_IV",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_WLADYSLAW_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1632
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1648
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_JOHN_II_CASIMIR",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_JOHN_II_CASIMIR",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1648
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1668
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_MICHAEL_I",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_MICHAEL_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1669
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1673
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_JOHN_III",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_JOHN_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1674
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1696
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_II_A",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1697
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1706
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_I_A",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1704
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1709
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_II_B",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1709
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1733
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_I_B",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1733
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1736
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_III",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_AUGUSTUS_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1733
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1763
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_II",
+    "office_id": "OFFICE_COMMONWEALTH_MONARCH",
+    "person_id": "P_POLISHLITHUANIANCOMMONWEALTH_STANISLAUS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1764
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1795,
+          "month": 11,
+          "day": 25
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

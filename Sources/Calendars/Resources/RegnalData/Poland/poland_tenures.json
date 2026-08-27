@@ -1,0 +1,1555 @@
+[
+  {
+    "id": "TEN_POLAND_MIESZKO_I",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_MIESZKO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 960
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 992
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_BOLESLAW_I",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_BOLESLAW_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 992
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1025
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_MIESZKO_II_A",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_MIESZKO_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1025
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1031
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_BEZPRYM",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_BEZPRYM",
+    "ordinal": null,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1031
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1032
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_POLAND_MIESZKO_II_B",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_MIESZKO_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1032
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1034
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_CASIMIR_I",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_CASIMIR_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1040
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1058
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_BOLESLAW_II",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_BOLESLAW_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1058
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1079
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WLADYSLAW_I_HERMAN",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WLADYSLAW_I_HERMAN",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1079
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1102
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_BOLESLAW_III",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_BOLESLAW_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1102
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1138
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WLADYSLAW_II",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WLADYSLAW_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1138
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1146
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_BOLESLAW_IV",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_BOLESLAW_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1146
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1173
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_MIESZKO_III_A",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_MIESZKO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1173
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1177
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_CASIMIR_II_A",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_CASIMIR_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1177
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1190
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_MIESZKO_III_B",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_MIESZKO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1190
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1191
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_CASIMIR_II_B",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_CASIMIR_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1191
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1194
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_LESZEK_I_A",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_LESZEK_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1194
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1198
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_MIESZKO_III_C",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_MIESZKO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1198
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1199
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_LESZEK_I_B",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_LESZEK_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1199
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1202
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_MIESZKO_III_D",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_MIESZKO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1202
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1202
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WLADYSLAW_III_A",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WLADYSLAW_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1202
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1206
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_LESZEK_I_C",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_LESZEK_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1206
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1210
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_MIESZKO_IV",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_MIESZKO_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1210
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1211
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_LESZEK_I_D",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_LESZEK_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1211
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1227
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WLADYSLAW_III_B",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WLADYSLAW_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1228
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1229
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_KONRAD_I_A",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_KONRAD_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1229
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1232
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_HENRY_I",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_HENRY_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1232
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1238
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_HENRY_II",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_HENRY_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1238
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1241
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_BOLESLAW_II_HORNED",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_BOLESLAW_II_HORNED",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1241
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1241
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_KONRAD_I_B",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_KONRAD_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1241
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1243
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_BOLESLAW_V",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_BOLESLAW_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1243
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1279
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_LESZEK_II",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_LESZEK_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1279
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1288
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_HENRY_IV",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_HENRY_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1288
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1290
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_PRZEMYSL_II",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_PRZEMYSL_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1290
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1296
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WLADYSLAW_I_A",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WLADYSLAW_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1296
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1300
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WENCESLAUS_II",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WENCESLAUS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1300
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1305
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WENCESLAUS_III",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WENCESLAUS_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1305
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1306
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_POLAND_WLADYSLAW_I_B",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WLADYSLAW_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1306
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1333
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_CASIMIR_III",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_CASIMIR_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1333
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1370
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_LOUIS_I",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_LOUIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1370
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1382
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_JADWIGA",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_JADWIGA",
+    "ordinal": null,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1384
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1399
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WLADYSLAW_II_JAGIELLO",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WLADYSLAW_II_JAGIELLO",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1386
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1434
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_WLADYSLAW_III_VARNA",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_WLADYSLAW_III_VARNA",
+    "ordinal": 3,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1434
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1444
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_CASIMIR_IV",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_CASIMIR_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1447
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1492
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_JOHN_I_ALBERT",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_JOHN_I_ALBERT",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1492
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1501
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_ALEXANDER",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_ALEXANDER",
+    "ordinal": null,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1501
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1506
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_SIGISMUND_I",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_SIGISMUND_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1506
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1548
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_POLAND_SIGISMUND_II",
+    "office_id": "OFFICE_POLAND_RULER",
+    "person_id": "P_POLAND_SIGISMUND_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_POLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1548
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1569,
+          "month": 7,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]
