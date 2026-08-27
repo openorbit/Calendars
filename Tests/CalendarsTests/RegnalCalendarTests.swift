@@ -28,6 +28,7 @@ struct RegnalCalendarTests {
             "POLITY_HABSBURG_MONARCHY",
             "POLITY_HOLY_ROMAN_EMPIRE",
             "POLITY_HRE",
+            "POLITY_HUNGARY",
             "POLITY_KALMAR_UNION",
             "POLITY_KENT",
             "POLITY_KINGDOM_ITALY",
@@ -76,6 +77,7 @@ struct RegnalCalendarTests {
         "POLITY_HABSBURG_MONARCHY",
         "POLITY_HOLY_ROMAN_EMPIRE",
         "POLITY_HRE",
+        "POLITY_HUNGARY",
         "POLITY_KENT",
         "POLITY_KINGDOM_ITALY",
         "POLITY_KINGDOM_LOMBARDS",
@@ -200,6 +202,35 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Hungarian succession preserves rival and restored reigns")
+    func hungarianSuccessionPreservesRivalAndRestoredReigns() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_HUNGARY_MONARCH")
+        let peter = tenures.filter { $0.personID == "P_HUNGARY_PETER" }
+        let mary = tenures.filter { $0.personID == "P_HUNGARY_MARY" }
+        let interregnumRivals = tenures.filter {
+            ["P_HUNGARY_CHARLES_I", "P_HUNGARY_WENCESLAUS", "P_HUNGARY_OTTO"]
+                .contains($0.personID)
+        }
+        let charlesIV = try #require(
+            tenures.first { $0.personID == "P_HUNGARY_CHARLES_IV" }
+        )
+
+        #expect(tenures.count == 56)
+        #expect(Set(tenures.map(\.personID)).count == 54)
+        #expect(peter.count == 2)
+        #expect(mary.count == 2)
+        #expect(interregnumRivals.count == 3)
+        #expect(interregnumRivals.count { $0.status == "disputed" } == 2)
+        #expect(charlesIV.end.first?.ymd?.year == 1918)
+        #expect(charlesIV.end.first?.ymd?.month == 11)
+        #expect(charlesIV.end.first?.ymd?.day == 13)
+        #expect(
+            calendar.person(forID: "P_HUNGARY_STEPHEN_I")?.variants.contains {
+                $0.form == "I. István" && $0.lang == "hu"
+            } == true
+        )
     }
 
     @Test("Habsburg realms preserve the 1804 and 1867 state transitions")

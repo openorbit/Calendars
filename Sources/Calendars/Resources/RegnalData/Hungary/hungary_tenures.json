@@ -1,0 +1,1859 @@
+[
+  {
+    "id": "TEN_HUNGARY_STEPHEN_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_STEPHEN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1000
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1038
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_PETER_A",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_PETER",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1038
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1041
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_SAMUEL_ABA",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_SAMUEL_ABA",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1041
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1044
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_PETER_B",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_PETER",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1044
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1046
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_ANDREW_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_ANDREW_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1046
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1060
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_BELA_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_BELA_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1060
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1063
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_SOLOMON",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_SOLOMON",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1063
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1074
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_GEZA_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_GEZA_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1074
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1077
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LADISLAUS_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LADISLAUS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1077
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1095
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_COLOMAN",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_COLOMAN",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1095
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1116
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_STEPHEN_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_STEPHEN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1116
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1131
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_BELA_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_BELA_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1131
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1141
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_GEZA_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_GEZA_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1141
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1162
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_STEPHEN_III",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_STEPHEN_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1162
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1172
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LADISLAUS_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LADISLAUS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1162
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1163
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_HUNGARY_STEPHEN_IV",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_STEPHEN_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1163
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1165
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_HUNGARY_BELA_III",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_BELA_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1172
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_EMERIC",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_EMERIC",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LADISLAUS_III",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LADISLAUS_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1205
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_ANDREW_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_ANDREW_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1205
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1235
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_BELA_IV",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_BELA_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1235
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1270
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_STEPHEN_V",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_STEPHEN_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1270
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1272
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LADISLAUS_IV",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LADISLAUS_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1272
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1290
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_ANDREW_III",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_ANDREW_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1290
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1301
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_WENCESLAUS",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_WENCESLAUS",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1301
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1305
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_HUNGARY_OTTO",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_OTTO",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1305
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1307
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_HUNGARY_CHARLES_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_CHARLES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1301
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1342
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LOUIS_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LOUIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1342
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1382
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_MARY_A",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_MARY",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1382
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1385
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_CHARLES_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_CHARLES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1385
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1386
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_MARY_B",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_MARY",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1386
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1395
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_SIGISMUND",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_SIGISMUND",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1387
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1437
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_ALBERT",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_ALBERT",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1437
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1439
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LADISLAUS_V",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LADISLAUS_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1440
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1457
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_VLADISLAUS_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_VLADISLAUS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1440
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1444
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_HUNGARY_MATTHIAS_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_MATTHIAS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1458
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1490
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_VLADISLAUS_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_VLADISLAUS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1490
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1516
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LOUIS_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LOUIS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1516
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1526
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_JOHN_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_JOHN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1526
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1540
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_HUNGARY_FERDINAND_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_FERDINAND_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1526
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1564
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_JOHN_II_SIGISMUND",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_JOHN_II_SIGISMUND",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1540
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1570
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_HUNGARY_MAXIMILIAN",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_MAXIMILIAN",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1564
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1576
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_RUDOLF",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_RUDOLF",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1576
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1608
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_MATTHIAS_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_MATTHIAS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1608
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1619
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_FERDINAND_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_FERDINAND_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1619
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1637
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_FERDINAND_III",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_FERDINAND_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1637
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1657
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LEOPOLD_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LEOPOLD_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1657
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1705
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_JOSEPH_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_JOSEPH_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1705
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1711
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_CHARLES_III",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_CHARLES_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1711
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1740
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_MARIA_THERESA",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_MARIA_THERESA",
+    "ordinal": null,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1740
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1780
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_JOSEPH_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_JOSEPH_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1780
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1790
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_LEOPOLD_II",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_LEOPOLD_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1790
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_FRANCIS_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_FRANCIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1835
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_FERDINAND_V",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_FERDINAND_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1835
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1848
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_FRANZ_JOSEPH_I",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_FRANZ_JOSEPH_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1848,
+          "month": 12,
+          "day": 2
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1916,
+          "month": 11,
+          "day": 21
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HUNGARY_CHARLES_IV",
+    "office_id": "OFFICE_HUNGARY_MONARCH",
+    "person_id": "P_HUNGARY_CHARLES_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1916,
+          "month": 11,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1918,
+          "month": 11,
+          "day": 13
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Charles IV relinquished participation in Hungarian state affairs on 13 November 1918 without formally abdicating."
+  }
+]

@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "P_HUNGARY_STEPHEN_I",
+    "name": {
+      "normalized": "Stephen I"
+    },
+    "variants": [
+      {
+        "form": "I. István",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephen I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_PETER",
+    "name": {
+      "normalized": "Peter"
+    },
+    "variants": [
+      {
+        "form": "Orseolo Péter",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Peter",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_SAMUEL_ABA",
+    "name": {
+      "normalized": "Samuel Aba"
+    },
+    "variants": [
+      {
+        "form": "Aba Sámuel",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Samuel Aba",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_ANDREW_I",
+    "name": {
+      "normalized": "Andrew I"
+    },
+    "variants": [
+      {
+        "form": "I. András",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Andrew I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_BELA_I",
+    "name": {
+      "normalized": "Béla I"
+    },
+    "variants": [
+      {
+        "form": "I. Béla",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Béla I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_SOLOMON",
+    "name": {
+      "normalized": "Solomon"
+    },
+    "variants": [
+      {
+        "form": "Salamon",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Solomon",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_GEZA_I",
+    "name": {
+      "normalized": "Géza I"
+    },
+    "variants": [
+      {
+        "form": "I. Géza",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Géza I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LADISLAUS_I",
+    "name": {
+      "normalized": "Ladislaus I"
+    },
+    "variants": [
+      {
+        "form": "I. László",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ladislaus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_COLOMAN",
+    "name": {
+      "normalized": "Coloman"
+    },
+    "variants": [
+      {
+        "form": "Könyves Kálmán",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Coloman",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_STEPHEN_II",
+    "name": {
+      "normalized": "Stephen II"
+    },
+    "variants": [
+      {
+        "form": "II. István",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephen II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_BELA_II",
+    "name": {
+      "normalized": "Béla II"
+    },
+    "variants": [
+      {
+        "form": "II. Béla",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Béla II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_GEZA_II",
+    "name": {
+      "normalized": "Géza II"
+    },
+    "variants": [
+      {
+        "form": "II. Géza",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Géza II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_STEPHEN_III",
+    "name": {
+      "normalized": "Stephen III"
+    },
+    "variants": [
+      {
+        "form": "III. István",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephen III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LADISLAUS_II",
+    "name": {
+      "normalized": "Ladislaus II"
+    },
+    "variants": [
+      {
+        "form": "II. László",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ladislaus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_STEPHEN_IV",
+    "name": {
+      "normalized": "Stephen IV"
+    },
+    "variants": [
+      {
+        "form": "IV. István",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephen IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_BELA_III",
+    "name": {
+      "normalized": "Béla III"
+    },
+    "variants": [
+      {
+        "form": "III. Béla",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Béla III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_EMERIC",
+    "name": {
+      "normalized": "Emeric"
+    },
+    "variants": [
+      {
+        "form": "Imre",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Emeric",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LADISLAUS_III",
+    "name": {
+      "normalized": "Ladislaus III"
+    },
+    "variants": [
+      {
+        "form": "III. László",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ladislaus III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_ANDREW_II",
+    "name": {
+      "normalized": "Andrew II"
+    },
+    "variants": [
+      {
+        "form": "II. András",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Andrew II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_BELA_IV",
+    "name": {
+      "normalized": "Béla IV"
+    },
+    "variants": [
+      {
+        "form": "IV. Béla",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Béla IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_STEPHEN_V",
+    "name": {
+      "normalized": "Stephen V"
+    },
+    "variants": [
+      {
+        "form": "V. István",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephen V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LADISLAUS_IV",
+    "name": {
+      "normalized": "Ladislaus IV"
+    },
+    "variants": [
+      {
+        "form": "IV. László",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ladislaus IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_ANDREW_III",
+    "name": {
+      "normalized": "Andrew III"
+    },
+    "variants": [
+      {
+        "form": "III. András",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Andrew III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_WENCESLAUS",
+    "name": {
+      "normalized": "Wenceslaus"
+    },
+    "variants": [
+      {
+        "form": "Vencel",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Wenceslaus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_OTTO",
+    "name": {
+      "normalized": "Otto"
+    },
+    "variants": [
+      {
+        "form": "Ottó",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Otto",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_CHARLES_I",
+    "name": {
+      "normalized": "Charles I"
+    },
+    "variants": [
+      {
+        "form": "Károly Róbert",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LOUIS_I",
+    "name": {
+      "normalized": "Louis I"
+    },
+    "variants": [
+      {
+        "form": "I. Lajos",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_MARY",
+    "name": {
+      "normalized": "Mary"
+    },
+    "variants": [
+      {
+        "form": "Mária",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mary",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_CHARLES_II",
+    "name": {
+      "normalized": "Charles II"
+    },
+    "variants": [
+      {
+        "form": "II. Károly",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_SIGISMUND",
+    "name": {
+      "normalized": "Sigismund"
+    },
+    "variants": [
+      {
+        "form": "Zsigmond",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigismund",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_ALBERT",
+    "name": {
+      "normalized": "Albert"
+    },
+    "variants": [
+      {
+        "form": "Albert",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Albert",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LADISLAUS_V",
+    "name": {
+      "normalized": "Ladislaus V"
+    },
+    "variants": [
+      {
+        "form": "V. László",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ladislaus V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_VLADISLAUS_I",
+    "name": {
+      "normalized": "Vladislaus I"
+    },
+    "variants": [
+      {
+        "form": "I. Ulászló",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vladislaus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_MATTHIAS_I",
+    "name": {
+      "normalized": "Matthias I"
+    },
+    "variants": [
+      {
+        "form": "I. Mátyás",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Matthias I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_VLADISLAUS_II",
+    "name": {
+      "normalized": "Vladislaus II"
+    },
+    "variants": [
+      {
+        "form": "II. Ulászló",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vladislaus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LOUIS_II",
+    "name": {
+      "normalized": "Louis II"
+    },
+    "variants": [
+      {
+        "form": "II. Lajos",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_JOHN_I",
+    "name": {
+      "normalized": "John I"
+    },
+    "variants": [
+      {
+        "form": "I. János",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_FERDINAND_I",
+    "name": {
+      "normalized": "Ferdinand I"
+    },
+    "variants": [
+      {
+        "form": "I. Ferdinánd",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_JOHN_II_SIGISMUND",
+    "name": {
+      "normalized": "John II Sigismund"
+    },
+    "variants": [
+      {
+        "form": "II. János Zsigmond",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John II Sigismund",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_MAXIMILIAN",
+    "name": {
+      "normalized": "Maximilian"
+    },
+    "variants": [
+      {
+        "form": "Miksa",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximilian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_RUDOLF",
+    "name": {
+      "normalized": "Rudolf"
+    },
+    "variants": [
+      {
+        "form": "Rudolf",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Rudolf",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_MATTHIAS_II",
+    "name": {
+      "normalized": "Matthias II"
+    },
+    "variants": [
+      {
+        "form": "II. Mátyás",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Matthias II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_FERDINAND_II",
+    "name": {
+      "normalized": "Ferdinand II"
+    },
+    "variants": [
+      {
+        "form": "II. Ferdinánd",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_FERDINAND_III",
+    "name": {
+      "normalized": "Ferdinand III"
+    },
+    "variants": [
+      {
+        "form": "III. Ferdinánd",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LEOPOLD_I",
+    "name": {
+      "normalized": "Leopold I"
+    },
+    "variants": [
+      {
+        "form": "I. Lipót",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_JOSEPH_I",
+    "name": {
+      "normalized": "Joseph I"
+    },
+    "variants": [
+      {
+        "form": "I. József",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_CHARLES_III",
+    "name": {
+      "normalized": "Charles III"
+    },
+    "variants": [
+      {
+        "form": "III. Károly",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_MARIA_THERESA",
+    "name": {
+      "normalized": "Maria Theresa"
+    },
+    "variants": [
+      {
+        "form": "Mária Terézia",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maria Theresa",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_JOSEPH_II",
+    "name": {
+      "normalized": "Joseph II"
+    },
+    "variants": [
+      {
+        "form": "II. József",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_LEOPOLD_II",
+    "name": {
+      "normalized": "Leopold II"
+    },
+    "variants": [
+      {
+        "form": "II. Lipót",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_FRANCIS_I",
+    "name": {
+      "normalized": "Francis I"
+    },
+    "variants": [
+      {
+        "form": "I. Ferenc",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Francis I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_FERDINAND_V",
+    "name": {
+      "normalized": "Ferdinand V"
+    },
+    "variants": [
+      {
+        "form": "V. Ferdinánd",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_FRANZ_JOSEPH_I",
+    "name": {
+      "normalized": "Franz Joseph I"
+    },
+    "variants": [
+      {
+        "form": "I. Ferenc József",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Franz Joseph I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HUNGARY_CHARLES_IV",
+    "name": {
+      "normalized": "Charles IV"
+    },
+    "variants": [
+      {
+        "form": "IV. Károly",
+        "lang": "hu",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]
