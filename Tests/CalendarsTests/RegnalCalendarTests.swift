@@ -9,6 +9,7 @@ struct RegnalCalendarTests {
     func allSupportedPolitiesLoad() {
         let expectedIDs: Set<String> = [
             "POLITY_AUSTRASIA",
+            "POLITY_BELGIUM",
             "POLITY_BURGUNDY_FRANKISH",
             "POLITY_CAROLINGIAN_EMPIRE",
             "POLITY_DENMARK_KINGDOM",
@@ -50,6 +51,7 @@ struct RegnalCalendarTests {
     }
 
     @Test("Polity has regnal tenures", arguments: [
+        "POLITY_BELGIUM",
         "POLITY_CAROLINGIAN_EMPIRE",
         "POLITY_DENMARK_KINGDOM",
         "POLITY_EAST_ANGLIA",
@@ -182,6 +184,32 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Belgian monarchy follows constitutional oath transitions")
+    func belgianMonarchyFollowsConstitutionalOathTransitions() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_BELGIUM_MONARCH")
+        let leopoldI = try #require(
+            tenures.first { $0.personID == "P_BELGIUM_LEOPOLD_I" }
+        )
+        let philippe = try #require(
+            tenures.first { $0.personID == "P_BELGIUM_PHILIPPE" }
+        )
+
+        #expect(tenures.count == 7)
+        #expect(leopoldI.start.first?.ymd?.year == 1831)
+        #expect(leopoldI.start.first?.ymd?.month == 7)
+        #expect(leopoldI.start.first?.ymd?.day == 21)
+        #expect(philippe.start.first?.ymd?.year == 2013)
+        #expect(philippe.start.first?.ymd?.month == 7)
+        #expect(philippe.start.first?.ymd?.day == 21)
+        #expect(philippe.end.first?.rep == "open")
+        #expect(philippe.status == "incumbent")
+        #expect(
+            calendar.person(forID: "P_BELGIUM_BAUDOUIN")?.variants.contains {
+                $0.form == "Boudewijn" && $0.lang == "nl"
+            } == true
+        )
     }
 
     @Test("Dutch monarchy follows legal succession dates")

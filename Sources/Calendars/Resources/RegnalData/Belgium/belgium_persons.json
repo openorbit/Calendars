@@ -1,0 +1,72 @@
+[
+  {
+    "id": "P_BELGIUM_LEOPOLD_I",
+    "name": { "normalized": "Léopold I" },
+    "variants": [
+      { "form": "Léopold I", "lang": "fr", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold I", "lang": "nl", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold I", "lang": "de", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold I", "lang": "en", "script": "Latn", "kind": "regnal", "casus": "nom" }
+    ]
+  },
+  {
+    "id": "P_BELGIUM_LEOPOLD_II",
+    "name": { "normalized": "Léopold II" },
+    "variants": [
+      { "form": "Léopold II", "lang": "fr", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold II", "lang": "nl", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold II", "lang": "de", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold II", "lang": "en", "script": "Latn", "kind": "regnal", "casus": "nom" }
+    ]
+  },
+  {
+    "id": "P_BELGIUM_ALBERT_I",
+    "name": { "normalized": "Albert I" },
+    "variants": [
+      { "form": "Albert I", "lang": "fr", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Albert I", "lang": "nl", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Albert I", "lang": "de", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Albert I", "lang": "en", "script": "Latn", "kind": "regnal", "casus": "nom" }
+    ]
+  },
+  {
+    "id": "P_BELGIUM_LEOPOLD_III",
+    "name": { "normalized": "Léopold III" },
+    "variants": [
+      { "form": "Léopold III", "lang": "fr", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold III", "lang": "nl", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold III", "lang": "de", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Leopold III", "lang": "en", "script": "Latn", "kind": "regnal", "casus": "nom" }
+    ]
+  },
+  {
+    "id": "P_BELGIUM_BAUDOUIN",
+    "name": { "normalized": "Baudouin" },
+    "variants": [
+      { "form": "Baudouin", "lang": "fr", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Boudewijn", "lang": "nl", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Balduin", "lang": "de", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Baldwin", "lang": "en", "script": "Latn", "kind": "regnal", "casus": "nom" }
+    ]
+  },
+  {
+    "id": "P_BELGIUM_ALBERT_II",
+    "name": { "normalized": "Albert II" },
+    "variants": [
+      { "form": "Albert II", "lang": "fr", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Albert II", "lang": "nl", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Albert II", "lang": "de", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Albert II", "lang": "en", "script": "Latn", "kind": "regnal", "casus": "nom" }
+    ]
+  },
+  {
+    "id": "P_BELGIUM_PHILIPPE",
+    "name": { "normalized": "Philippe" },
+    "variants": [
+      { "form": "Philippe", "lang": "fr", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Filip", "lang": "nl", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Philipp", "lang": "de", "script": "Latn", "kind": "regnal", "casus": "nom" },
+      { "form": "Philip", "lang": "en", "script": "Latn", "kind": "regnal", "casus": "nom" }
+    ]
+  }
+]
