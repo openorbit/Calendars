@@ -1,0 +1,259 @@
+[
+  {
+    "id": "TEN_NETHERLANDS_WILLEM_I",
+    "office_id": "OFFICE_NETHERLANDS_MONARCH",
+    "person_id": "P_NETHERLANDS_WILLEM_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NETHERLANDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1815,
+          "month": 3,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1840,
+          "month": 10,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Accepted the royal dignity on 16 March 1815; abdicated on 7 October 1840."
+  },
+  {
+    "id": "TEN_NETHERLANDS_WILLEM_II",
+    "office_id": "OFFICE_NETHERLANDS_MONARCH",
+    "person_id": "P_NETHERLANDS_WILLEM_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_NETHERLANDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1840,
+          "month": 10,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1849,
+          "month": 3,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded on his father's abdication; reign ended at his death."
+  },
+  {
+    "id": "TEN_NETHERLANDS_WILLEM_III",
+    "office_id": "OFFICE_NETHERLANDS_MONARCH",
+    "person_id": "P_NETHERLANDS_WILLEM_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_NETHERLANDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1849,
+          "month": 3,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1890,
+          "month": 11,
+          "day": 23
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reign ended at his death."
+  },
+  {
+    "id": "TEN_NETHERLANDS_WILHELMINA",
+    "office_id": "OFFICE_NETHERLANDS_MONARCH",
+    "person_id": "P_NETHERLANDS_WILHELMINA",
+    "ordinal": null,
+    "polity_id": "POLITY_NETHERLANDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1890,
+          "month": 11,
+          "day": 23
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1948,
+          "month": 9,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reigned under Queen Emma's regency until 1898; abdicated in 1948."
+  },
+  {
+    "id": "TEN_NETHERLANDS_JULIANA",
+    "office_id": "OFFICE_NETHERLANDS_MONARCH",
+    "person_id": "P_NETHERLANDS_JULIANA",
+    "ordinal": null,
+    "polity_id": "POLITY_NETHERLANDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1948,
+          "month": 9,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1980,
+          "month": 4,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Abdicated in favour of Beatrix."
+  },
+  {
+    "id": "TEN_NETHERLANDS_BEATRIX",
+    "office_id": "OFFICE_NETHERLANDS_MONARCH",
+    "person_id": "P_NETHERLANDS_BEATRIX",
+    "ordinal": null,
+    "polity_id": "POLITY_NETHERLANDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1980,
+          "month": 4,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2013,
+          "month": 4,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Abdicated in favour of Willem-Alexander."
+  },
+  {
+    "id": "TEN_NETHERLANDS_WILLEM_ALEXANDER",
+    "office_id": "OFFICE_NETHERLANDS_MONARCH",
+    "person_id": "P_NETHERLANDS_WILLEM_ALEXANDER",
+    "ordinal": null,
+    "polity_id": "POLITY_NETHERLANDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2013,
+          "month": 4,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent",
+    "notes": "Succeeded immediately upon Beatrix's abdication."
+  }
+]

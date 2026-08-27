@@ -29,6 +29,7 @@ struct RegnalCalendarTests {
             "POLITY_MERCIA",
             "POLITY_MIDDLE_FRANCIA",
             "POLITY_NEUSTRIA",
+            "POLITY_NETHERLANDS",
             "POLITY_NORTHUMBRIA",
             "POLITY_NORWAY_KINGDOM",
             "POLITY_NORWAY_SWEDEN_UNION",
@@ -65,6 +66,7 @@ struct RegnalCalendarTests {
         "POLITY_KINGDOM_LOMBARDS",
         "POLITY_MERCIA",
         "POLITY_MIDDLE_FRANCIA",
+        "POLITY_NETHERLANDS",
         "POLITY_NORTHUMBRIA",
         "POLITY_NORWAY_KINGDOM",
         "POLITY_OSTROGOTHIC_KINGDOM",
@@ -180,6 +182,32 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Dutch monarchy follows legal succession dates")
+    func dutchMonarchyFollowsLegalSuccessionDates() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_NETHERLANDS_MONARCH")
+        let willemI = try #require(
+            tenures.first { $0.personID == "P_NETHERLANDS_WILLEM_I" }
+        )
+        let willemAlexander = try #require(
+            tenures.first { $0.personID == "P_NETHERLANDS_WILLEM_ALEXANDER" }
+        )
+
+        #expect(tenures.count == 7)
+        #expect(willemI.start.first?.ymd?.year == 1815)
+        #expect(willemI.start.first?.ymd?.month == 3)
+        #expect(willemI.start.first?.ymd?.day == 16)
+        #expect(willemAlexander.start.first?.ymd?.year == 2013)
+        #expect(willemAlexander.start.first?.ymd?.month == 4)
+        #expect(willemAlexander.start.first?.ymd?.day == 30)
+        #expect(willemAlexander.end.first?.rep == "open")
+        #expect(willemAlexander.status == "incumbent")
+        #expect(
+            calendar.person(forID: willemI.personID)?.variants.contains {
+                $0.form == "William I" && $0.lang == "en"
+            } == true
+        )
     }
 
     @Test("Scottish succession preserves restorations and co-monarchs")

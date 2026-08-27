@@ -1,0 +1,128 @@
+[
+  {
+    "id": "P_NETHERLANDS_WILLEM_I",
+    "name": {
+      "normalized": "Willem I"
+    },
+    "variants": [
+      {
+        "form": "Willem I",
+        "lang": "nl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "William I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NETHERLANDS_WILLEM_II",
+    "name": {
+      "normalized": "Willem II"
+    },
+    "variants": [
+      {
+        "form": "Willem II",
+        "lang": "nl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "William II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NETHERLANDS_WILLEM_III",
+    "name": {
+      "normalized": "Willem III"
+    },
+    "variants": [
+      {
+        "form": "Willem III",
+        "lang": "nl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "William III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NETHERLANDS_WILHELMINA",
+    "name": {
+      "normalized": "Wilhelmina"
+    },
+    "variants": [
+      {
+        "form": "Wilhelmina",
+        "lang": "nl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NETHERLANDS_JULIANA",
+    "name": {
+      "normalized": "Juliana"
+    },
+    "variants": [
+      {
+        "form": "Juliana",
+        "lang": "nl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NETHERLANDS_BEATRIX",
+    "name": {
+      "normalized": "Beatrix"
+    },
+    "variants": [
+      {
+        "form": "Beatrix",
+        "lang": "nl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NETHERLANDS_WILLEM_ALEXANDER",
+    "name": {
+      "normalized": "Willem-Alexander"
+    },
+    "variants": [
+      {
+        "form": "Willem-Alexander",
+        "lang": "nl",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]
