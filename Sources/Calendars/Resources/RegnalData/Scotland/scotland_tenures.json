@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "TEN_SCOTLAND_KENNETH_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_KENNETH_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 843
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 858
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_DONALD_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DONALD_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 858
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 862
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_CONSTANTINE_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_CONSTANTINE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 862
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 877
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_AED",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_AED",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 877
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 878
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_GIRIC",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_GIRIC",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 878
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 889
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Traditionally described as ruling jointly or in association with Eochaid."
+  },
+  {
+    "id": "TEN_SCOTLAND_EOCHAID",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_EOCHAID",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 878
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 889
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "Status and joint rule are uncertain."
+  },
+  {
+    "id": "TEN_SCOTLAND_DONALD_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DONALD_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 889
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 900
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_CONSTANTINE_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_CONSTANTINE_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 900
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 943
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_MALCOLM_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_MALCOLM_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 943
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 954
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_INDULF",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_INDULF",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 954
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 962
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_DUB",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DUB",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 962
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 967
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_CUILEN",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_CUILEN",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 967
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 971
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_KENNETH_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_KENNETH_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 971
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 995
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_CONSTANTINE_III",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_CONSTANTINE_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 995
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 997
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_KENNETH_III",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_KENNETH_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 997
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1005
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_MALCOLM_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_MALCOLM_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1005
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1034
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_DUNCAN_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DUNCAN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1034
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1040
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_MACBETH",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_MACBETH",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1040
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1057
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_LULACH",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_LULACH",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1057
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1058
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_MALCOLM_III",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_MALCOLM_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1058
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1093
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_DONALD_III",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DONALD_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1093
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1094
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First reign."
+  },
+  {
+    "id": "TEN_SCOTLAND_DUNCAN_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DUNCAN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1094
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1094
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_DONALD_III_2",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DONALD_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1094
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1097
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Restored reign."
+  },
+  {
+    "id": "TEN_SCOTLAND_EDGAR",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_EDGAR",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1097
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1107
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_ALEXANDER_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_ALEXANDER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1107
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1124
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_DAVID_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DAVID_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1124
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1153
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_MALCOLM_IV",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_MALCOLM_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1153
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1165
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_WILLIAM_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_WILLIAM_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1165
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1214
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Known as William the Lion."
+  },
+  {
+    "id": "TEN_SCOTLAND_ALEXANDER_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_ALEXANDER_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1214
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1249
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_ALEXANDER_III",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_ALEXANDER_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1249
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1286,
+          "month": 3,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_MARGARET",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_MARGARET",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1286,
+          "month": 3,
+          "day": 19
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1290,
+          "month": 9,
+          "day": 26
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "Recognition is historically disputed; she was never inaugurated."
+  },
+  {
+    "id": "TEN_SCOTLAND_JOHN_BALLIOL",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_JOHN_BALLIOL",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1292,
+          "month": 11,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1296,
+          "month": 7,
+          "day": 10
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Crown vacant during the preceding Great Cause."
+  },
+  {
+    "id": "TEN_SCOTLAND_ROBERT_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_ROBERT_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1306,
+          "month": 3,
+          "day": 25
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1329,
+          "month": 6,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_DAVID_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_DAVID_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1329,
+          "month": 6,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1371,
+          "month": 2,
+          "day": 22
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_ROBERT_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_ROBERT_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1371,
+          "month": 2,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1390,
+          "month": 4,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_ROBERT_III",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_ROBERT_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1390,
+          "month": 4,
+          "day": 19
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1406,
+          "month": 4,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_JAMES_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_JAMES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1406,
+          "month": 4,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1437,
+          "month": 2,
+          "day": 21
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_JAMES_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_JAMES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1437,
+          "month": 2,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1460,
+          "month": 8,
+          "day": 3
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_JAMES_III",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_JAMES_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1460,
+          "month": 8,
+          "day": 3
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1488,
+          "month": 6,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_JAMES_IV",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_JAMES_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1488,
+          "month": 6,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1513,
+          "month": 9,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_JAMES_V",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_JAMES_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1513,
+          "month": 9,
+          "day": 9
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1542,
+          "month": 12,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_MARY_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_MARY_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1542,
+          "month": 12,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1567,
+          "month": 7,
+          "day": 24
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Mary, Queen of Scots."
+  },
+  {
+    "id": "TEN_SCOTLAND_JAMES_VI",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_JAMES_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1567,
+          "month": 7,
+          "day": 24
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1625,
+          "month": 3,
+          "day": 27
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Also James I of England and Ireland from 1603."
+  },
+  {
+    "id": "TEN_SCOTLAND_CHARLES_I",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_CHARLES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1625,
+          "month": 3,
+          "day": 27
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1649,
+          "month": 1,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_SCOTLAND_CHARLES_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_CHARLES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1649,
+          "month": 1,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1651,
+          "month": 9,
+          "day": 3
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First Scottish reign; displaced after the Cromwellian conquest."
+  },
+  {
+    "id": "TEN_SCOTLAND_CHARLES_II_2",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_CHARLES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1660,
+          "month": 5,
+          "day": 29
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1685,
+          "month": 2,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Restored reign."
+  },
+  {
+    "id": "TEN_SCOTLAND_JAMES_VII",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_JAMES_VII",
+    "ordinal": 7,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1685,
+          "month": 2,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1688,
+          "month": 12,
+          "day": 23
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Also James II of England and Ireland."
+  },
+  {
+    "id": "TEN_SCOTLAND_MARY_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_MARY_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1689,
+          "month": 5,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1694,
+          "month": 12,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Joint monarch with William II."
+  },
+  {
+    "id": "TEN_SCOTLAND_WILLIAM_II",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_WILLIAM_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1689,
+          "month": 5,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1702,
+          "month": 3,
+          "day": 8
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Joint monarch with Mary II until 1694, then sole monarch."
+  },
+  {
+    "id": "TEN_SCOTLAND_ANNE",
+    "office_id": "OFFICE_SCOTLAND_MONARCH",
+    "person_id": "P_SCOTLAND_ANNE",
+    "ordinal": null,
+    "polity_id": "POLITY_SCOTLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1702,
+          "month": 3,
+          "day": 8
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1707,
+          "month": 5,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Separate Scottish Crown ended when the Treaty of Union took effect."
+  }
+]

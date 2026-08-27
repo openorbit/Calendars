@@ -1,0 +1,722 @@
+[
+  {
+    "id": "P_SCOTLAND_KENNETH_I",
+    "name": {
+      "normalized": "Kenneth I"
+    },
+    "variants": [
+      {
+        "form": "Kenneth I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_DONALD_I",
+    "name": {
+      "normalized": "Donald I"
+    },
+    "variants": [
+      {
+        "form": "Donald I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_CONSTANTINE_I",
+    "name": {
+      "normalized": "Constantine I"
+    },
+    "variants": [
+      {
+        "form": "Constantine I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_AED",
+    "name": {
+      "normalized": "Áed"
+    },
+    "variants": [
+      {
+        "form": "Áed",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_GIRIC",
+    "name": {
+      "normalized": "Giric"
+    },
+    "variants": [
+      {
+        "form": "Giric",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_EOCHAID",
+    "name": {
+      "normalized": "Eochaid"
+    },
+    "variants": [
+      {
+        "form": "Eochaid",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_DONALD_II",
+    "name": {
+      "normalized": "Donald II"
+    },
+    "variants": [
+      {
+        "form": "Donald II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_CONSTANTINE_II",
+    "name": {
+      "normalized": "Constantine II"
+    },
+    "variants": [
+      {
+        "form": "Constantine II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_MALCOLM_I",
+    "name": {
+      "normalized": "Malcolm I"
+    },
+    "variants": [
+      {
+        "form": "Malcolm I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_INDULF",
+    "name": {
+      "normalized": "Indulf"
+    },
+    "variants": [
+      {
+        "form": "Indulf",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_DUB",
+    "name": {
+      "normalized": "Dub"
+    },
+    "variants": [
+      {
+        "form": "Dub",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_CUILEN",
+    "name": {
+      "normalized": "Cuilén"
+    },
+    "variants": [
+      {
+        "form": "Cuilén",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_KENNETH_II",
+    "name": {
+      "normalized": "Kenneth II"
+    },
+    "variants": [
+      {
+        "form": "Kenneth II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_CONSTANTINE_III",
+    "name": {
+      "normalized": "Constantine III"
+    },
+    "variants": [
+      {
+        "form": "Constantine III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_KENNETH_III",
+    "name": {
+      "normalized": "Kenneth III"
+    },
+    "variants": [
+      {
+        "form": "Kenneth III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_MALCOLM_II",
+    "name": {
+      "normalized": "Malcolm II"
+    },
+    "variants": [
+      {
+        "form": "Malcolm II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_DUNCAN_I",
+    "name": {
+      "normalized": "Duncan I"
+    },
+    "variants": [
+      {
+        "form": "Duncan I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_MACBETH",
+    "name": {
+      "normalized": "Macbeth"
+    },
+    "variants": [
+      {
+        "form": "Macbeth",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_LULACH",
+    "name": {
+      "normalized": "Lulach"
+    },
+    "variants": [
+      {
+        "form": "Lulach",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_MALCOLM_III",
+    "name": {
+      "normalized": "Malcolm III"
+    },
+    "variants": [
+      {
+        "form": "Malcolm III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_DONALD_III",
+    "name": {
+      "normalized": "Donald III"
+    },
+    "variants": [
+      {
+        "form": "Donald III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_DUNCAN_II",
+    "name": {
+      "normalized": "Duncan II"
+    },
+    "variants": [
+      {
+        "form": "Duncan II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_EDGAR",
+    "name": {
+      "normalized": "Edgar"
+    },
+    "variants": [
+      {
+        "form": "Edgar",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_ALEXANDER_I",
+    "name": {
+      "normalized": "Alexander I"
+    },
+    "variants": [
+      {
+        "form": "Alexander I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_DAVID_I",
+    "name": {
+      "normalized": "David I"
+    },
+    "variants": [
+      {
+        "form": "David I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_MALCOLM_IV",
+    "name": {
+      "normalized": "Malcolm IV"
+    },
+    "variants": [
+      {
+        "form": "Malcolm IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_WILLIAM_I",
+    "name": {
+      "normalized": "William I"
+    },
+    "variants": [
+      {
+        "form": "William I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_ALEXANDER_II",
+    "name": {
+      "normalized": "Alexander II"
+    },
+    "variants": [
+      {
+        "form": "Alexander II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_ALEXANDER_III",
+    "name": {
+      "normalized": "Alexander III"
+    },
+    "variants": [
+      {
+        "form": "Alexander III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_MARGARET",
+    "name": {
+      "normalized": "Margaret, Maid of Norway"
+    },
+    "variants": [
+      {
+        "form": "Margaret, Maid of Norway",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_JOHN_BALLIOL",
+    "name": {
+      "normalized": "John Balliol"
+    },
+    "variants": [
+      {
+        "form": "John Balliol",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_ROBERT_I",
+    "name": {
+      "normalized": "Robert I"
+    },
+    "variants": [
+      {
+        "form": "Robert I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_DAVID_II",
+    "name": {
+      "normalized": "David II"
+    },
+    "variants": [
+      {
+        "form": "David II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_ROBERT_II",
+    "name": {
+      "normalized": "Robert II"
+    },
+    "variants": [
+      {
+        "form": "Robert II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_ROBERT_III",
+    "name": {
+      "normalized": "Robert III"
+    },
+    "variants": [
+      {
+        "form": "Robert III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_JAMES_I",
+    "name": {
+      "normalized": "James I"
+    },
+    "variants": [
+      {
+        "form": "James I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_JAMES_II",
+    "name": {
+      "normalized": "James II"
+    },
+    "variants": [
+      {
+        "form": "James II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_JAMES_III",
+    "name": {
+      "normalized": "James III"
+    },
+    "variants": [
+      {
+        "form": "James III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_JAMES_IV",
+    "name": {
+      "normalized": "James IV"
+    },
+    "variants": [
+      {
+        "form": "James IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_JAMES_V",
+    "name": {
+      "normalized": "James V"
+    },
+    "variants": [
+      {
+        "form": "James V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_MARY_I",
+    "name": {
+      "normalized": "Mary I"
+    },
+    "variants": [
+      {
+        "form": "Mary I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_JAMES_VI",
+    "name": {
+      "normalized": "James VI"
+    },
+    "variants": [
+      {
+        "form": "James VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_CHARLES_I",
+    "name": {
+      "normalized": "Charles I"
+    },
+    "variants": [
+      {
+        "form": "Charles I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_CHARLES_II",
+    "name": {
+      "normalized": "Charles II"
+    },
+    "variants": [
+      {
+        "form": "Charles II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_JAMES_VII",
+    "name": {
+      "normalized": "James VII"
+    },
+    "variants": [
+      {
+        "form": "James VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_MARY_II",
+    "name": {
+      "normalized": "Mary II"
+    },
+    "variants": [
+      {
+        "form": "Mary II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_WILLIAM_II",
+    "name": {
+      "normalized": "William II"
+    },
+    "variants": [
+      {
+        "form": "William II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SCOTLAND_ANNE",
+    "name": {
+      "normalized": "Anne"
+    },
+    "variants": [
+      {
+        "form": "Anne",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

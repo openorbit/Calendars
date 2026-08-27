@@ -38,6 +38,10 @@ public struct RegnalTenure: Codable, Identifiable {
     }
     
     public struct DateDefinition: Codable {
+        // TODO: Represent bounded month/day ranges directly (for example, February–May 824)
+        // instead of reducing them to an approximate point.
+        // TODO: Preserve correlations between alternative starts and ends so consumers cannot
+        // combine mutually incompatible chronology branches.
         public let rep: String // "ymd" or "open"
         public let calendar: String
         public let ymd: YMD?

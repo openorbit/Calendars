@@ -36,6 +36,7 @@ struct RegnalCalendarTests {
             "POLITY_PAPACY",
             "POLITY_REGNUM_FRANCORUM",
             "POLITY_ROMAN_REPUBLIC",
+            "POLITY_SCOTLAND",
             "POLITY_SUSSEX",
             "POLITY_SWEDEN",
             "POLITY_UNITED_STATES",
@@ -70,6 +71,7 @@ struct RegnalCalendarTests {
         "POLITY_PAPACY",
         "POLITY_REGNUM_FRANCORUM",
         "POLITY_ROMAN_REPUBLIC",
+        "POLITY_SCOTLAND",
         "POLITY_SUSSEX",
         "POLITY_SWEDEN",
         "POLITY_UNITED_STATES",
@@ -178,6 +180,27 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Scottish succession preserves restorations and co-monarchs")
+    func scottishSuccessionPreservesRestorationsAndCoMonarchs() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_SCOTLAND_MONARCH")
+        let donald = tenures.filter { $0.personID == "P_SCOTLAND_DONALD_III" }
+        let charles = tenures.filter { $0.personID == "P_SCOTLAND_CHARLES_II" }
+        let mary = try #require(tenures.first { $0.personID == "P_SCOTLAND_MARY_II" })
+        let william = try #require(tenures.first { $0.personID == "P_SCOTLAND_WILLIAM_II" })
+        let anne = try #require(tenures.first { $0.personID == "P_SCOTLAND_ANNE" })
+
+        #expect(tenures.count == 50)
+        #expect(Set(tenures.map(\.personID)).count == 48)
+        #expect(donald.count == 2)
+        #expect(charles.count == 2)
+        #expect(mary.start.first?.ymd?.year == william.start.first?.ymd?.year)
+        #expect(mary.start.first?.ymd?.month == william.start.first?.ymd?.month)
+        #expect(mary.start.first?.ymd?.day == william.start.first?.ymd?.day)
+        #expect(anne.end.first?.ymd?.year == 1707)
+        #expect(anne.end.first?.ymd?.month == 5)
+        #expect(anne.end.first?.ymd?.day == 1)
     }
 
     @Test("United States presidential succession is complete")
