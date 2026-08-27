@@ -1,0 +1,1960 @@
+[
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_I",
+    "name": {
+      "normalized": "Constantine I"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTIUS_II",
+    "name": {
+      "normalized": "Constantius II"
+    },
+    "variants": [
+      {
+        "form": "Κωνστάντιος Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JULIAN",
+    "name": {
+      "normalized": "Julian"
+    },
+    "variants": [
+      {
+        "form": "Ιουλιανός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Julian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOVIAN",
+    "name": {
+      "normalized": "Jovian"
+    },
+    "variants": [
+      {
+        "form": "Ιοβιανός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jovian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_VALENS",
+    "name": {
+      "normalized": "Valens"
+    },
+    "variants": [
+      {
+        "form": "Ουάλης",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Valens",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_THEODOSIUS_I",
+    "name": {
+      "normalized": "Theodosius I"
+    },
+    "variants": [
+      {
+        "form": "Θεοδόσιος Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodosius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ARCADIUS",
+    "name": {
+      "normalized": "Arcadius"
+    },
+    "variants": [
+      {
+        "form": "Αρκάδιος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Arcadius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_THEODOSIUS_II",
+    "name": {
+      "normalized": "Theodosius II"
+    },
+    "variants": [
+      {
+        "form": "Θεοδόσιος Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodosius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MARCIAN",
+    "name": {
+      "normalized": "Marcian"
+    },
+    "variants": [
+      {
+        "form": "Μαρκιανός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marcian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_LEO_I",
+    "name": {
+      "normalized": "Leo I"
+    },
+    "variants": [
+      {
+        "form": "Λέων Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_LEO_II",
+    "name": {
+      "normalized": "Leo II"
+    },
+    "variants": [
+      {
+        "form": "Λέων Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ZENO",
+    "name": {
+      "normalized": "Zeno"
+    },
+    "variants": [
+      {
+        "form": "Ζήνων",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Zeno",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_BASILISCUS",
+    "name": {
+      "normalized": "Basiliscus"
+    },
+    "variants": [
+      {
+        "form": "Βασιλίσκος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Basiliscus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ANASTASIUS_I",
+    "name": {
+      "normalized": "Anastasius I"
+    },
+    "variants": [
+      {
+        "form": "Αναστάσιος Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anastasius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JUSTIN_I",
+    "name": {
+      "normalized": "Justin I"
+    },
+    "variants": [
+      {
+        "form": "Ιουστίνος Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Justin I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JUSTINIAN_I",
+    "name": {
+      "normalized": "Justinian I"
+    },
+    "variants": [
+      {
+        "form": "Ιουστινιανός Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Justinian I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JUSTIN_II",
+    "name": {
+      "normalized": "Justin II"
+    },
+    "variants": [
+      {
+        "form": "Ιουστίνος Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Justin II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_TIBERIUS_II",
+    "name": {
+      "normalized": "Tiberius II Constantine"
+    },
+    "variants": [
+      {
+        "form": "Τιβέριος Β΄ Κωνσταντίνος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Tiberius II Constantine",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MAURICE",
+    "name": {
+      "normalized": "Maurice"
+    },
+    "variants": [
+      {
+        "form": "Μαυρίκιος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maurice",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_PHOCAS",
+    "name": {
+      "normalized": "Phocas"
+    },
+    "variants": [
+      {
+        "form": "Φωκάς",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Phocas",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_HERACLIUS",
+    "name": {
+      "normalized": "Heraclius"
+    },
+    "variants": [
+      {
+        "form": "Ηράκλειος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Heraclius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_III",
+    "name": {
+      "normalized": "Constantine III"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Γ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_HERAKLONAS",
+    "name": {
+      "normalized": "Heraklonas"
+    },
+    "variants": [
+      {
+        "form": "Ηρακλωνάς",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Heraklonas",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANS_II",
+    "name": {
+      "normalized": "Constans II"
+    },
+    "variants": [
+      {
+        "form": "Κώνστας Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constans II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_IV",
+    "name": {
+      "normalized": "Constantine IV"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Δ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JUSTINIAN_II",
+    "name": {
+      "normalized": "Justinian II"
+    },
+    "variants": [
+      {
+        "form": "Ιουστινιανός Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Justinian II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_LEONTIUS",
+    "name": {
+      "normalized": "Leontius"
+    },
+    "variants": [
+      {
+        "form": "Λεόντιος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leontius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_TIBERIUS_III",
+    "name": {
+      "normalized": "Tiberius III"
+    },
+    "variants": [
+      {
+        "form": "Τιβέριος Γ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Tiberius III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_PHILIPPICOS",
+    "name": {
+      "normalized": "Philippikos Bardanes"
+    },
+    "variants": [
+      {
+        "form": "Φιλιππικός Βαρδάνης",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippikos Bardanes",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ANASTASIOS_II",
+    "name": {
+      "normalized": "Anastasios II"
+    },
+    "variants": [
+      {
+        "form": "Αναστάσιος Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anastasios II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_THEODOSIOS_III",
+    "name": {
+      "normalized": "Theodosios III"
+    },
+    "variants": [
+      {
+        "form": "Θεοδόσιος Γ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodosios III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_LEO_III",
+    "name": {
+      "normalized": "Leo III"
+    },
+    "variants": [
+      {
+        "form": "Λέων Γ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_V",
+    "name": {
+      "normalized": "Constantine V"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Ε΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ARTABASDOS",
+    "name": {
+      "normalized": "Artabasdos"
+    },
+    "variants": [
+      {
+        "form": "Αρτάβασδος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Artabasdos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_LEO_IV",
+    "name": {
+      "normalized": "Leo IV"
+    },
+    "variants": [
+      {
+        "form": "Λέων Δ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_VI",
+    "name": {
+      "normalized": "Constantine VI"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος ΣΤ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_IRENE",
+    "name": {
+      "normalized": "Irene"
+    },
+    "variants": [
+      {
+        "form": "Ειρήνη",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Irene",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_NIKEPHOROS_I",
+    "name": {
+      "normalized": "Nikephoros I"
+    },
+    "variants": [
+      {
+        "form": "Νικηφόρος Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nikephoros I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_STAURAKIOS",
+    "name": {
+      "normalized": "Staurakios"
+    },
+    "variants": [
+      {
+        "form": "Σταυράκιος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Staurakios",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MICHAEL_I",
+    "name": {
+      "normalized": "Michael I Rangabe"
+    },
+    "variants": [
+      {
+        "form": "Μιχαήλ Α΄ Ραγκαβές",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael I Rangabe",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_LEO_V",
+    "name": {
+      "normalized": "Leo V"
+    },
+    "variants": [
+      {
+        "form": "Λέων Ε΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MICHAEL_II",
+    "name": {
+      "normalized": "Michael II"
+    },
+    "variants": [
+      {
+        "form": "Μιχαήλ Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_THEOPHILOS",
+    "name": {
+      "normalized": "Theophilos"
+    },
+    "variants": [
+      {
+        "form": "Θεόφιλος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theophilos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MICHAEL_III",
+    "name": {
+      "normalized": "Michael III"
+    },
+    "variants": [
+      {
+        "form": "Μιχαήλ Γ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_BASIL_I",
+    "name": {
+      "normalized": "Basil I"
+    },
+    "variants": [
+      {
+        "form": "Βασίλειος Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Basil I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_LEO_VI",
+    "name": {
+      "normalized": "Leo VI"
+    },
+    "variants": [
+      {
+        "form": "Λέων ΣΤ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ALEXANDER",
+    "name": {
+      "normalized": "Alexander"
+    },
+    "variants": [
+      {
+        "form": "Αλέξανδρος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_VII",
+    "name": {
+      "normalized": "Constantine VII"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Ζ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ROMANOS_I",
+    "name": {
+      "normalized": "Romanos I Lekapenos"
+    },
+    "variants": [
+      {
+        "form": "Ρωμανός Α΄ Λακαπηνός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Romanos I Lekapenos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ROMANOS_II",
+    "name": {
+      "normalized": "Romanos II"
+    },
+    "variants": [
+      {
+        "form": "Ρωμανός Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Romanos II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_NIKEPHOROS_II",
+    "name": {
+      "normalized": "Nikephoros II Phokas"
+    },
+    "variants": [
+      {
+        "form": "Νικηφόρος Β΄ Φωκάς",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nikephoros II Phokas",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOHN_I",
+    "name": {
+      "normalized": "John I Tzimiskes"
+    },
+    "variants": [
+      {
+        "form": "Ιωάννης Α΄ Τσιμισκής",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John I Tzimiskes",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_BASIL_II",
+    "name": {
+      "normalized": "Basil II"
+    },
+    "variants": [
+      {
+        "form": "Βασίλειος Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Basil II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_VIII",
+    "name": {
+      "normalized": "Constantine VIII"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Η΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ROMANOS_III",
+    "name": {
+      "normalized": "Romanos III Argyros"
+    },
+    "variants": [
+      {
+        "form": "Ρωμανός Γ΄ Αργυρός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Romanos III Argyros",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MICHAEL_IV",
+    "name": {
+      "normalized": "Michael IV"
+    },
+    "variants": [
+      {
+        "form": "Μιχαήλ Δ΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MICHAEL_V",
+    "name": {
+      "normalized": "Michael V"
+    },
+    "variants": [
+      {
+        "form": "Μιχαήλ Ε΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ZOE",
+    "name": {
+      "normalized": "Zoe"
+    },
+    "variants": [
+      {
+        "form": "Ζωή",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Zoe",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_THEODORA",
+    "name": {
+      "normalized": "Theodora"
+    },
+    "variants": [
+      {
+        "form": "Θεοδώρα",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodora",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_IX",
+    "name": {
+      "normalized": "Constantine IX Monomachos"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Θ΄ Μονομάχος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine IX Monomachos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MICHAEL_VI",
+    "name": {
+      "normalized": "Michael VI Bringas"
+    },
+    "variants": [
+      {
+        "form": "Μιχαήλ ΣΤ΄ Βρίγγας",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael VI Bringas",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ISAAC_I",
+    "name": {
+      "normalized": "Isaac I Komnenos"
+    },
+    "variants": [
+      {
+        "form": "Ισαάκιος Α΄ Κομνηνός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Isaac I Komnenos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_X",
+    "name": {
+      "normalized": "Constantine X Doukas"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Ι΄ Δούκας",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine X Doukas",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ROMANOS_IV",
+    "name": {
+      "normalized": "Romanos IV Diogenes"
+    },
+    "variants": [
+      {
+        "form": "Ρωμανός Δ΄ Διογένης",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Romanos IV Diogenes",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MICHAEL_VII",
+    "name": {
+      "normalized": "Michael VII Doukas"
+    },
+    "variants": [
+      {
+        "form": "Μιχαήλ Ζ΄ Δούκας",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael VII Doukas",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_NIKEPHOROS_III",
+    "name": {
+      "normalized": "Nikephoros III Botaneiates"
+    },
+    "variants": [
+      {
+        "form": "Νικηφόρος Γ΄ Βοτανειάτης",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nikephoros III Botaneiates",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ALEXIOS_I",
+    "name": {
+      "normalized": "Alexios I Komnenos"
+    },
+    "variants": [
+      {
+        "form": "Αλέξιος Α΄ Κομνηνός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexios I Komnenos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOHN_II",
+    "name": {
+      "normalized": "John II Komnenos"
+    },
+    "variants": [
+      {
+        "form": "Ιωάννης Β΄ Κομνηνός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John II Komnenos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MANUEL_I",
+    "name": {
+      "normalized": "Manuel I Komnenos"
+    },
+    "variants": [
+      {
+        "form": "Μανουήλ Α΄ Κομνηνός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Manuel I Komnenos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ALEXIOS_II",
+    "name": {
+      "normalized": "Alexios II Komnenos"
+    },
+    "variants": [
+      {
+        "form": "Αλέξιος Β΄ Κομνηνός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexios II Komnenos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ANDRONIKOS_I",
+    "name": {
+      "normalized": "Andronikos I Komnenos"
+    },
+    "variants": [
+      {
+        "form": "Ανδρόνικος Α΄ Κομνηνός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Andronikos I Komnenos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ISAAC_II",
+    "name": {
+      "normalized": "Isaac II Angelos"
+    },
+    "variants": [
+      {
+        "form": "Ισαάκιος Β΄ Άγγελος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Isaac II Angelos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ALEXIOS_III",
+    "name": {
+      "normalized": "Alexios III Angelos"
+    },
+    "variants": [
+      {
+        "form": "Αλέξιος Γ΄ Άγγελος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexios III Angelos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ALEXIOS_IV",
+    "name": {
+      "normalized": "Alexios IV Angelos"
+    },
+    "variants": [
+      {
+        "form": "Αλέξιος Δ΄ Άγγελος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexios IV Angelos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ALEXIOS_V",
+    "name": {
+      "normalized": "Alexios V Doukas"
+    },
+    "variants": [
+      {
+        "form": "Αλέξιος Ε΄ Δούκας",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexios V Doukas",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_THEODORE_I",
+    "name": {
+      "normalized": "Theodore I Laskaris"
+    },
+    "variants": [
+      {
+        "form": "Θεόδωρος Α΄ Λάσκαρις",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodore I Laskaris",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOHN_III",
+    "name": {
+      "normalized": "John III Doukas Vatatzes"
+    },
+    "variants": [
+      {
+        "form": "Ιωάννης Γ΄ Δούκας Βατάτζης",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John III Doukas Vatatzes",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_THEODORE_II",
+    "name": {
+      "normalized": "Theodore II Laskaris"
+    },
+    "variants": [
+      {
+        "form": "Θεόδωρος Β΄ Λάσκαρις",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodore II Laskaris",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOHN_IV",
+    "name": {
+      "normalized": "John IV Laskaris"
+    },
+    "variants": [
+      {
+        "form": "Ιωάννης Δ΄ Λάσκαρις",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John IV Laskaris",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MICHAEL_VIII",
+    "name": {
+      "normalized": "Michael VIII Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Μιχαήλ Η΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael VIII Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ANDRONIKOS_II",
+    "name": {
+      "normalized": "Andronikos II Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Ανδρόνικος Β΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Andronikos II Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ANDRONIKOS_III",
+    "name": {
+      "normalized": "Andronikos III Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Ανδρόνικος Γ΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Andronikos III Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOHN_V",
+    "name": {
+      "normalized": "John V Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Ιωάννης Ε΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John V Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOHN_VI",
+    "name": {
+      "normalized": "John VI Kantakouzenos"
+    },
+    "variants": [
+      {
+        "form": "Ιωάννης ΣΤ΄ Καντακουζηνός",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John VI Kantakouzenos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_ANDRONIKOS_IV",
+    "name": {
+      "normalized": "Andronikos IV Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Ανδρόνικος Δ΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Andronikos IV Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOHN_VII",
+    "name": {
+      "normalized": "John VII Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Ιωάννης Ζ΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John VII Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_MANUEL_II",
+    "name": {
+      "normalized": "Manuel II Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Μανουήλ Β΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Manuel II Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_JOHN_VIII",
+    "name": {
+      "normalized": "John VIII Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Ιωάννης Η΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "John VIII Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EASTERN_ROMAN_CONSTANTINE_XI",
+    "name": {
+      "normalized": "Constantine XI Palaiologos"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος ΙΑ΄ Παλαιολόγος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine XI Palaiologos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

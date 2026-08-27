@@ -1,0 +1,838 @@
+[
+  {
+    "id": "P_RUSSIA_DANIEL",
+    "name": {
+      "normalized": "Daniel"
+    },
+    "variants": [
+      {
+        "form": "Даниил Александрович",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Daniel",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_YURI",
+    "name": {
+      "normalized": "Yuri"
+    },
+    "variants": [
+      {
+        "form": "Юрий Данилович",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Yuri",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_IVAN_I",
+    "name": {
+      "normalized": "Ivan I"
+    },
+    "variants": [
+      {
+        "form": "Иван I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_SIMEON",
+    "name": {
+      "normalized": "Simeon"
+    },
+    "variants": [
+      {
+        "form": "Симеон Иванович",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Simeon",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_IVAN_II",
+    "name": {
+      "normalized": "Ivan II"
+    },
+    "variants": [
+      {
+        "form": "Иван II",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_DMITRY",
+    "name": {
+      "normalized": "Dmitry"
+    },
+    "variants": [
+      {
+        "form": "Дмитрий Иванович",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Dmitry",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_VASILY_I",
+    "name": {
+      "normalized": "Vasily I"
+    },
+    "variants": [
+      {
+        "form": "Василий I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vasily I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_VASILY_II",
+    "name": {
+      "normalized": "Vasily II"
+    },
+    "variants": [
+      {
+        "form": "Василий II",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vasily II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_IVAN_III",
+    "name": {
+      "normalized": "Ivan III"
+    },
+    "variants": [
+      {
+        "form": "Иван III",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_VASILY_III",
+    "name": {
+      "normalized": "Vasily III"
+    },
+    "variants": [
+      {
+        "form": "Василий III",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vasily III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_IVAN_IV",
+    "name": {
+      "normalized": "Ivan IV"
+    },
+    "variants": [
+      {
+        "form": "Иван IV",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_FEODOR_I",
+    "name": {
+      "normalized": "Feodor I"
+    },
+    "variants": [
+      {
+        "form": "Фёдор I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Feodor I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_BORIS",
+    "name": {
+      "normalized": "Boris"
+    },
+    "variants": [
+      {
+        "form": "Борис Годунов",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Boris",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_FEODOR_II",
+    "name": {
+      "normalized": "Feodor II"
+    },
+    "variants": [
+      {
+        "form": "Фёдор II",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Feodor II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_FALSE_DMITRY_I",
+    "name": {
+      "normalized": "False Dmitry I"
+    },
+    "variants": [
+      {
+        "form": "Лжедмитрий I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "False Dmitry I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_VASILI_IV",
+    "name": {
+      "normalized": "Vasili IV"
+    },
+    "variants": [
+      {
+        "form": "Василий IV",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vasili IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_WLADYSLAW",
+    "name": {
+      "normalized": "Władysław"
+    },
+    "variants": [
+      {
+        "form": "Владислав Жигимонтович",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Władysław",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_MICHAEL_I",
+    "name": {
+      "normalized": "Michael I"
+    },
+    "variants": [
+      {
+        "form": "Михаил I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_ALEXIS",
+    "name": {
+      "normalized": "Alexis"
+    },
+    "variants": [
+      {
+        "form": "Алексей Михайлович",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexis",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_FEODOR_III",
+    "name": {
+      "normalized": "Feodor III"
+    },
+    "variants": [
+      {
+        "form": "Фёдор III",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Feodor III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_IVAN_V",
+    "name": {
+      "normalized": "Ivan V"
+    },
+    "variants": [
+      {
+        "form": "Иван V",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_PETER_I",
+    "name": {
+      "normalized": "Peter I"
+    },
+    "variants": [
+      {
+        "form": "Пётр I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Peter I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_CATHERINE_I",
+    "name": {
+      "normalized": "Catherine I"
+    },
+    "variants": [
+      {
+        "form": "Екатерина I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Catherine I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_PETER_II",
+    "name": {
+      "normalized": "Peter II"
+    },
+    "variants": [
+      {
+        "form": "Пётр II",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Peter II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_ANNA",
+    "name": {
+      "normalized": "Anna"
+    },
+    "variants": [
+      {
+        "form": "Анна Иоанновна",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anna",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_IVAN_VI",
+    "name": {
+      "normalized": "Ivan VI"
+    },
+    "variants": [
+      {
+        "form": "Иван VI",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_ELIZABETH",
+    "name": {
+      "normalized": "Elizabeth"
+    },
+    "variants": [
+      {
+        "form": "Елизавета Петровна",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Elizabeth",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_PETER_III",
+    "name": {
+      "normalized": "Peter III"
+    },
+    "variants": [
+      {
+        "form": "Пётр III",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Peter III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_CATHERINE_II",
+    "name": {
+      "normalized": "Catherine II"
+    },
+    "variants": [
+      {
+        "form": "Екатерина II",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Catherine II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_PAUL_I",
+    "name": {
+      "normalized": "Paul I"
+    },
+    "variants": [
+      {
+        "form": "Павел I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Paul I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_ALEXANDER_I",
+    "name": {
+      "normalized": "Alexander I"
+    },
+    "variants": [
+      {
+        "form": "Александр I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_NICHOLAS_I",
+    "name": {
+      "normalized": "Nicholas I"
+    },
+    "variants": [
+      {
+        "form": "Николай I",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nicholas I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_ALEXANDER_II",
+    "name": {
+      "normalized": "Alexander II"
+    },
+    "variants": [
+      {
+        "form": "Александр II",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_ALEXANDER_III",
+    "name": {
+      "normalized": "Alexander III"
+    },
+    "variants": [
+      {
+        "form": "Александр III",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_NICHOLAS_II",
+    "name": {
+      "normalized": "Nicholas II"
+    },
+    "variants": [
+      {
+        "form": "Николай II",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nicholas II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_YELTSIN",
+    "name": {
+      "normalized": "Boris Yeltsin"
+    },
+    "variants": [
+      {
+        "form": "Борис Николаевич Ельцин",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Boris Yeltsin",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_PUTIN",
+    "name": {
+      "normalized": "Vladimir Putin"
+    },
+    "variants": [
+      {
+        "form": "Владимир Владимирович Путин",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vladimir Putin",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUSSIA_MEDVEDEV",
+    "name": {
+      "normalized": "Dmitry Medvedev"
+    },
+    "variants": [
+      {
+        "form": "Дмитрий Анатольевич Медведев",
+        "lang": "ru",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Dmitry Medvedev",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

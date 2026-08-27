@@ -15,6 +15,7 @@ struct RegnalCalendarTests {
             "POLITY_BELGIUM",
             "POLITY_BULGARIA_FIRST_EMPIRE",
             "POLITY_BULGARIA_SECOND_EMPIRE",
+            "POLITY_EASTERN_ROMAN_EMPIRE",
             "POLITY_CROWN_ARAGON",
             "POLITY_CROWN_CASTILE",
             "POLITY_BURGUNDY_FRANKISH",
@@ -31,6 +32,7 @@ struct RegnalCalendarTests {
             "POLITY_HABSBURG_MONARCHY",
             "POLITY_HOLY_ROMAN_EMPIRE",
             "POLITY_GREECE_KINGDOM",
+            "POLITY_GRAND_PRINCIPALITY_MOSCOW",
             "POLITY_HRE",
             "POLITY_HUNGARY",
             "POLITY_KALMAR_UNION",
@@ -61,12 +63,15 @@ struct RegnalCalendarTests {
             "POLITY_REGNUM_FRANCORUM",
             "POLITY_ROMAN_REPUBLIC",
             "POLITY_ROMANIA_MONARCHY",
+            "POLITY_RUSSIAN_EMPIRE",
+            "POLITY_RUSSIAN_FEDERATION",
             "POLITY_SCOTLAND",
             "POLITY_SERBIA_MONARCHY",
             "POLITY_SPAIN",
             "POLITY_SUSSEX",
             "POLITY_SWEDEN",
             "POLITY_TURKEY",
+            "POLITY_TSARDOM_RUSSIA",
             "POLITY_UNITED_KINGDOM",
             "POLITY_UNITED_STATES",
             "POLITY_VISIGOTHIC_KINGDOM",
@@ -84,6 +89,7 @@ struct RegnalCalendarTests {
         "POLITY_BELGIUM",
         "POLITY_BULGARIA_FIRST_EMPIRE",
         "POLITY_BULGARIA_SECOND_EMPIRE",
+        "POLITY_EASTERN_ROMAN_EMPIRE",
         "POLITY_CROWN_ARAGON",
         "POLITY_CROWN_CASTILE",
         "POLITY_CAROLINGIAN_EMPIRE",
@@ -98,6 +104,7 @@ struct RegnalCalendarTests {
         "POLITY_HABSBURG_MONARCHY",
         "POLITY_HOLY_ROMAN_EMPIRE",
         "POLITY_GREECE_KINGDOM",
+        "POLITY_GRAND_PRINCIPALITY_MOSCOW",
         "POLITY_HRE",
         "POLITY_HUNGARY",
         "POLITY_KENT",
@@ -125,12 +132,15 @@ struct RegnalCalendarTests {
         "POLITY_REGNUM_FRANCORUM",
         "POLITY_ROMAN_REPUBLIC",
         "POLITY_ROMANIA_MONARCHY",
+        "POLITY_RUSSIAN_EMPIRE",
+        "POLITY_RUSSIAN_FEDERATION",
         "POLITY_SCOTLAND",
         "POLITY_SERBIA_MONARCHY",
         "POLITY_SPAIN",
         "POLITY_SUSSEX",
         "POLITY_SWEDEN",
         "POLITY_TURKEY",
+        "POLITY_TSARDOM_RUSSIA",
         "POLITY_UNITED_KINGDOM",
         "POLITY_UNITED_STATES",
         "POLITY_VISIGOTHIC_KINGDOM",
@@ -734,6 +744,99 @@ struct RegnalCalendarTests {
         "POLITY_SERBIA_MONARCHY"
     ])
     func newPolityDatasetsRetainSourceProvenance(polityID: String) throws {
+        let polity = try #require(calendar.polities[polityID])
+
+        #expect(!polity.sources.isEmpty)
+        #expect(polity.sources.allSatisfy { $0.url.hasPrefix("https://") })
+    }
+
+    @Test("Russian titles remain separated at the 1547 and 1721 transitions")
+    func russianTitlesRemainSeparatedAtTransitions() throws {
+        let moscow = calendar.tenures(forOffice: "OFFICE_MOSCOW_GRAND_PRINCE")
+        let tsardom = calendar.tenures(forOffice: "OFFICE_RUSSIA_TSAR")
+        let empire = calendar.tenures(forOffice: "OFFICE_RUSSIA_EMPEROR")
+        let ivanGrandPrince = try #require(moscow.last)
+        let ivanTsar = try #require(tsardom.first)
+        let peterTsar = try #require(tsardom.last)
+        let peterEmperor = try #require(empire.first)
+
+        #expect(moscow.count == 13)
+        #expect(moscow.count { $0.personID == "P_RUSSIA_VASILY_II" } == 3)
+        #expect(ivanGrandPrince.personID == "P_RUSSIA_IVAN_IV")
+        #expect(ivanGrandPrince.end.first?.ymd?.year == 1547)
+        #expect(ivanTsar.personID == "P_RUSSIA_IVAN_IV")
+        #expect(ivanTsar.start.first?.ymd?.year == 1547)
+        #expect(tsardom.count == 12)
+        #expect(peterTsar.personID == "P_RUSSIA_PETER_I")
+        #expect(peterTsar.end.first?.ymd?.year == 1721)
+        #expect(empire.count == 14)
+        #expect(peterEmperor.personID == "P_RUSSIA_PETER_I")
+        #expect(peterEmperor.start.first?.ymd?.year == 1721)
+        #expect(empire.last?.end.first?.ymd?.year == 1917)
+        #expect(empire.last?.end.first?.ymd?.month == 3)
+        #expect(empire.last?.end.first?.ymd?.day == 15)
+    }
+
+    @Test("Russian presidency preserves the Putin interruption")
+    func russianPresidencyPreservesThePutinInterruption() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_RUSSIA_PRESIDENT")
+        let putin = tenures.filter { $0.personID == "P_RUSSIA_PUTIN" }
+        let medvedev = try #require(
+            tenures.first { $0.personID == "P_RUSSIA_MEDVEDEV" }
+        )
+        let incumbent = try #require(tenures.last)
+
+        #expect(tenures.count == 4)
+        #expect(putin.count == 2)
+        #expect(medvedev.start.first?.ymd?.year == 2008)
+        #expect(medvedev.end.first?.ymd?.year == 2012)
+        #expect(incumbent.personID == "P_RUSSIA_PUTIN")
+        #expect(incumbent.status == "incumbent")
+        #expect(incumbent.end.first?.ymd?.year == 2030)
+        #expect(incumbent.end.first?.ymd?.month == 5)
+        #expect(incumbent.end.first?.ymd?.day == 7)
+    }
+
+    @Test("Eastern Roman succession preserves restorations and the 1204 exile")
+    func easternRomanSuccessionPreservesRestorationsAndExile() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_EASTERN_ROMAN_EMPEROR")
+        let justinianII = tenures.filter {
+            $0.personID == "P_EASTERN_ROMAN_JUSTINIAN_II"
+        }
+        let isaacII = tenures.filter { $0.personID == "P_EASTERN_ROMAN_ISAAC_II" }
+        let johnV = tenures.filter { $0.personID == "P_EASTERN_ROMAN_JOHN_V" }
+        let exileRulers = tenures.filter { $0.status == "exile" }
+        let finalEmperor = try #require(
+            tenures.first { $0.personID == "P_EASTERN_ROMAN_CONSTANTINE_XI" }
+        )
+
+        #expect(tenures.count == 95)
+        #expect(justinianII.count == 2)
+        #expect(isaacII.count == 2)
+        #expect(johnV.count == 3)
+        #expect(exileRulers.count == 4)
+        #expect(exileRulers.first?.start.first?.ymd?.year == 1205)
+        #expect(exileRulers.last?.end.first?.ymd?.year == 1261)
+        #expect(tenures.contains { $0.status == "senior co-emperor" })
+        #expect(finalEmperor.start.first?.ymd?.year == 1449)
+        #expect(finalEmperor.end.first?.ymd?.year == 1453)
+        #expect(finalEmperor.end.first?.ymd?.month == 5)
+        #expect(finalEmperor.end.first?.ymd?.day == 29)
+        #expect(
+            calendar.person(forID: "P_EASTERN_ROMAN_BASIL_II")?.variants.contains {
+                $0.form == "Βασίλειος Β΄" && $0.lang == "el"
+            } == true
+        )
+    }
+
+    @Test("Russian and Eastern Roman datasets retain source provenance", arguments: [
+        "POLITY_EASTERN_ROMAN_EMPIRE",
+        "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+        "POLITY_TSARDOM_RUSSIA",
+        "POLITY_RUSSIAN_EMPIRE",
+        "POLITY_RUSSIAN_FEDERATION"
+    ])
+    func russianAndEasternRomanDatasetsRetainSources(polityID: String) throws {
         let polity = try #require(calendar.polities[polityID])
 
         #expect(!polity.sources.isEmpty)

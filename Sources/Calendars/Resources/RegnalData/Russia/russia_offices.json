@@ -1,0 +1,22 @@
+[
+  {
+    "id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "label": "Grand Prince of Moscow"
+  },
+  {
+    "id": "OFFICE_RUSSIA_TSAR",
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "label": "Tsar of All Russia"
+  },
+  {
+    "id": "OFFICE_RUSSIA_EMPEROR",
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "label": "Emperor of All Russia"
+  },
+  {
+    "id": "OFFICE_RUSSIA_PRESIDENT",
+    "polity_id": "POLITY_RUSSIAN_FEDERATION",
+    "label": "President of the Russian Federation"
+  }
+]

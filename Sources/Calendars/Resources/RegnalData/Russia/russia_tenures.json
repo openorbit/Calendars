@@ -1,0 +1,1439 @@
+[
+  {
+    "id": "TEN_MOSCOW_DANIEL_0",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_DANIEL",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1283
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1303
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_YURI_1",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_YURI",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1303
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1325
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_IVAN_I_2",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_IVAN_I",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1325
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1340
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_SIMEON_3",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_SIMEON",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1340
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1353
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_IVAN_II_4",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_IVAN_II",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1353
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1359
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_DMITRY_5",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_DMITRY",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1359
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1389
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_VASILY_I_6",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_VASILY_I",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1389
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1425
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_VASILY_II_7",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_VASILY_II",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1425
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1433
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_VASILY_II_8",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_VASILY_II",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1434
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1446
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_VASILY_II_9",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_VASILY_II",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1447
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1462
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_IVAN_III_10",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_IVAN_III",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1462
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1505
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_VASILY_III_11",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_VASILY_III",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1505
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1533
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MOSCOW_IVAN_IV_12",
+    "office_id": "OFFICE_MOSCOW_GRAND_PRINCE",
+    "person_id": "P_RUSSIA_IVAN_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1533
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1547
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_IVAN_IV",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_IVAN_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1547
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1584
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_FEODOR_I",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_FEODOR_I",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1584
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1598
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_BORIS",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_BORIS",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1598
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1605
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_FEODOR_II",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_FEODOR_II",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1605
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1605
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_FALSE_DMITRY_I",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_FALSE_DMITRY_I",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1605
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1606
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_TSAR_VASILI_IV",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_VASILI_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1606
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1610
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_WLADYSLAW",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_WLADYSLAW",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1610
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1613
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_TSAR_MICHAEL_I",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_MICHAEL_I",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1613
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1645
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_ALEXIS",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_ALEXIS",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1645
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1676
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_FEODOR_III",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_FEODOR_III",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1676
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1682
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_IVAN_V",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_IVAN_V",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1682
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1696
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TSAR_PETER_I",
+    "office_id": "OFFICE_RUSSIA_TSAR",
+    "person_id": "P_RUSSIA_PETER_I",
+    "ordinal": null,
+    "polity_id": "POLITY_TSARDOM_RUSSIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1682
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1721
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_PETER_I",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_PETER_I",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1721
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1725
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_CATHERINE_I",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_CATHERINE_I",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1725
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1727
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_PETER_II",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_PETER_II",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1727
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1730
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_ANNA",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_ANNA",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1730
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1740
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_IVAN_VI",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_IVAN_VI",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1740
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1741
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_ELIZABETH",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_ELIZABETH",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1741
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1762
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_PETER_III",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_PETER_III",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1762
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1762
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_CATHERINE_II",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_CATHERINE_II",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1762
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1796
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_PAUL_I",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_PAUL_I",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1796
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1801
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_ALEXANDER_I",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_ALEXANDER_I",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1801
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1825
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_NICHOLAS_I",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_NICHOLAS_I",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1825
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1855
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_ALEXANDER_II",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_ALEXANDER_II",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1855
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1881
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_ALEXANDER_III",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_ALEXANDER_III",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1881
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1894
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EMPIRE_NICHOLAS_II",
+    "office_id": "OFFICE_RUSSIA_EMPEROR",
+    "person_id": "P_RUSSIA_NICHOLAS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_RUSSIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1894
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1917,
+          "month": 3,
+          "day": 15
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_RF_YELTSIN",
+    "office_id": "OFFICE_RUSSIA_PRESIDENT",
+    "person_id": "P_RUSSIA_YELTSIN",
+    "ordinal": 1,
+    "polity_id": "POLITY_RUSSIAN_FEDERATION",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1991,
+          "month": 7,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1999,
+          "month": 12,
+          "day": 31
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_RF_PUTIN_A",
+    "office_id": "OFFICE_RUSSIA_PRESIDENT",
+    "person_id": "P_RUSSIA_PUTIN",
+    "ordinal": 2,
+    "polity_id": "POLITY_RUSSIAN_FEDERATION",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1999,
+          "month": 12,
+          "day": 31
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2008,
+          "month": 5,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_RF_MEDVEDEV",
+    "office_id": "OFFICE_RUSSIA_PRESIDENT",
+    "person_id": "P_RUSSIA_MEDVEDEV",
+    "ordinal": 3,
+    "polity_id": "POLITY_RUSSIAN_FEDERATION",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2008,
+          "month": 5,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2012,
+          "month": 5,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_RF_PUTIN_B",
+    "office_id": "OFFICE_RUSSIA_PRESIDENT",
+    "person_id": "P_RUSSIA_PUTIN",
+    "ordinal": 4,
+    "polity_id": "POLITY_RUSSIAN_FEDERATION",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2012,
+          "month": 5,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2030,
+          "month": 5,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent"
+  }
+]

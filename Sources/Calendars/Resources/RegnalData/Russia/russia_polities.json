@@ -1,0 +1,51 @@
+[
+  {
+    "id": "POLITY_GRAND_PRINCIPALITY_MOSCOW",
+    "label": "Grand Principality of Moscow",
+    "sources": [
+      {
+        "title": "Rulers of Russia",
+        "url": "https://kreml.ru/ru/education/educators/facts/praviteli-rossii",
+        "note": "Moscow Kremlin Museums overview of Muscovite rulers."
+      }
+    ]
+  },
+  {
+    "id": "POLITY_TSARDOM_RUSSIA",
+    "label": "Tsardom of Russia",
+    "sources": [
+      {
+        "title": "Rulers of Russia",
+        "url": "https://kreml.ru/ru/education/educators/facts/praviteli-rossii",
+        "note": "Moscow Kremlin Museums overview of Muscovite rulers."
+      },
+      {
+        "title": "The Romanov Dynasty and the Assembly of the Land of 1613",
+        "url": "https://www.prlib.ru/collection_romanovy",
+        "note": "Presidential Library chronology and historical overview of the Romanov rulers."
+      }
+    ]
+  },
+  {
+    "id": "POLITY_RUSSIAN_EMPIRE",
+    "label": "Russian Empire",
+    "sources": [
+      {
+        "title": "The Romanov Dynasty and the Assembly of the Land of 1613",
+        "url": "https://www.prlib.ru/collection_romanovy",
+        "note": "Presidential Library chronology and historical overview of the Romanov rulers."
+      }
+    ]
+  },
+  {
+    "id": "POLITY_RUSSIAN_FEDERATION",
+    "label": "Russian Federation",
+    "sources": [
+      {
+        "title": "Presidents of Russia",
+        "url": "https://en.kremlin.ru/structure/president/presidents",
+        "note": "Official biographies and terms of the presidents of the Russian Federation."
+      }
+    ]
+  }
+]

@@ -1,0 +1,3141 @@
+[
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 330
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 337
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTIUS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTIUS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 337
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JULIAN_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JULIAN",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOVIAN_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOVIAN",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_VALENS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_VALENS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 378
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_THEODOSIUS_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_THEODOSIUS_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 379
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 395
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ARCADIUS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ARCADIUS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 395
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 408
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_THEODOSIUS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_THEODOSIUS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 408
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 450
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MARCIAN_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MARCIAN",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 450
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 457
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_LEO_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_LEO_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 457
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 474
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_LEO_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_LEO_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 474
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 474
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ZENO_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ZENO",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 474
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 475
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_BASILISCUS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_BASILISCUS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 475
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 476
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "usurper"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ZENO_2",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ZENO",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 476
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 491
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "restored"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ANASTASIUS_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ANASTASIUS_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 491
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 518
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JUSTIN_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JUSTIN_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 518
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 527
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JUSTINIAN_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JUSTINIAN_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 527
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 565
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JUSTIN_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JUSTIN_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 565
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 578
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_TIBERIUS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_TIBERIUS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 578
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 582
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MAURICE_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MAURICE",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 582
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 602
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_PHOCAS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_PHOCAS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 602
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 610
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "usurper"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_HERACLIUS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_HERACLIUS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 610
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 641
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 641
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 641
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_HERAKLONAS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_HERAKLONAS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 641
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 641
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 641
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 668
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_IV_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 668
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JUSTINIAN_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JUSTINIAN_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 695
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_LEONTIUS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_LEONTIUS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 695
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 698
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "usurper"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_TIBERIUS_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_TIBERIUS_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 698
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 705
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "usurper"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JUSTINIAN_II_2",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JUSTINIAN_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 705
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 711
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "restored"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_PHILIPPICOS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_PHILIPPICOS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 711
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 713
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ANASTASIOS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ANASTASIOS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 713
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 715
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_THEODOSIOS_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_THEODOSIOS_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 715
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 717
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_LEO_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_LEO_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 717
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 741
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_V_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_V",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 741
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 775
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ARTABASDOS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ARTABASDOS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 741
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 743
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_LEO_IV_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_LEO_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 775
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 780
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_VI_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_VI",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 780
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 797
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_IRENE_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_IRENE",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 797
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 802
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_NIKEPHOROS_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_NIKEPHOROS_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 802
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 811
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_STAURAKIOS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_STAURAKIOS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 811
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 811
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MICHAEL_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MICHAEL_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 811
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 813
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_LEO_V_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_LEO_V",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 813
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 820
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MICHAEL_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MICHAEL_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 820
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 829
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_THEOPHILOS_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_THEOPHILOS",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 829
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 842
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MICHAEL_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MICHAEL_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 842
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 867
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_BASIL_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_BASIL_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 867
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 886
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_LEO_VI_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_LEO_VI",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 886
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 912
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ALEXANDER_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ALEXANDER",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 912
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 913
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_VII_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_VII",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 913
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 959
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ROMANOS_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ROMANOS_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 920
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 944
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "senior co-emperor"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ROMANOS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ROMANOS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 959
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 963
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_NIKEPHOROS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_NIKEPHOROS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 963
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 969
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 969
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 976
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_BASIL_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_BASIL_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 976
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1025
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_VIII_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_VIII",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1025
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1028
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ROMANOS_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ROMANOS_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1028
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1034
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MICHAEL_IV_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MICHAEL_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1034
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1041
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MICHAEL_V_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MICHAEL_V",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1041
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1042
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ZOE_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ZOE",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1042
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1050
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "co-empress"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_THEODORA_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_THEODORA",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1042
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1042
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "co-empress"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_IX_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_IX",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1042
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1055
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_THEODORA_2",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_THEODORA",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1055
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1056
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "restored"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MICHAEL_VI_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MICHAEL_VI",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1056
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1057
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ISAAC_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ISAAC_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1057
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1059
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_X_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_X",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1059
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1067
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ROMANOS_IV_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ROMANOS_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1068
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1071
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MICHAEL_VII_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MICHAEL_VII",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1071
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1078
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_NIKEPHOROS_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_NIKEPHOROS_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1078
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1081
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ALEXIOS_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ALEXIOS_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1081
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1118
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1118
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1143
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MANUEL_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MANUEL_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1143
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1180
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ALEXIOS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ALEXIOS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1180
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1183
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ANDRONIKOS_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ANDRONIKOS_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1183
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1185
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ISAAC_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ISAAC_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1185
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1195
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ALEXIOS_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ALEXIOS_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1195
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1203
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ISAAC_II_2",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ISAAC_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1203
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "restored"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ALEXIOS_IV_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ALEXIOS_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1203
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "co-emperor"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ALEXIOS_V_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ALEXIOS_V",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "usurper"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_THEODORE_I_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_THEODORE_I",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1205
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1221
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "exile"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1221
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1254
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "exile"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_THEODORE_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_THEODORE_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1254
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1258
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "exile"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_IV_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1258
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1261
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "exile"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MICHAEL_VIII_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MICHAEL_VIII",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1259
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1282
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ANDRONIKOS_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ANDRONIKOS_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1282
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1328
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ANDRONIKOS_III_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ANDRONIKOS_III",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1328
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1341
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_V_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_V",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1341
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1376
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_VI_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_VI",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1347
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1354
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "senior co-emperor"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_ANDRONIKOS_IV_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_ANDRONIKOS_IV",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1376
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1379
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "usurper"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_V_2",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_V",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1379
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1390
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "restored"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_VII_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_VII",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1390
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1390
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "usurper"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_V_3",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_V",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1390
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1391
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "restored"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_MANUEL_II_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_MANUEL_II",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1391
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1425
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_JOHN_VIII_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_JOHN_VIII",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1425
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1448
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_EASTERN_ROMAN_CONSTANTINE_XI_1",
+    "office_id": "OFFICE_EASTERN_ROMAN_EMPEROR",
+    "person_id": "P_EASTERN_ROMAN_CONSTANTINE_XI",
+    "ordinal": null,
+    "polity_id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1449,
+          "month": 1,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1453,
+          "month": 5,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  }
+]

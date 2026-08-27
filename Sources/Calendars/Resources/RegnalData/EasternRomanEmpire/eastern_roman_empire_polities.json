@@ -1,0 +1,18 @@
+[
+  {
+    "id": "POLITY_EASTERN_ROMAN_EMPIRE",
+    "label": "Eastern Roman Empire",
+    "sources": [
+      {
+        "title": "Rulers: Eastern Roman rulers, 324–1453",
+        "url": "https://academic.oup.com/edited-volume/29470/chapter/247165865",
+        "note": "Oxford Handbook of Byzantine Studies ruler chronology."
+      },
+      {
+        "title": "Byzantine Emperors: Dates",
+        "url": "https://sourcebooks.web.fordham.edu/byzantium/texts/byzemps.asp",
+        "note": "Fordham University chronological table, used to cross-check reign boundaries."
+      }
+    ]
+  }
+]
