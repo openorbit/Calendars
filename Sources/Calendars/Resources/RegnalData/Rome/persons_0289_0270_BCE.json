@@ -1,0 +1,393 @@
+[
+  {
+    "id": "P_MARCUS_VALERIUS_MAXIMUS_CORVINUS_289",
+    "name": {
+      "normalized": "Marcus Valerius Maximus Corvinus"
+    },
+    "variants": [
+      {
+        "form": "M. Valerius Maximus Corvinus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_CAEDICIUS_NOCTUA",
+    "name": {
+      "normalized": "Quintus Caedicius Noctua"
+    },
+    "variants": [
+      {
+        "form": "Q. Caedicius Noctua",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_CLAUDIUS_MARCELLUS_287",
+    "name": {
+      "normalized": "Marcus Claudius Marcellus"
+    },
+    "variants": [
+      {
+        "form": "M. Claudius Marcellus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_NAUTIUS_RUTILUS_287",
+    "name": {
+      "normalized": "Gaius Nautius Rutilus"
+    },
+    "variants": [
+      {
+        "form": "C. Nautius Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_VALERIUS_MAXIMUS_POTITUS_286",
+    "name": {
+      "normalized": "Marcus Valerius Maximus Potitus"
+    },
+    "variants": [
+      {
+        "form": "M. Valerius Maximus (Potitus ?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_AELIUS_PAETUS",
+    "name": {
+      "normalized": "Gaius Aelius Paetus"
+    },
+    "variants": [
+      {
+        "form": "C. Aelius Paetus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_CLAUDIUS_CANINA",
+    "name": {
+      "normalized": "Gaius Claudius Canina"
+    },
+    "variants": [
+      {
+        "form": "C. Claudius Canina I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_AEMILIUS_LEPIDUS_285",
+    "name": {
+      "normalized": "Marcus Aemilius Lepidus"
+    },
+    "variants": [
+      {
+        "form": "M. Aemilius Lepidus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_SERVILIUS_TUCCA",
+    "name": {
+      "normalized": "Gaius Servilius Tucca"
+    },
+    "variants": [
+      {
+        "form": "C. Servilius Tucca",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_CAECILIUS_METELLUS_DENTER",
+    "name": {
+      "normalized": "Lucius Caecilius Metellus Denter"
+    },
+    "variants": [
+      {
+        "form": "L. Caecilius Metellus Denter",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CORNELIUS_DOLABELLA_283",
+    "name": {
+      "normalized": "Publius Cornelius Dolabella"
+    },
+    "variants": [
+      {
+        "form": "P. Cornelius Dolabella",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GNAEUS_DOMITIUS_CALVINUS_MAXIMUS",
+    "name": {
+      "normalized": "Gnaeus Domitius Calvinus Maximus"
+    },
+    "variants": [
+      {
+        "form": "Cn. Domitius Calvinus Maximus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_FABRICIUS_LUSCINUS",
+    "name": {
+      "normalized": "Gaius Fabricius Luscinus"
+    },
+    "variants": [
+      {
+        "form": "C. Fabricius Luscinus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_AEMILIUS_PAPUS",
+    "name": {
+      "normalized": "Quintus Aemilius Papus"
+    },
+    "variants": [
+      {
+        "form": "Q. Aemilius Papus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_AEMILIUS_BARBULA",
+    "name": {
+      "normalized": "Lucius Aemilius Barbula"
+    },
+    "variants": [
+      {
+        "form": "L. Aemilius Barbula",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_MARCIUS_PHILIPPUS_281",
+    "name": {
+      "normalized": "Quintus Marcius Philippus"
+    },
+    "variants": [
+      {
+        "form": "Q. Marcius Philippus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_VALERIUS_LAEVINUS",
+    "name": {
+      "normalized": "Publius Valerius Laevinus"
+    },
+    "variants": [
+      {
+        "form": "P. Valerius Laevinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TIBERIUS_CORUNCANIUS",
+    "name": {
+      "normalized": "Tiberius Coruncanius"
+    },
+    "variants": [
+      {
+        "form": "Ti. Coruncanius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_DECIUS_MUS_279",
+    "name": {
+      "normalized": "Publius Decius Mus"
+    },
+    "variants": [
+      {
+        "form": "P. Decius Mus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_GENUCIUS_CLEPSINA",
+    "name": {
+      "normalized": "Gaius Genucius Clepsina"
+    },
+    "variants": [
+      {
+        "form": "C. Genucius Clepsina I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_CORNELIUS_LENTULUS_CAUDINUS",
+    "name": {
+      "normalized": "Lucius Cornelius Lentulus Caudinus"
+    },
+    "variants": [
+      {
+        "form": "L. Cornelius Lentulus Caudinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERVIUS_CORNELIUS_MERENDA",
+    "name": {
+      "normalized": "Servius Cornelius Merenda"
+    },
+    "variants": [
+      {
+        "form": "Ser. Cornelius Merenda",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_FABIUS_LICINUS",
+    "name": {
+      "normalized": "Gaius Fabius Licinus"
+    },
+    "variants": [
+      {
+        "form": "C. Fabius Licinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_KAESO_QUINCTIUS_CLAUDUS",
+    "name": {
+      "normalized": "Kaeso Quinctius Claudus"
+    },
+    "variants": [
+      {
+        "form": "K. Quinctius Claudus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_GENUCIUS_CLEPSINA",
+    "name": {
+      "normalized": "Lucius Genucius Clepsina"
+    },
+    "variants": [
+      {
+        "form": "L. Genucius Clepsina",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GNAEUS_CORNELIUS_BLASIO",
+    "name": {
+      "normalized": "Gnaeus Cornelius Blasio"
+    },
+    "variants": [
+      {
+        "form": "Cn. Cornelius Blasio I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

@@ -561,4 +561,17 @@ struct ConsularFastiTests {
         #expect(year.suffectList[0].personID == "P_MARCUS_VALERIUS_MAXIMUS_CORVUS")
         #expect(year.suffectList[0].consulshipNumber == 6)
     }
+
+    @Test("The ordinary sequence continues through 270 BCE")
+    func ordinarySequenceThrough270BCE() throws {
+        for auc in 465...484 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        let year274 = try #require(calendar.consularYear(auc: 480))
+        #expect(year274.consulList[0].consulshipNumber == 3)
+    }
 }
