@@ -1,0 +1,266 @@
+[
+  {
+    "id": "P_TURKEY_ATATURK",
+    "name": {
+      "normalized": "Mustafa Kemal Atatürk"
+    },
+    "variants": [
+      {
+        "form": "Mustafa Kemal Atatürk",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mustafa Kemal Atatürk",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_INONU",
+    "name": {
+      "normalized": "İsmet İnönü"
+    },
+    "variants": [
+      {
+        "form": "İsmet İnönü",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "İsmet İnönü",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_BAYAR",
+    "name": {
+      "normalized": "Celal Bayar"
+    },
+    "variants": [
+      {
+        "form": "Celal Bayar",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Celal Bayar",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_GURSEL",
+    "name": {
+      "normalized": "Cemal Gürsel"
+    },
+    "variants": [
+      {
+        "form": "Cemal Gürsel",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Cemal Gürsel",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_SUNAY",
+    "name": {
+      "normalized": "Cevdet Sunay"
+    },
+    "variants": [
+      {
+        "form": "Cevdet Sunay",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Cevdet Sunay",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_KORUTURK",
+    "name": {
+      "normalized": "Fahri Korutürk"
+    },
+    "variants": [
+      {
+        "form": "Fahri Korutürk",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Fahri Korutürk",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_EVREN",
+    "name": {
+      "normalized": "Kenan Evren"
+    },
+    "variants": [
+      {
+        "form": "Kenan Evren",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Kenan Evren",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_OZAL",
+    "name": {
+      "normalized": "Turgut Özal"
+    },
+    "variants": [
+      {
+        "form": "Turgut Özal",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Turgut Özal",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_DEMIREL",
+    "name": {
+      "normalized": "Süleyman Demirel"
+    },
+    "variants": [
+      {
+        "form": "Süleyman Demirel",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Süleyman Demirel",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_SEZER",
+    "name": {
+      "normalized": "Ahmet Necdet Sezer"
+    },
+    "variants": [
+      {
+        "form": "Ahmet Necdet Sezer",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ahmet Necdet Sezer",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_GUL",
+    "name": {
+      "normalized": "Abdullah Gül"
+    },
+    "variants": [
+      {
+        "form": "Abdullah Gül",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Abdullah Gül",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TURKEY_ERDOGAN",
+    "name": {
+      "normalized": "Recep Tayyip Erdoğan"
+    },
+    "variants": [
+      {
+        "form": "Recep Tayyip Erdoğan",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Recep Tayyip Erdoğan",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

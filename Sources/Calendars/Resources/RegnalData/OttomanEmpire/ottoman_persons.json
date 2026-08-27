@@ -1,0 +1,794 @@
+[
+  {
+    "id": "P_OTTOMANEMPIRE_OSMAN_I",
+    "name": {
+      "normalized": "Osman I"
+    },
+    "variants": [
+      {
+        "form": "I. Osman",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Osman I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_ORHAN",
+    "name": {
+      "normalized": "Orhan"
+    },
+    "variants": [
+      {
+        "form": "Orhan",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Orhan",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MURAD_I",
+    "name": {
+      "normalized": "Murad I"
+    },
+    "variants": [
+      {
+        "form": "I. Murad",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Murad I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_BAYEZID_I",
+    "name": {
+      "normalized": "Bayezid I"
+    },
+    "variants": [
+      {
+        "form": "I. Bayezid",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bayezid I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MEHMED_I",
+    "name": {
+      "normalized": "Mehmed I"
+    },
+    "variants": [
+      {
+        "form": "I. Mehmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mehmed I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MURAD_II",
+    "name": {
+      "normalized": "Murad II"
+    },
+    "variants": [
+      {
+        "form": "II. Murad",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Murad II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MEHMED_II",
+    "name": {
+      "normalized": "Mehmed II"
+    },
+    "variants": [
+      {
+        "form": "II. Mehmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mehmed II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_BAYEZID_II",
+    "name": {
+      "normalized": "Bayezid II"
+    },
+    "variants": [
+      {
+        "form": "II. Bayezid",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bayezid II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_SELIM_I",
+    "name": {
+      "normalized": "Selim I"
+    },
+    "variants": [
+      {
+        "form": "I. Selim",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Selim I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_SULEIMAN_I",
+    "name": {
+      "normalized": "Suleiman I"
+    },
+    "variants": [
+      {
+        "form": "I. Süleyman",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Suleiman I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_SELIM_II",
+    "name": {
+      "normalized": "Selim II"
+    },
+    "variants": [
+      {
+        "form": "II. Selim",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Selim II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MURAD_III",
+    "name": {
+      "normalized": "Murad III"
+    },
+    "variants": [
+      {
+        "form": "III. Murad",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Murad III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MEHMED_III",
+    "name": {
+      "normalized": "Mehmed III"
+    },
+    "variants": [
+      {
+        "form": "III. Mehmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mehmed III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_AHMED_I",
+    "name": {
+      "normalized": "Ahmed I"
+    },
+    "variants": [
+      {
+        "form": "I. Ahmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ahmed I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MUSTAFA_I",
+    "name": {
+      "normalized": "Mustafa I"
+    },
+    "variants": [
+      {
+        "form": "I. Mustafa",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mustafa I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_OSMAN_II",
+    "name": {
+      "normalized": "Osman II"
+    },
+    "variants": [
+      {
+        "form": "II. Osman",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Osman II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MURAD_IV",
+    "name": {
+      "normalized": "Murad IV"
+    },
+    "variants": [
+      {
+        "form": "IV. Murad",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Murad IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_IBRAHIM",
+    "name": {
+      "normalized": "Ibrahim"
+    },
+    "variants": [
+      {
+        "form": "İbrahim",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ibrahim",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MEHMED_IV",
+    "name": {
+      "normalized": "Mehmed IV"
+    },
+    "variants": [
+      {
+        "form": "IV. Mehmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mehmed IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_SULEIMAN_II",
+    "name": {
+      "normalized": "Suleiman II"
+    },
+    "variants": [
+      {
+        "form": "II. Süleyman",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Suleiman II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_AHMED_II",
+    "name": {
+      "normalized": "Ahmed II"
+    },
+    "variants": [
+      {
+        "form": "II. Ahmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ahmed II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MUSTAFA_II",
+    "name": {
+      "normalized": "Mustafa II"
+    },
+    "variants": [
+      {
+        "form": "II. Mustafa",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mustafa II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_AHMED_III",
+    "name": {
+      "normalized": "Ahmed III"
+    },
+    "variants": [
+      {
+        "form": "III. Ahmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ahmed III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MAHMUD_I",
+    "name": {
+      "normalized": "Mahmud I"
+    },
+    "variants": [
+      {
+        "form": "I. Mahmud",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mahmud I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_OSMAN_III",
+    "name": {
+      "normalized": "Osman III"
+    },
+    "variants": [
+      {
+        "form": "III. Osman",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Osman III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MUSTAFA_III",
+    "name": {
+      "normalized": "Mustafa III"
+    },
+    "variants": [
+      {
+        "form": "III. Mustafa",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mustafa III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_ABDUL_HAMID_I",
+    "name": {
+      "normalized": "Abdul Hamid I"
+    },
+    "variants": [
+      {
+        "form": "I. Abdülhamid",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Abdul Hamid I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_SELIM_III",
+    "name": {
+      "normalized": "Selim III"
+    },
+    "variants": [
+      {
+        "form": "III. Selim",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Selim III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MUSTAFA_IV",
+    "name": {
+      "normalized": "Mustafa IV"
+    },
+    "variants": [
+      {
+        "form": "IV. Mustafa",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mustafa IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MAHMUD_II",
+    "name": {
+      "normalized": "Mahmud II"
+    },
+    "variants": [
+      {
+        "form": "II. Mahmud",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mahmud II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_ABDULMEJID_I",
+    "name": {
+      "normalized": "Abdulmejid I"
+    },
+    "variants": [
+      {
+        "form": "Abdülmecid",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Abdulmejid I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_ABDULAZIZ",
+    "name": {
+      "normalized": "Abdulaziz"
+    },
+    "variants": [
+      {
+        "form": "Abdülaziz",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Abdulaziz",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MURAD_V",
+    "name": {
+      "normalized": "Murad V"
+    },
+    "variants": [
+      {
+        "form": "V. Murad",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Murad V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_ABDUL_HAMID_II",
+    "name": {
+      "normalized": "Abdul Hamid II"
+    },
+    "variants": [
+      {
+        "form": "II. Abdülhamid",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Abdul Hamid II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MEHMED_V",
+    "name": {
+      "normalized": "Mehmed V"
+    },
+    "variants": [
+      {
+        "form": "V. Mehmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mehmed V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OTTOMANEMPIRE_MEHMED_VI",
+    "name": {
+      "normalized": "Mehmed VI"
+    },
+    "variants": [
+      {
+        "form": "VI. Mehmed",
+        "lang": "tr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mehmed VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

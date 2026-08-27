@@ -46,6 +46,7 @@ struct RegnalCalendarTests {
             "POLITY_NORWAY_KINGDOM",
             "POLITY_NORWAY_SWEDEN_UNION",
             "POLITY_OSTROGOTHIC_KINGDOM",
+            "POLITY_OTTOMAN_EMPIRE",
             "POLITY_PAPACY",
             "POLITY_PORTUGAL",
             "POLITY_REGNUM_FRANCORUM",
@@ -54,6 +55,7 @@ struct RegnalCalendarTests {
             "POLITY_SPAIN",
             "POLITY_SUSSEX",
             "POLITY_SWEDEN",
+            "POLITY_TURKEY",
             "POLITY_UNITED_STATES",
             "POLITY_VISIGOTHIC_KINGDOM",
             "POLITY_WESSEX",
@@ -96,6 +98,7 @@ struct RegnalCalendarTests {
         "POLITY_NORTHUMBRIA",
         "POLITY_NORWAY_KINGDOM",
         "POLITY_OSTROGOTHIC_KINGDOM",
+        "POLITY_OTTOMAN_EMPIRE",
         "POLITY_PAPACY",
         "POLITY_PORTUGAL",
         "POLITY_REGNUM_FRANCORUM",
@@ -104,6 +107,7 @@ struct RegnalCalendarTests {
         "POLITY_SPAIN",
         "POLITY_SUSSEX",
         "POLITY_SWEDEN",
+        "POLITY_TURKEY",
         "POLITY_UNITED_STATES",
         "POLITY_VISIGOTHIC_KINGDOM",
         "POLITY_WESSEX",
@@ -210,6 +214,54 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Ottoman succession preserves restorations and the interregnum")
+    func ottomanSuccessionPreservesRestorationsAndTheInterregnum() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_OTTOMAN_SULTAN")
+        let muradII = tenures.filter { $0.personID == "P_OTTOMANEMPIRE_MURAD_II" }
+        let mehmedII = tenures.filter { $0.personID == "P_OTTOMANEMPIRE_MEHMED_II" }
+        let mustafaI = tenures.filter { $0.personID == "P_OTTOMANEMPIRE_MUSTAFA_I" }
+        let mehmedVI = try #require(
+            tenures.first { $0.personID == "P_OTTOMANEMPIRE_MEHMED_VI" }
+        )
+
+        #expect(tenures.count == 39)
+        #expect(Set(tenures.map(\.personID)).count == 36)
+        #expect(muradII.count == 2)
+        #expect(mehmedII.count == 2)
+        #expect(mustafaI.count == 2)
+        #expect(!tenures.contains { $0.start.first?.ymd?.year == 1405 })
+        #expect(mehmedVI.end.first?.ymd?.year == 1922)
+        #expect(mehmedVI.end.first?.ymd?.month == 11)
+        #expect(mehmedVI.end.first?.ymd?.day == 1)
+        #expect(
+            calendar.person(forID: "P_OTTOMANEMPIRE_SULEIMAN_I")?.variants.contains {
+                $0.form == "I. Süleyman" && $0.lang == "tr"
+            } == true
+        )
+    }
+
+    @Test("Turkish presidency reaches the current incumbent")
+    func turkishPresidencyReachesTheCurrentIncumbent() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_TURKEY_PRESIDENT")
+        let ataturk = try #require(
+            tenures.first { $0.personID == "P_TURKEY_ATATURK" }
+        )
+        let erdogan = try #require(
+            tenures.first { $0.personID == "P_TURKEY_ERDOGAN" }
+        )
+
+        #expect(tenures.count == 12)
+        #expect(ataturk.start.first?.ymd?.year == 1923)
+        #expect(ataturk.start.first?.ymd?.month == 10)
+        #expect(ataturk.start.first?.ymd?.day == 29)
+        #expect(erdogan.ordinal == 12)
+        #expect(erdogan.start.first?.ymd?.year == 2014)
+        #expect(erdogan.start.first?.ymd?.month == 8)
+        #expect(erdogan.start.first?.ymd?.day == 28)
+        #expect(erdogan.end.first?.rep == "open")
+        #expect(erdogan.status == "incumbent")
     }
 
     @Test("Bulgarian successions remain separated by historical discontinuities")

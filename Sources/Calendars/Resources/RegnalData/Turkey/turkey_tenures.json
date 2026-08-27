@@ -1,0 +1,437 @@
+[
+  {
+    "id": "TEN_TURKEY_ATATURK",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_ATATURK",
+    "ordinal": 1,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1923,
+          "month": 10,
+          "day": 29
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1938,
+          "month": 11,
+          "day": 10
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_INONU",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_INONU",
+    "ordinal": 2,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1938,
+          "month": 11,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1950,
+          "month": 5,
+          "day": 22
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_BAYAR",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_BAYAR",
+    "ordinal": 3,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1950,
+          "month": 5,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1960,
+          "month": 5,
+          "day": 27
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_GURSEL",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_GURSEL",
+    "ordinal": 4,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1960,
+          "month": 5,
+          "day": 27
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1966,
+          "month": 3,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_SUNAY",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_SUNAY",
+    "ordinal": 5,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1966,
+          "month": 3,
+          "day": 28
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1973,
+          "month": 3,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_KORUTURK",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_KORUTURK",
+    "ordinal": 6,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1973,
+          "month": 4,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1980,
+          "month": 4,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_EVREN",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_EVREN",
+    "ordinal": 7,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1980,
+          "month": 9,
+          "day": 12
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1989,
+          "month": 11,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_OZAL",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_OZAL",
+    "ordinal": 8,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1989,
+          "month": 11,
+          "day": 9
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1993,
+          "month": 4,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_DEMIREL",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_DEMIREL",
+    "ordinal": 9,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1993,
+          "month": 5,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2000,
+          "month": 5,
+          "day": 16
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_SEZER",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_SEZER",
+    "ordinal": 10,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2000,
+          "month": 5,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2007,
+          "month": 8,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_GUL",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_GUL",
+    "ordinal": 11,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2007,
+          "month": 8,
+          "day": 28
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2014,
+          "month": 8,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_TURKEY_ERDOGAN",
+    "office_id": "OFFICE_TURKEY_PRESIDENT",
+    "person_id": "P_TURKEY_ERDOGAN",
+    "ordinal": 12,
+    "polity_id": "POLITY_TURKEY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2014,
+          "month": 8,
+          "day": 28
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent"
+  }
+]

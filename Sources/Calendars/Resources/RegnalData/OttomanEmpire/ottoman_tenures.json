@@ -1,0 +1,1291 @@
+[
+  {
+    "id": "TEN_OTTOMANEMPIRE_OSMAN_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_OSMAN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1299
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1324
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_ORHAN",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_ORHAN",
+    "ordinal": null,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1324
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1362
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MURAD_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MURAD_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1362
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1389
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_BAYEZID_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_BAYEZID_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1389
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1402
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MEHMED_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MEHMED_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1413
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1421
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MURAD_II_A",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MURAD_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1421
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1444
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MEHMED_II_A",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MEHMED_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1444
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1446
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MURAD_II_B",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MURAD_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1446
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1451
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MEHMED_II_B",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MEHMED_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1451
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1481
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_BAYEZID_II",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_BAYEZID_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1481
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1512
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_SELIM_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_SELIM_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1512
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1520
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_SULEIMAN_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_SULEIMAN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1520
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1566
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_SELIM_II",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_SELIM_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1566
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1574
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MURAD_III",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MURAD_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1574
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1595
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MEHMED_III",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MEHMED_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1595
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1603
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_AHMED_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_AHMED_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1603
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1617
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MUSTAFA_I_A",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MUSTAFA_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1617
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1618
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_OSMAN_II",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_OSMAN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1618
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1622
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MUSTAFA_I_B",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MUSTAFA_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1622
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1623
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MURAD_IV",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MURAD_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1623
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1640
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_IBRAHIM",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_IBRAHIM",
+    "ordinal": null,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1640
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1648
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MEHMED_IV",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MEHMED_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1648
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1687
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_SULEIMAN_II",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_SULEIMAN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1687
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1691
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_AHMED_II",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_AHMED_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1691
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1695
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MUSTAFA_II",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MUSTAFA_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1695
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1703
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_AHMED_III",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_AHMED_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1703
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1730
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MAHMUD_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MAHMUD_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1730
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1754
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_OSMAN_III",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_OSMAN_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1754
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1757
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MUSTAFA_III",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MUSTAFA_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1757
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1774
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_ABDUL_HAMID_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_ABDUL_HAMID_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1774
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1789
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_SELIM_III",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_SELIM_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1789
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1807
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MUSTAFA_IV",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MUSTAFA_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1807
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1808
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MAHMUD_II",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MAHMUD_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1808
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1839
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_ABDULMEJID_I",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_ABDULMEJID_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1839
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1861
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_ABDULAZIZ",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_ABDULAZIZ",
+    "ordinal": null,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1861
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1876
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MURAD_V",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MURAD_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1876
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1876
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_ABDUL_HAMID_II",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_ABDUL_HAMID_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1876
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1909
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MEHMED_V",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MEHMED_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1909
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1918
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_OTTOMANEMPIRE_MEHMED_VI",
+    "office_id": "OFFICE_OTTOMAN_SULTAN",
+    "person_id": "P_OTTOMANEMPIRE_MEHMED_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_OTTOMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1918
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1922,
+          "month": 11,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]
