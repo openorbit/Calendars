@@ -3,6 +3,7 @@
     "id": "POLITY_NETHERLANDS",
     "label": "Kingdom of the Netherlands",
     "region": "Netherlands",
-    "notes": "The constitutional kingdom established in 1815."
+    "notes": "The constitutional kingdom established in 1815.",
+    "sources": [{ "title": "Monarchy since 1815", "url": "https://www.royal-house.nl/topics/monarchy/history", "note": "Official Dutch Royal House history." }]
   }
 ]

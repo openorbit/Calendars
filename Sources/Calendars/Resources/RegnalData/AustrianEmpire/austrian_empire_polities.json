@@ -3,6 +3,7 @@
     "id": "POLITY_AUSTRIAN_EMPIRE",
     "label": "Austrian Empire",
     "region": "Central Europe",
-    "notes": "The empire proclaimed by Francis II in 1804; reorganized as Austria-Hungary in 1867."
+    "notes": "The empire proclaimed by Francis II in 1804; reorganized as Austria-Hungary in 1867.",
+    "sources": [{ "title": "The Habsburg Monarchy explained", "url": "https://www.parlament.gv.at/aktuelles/mediathek/podcasts/parlament-erklaert-folge-59", "note": "Austrian Parliament overview of the 1804 empire." }]
   }
 ]

@@ -3,6 +3,7 @@
     "id": "POLITY_TURKEY",
     "label": "Republic of Türkiye",
     "region": "Anatolia and Southeastern Europe",
-    "notes": "The republic proclaimed on 29 October 1923."
+    "notes": "The republic proclaimed on 29 October 1923.",
+    "sources": [{ "title": "Presidents of the Republic of Türkiye", "url": "https://www.iletisim.gov.tr/images/uploads/dosyalar/Uluslararasi_Medya_Mensuplari_Rehberi.pdf", "note": "Official Directorate of Communications presidential chronology." }]
   }
 ]

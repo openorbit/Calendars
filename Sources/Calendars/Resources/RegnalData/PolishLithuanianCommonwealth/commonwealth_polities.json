@@ -2,6 +2,7 @@
   {
     "id": "POLITY_POLISH_LITHUANIAN_COMMONWEALTH",
     "label": "Polish–Lithuanian Commonwealth",
-    "region": "Central and Eastern Europe"
+    "region": "Central and Eastern Europe",
+    "sources": [{ "title": "Federalism in the History of Poland", "url": "https://oide.sejm.gov.pl/oide/en/images/files/wystawa2/1rp.pdf", "note": "Polish Sejm chronology from the 1569 union to the 1795 partition." }]
   }
 ]

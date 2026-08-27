@@ -6,6 +6,7 @@
     "valid_julian": {
       "start": "1185-01-01",
       "end": "1396-12-31"
-    }
+    },
+    "sources": [{ "title": "History of Bulgaria", "url": "https://www.mfa.government.bg/en/embassies/morocco/1485", "note": "Bulgarian Foreign Ministry chronology of the Second Kingdom." }]
   }
 ]

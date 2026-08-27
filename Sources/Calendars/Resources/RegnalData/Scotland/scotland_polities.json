@@ -3,6 +3,7 @@
     "id": "POLITY_SCOTLAND",
     "label": "Kingdom of Scotland",
     "region": "Scotland",
-    "notes": "The Crown of Scotland from the emergence of Alba through the Union of 1707."
+    "notes": "The Crown of Scotland from the emergence of Alba through the Union of 1707.",
+    "sources": [{ "title": "The Union of the Crowns", "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/key-dates/", "note": "UK Parliament chronology for the personal union and 1707 state union." }]
   }
 ]

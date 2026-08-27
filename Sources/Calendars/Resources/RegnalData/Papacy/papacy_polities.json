@@ -3,6 +3,7 @@
     "id": "POLITY_PAPACY",
     "label": "Holy See (Papacy)",
     "region": "Rome and the universal Catholic Church",
-    "notes": "The continuous papal office, distinct from Vatican City State and the historical Papal States."
+    "notes": "The continuous papal office, distinct from Vatican City State and the historical Papal States.",
+    "sources": [{ "title": "Supreme Pontiffs", "url": "https://www.vatican.va/content/vatican/en/holy-father.html", "note": "Official Holy See index of pontificates." }]
   }
 ]

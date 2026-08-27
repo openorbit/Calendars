@@ -3,6 +3,7 @@
     "id": "POLITY_AUSTRIA_HUNGARY",
     "label": "Austria-Hungary",
     "region": "Central Europe",
-    "notes": "The dual monarchy established by the Austro-Hungarian Compromise of 1867."
+    "notes": "The dual monarchy established by the Austro-Hungarian Compromise of 1867.",
+    "sources": [{ "title": "Birth of the Dual Monarchy", "url": "https://www.parlament.gv.at/verstehen/historisches/1848-1918/abschied-kaiserreich", "note": "Austrian Parliament account of the 1867 Compromise." }, { "title": "The last days of the Monarchy", "url": "https://ww1.habsburger.net/en/chapters/last-days-monarchy", "note": "Chronology of Karl’s 1918 relinquishment." }]
   }
 ]

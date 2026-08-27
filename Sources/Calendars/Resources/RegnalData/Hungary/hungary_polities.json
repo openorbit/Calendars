@@ -3,6 +3,7 @@
     "id": "POLITY_HUNGARY",
     "label": "Kingdom of Hungary",
     "region": "Central Europe",
-    "notes": "The kingdom founded under Stephen I and its continuous royal tradition to 1918."
+    "notes": "The kingdom founded under Stephen I and its continuous royal tradition to 1918.",
+    "sources": [{ "title": "Hungarian royal coronation medals", "url": "https://mnm.hu/muzeum/hirek/magyar-uralkodok-koronazasainak-ermei", "note": "Hungarian National Museum royal chronology and final coronation." }]
   }
 ]

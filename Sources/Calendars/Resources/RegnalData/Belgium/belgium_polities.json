@@ -3,6 +3,7 @@
     "id": "POLITY_BELGIUM",
     "label": "Kingdom of Belgium",
     "region": "Belgium",
-    "notes": "The constitutional monarchy established in 1831."
+    "notes": "The constitutional monarchy established in 1831.",
+    "sources": [{ "title": "History of the Belgian monarchy", "url": "https://www.monarchie.be/en/royal-family/history", "note": "Official Belgian Royal Household chronology." }]
   }
 ]

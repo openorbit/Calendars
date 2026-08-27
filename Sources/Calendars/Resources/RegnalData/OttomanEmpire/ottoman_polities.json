@@ -3,6 +3,7 @@
     "id": "POLITY_OTTOMAN_EMPIRE",
     "label": "Ottoman Empire",
     "region": "Anatolia and Southeastern Europe",
-    "notes": "The Ottoman state from its conventional foundation in 1299 until abolition of the sultanate in 1922."
+    "notes": "The Ottoman state from its conventional foundation in 1299 until abolition of the sultanate in 1922.",
+    "sources": [{ "title": "Turkish Culture: Ottoman Empire", "url": "https://www.ktb.gov.tr/TR-96255/turk-kulturu.html", "note": "Republic of Türkiye Ministry of Culture chronology." }]
   }
 ]

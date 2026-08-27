@@ -6,6 +6,7 @@
     "valid_julian": {
       "start": "1832-01-01",
       "end": "1973-12-31"
-    }
+    },
+    "sources": [{ "title": "Constitutional History", "url": "https://www.hellenicparliament.gr/en/Vouli-ton-Ellinon/To-Politevma/Syntagmatiki-Istoria/", "note": "Hellenic Parliament account of the monarchy and republics." }]
   }
 ]

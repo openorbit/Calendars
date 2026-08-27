@@ -3,6 +3,7 @@
     "id": "POLITY_UNITED_STATES",
     "label": "United States of America",
     "region": "North America",
-    "notes": "Federal republic under the Constitution of the United States."
+    "notes": "Federal republic under the Constitution of the United States.",
+    "sources": [{ "title": "The Presidents", "url": "https://www.whitehouse.gov/about-the-white-house/presidents/", "note": "Official White House presidential index." }]
   }
 ]

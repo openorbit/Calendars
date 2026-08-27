@@ -6,6 +6,7 @@
     "valid_julian": {
       "start": "1879-01-01",
       "end": "1946-12-31"
-    }
+    },
+    "sources": [{ "title": "History of Bulgaria", "url": "https://government.bg/en/About-Bulgaria/HISTORY/tabsss1", "note": "Council of Ministers chronology for 1878, 1908, and 1946." }]
   }
 ]

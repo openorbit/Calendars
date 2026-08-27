@@ -6,6 +6,7 @@
     "valid_julian": {
       "start": "681-01-01",
       "end": "1018-12-31"
-    }
+    },
+    "sources": [{ "title": "History of Bulgaria", "url": "https://government.bg/en/About-Bulgaria/HISTORY/tabsss1", "note": "Council of Ministers historical overview." }]
   }
 ]

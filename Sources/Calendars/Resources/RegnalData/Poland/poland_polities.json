@@ -2,6 +2,7 @@
   {
     "id": "POLITY_POLAND",
     "label": "Duchy and Kingdom of Poland",
-    "region": "Central and Eastern Europe"
+    "region": "Central and Eastern Europe",
+    "sources": [{ "title": "Union of Lublin", "url": "https://lublin.ap.gov.pl/popularyzacja/galerie-online/15-najwazniejszych-wydarzen-z-historii-lubelszczyzny-w-dokumencie-archiwalnym/unia-lubelska-1-i-4-lipca-1569-r/", "note": "Polish State Archive account of the transition to the Commonwealth." }]
   }
 ]

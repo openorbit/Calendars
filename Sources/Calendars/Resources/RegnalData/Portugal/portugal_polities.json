@@ -3,6 +3,7 @@
     "id": "POLITY_PORTUGAL",
     "label": "Kingdom of Portugal",
     "region": "Portugal",
-    "notes": "The Portuguese monarchy from Afonso I until the proclamation of the republic in 1910."
+    "notes": "The Portuguese monarchy from Afonso I until the proclamation of the republic in 1910.",
+    "sources": [{ "title": "History of Parliament: Monarchy and Republic", "url": "https://www.parlamento.pt/DAR/Paginas/HistoriaJornal.aspx", "note": "Portuguese Parliament account of the end of the monarchy in 1910." }]
   }
 ]

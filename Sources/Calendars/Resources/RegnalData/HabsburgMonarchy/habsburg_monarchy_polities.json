@@ -3,6 +3,7 @@
     "id": "POLITY_HABSBURG_MONARCHY",
     "label": "Habsburg Monarchy",
     "region": "Central Europe",
-    "notes": "The composite monarchy formed around the Austrian hereditary lands and the crowns of Bohemia and Hungary from 1526."
+    "notes": "The composite monarchy formed around the Austrian hereditary lands and the crowns of Bohemia and Hungary from 1526.",
+    "sources": [{ "title": "Periods of Habsburg history", "url": "https://www.habsburger.net/en/periods", "note": "Schönbrunn Group historical chronology." }]
   }
 ]
