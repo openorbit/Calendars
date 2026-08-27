@@ -1,0 +1,212 @@
+[
+  {
+    "id": "P_ARAGON_ALFONSO_II",
+    "name": {
+      "normalized": "Alfons II"
+    },
+    "variants": [
+      {
+        "form": "Alfons II",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_PETER_II",
+    "name": {
+      "normalized": "Pere II"
+    },
+    "variants": [
+      {
+        "form": "Pere II",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_JAMES_I",
+    "name": {
+      "normalized": "Jaume I"
+    },
+    "variants": [
+      {
+        "form": "Jaume I",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_PETER_III",
+    "name": {
+      "normalized": "Pere III"
+    },
+    "variants": [
+      {
+        "form": "Pere III",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_ALFONSO_III",
+    "name": {
+      "normalized": "Alfons III"
+    },
+    "variants": [
+      {
+        "form": "Alfons III",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_JAMES_II",
+    "name": {
+      "normalized": "Jaume II"
+    },
+    "variants": [
+      {
+        "form": "Jaume II",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_ALFONSO_IV",
+    "name": {
+      "normalized": "Alfons IV"
+    },
+    "variants": [
+      {
+        "form": "Alfons IV",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_PETER_IV",
+    "name": {
+      "normalized": "Pere IV"
+    },
+    "variants": [
+      {
+        "form": "Pere IV",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_JOHN_I",
+    "name": {
+      "normalized": "Joan I"
+    },
+    "variants": [
+      {
+        "form": "Joan I",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_MARTIN",
+    "name": {
+      "normalized": "Martí"
+    },
+    "variants": [
+      {
+        "form": "Martí",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_FERDINAND_I",
+    "name": {
+      "normalized": "Ferran I"
+    },
+    "variants": [
+      {
+        "form": "Ferran I",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_ALFONSO_V",
+    "name": {
+      "normalized": "Alfons V"
+    },
+    "variants": [
+      {
+        "form": "Alfons V",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_JOHN_II",
+    "name": {
+      "normalized": "Joan II"
+    },
+    "variants": [
+      {
+        "form": "Joan II",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARAGON_FERDINAND_II",
+    "name": {
+      "normalized": "Ferran II"
+    },
+    "variants": [
+      {
+        "form": "Ferran II",
+        "lang": "ca",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

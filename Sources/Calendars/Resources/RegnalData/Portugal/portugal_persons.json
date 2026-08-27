@@ -1,0 +1,527 @@
+[
+  {
+    "id": "P_PORTUGAL_AFONSO_I",
+    "name": {
+      "normalized": "Afonso I"
+    },
+    "variants": [
+      {
+        "form": "Afonso I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_SANCHO_I",
+    "name": {
+      "normalized": "Sancho I"
+    },
+    "variants": [
+      {
+        "form": "Sancho I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_AFONSO_II",
+    "name": {
+      "normalized": "Afonso II"
+    },
+    "variants": [
+      {
+        "form": "Afonso II",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_SANCHO_II",
+    "name": {
+      "normalized": "Sancho II"
+    },
+    "variants": [
+      {
+        "form": "Sancho II",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_AFONSO_III",
+    "name": {
+      "normalized": "Afonso III"
+    },
+    "variants": [
+      {
+        "form": "Afonso III",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_DINIS",
+    "name": {
+      "normalized": "Dinis"
+    },
+    "variants": [
+      {
+        "form": "Dinis",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_AFONSO_IV",
+    "name": {
+      "normalized": "Afonso IV"
+    },
+    "variants": [
+      {
+        "form": "Afonso IV",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_PEDRO_I",
+    "name": {
+      "normalized": "Pedro I"
+    },
+    "variants": [
+      {
+        "form": "Pedro I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_FERNANDO_I",
+    "name": {
+      "normalized": "Fernando I"
+    },
+    "variants": [
+      {
+        "form": "Fernando I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_BEATRIZ",
+    "name": {
+      "normalized": "Beatriz"
+    },
+    "variants": [
+      {
+        "form": "Beatriz",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_JOAO_I",
+    "name": {
+      "normalized": "João I"
+    },
+    "variants": [
+      {
+        "form": "João I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_DUARTE",
+    "name": {
+      "normalized": "Duarte"
+    },
+    "variants": [
+      {
+        "form": "Duarte",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_AFONSO_V",
+    "name": {
+      "normalized": "Afonso V"
+    },
+    "variants": [
+      {
+        "form": "Afonso V",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_JOAO_II",
+    "name": {
+      "normalized": "João II"
+    },
+    "variants": [
+      {
+        "form": "João II",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_MANUEL_I",
+    "name": {
+      "normalized": "Manuel I"
+    },
+    "variants": [
+      {
+        "form": "Manuel I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_JOAO_III",
+    "name": {
+      "normalized": "João III"
+    },
+    "variants": [
+      {
+        "form": "João III",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_SEBASTIAO",
+    "name": {
+      "normalized": "Sebastião"
+    },
+    "variants": [
+      {
+        "form": "Sebastião",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_HENRIQUE",
+    "name": {
+      "normalized": "Henrique"
+    },
+    "variants": [
+      {
+        "form": "Henrique",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_FILIPE_I",
+    "name": {
+      "normalized": "Filipe I"
+    },
+    "variants": [
+      {
+        "form": "Filipe I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_FILIPE_II",
+    "name": {
+      "normalized": "Filipe II"
+    },
+    "variants": [
+      {
+        "form": "Filipe II",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_FILIPE_III",
+    "name": {
+      "normalized": "Filipe III"
+    },
+    "variants": [
+      {
+        "form": "Filipe III",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_JOAO_IV",
+    "name": {
+      "normalized": "João IV"
+    },
+    "variants": [
+      {
+        "form": "João IV",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_AFONSO_VI",
+    "name": {
+      "normalized": "Afonso VI"
+    },
+    "variants": [
+      {
+        "form": "Afonso VI",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_PEDRO_II",
+    "name": {
+      "normalized": "Pedro II"
+    },
+    "variants": [
+      {
+        "form": "Pedro II",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_JOAO_V",
+    "name": {
+      "normalized": "João V"
+    },
+    "variants": [
+      {
+        "form": "João V",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_JOSE_I",
+    "name": {
+      "normalized": "José I"
+    },
+    "variants": [
+      {
+        "form": "José I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_MARIA_I",
+    "name": {
+      "normalized": "Maria I"
+    },
+    "variants": [
+      {
+        "form": "Maria I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_JOAO_VI",
+    "name": {
+      "normalized": "João VI"
+    },
+    "variants": [
+      {
+        "form": "João VI",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_PEDRO_IV",
+    "name": {
+      "normalized": "Pedro IV"
+    },
+    "variants": [
+      {
+        "form": "Pedro IV",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_MARIA_II",
+    "name": {
+      "normalized": "Maria II"
+    },
+    "variants": [
+      {
+        "form": "Maria II",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_MIGUEL_I",
+    "name": {
+      "normalized": "Miguel I"
+    },
+    "variants": [
+      {
+        "form": "Miguel I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_PEDRO_V",
+    "name": {
+      "normalized": "Pedro V"
+    },
+    "variants": [
+      {
+        "form": "Pedro V",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_LUIS_I",
+    "name": {
+      "normalized": "Luís I"
+    },
+    "variants": [
+      {
+        "form": "Luís I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_CARLOS_I",
+    "name": {
+      "normalized": "Carlos I"
+    },
+    "variants": [
+      {
+        "form": "Carlos I",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PORTUGAL_MANUEL_II",
+    "name": {
+      "normalized": "Manuel II"
+    },
+    "variants": [
+      {
+        "form": "Manuel II",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

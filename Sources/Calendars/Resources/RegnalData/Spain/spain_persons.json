@@ -1,0 +1,272 @@
+[
+  {
+    "id": "P_SPAIN_CHARLES_I",
+    "name": {
+      "normalized": "Carlos I"
+    },
+    "variants": [
+      {
+        "form": "Carlos I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_PHILIP_II",
+    "name": {
+      "normalized": "Felipe II"
+    },
+    "variants": [
+      {
+        "form": "Felipe II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_PHILIP_III",
+    "name": {
+      "normalized": "Felipe III"
+    },
+    "variants": [
+      {
+        "form": "Felipe III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_PHILIP_IV",
+    "name": {
+      "normalized": "Felipe IV"
+    },
+    "variants": [
+      {
+        "form": "Felipe IV",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_CHARLES_II",
+    "name": {
+      "normalized": "Carlos II"
+    },
+    "variants": [
+      {
+        "form": "Carlos II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_PHILIP_V",
+    "name": {
+      "normalized": "Felipe V"
+    },
+    "variants": [
+      {
+        "form": "Felipe V",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_LOUIS_I",
+    "name": {
+      "normalized": "Luis I"
+    },
+    "variants": [
+      {
+        "form": "Luis I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_FERDINAND_VI",
+    "name": {
+      "normalized": "Fernando VI"
+    },
+    "variants": [
+      {
+        "form": "Fernando VI",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_CHARLES_III",
+    "name": {
+      "normalized": "Carlos III"
+    },
+    "variants": [
+      {
+        "form": "Carlos III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_CHARLES_IV",
+    "name": {
+      "normalized": "Carlos IV"
+    },
+    "variants": [
+      {
+        "form": "Carlos IV",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_FERDINAND_VII",
+    "name": {
+      "normalized": "Fernando VII"
+    },
+    "variants": [
+      {
+        "form": "Fernando VII",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_JOSEPH_I",
+    "name": {
+      "normalized": "José I"
+    },
+    "variants": [
+      {
+        "form": "José I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_ISABELLA_II",
+    "name": {
+      "normalized": "Isabel II"
+    },
+    "variants": [
+      {
+        "form": "Isabel II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_AMADEO_I",
+    "name": {
+      "normalized": "Amadeo I"
+    },
+    "variants": [
+      {
+        "form": "Amadeo I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_ALFONSO_XII",
+    "name": {
+      "normalized": "Alfonso XII"
+    },
+    "variants": [
+      {
+        "form": "Alfonso XII",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_ALFONSO_XIII",
+    "name": {
+      "normalized": "Alfonso XIII"
+    },
+    "variants": [
+      {
+        "form": "Alfonso XIII",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_JUAN_CARLOS_I",
+    "name": {
+      "normalized": "Juan Carlos I"
+    },
+    "variants": [
+      {
+        "form": "Juan Carlos I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPAIN_FELIPE_VI",
+    "name": {
+      "normalized": "Felipe VI"
+    },
+    "variants": [
+      {
+        "form": "Felipe VI",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

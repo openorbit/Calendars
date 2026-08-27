@@ -10,6 +10,8 @@ struct RegnalCalendarTests {
         let expectedIDs: Set<String> = [
             "POLITY_AUSTRASIA",
             "POLITY_BELGIUM",
+            "POLITY_CROWN_ARAGON",
+            "POLITY_CROWN_CASTILE",
             "POLITY_BURGUNDY_FRANKISH",
             "POLITY_CAROLINGIAN_EMPIRE",
             "POLITY_DENMARK_KINGDOM",
@@ -29,6 +31,7 @@ struct RegnalCalendarTests {
             "POLITY_KINGDOM_LOMBARDS",
             "POLITY_MERCIA",
             "POLITY_MIDDLE_FRANCIA",
+            "POLITY_NAVARRE",
             "POLITY_NEUSTRIA",
             "POLITY_NETHERLANDS",
             "POLITY_NORTHUMBRIA",
@@ -36,9 +39,11 @@ struct RegnalCalendarTests {
             "POLITY_NORWAY_SWEDEN_UNION",
             "POLITY_OSTROGOTHIC_KINGDOM",
             "POLITY_PAPACY",
+            "POLITY_PORTUGAL",
             "POLITY_REGNUM_FRANCORUM",
             "POLITY_ROMAN_REPUBLIC",
             "POLITY_SCOTLAND",
+            "POLITY_SPAIN",
             "POLITY_SUSSEX",
             "POLITY_SWEDEN",
             "POLITY_UNITED_STATES",
@@ -52,6 +57,8 @@ struct RegnalCalendarTests {
 
     @Test("Polity has regnal tenures", arguments: [
         "POLITY_BELGIUM",
+        "POLITY_CROWN_ARAGON",
+        "POLITY_CROWN_CASTILE",
         "POLITY_CAROLINGIAN_EMPIRE",
         "POLITY_DENMARK_KINGDOM",
         "POLITY_EAST_ANGLIA",
@@ -68,14 +75,17 @@ struct RegnalCalendarTests {
         "POLITY_KINGDOM_LOMBARDS",
         "POLITY_MERCIA",
         "POLITY_MIDDLE_FRANCIA",
+        "POLITY_NAVARRE",
         "POLITY_NETHERLANDS",
         "POLITY_NORTHUMBRIA",
         "POLITY_NORWAY_KINGDOM",
         "POLITY_OSTROGOTHIC_KINGDOM",
         "POLITY_PAPACY",
+        "POLITY_PORTUGAL",
         "POLITY_REGNUM_FRANCORUM",
         "POLITY_ROMAN_REPUBLIC",
         "POLITY_SCOTLAND",
+        "POLITY_SPAIN",
         "POLITY_SUSSEX",
         "POLITY_SWEDEN",
         "POLITY_UNITED_STATES",
@@ -184,6 +194,54 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Iberian crowns remain distinct through the dynastic union")
+    func iberianCrownsRemainDistinctThroughTheDynasticUnion() throws {
+        let aragon = calendar.tenures(forOffice: "OFFICE_ARAGON_MONARCH")
+        let castile = calendar.tenures(forOffice: "OFFICE_CASTILE_MONARCH")
+        let navarre = calendar.tenures(forOffice: "OFFICE_NAVARRE_MONARCH")
+        let spain = calendar.tenures(forOffice: "OFFICE_SPAIN_MONARCH")
+        let charles = try #require(spain.first { $0.personID == "P_SPAIN_CHARLES_I" })
+
+        #expect(aragon.count == 14)
+        #expect(castile.count == 13)
+        #expect(navarre.count == 32)
+        #expect(spain.count == 20)
+        #expect(charles.start.first?.ymd?.year == 1516)
+        #expect(castile.contains { $0.personID == "P_CASTILE_ISABELLA_I" })
+        #expect(aragon.contains { $0.personID == "P_ARAGON_FERDINAND_II" })
+    }
+
+    @Test("Spanish succession preserves restorations and republic gaps")
+    func spanishSuccessionPreservesRestorationsAndRepublicGaps() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_SPAIN_MONARCH")
+        let philipV = tenures.filter { $0.personID == "P_SPAIN_PHILIP_V" }
+        let ferdinandVII = tenures.filter { $0.personID == "P_SPAIN_FERDINAND_VII" }
+        let felipeVI = try #require(tenures.first { $0.personID == "P_SPAIN_FELIPE_VI" })
+
+        #expect(philipV.count == 2)
+        #expect(ferdinandVII.count == 2)
+        #expect(!tenures.contains { $0.start.first?.ymd?.year == 1932 })
+        #expect(felipeVI.start.first?.ymd?.year == 2014)
+        #expect(felipeVI.start.first?.ymd?.month == 6)
+        #expect(felipeVI.start.first?.ymd?.day == 19)
+        #expect(felipeVI.end.first?.rep == "open")
+        #expect(felipeVI.status == "incumbent")
+    }
+
+    @Test("Portuguese monarchy ends with the 1910 republic")
+    func portugueseMonarchyEndsWithThe1910Republic() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_PORTUGAL_MONARCH")
+        let mariaII = tenures.filter { $0.personID == "P_PORTUGAL_MARIA_II" }
+        let manuelII = try #require(tenures.first { $0.personID == "P_PORTUGAL_MANUEL_II" })
+
+        #expect(tenures.count == 36)
+        #expect(mariaII.count == 2)
+        #expect(manuelII.end.first?.ymd?.year == 1910)
+        #expect(manuelII.end.first?.ymd?.month == 10)
+        #expect(manuelII.end.first?.ymd?.day == 5)
+        #expect(tenures.contains { $0.status == "disputed" })
     }
 
     @Test("Belgian monarchy follows constitutional oath transitions")

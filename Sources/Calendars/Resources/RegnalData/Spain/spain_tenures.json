@@ -1,0 +1,733 @@
+[
+  {
+    "id": "TEN_SPAIN_CHARLES_I",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_CHARLES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1516,
+          "month": 3,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1556,
+          "month": 1,
+          "day": 16
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_PHILIP_II",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_PHILIP_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1556,
+          "month": 1,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1598,
+          "month": 9,
+          "day": 13
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_PHILIP_III",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_PHILIP_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1598,
+          "month": 9,
+          "day": 13
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1621,
+          "month": 3,
+          "day": 31
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_PHILIP_IV",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_PHILIP_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1621,
+          "month": 3,
+          "day": 31
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1665,
+          "month": 9,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_CHARLES_II",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_CHARLES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1665,
+          "month": 9,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1700,
+          "month": 11,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_PHILIP_V_A",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_PHILIP_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1700,
+          "month": 11,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1724,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_LOUIS_I",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_LOUIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1724,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1724,
+          "month": 8,
+          "day": 31
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_PHILIP_V_B",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_PHILIP_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1724,
+          "month": 9,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1746,
+          "month": 7,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_FERDINAND_VI",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_FERDINAND_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1746,
+          "month": 7,
+          "day": 9
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1759,
+          "month": 8,
+          "day": 10
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_CHARLES_III",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_CHARLES_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1759,
+          "month": 8,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1788,
+          "month": 12,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_CHARLES_IV",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_CHARLES_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1788,
+          "month": 12,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1808,
+          "month": 3,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_FERDINAND_VII_A",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_FERDINAND_VII",
+    "ordinal": 7,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1808,
+          "month": 3,
+          "day": 19
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1808,
+          "month": 5,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_JOSEPH_I",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_JOSEPH_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1808,
+          "month": 6,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1813,
+          "month": 12,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_FERDINAND_VII_B",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_FERDINAND_VII",
+    "ordinal": 7,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1813,
+          "month": 12,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1833,
+          "month": 9,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_ISABELLA_II",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_ISABELLA_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1833,
+          "month": 9,
+          "day": 29
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1868,
+          "month": 9,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_AMADEO_I",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_AMADEO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1870,
+          "month": 11,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1873,
+          "month": 2,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_ALFONSO_XII",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_ALFONSO_XII",
+    "ordinal": 12,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1874,
+          "month": 12,
+          "day": 29
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1885,
+          "month": 11,
+          "day": 25
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_ALFONSO_XIII",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_ALFONSO_XIII",
+    "ordinal": 13,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1886,
+          "month": 5,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1931,
+          "month": 4,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_JUAN_CARLOS_I",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_JUAN_CARLOS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1975,
+          "month": 11,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2014,
+          "month": 6,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SPAIN_FELIPE_VI",
+    "office_id": "OFFICE_SPAIN_MONARCH",
+    "person_id": "P_SPAIN_FELIPE_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_SPAIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2014,
+          "month": 6,
+          "day": 19
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent"
+  }
+]

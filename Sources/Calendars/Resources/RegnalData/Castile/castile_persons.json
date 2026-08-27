@@ -1,0 +1,197 @@
+[
+  {
+    "id": "P_CASTILE_FERDINAND_III",
+    "name": {
+      "normalized": "Fernando III"
+    },
+    "variants": [
+      {
+        "form": "Fernando III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_ALFONSO_X",
+    "name": {
+      "normalized": "Alfonso X"
+    },
+    "variants": [
+      {
+        "form": "Alfonso X",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_SANCHO_IV",
+    "name": {
+      "normalized": "Sancho IV"
+    },
+    "variants": [
+      {
+        "form": "Sancho IV",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_FERDINAND_IV",
+    "name": {
+      "normalized": "Fernando IV"
+    },
+    "variants": [
+      {
+        "form": "Fernando IV",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_ALFONSO_XI",
+    "name": {
+      "normalized": "Alfonso XI"
+    },
+    "variants": [
+      {
+        "form": "Alfonso XI",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_PETER_I",
+    "name": {
+      "normalized": "Pedro I"
+    },
+    "variants": [
+      {
+        "form": "Pedro I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_HENRY_II",
+    "name": {
+      "normalized": "Enrique II"
+    },
+    "variants": [
+      {
+        "form": "Enrique II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_JOHN_I",
+    "name": {
+      "normalized": "Juan I"
+    },
+    "variants": [
+      {
+        "form": "Juan I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_HENRY_III",
+    "name": {
+      "normalized": "Enrique III"
+    },
+    "variants": [
+      {
+        "form": "Enrique III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_JOHN_II",
+    "name": {
+      "normalized": "Juan II"
+    },
+    "variants": [
+      {
+        "form": "Juan II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_HENRY_IV",
+    "name": {
+      "normalized": "Enrique IV"
+    },
+    "variants": [
+      {
+        "form": "Enrique IV",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_ISABELLA_I",
+    "name": {
+      "normalized": "Isabel I"
+    },
+    "variants": [
+      {
+        "form": "Isabel I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CASTILE_JOANNA",
+    "name": {
+      "normalized": "Juana I"
+    },
+    "variants": [
+      {
+        "form": "Juana I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

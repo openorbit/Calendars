@@ -1,0 +1,431 @@
+[
+  {
+    "id": "TEN_CASTILE_FERDINAND_III",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_FERDINAND_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1230
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1252
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_ALFONSO_X",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_ALFONSO_X",
+    "ordinal": 10,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1252
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1284
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_SANCHO_IV",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_SANCHO_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1284
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1295
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_FERDINAND_IV",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_FERDINAND_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1295
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1312
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_ALFONSO_XI",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_ALFONSO_XI",
+    "ordinal": 11,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1312
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1350
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_PETER_I",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_PETER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1350
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1369
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_HENRY_II",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_HENRY_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1369
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1379
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_JOHN_I",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_JOHN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1379
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1390
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_HENRY_III",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_HENRY_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1390
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1406
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_JOHN_II",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_JOHN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1406
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1454
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_HENRY_IV",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_HENRY_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1454
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1474
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_ISABELLA_I",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_ISABELLA_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1474
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1504
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_CASTILE_JOANNA",
+    "office_id": "OFFICE_CASTILE_MONARCH",
+    "person_id": "P_CASTILE_JOANNA",
+    "ordinal": 1,
+    "polity_id": "POLITY_CROWN_CASTILE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1504
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1555
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

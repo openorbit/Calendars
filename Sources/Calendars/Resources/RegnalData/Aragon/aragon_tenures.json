@@ -1,0 +1,464 @@
+[
+  {
+    "id": "TEN_ARAGON_ALFONSO_II",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_ALFONSO_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1164
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_PETER_II",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_PETER_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1213
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_JAMES_I",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_JAMES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1213
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1276
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_PETER_III",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_PETER_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1276
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1285
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_ALFONSO_III",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_ALFONSO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1285
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1291
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_JAMES_II",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_JAMES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1291
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1327
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_ALFONSO_IV",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_ALFONSO_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1327
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1336
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_PETER_IV",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_PETER_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1336
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1387
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_JOHN_I",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_JOHN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1387
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1396
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_MARTIN",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_MARTIN",
+    "ordinal": null,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1396
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1410
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_FERDINAND_I",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_FERDINAND_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1412
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1416
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_ALFONSO_V",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_ALFONSO_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1416
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1458
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_JOHN_II",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_JOHN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1458
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1479
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ARAGON_FERDINAND_II",
+    "office_id": "OFFICE_ARAGON_MONARCH",
+    "person_id": "P_ARAGON_FERDINAND_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_CROWN_ARAGON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1479
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1516
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

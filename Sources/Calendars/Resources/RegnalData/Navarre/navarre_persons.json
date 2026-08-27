@@ -1,0 +1,482 @@
+[
+  {
+    "id": "P_NAVARRE_SANCHO_I",
+    "name": {
+      "normalized": "Sancho I"
+    },
+    "variants": [
+      {
+        "form": "Sancho I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_JIMENO_GARCES",
+    "name": {
+      "normalized": "Jimeno Garcés"
+    },
+    "variants": [
+      {
+        "form": "Jimeno Garcés",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_GARCIA_SANCHEZ_I",
+    "name": {
+      "normalized": "García Sánchez I"
+    },
+    "variants": [
+      {
+        "form": "García Sánchez I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_SANCHO_II",
+    "name": {
+      "normalized": "Sancho II"
+    },
+    "variants": [
+      {
+        "form": "Sancho II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_GARCIA_SANCHEZ_II",
+    "name": {
+      "normalized": "García Sánchez II"
+    },
+    "variants": [
+      {
+        "form": "García Sánchez II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_SANCHO_III",
+    "name": {
+      "normalized": "Sancho III"
+    },
+    "variants": [
+      {
+        "form": "Sancho III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_GARCIA_SANCHEZ_III",
+    "name": {
+      "normalized": "García Sánchez III"
+    },
+    "variants": [
+      {
+        "form": "García Sánchez III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_SANCHO_IV",
+    "name": {
+      "normalized": "Sancho IV"
+    },
+    "variants": [
+      {
+        "form": "Sancho IV",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_SANCHO_V",
+    "name": {
+      "normalized": "Sancho V"
+    },
+    "variants": [
+      {
+        "form": "Sancho V",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_PETER_I",
+    "name": {
+      "normalized": "Pedro I"
+    },
+    "variants": [
+      {
+        "form": "Pedro I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_ALFONSO_I",
+    "name": {
+      "normalized": "Alfonso I"
+    },
+    "variants": [
+      {
+        "form": "Alfonso I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_GARCIA_RAMIREZ",
+    "name": {
+      "normalized": "García Ramírez"
+    },
+    "variants": [
+      {
+        "form": "García Ramírez",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_SANCHO_VI",
+    "name": {
+      "normalized": "Sancho VI"
+    },
+    "variants": [
+      {
+        "form": "Sancho VI",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_SANCHO_VII",
+    "name": {
+      "normalized": "Sancho VII"
+    },
+    "variants": [
+      {
+        "form": "Sancho VII",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_THEOBALD_I",
+    "name": {
+      "normalized": "Teobaldo I"
+    },
+    "variants": [
+      {
+        "form": "Teobaldo I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_THEOBALD_II",
+    "name": {
+      "normalized": "Teobaldo II"
+    },
+    "variants": [
+      {
+        "form": "Teobaldo II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_HENRY_I",
+    "name": {
+      "normalized": "Enrique I"
+    },
+    "variants": [
+      {
+        "form": "Enrique I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_JOAN_I",
+    "name": {
+      "normalized": "Juana I"
+    },
+    "variants": [
+      {
+        "form": "Juana I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_LOUIS_I",
+    "name": {
+      "normalized": "Luis I"
+    },
+    "variants": [
+      {
+        "form": "Luis I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_JOHN_I",
+    "name": {
+      "normalized": "Juan I"
+    },
+    "variants": [
+      {
+        "form": "Juan I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_PHILIP_II",
+    "name": {
+      "normalized": "Felipe II"
+    },
+    "variants": [
+      {
+        "form": "Felipe II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_CHARLES_I",
+    "name": {
+      "normalized": "Carlos I"
+    },
+    "variants": [
+      {
+        "form": "Carlos I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_JOAN_II",
+    "name": {
+      "normalized": "Juana II"
+    },
+    "variants": [
+      {
+        "form": "Juana II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_PHILIP_III",
+    "name": {
+      "normalized": "Felipe III"
+    },
+    "variants": [
+      {
+        "form": "Felipe III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_CHARLES_II",
+    "name": {
+      "normalized": "Carlos II"
+    },
+    "variants": [
+      {
+        "form": "Carlos II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_CHARLES_III",
+    "name": {
+      "normalized": "Carlos III"
+    },
+    "variants": [
+      {
+        "form": "Carlos III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_BLANCHE_I",
+    "name": {
+      "normalized": "Blanca I"
+    },
+    "variants": [
+      {
+        "form": "Blanca I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_JOHN_II",
+    "name": {
+      "normalized": "Juan II"
+    },
+    "variants": [
+      {
+        "form": "Juan II",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_ELEANOR",
+    "name": {
+      "normalized": "Leonor"
+    },
+    "variants": [
+      {
+        "form": "Leonor",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_FRANCIS_PHOEBUS",
+    "name": {
+      "normalized": "Francisco Febo"
+    },
+    "variants": [
+      {
+        "form": "Francisco Febo",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_CATHERINE",
+    "name": {
+      "normalized": "Catalina I"
+    },
+    "variants": [
+      {
+        "form": "Catalina I",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NAVARRE_JOHN_III",
+    "name": {
+      "normalized": "Juan III"
+    },
+    "variants": [
+      {
+        "form": "Juan III",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

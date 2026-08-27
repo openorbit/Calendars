@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "TEN_PORTUGAL_AFONSO_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_AFONSO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1139
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1185
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_SANCHO_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_SANCHO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1185
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1211
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_AFONSO_II",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_AFONSO_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1211
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1223
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_SANCHO_II",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_SANCHO_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1223
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1248
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_AFONSO_III",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_AFONSO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1248
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1279
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_DINIS",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_DINIS",
+    "ordinal": null,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1279
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1325
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_AFONSO_IV",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_AFONSO_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1325
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1357
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_PEDRO_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_PEDRO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1357
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1367
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_FERNANDO_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_FERNANDO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1367
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1383
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_BEATRIZ",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_BEATRIZ",
+    "ordinal": null,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1383
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1385
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_PORTUGAL_JOAO_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_JOAO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1385
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1433
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_DUARTE",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_DUARTE",
+    "ordinal": null,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1433
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1438
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_AFONSO_V",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_AFONSO_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1438
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1481
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_JOAO_II",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_JOAO_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1481
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1495
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_MANUEL_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_MANUEL_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1495
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1521
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_JOAO_III",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_JOAO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1521
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1557
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_SEBASTIAO",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_SEBASTIAO",
+    "ordinal": null,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1557
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1578
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_HENRIQUE",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_HENRIQUE",
+    "ordinal": null,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1578
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1580
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_FILIPE_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_FILIPE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1580
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1598
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_FILIPE_II",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_FILIPE_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1598
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1621
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_FILIPE_III",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_FILIPE_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1621
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1640
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_JOAO_IV",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_JOAO_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1640
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1656
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_AFONSO_VI",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_AFONSO_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1656
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1683
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_PEDRO_II",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_PEDRO_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1683
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1706
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_JOAO_V",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_JOAO_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1706
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1750
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_JOSE_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_JOSE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1750
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1777
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_MARIA_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_MARIA_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1777
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1816
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_JOAO_VI",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_JOAO_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1816
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1826
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_PEDRO_IV",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_PEDRO_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1826
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1826
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_MARIA_II_A",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_MARIA_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1826
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1828
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_MIGUEL_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_MIGUEL_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1828
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1834
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_MARIA_II_B",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_MARIA_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1834
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1853
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_PEDRO_V",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_PEDRO_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1853
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1861
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_LUIS_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_LUIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1861
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1889
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_CARLOS_I",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_CARLOS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1889
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1908
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_PORTUGAL_MANUEL_II",
+    "office_id": "OFFICE_PORTUGAL_MONARCH",
+    "person_id": "P_PORTUGAL_MANUEL_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_PORTUGAL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1908
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1910,
+          "month": 10,
+          "day": 5
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

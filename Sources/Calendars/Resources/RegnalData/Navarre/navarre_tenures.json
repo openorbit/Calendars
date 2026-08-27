@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "TEN_NAVARRE_SANCHO_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_SANCHO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 905
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 925
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_JIMENO_GARCES",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_JIMENO_GARCES",
+    "ordinal": null,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 925
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 931
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_GARCIA_SANCHEZ_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_GARCIA_SANCHEZ_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 931
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 970
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_SANCHO_II",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_SANCHO_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 970
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 994
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_GARCIA_SANCHEZ_II",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_GARCIA_SANCHEZ_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 994
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1000
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_SANCHO_III",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_SANCHO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1000
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1035
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_GARCIA_SANCHEZ_III",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_GARCIA_SANCHEZ_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1035
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1054
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_SANCHO_IV",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_SANCHO_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1054
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1076
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_SANCHO_V",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_SANCHO_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1076
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1094
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_PETER_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_PETER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1094
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1104
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_ALFONSO_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_ALFONSO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1104
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1134
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_GARCIA_RAMIREZ",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_GARCIA_RAMIREZ",
+    "ordinal": null,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1134
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1150
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_SANCHO_VI",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_SANCHO_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1150
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1194
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_SANCHO_VII",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_SANCHO_VII",
+    "ordinal": 7,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1194
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1234
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_THEOBALD_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_THEOBALD_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1234
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1253
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_THEOBALD_II",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_THEOBALD_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1253
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1270
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_HENRY_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_HENRY_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1270
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1274
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_JOAN_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_JOAN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1274
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1305
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_LOUIS_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_LOUIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1305
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1316
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_JOHN_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_JOHN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1316
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1316
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_PHILIP_II",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_PHILIP_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1316
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1322
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_CHARLES_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_CHARLES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1322
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1328
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_JOAN_II",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_JOAN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1328
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1349
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_PHILIP_III",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_PHILIP_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1328
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1343
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_CHARLES_II",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_CHARLES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1349
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1387
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_CHARLES_III",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_CHARLES_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1387
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1425
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_BLANCHE_I",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_BLANCHE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1425
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1441
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_JOHN_II",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_JOHN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1425
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1479
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_ELEANOR",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_ELEANOR",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1479
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1479
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_FRANCIS_PHOEBUS",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_FRANCIS_PHOEBUS",
+    "ordinal": null,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1479
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1483
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_CATHERINE",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_CATHERINE",
+    "ordinal": 1,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1483
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1517
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_NAVARRE_JOHN_III",
+    "office_id": "OFFICE_NAVARRE_MONARCH",
+    "person_id": "P_NAVARRE_JOHN_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_NAVARRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1484
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1516
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]
