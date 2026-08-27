@@ -1,5 +1,574 @@
 [
     {
+        "id": "BATTLE_OF_MARATHON_490_BCE",
+        "year": -490,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Marathon",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Marathon"
+    },
+    {
+        "id": "BATTLES_OF_THERMOPYLAE_AND_SALAMIS_480_BCE",
+        "year": -480,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battles of Thermopylae and Salamis",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battles_of_Thermopylae_and_Salamis"
+    },
+    {
+        "id": "PELOPONNESIAN_WAR_431_BCE",
+        "year": -431,
+        "endYear": -404,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Peloponnesian War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Peloponnesian_War"
+    },
+    {
+        "id": "TRIAL_AND_DEATH_OF_SOCRATES_399_BCE",
+        "year": -399,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Trial and death of Socrates",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Trial_and_death_of_Socrates"
+    },
+    {
+        "id": "CONQUESTS_OF_ALEXANDER_THE_GREAT_336_BCE",
+        "year": -336,
+        "endYear": -323,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Conquests of Alexander the Great",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Conquests_of_Alexander_the_Great"
+    },
+    {
+        "id": "DEATH_OF_ALEXANDER_THE_GREAT_323_BCE",
+        "year": -323,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Death of Alexander the Great",
+        "category": "death",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+    },
+    {
+        "id": "ASHOKA_BECOMES_MAURYAN_EMPEROR_273_BCE",
+        "year": -273,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Ashoka becomes Mauryan emperor",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Ashoka_becomes_Mauryan_emperor"
+    },
+    {
+        "id": "KALINGA_WAR_261_BCE",
+        "year": -261,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Kalinga War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Kalinga_War"
+    },
+    {
+        "id": "QIN_UNIFICATION_OF_CHINA_221_BCE",
+        "year": -221,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Qin unification of China",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Qin_unification_of_China"
+    },
+    {
+        "id": "BATTLE_OF_ZAMA_202_BCE",
+        "year": -202,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Zama",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Zama"
+    },
+    {
+        "id": "MACCABEAN_REVOLT_167_BCE",
+        "year": -167,
+        "endYear": -160,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Maccabean Revolt",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Maccabean_Revolt"
+    },
+    {
+        "id": "THIRD_PUNIC_WAR_149_BCE",
+        "year": -149,
+        "endYear": -146,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Third Punic War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Third_Punic_War"
+    },
+    {
+        "id": "SPARTACUS_REVOLT_73_BCE",
+        "year": -73,
+        "endYear": -71,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Spartacus revolt",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Spartacus_revolt"
+    },
+    {
+        "id": "CAESAR_S_CIVIL_WAR_49_BCE",
+        "year": -49,
+        "endYear": -45,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Caesar's Civil War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Caesar's_Civil_War"
+    },
+    {
+        "id": "IDES_OF_MARCH_ASSASSINATION_OF_JULIUS_CAESAR_44_BCE",
+        "year": -44,
+        "precision": "day",
+        "calendar": "romanRepublican",
+        "title": "Ides of March: assassination of Julius Caesar",
+        "category": "death",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar",
+        "month": 3,
+        "day": 15,
+        "calendarYear": 710,
+        "certainty": "certain",
+        "dateNote": "The Ides of March, 710 AUC (15 March 44 BCE)."
+    },
+    {
+        "id": "BATTLE_OF_ACTIUM_31_BCE",
+        "year": -31,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Actium",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Actium"
+    },
+    {
+        "id": "BEGINNING_OF_THE_ROMAN_EMPIRE_27_BCE",
+        "year": -27,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Beginning of the Roman Empire",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Beginning_of_the_Roman_Empire"
+    },
+    {
+        "id": "BATTLE_OF_THE_TEUTOBURG_FOREST_9",
+        "year": 9,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of the Teutoburg Forest",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest"
+    },
+    {
+        "id": "DESTRUCTION_OF_THE_SECOND_TEMPLE_70",
+        "year": 70,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Destruction of the Second Temple",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Destruction_of_the_Second_Temple"
+    },
+    {
+        "id": "ERUPTION_OF_MOUNT_VESUVIUS_79",
+        "year": 79,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Eruption of Mount Vesuvius",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius"
+    },
+    {
+        "id": "INVENTION_OF_PAPER_RECORDED_UNDER_CAI_LUN_105",
+        "year": 105,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Invention of paper recorded under Cai Lun",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Invention_of_paper_recorded_under_Cai_Lun"
+    },
+    {
+        "id": "CONSTRUCTION_OF_HADRIAN_S_WALL_BEGINS_122",
+        "year": 122,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Construction of Hadrian's Wall begins",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Construction_of_Hadrian's_Wall_begins"
+    },
+    {
+        "id": "END_OF_THE_PAX_ROMANA_180",
+        "year": 180,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "End of the Pax Romana",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/End_of_the_Pax_Romana"
+    },
+    {
+        "id": "FALL_OF_THE_HAN_DYNASTY_220",
+        "year": 220,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Fall of the Han dynasty",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Fall_of_the_Han_dynasty"
+    },
+    {
+        "id": "FOUNDATION_OF_THE_SASANIAN_EMPIRE_226",
+        "year": 226,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Foundation of the Sasanian Empire",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Foundation_of_the_Sasanian_Empire"
+    },
+    {
+        "id": "PLAGUE_OF_CYPRIAN_250",
+        "year": 250,
+        "endYear": 270,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Plague of Cyprian",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Plague_of_Cyprian"
+    },
+    {
+        "id": "DIOCLETIAN_BECOMES_ROMAN_EMPEROR_284",
+        "year": 284,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Diocletian becomes Roman emperor",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Diocletian_becomes_Roman_emperor"
+    },
+    {
+        "id": "ARMENIA_ADOPTS_CHRISTIANITY_301",
+        "year": 301,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Armenia adopts Christianity",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Armenia_adopts_Christianity"
+    },
+    {
+        "id": "EDICT_OF_MILAN_313",
+        "year": 313,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Edict of Milan",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Edict_of_Milan"
+    },
+    {
+        "id": "FIRST_COUNCIL_OF_NICAEA_325",
+        "year": 325,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "First Council of Nicaea",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea"
+    },
+    {
+        "id": "CONSTANTINOPLE_BECOMES_IMPERIAL_CAPITAL_330",
+        "year": 330,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Constantinople becomes imperial capital",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Constantinople_becomes_imperial_capital"
+    },
+    {
+        "id": "BATTLE_OF_ADRIANOPLE_378",
+        "year": 378,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Adrianople",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Adrianople"
+    },
+    {
+        "id": "EDICT_OF_THESSALONICA_380",
+        "year": 380,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Edict of Thessalonica",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica"
+    },
+    {
+        "id": "SACK_OF_ROME_BY_THE_VISIGOTHS_410",
+        "year": 410,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Sack of Rome by the Visigoths",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Sack_of_Rome_by_the_Visigoths"
+    },
+    {
+        "id": "VANDALS_ENTER_NORTH_AFRICA_429",
+        "year": 429,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Vandals enter North Africa",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Vandals_enter_North_Africa"
+    },
+    {
+        "id": "COUNCIL_OF_CHALCEDON_451",
+        "year": 451,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Council of Chalcedon",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Council_of_Chalcedon"
+    },
+    {
+        "id": "VANDAL_SACK_OF_ROME_455",
+        "year": 455,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Vandal sack of Rome",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Vandal_sack_of_Rome"
+    },
+    {
+        "id": "FALL_OF_THE_WESTERN_ROMAN_EMPIRE_476",
+        "year": 476,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Fall of the Western Roman Empire",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+    },
+    {
+        "id": "BATTLE_OF_VOUILLE_507",
+        "year": 507,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Vouillé",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Vouill%C3%A9"
+    },
+    {
+        "id": "JUSTINIAN_CLOSES_THE_ACADEMY_AT_ATHENS_529",
+        "year": 529,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Justinian closes the Academy at Athens",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Justinian_closes_the_Academy_at_Athens"
+    },
+    {
+        "id": "NIKA_RIOTS_532",
+        "year": 532,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Nika riots",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Nika_riots"
+    },
+    {
+        "id": "PLAGUE_OF_JUSTINIAN_541",
+        "year": 541,
+        "endYear": 549,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Plague of Justinian",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Plague_of_Justinian"
+    },
+    {
+        "id": "SUI_DYNASTY_FOUNDED_581",
+        "year": 581,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Sui dynasty founded",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Sui_dynasty_founded"
+    },
+    {
+        "id": "GREGORIAN_MISSION_REACHES_KENT_597",
+        "year": 597,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Gregorian mission reaches Kent",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Gregorian_mission_reaches_Kent"
+    },
+    {
+        "id": "HIJRA_622",
+        "year": 622,
+        "precision": "day",
+        "calendar": "civilIslamic",
+        "title": "Islamic calendar epoch",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Islamic_calendar",
+        "month": 1,
+        "day": 1,
+        "calendarYear": 1,
+        "certainty": "traditional",
+        "dateNote": "1 Muharram 1 AH is the calendar epoch; it is not the exact day Muhammad arrived in Medina."
+    },
+    {
+        "id": "RASHIDUN_CALIPHATE_632",
+        "year": 632,
+        "endYear": 661,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Rashidun Caliphate",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Rashidun_Caliphate"
+    },
+    {
+        "id": "UMAYYAD_CALIPHATE_FOUNDED_661",
+        "year": 661,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Umayyad Caliphate founded",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Umayyad_Caliphate_founded"
+    },
+    {
+        "id": "BATTLE_OF_KARBALA_680",
+        "year": 680,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Karbala",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Karbala"
+    },
+    {
+        "id": "UMAYYAD_CONQUEST_OF_HISPANIA_BEGINS_711",
+        "year": 711,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Umayyad conquest of Hispania begins",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania_begins"
+    },
+    {
+        "id": "BATTLE_OF_TOURS_732",
+        "year": 732,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Tours",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Tours"
+    },
+    {
+        "id": "ABBASID_REVOLUTION_750",
+        "year": 750,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Abbasid Revolution",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Abbasid_Revolution"
+    },
+    {
+        "id": "AN_LUSHAN_REBELLION_755",
+        "year": 755,
+        "endYear": 763,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "An Lushan Rebellion",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/An_Lushan_Rebellion"
+    },
+    {
+        "id": "RAID_ON_LINDISFARNE_793",
+        "year": 793,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Raid on Lindisfarne",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Raid_on_Lindisfarne"
+    },
+    {
+        "id": "CHARLEMAGNE_CROWNED_EMPEROR_800",
+        "year": 800,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Charlemagne crowned emperor",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Charlemagne_crowned_emperor"
+    },
+    {
+        "id": "TREATY_OF_VERDUN_843",
+        "year": 843,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Treaty of Verdun",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
+    },
+    {
+        "id": "DIAMOND_SUTRA_PRINTED_868",
+        "year": 868,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Diamond Sutra printed",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Diamond_Sutra_printed"
+    },
+    {
+        "id": "FALL_OF_THE_TANG_DYNASTY_907",
+        "year": 907,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Fall of the Tang dynasty",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Fall_of_the_Tang_dynasty"
+    },
+    {
+        "id": "SONG_DYNASTY_FOUNDED_960",
+        "year": 960,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Song dynasty founded",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Song_dynasty_founded"
+    },
+    {
+        "id": "CHRISTIANIZATION_OF_KIEVAN_RUS_988",
+        "year": 988,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Christianization of Kievan Rus'",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus'"
+    },
+    {
+        "id": "NORSE_SETTLEMENT_AT_L_ANSE_AUX_MEADOWS_1000",
+        "year": 1000,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Norse settlement at L'Anse aux Meadows",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Norse_settlement_at_L'Anse_aux_Meadows"
+    },
+    {
+        "id": "EASTWEST_SCHISM_1054",
+        "year": 1054,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "East–West Schism",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism"
+    },
+    {
         "id": "BATTLE_HASTINGS",
         "year": 1066,
         "month": 10,
@@ -8,7 +577,63 @@
         "title": "Battle of Hastings",
         "description": "William the Conqueror defeats King Harold Godwinson, marking the beginning of the Norman Conquest of England.",
         "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
-        "category": "battle"
+        "category": "battle",
+        "precision": "day"
+    },
+    {
+        "id": "CRUSADES_1095",
+        "year": 1095,
+        "endYear": 1291,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Crusades",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Crusades"
+    },
+    {
+        "id": "CONCORDAT_OF_WORMS_1122",
+        "year": 1122,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Concordat of Worms",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Concordat_of_Worms"
+    },
+    {
+        "id": "MOSCOW_FIRST_RECORDED_1147",
+        "year": 1147,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Moscow first recorded",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Moscow_first_recorded"
+    },
+    {
+        "id": "SALADIN_CAPTURES_JERUSALEM_1187",
+        "year": 1187,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Saladin captures Jerusalem",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Saladin_captures_Jerusalem"
+    },
+    {
+        "id": "MONGOL_EMPIRE_FOUNDED_1206",
+        "year": 1206,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Mongol Empire founded",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Mongol_Empire_founded"
+    },
+    {
+        "id": "FOURTH_LATERAN_COUNCIL_1215",
+        "year": 1215,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Fourth Lateran Council",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Fourth_Lateran_Council"
     },
     {
         "id": "MAGNA_CARTA",
@@ -19,7 +644,197 @@
         "title": "Sealing of Magna Carta",
         "description": "King John of England agrees to the Magna Carta at Runnymede.",
         "wikipediaURL": "https://en.wikipedia.org/wiki/Magna_Carta",
-        "category": "political"
+        "category": "political",
+        "precision": "day"
+    },
+    {
+        "id": "DEATH_OF_GENGHIS_KHAN_1227",
+        "year": 1227,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Death of Genghis Khan",
+        "category": "death",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Death_of_Genghis_Khan"
+    },
+    {
+        "id": "SACK_OF_BAGHDAD_1258",
+        "year": 1258,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Sack of Baghdad",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Sack_of_Baghdad"
+    },
+    {
+        "id": "YUAN_DYNASTY_PROCLAIMED_1271",
+        "year": 1271,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Yuan dynasty proclaimed",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Yuan_dynasty_proclaimed"
+    },
+    {
+        "id": "MONGOL_INVASIONS_OF_JAPAN_1274",
+        "year": 1274,
+        "endYear": 1281,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Mongol invasions of Japan",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan"
+    },
+    {
+        "id": "FALL_OF_ACRE_1291",
+        "year": 1291,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Fall of Acre",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Fall_of_Acre"
+    },
+    {
+        "id": "AVIGNON_PAPACY_1309",
+        "year": 1309,
+        "endYear": 1377,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Avignon Papacy",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Avignon_Papacy"
+    },
+    {
+        "id": "GREAT_FAMINE_OF_EUROPE_1315",
+        "year": 1315,
+        "endYear": 1317,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Great Famine of Europe",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Great_Famine_of_Europe"
+    },
+    {
+        "id": "MANSA_MUSA_S_PILGRIMAGE_TO_MECCA_1324",
+        "year": 1324,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Mansa Musa's pilgrimage to Mecca",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Mansa_Musa's_pilgrimage_to_Mecca"
+    },
+    {
+        "id": "HUNDRED_YEARS_WAR_1337",
+        "year": 1337,
+        "endYear": 1453,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Hundred Years' War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Hundred_Years'_War"
+    },
+    {
+        "id": "BLACK_DEATH_1346",
+        "year": 1346,
+        "endYear": 1353,
+        "precision": "circa",
+        "calendar": "julian",
+        "title": "Black Death",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Black_Death",
+        "certainty": "approximate",
+        "dateNote": "The pandemic's regional onset and end dates vary; 1346–1353 is a conventional broad range."
+    },
+    {
+        "id": "GOLDEN_BULL_OF_1356_1356",
+        "year": 1356,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Golden Bull of 1356",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Golden_Bull_of_1356"
+    },
+    {
+        "id": "MING_DYNASTY_FOUNDED_1368",
+        "year": 1368,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Ming dynasty founded",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Ming_dynasty_founded"
+    },
+    {
+        "id": "WESTERN_SCHISM_1378",
+        "year": 1378,
+        "endYear": 1417,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Western Schism",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Western_Schism"
+    },
+    {
+        "id": "ENGLISH_PEASANTS_REVOLT_1381",
+        "year": 1381,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "English Peasants' Revolt",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/English_Peasants'_Revolt"
+    },
+    {
+        "id": "KALMAR_UNION_1397",
+        "year": 1397,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Kalmar Union",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Kalmar_Union"
+    },
+    {
+        "id": "MING_TREASURE_VOYAGES_1405",
+        "year": 1405,
+        "endYear": 1433,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Ming treasure voyages",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Ming_treasure_voyages"
+    },
+    {
+        "id": "BATTLE_OF_AGINCOURT_1415",
+        "year": 1415,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Agincourt",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Agincourt"
+    },
+    {
+        "id": "EXECUTION_OF_JOAN_OF_ARC_1431",
+        "year": 1431,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Execution of Joan of Arc",
+        "category": "death",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Execution_of_Joan_of_Arc"
+    },
+    {
+        "id": "EUROPEAN_MOVABLE_TYPE_PRINTING_PRESS_1440",
+        "year": 1440,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "European movable-type printing press",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/European_movable-type_printing_press"
+    },
+    {
+        "id": "END_OF_THE_HUNDRED_YEARS_WAR_1453",
+        "year": 1453,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "End of the Hundred Years' War",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/End_of_the_Hundred_Years'_War"
     },
     {
         "id": "CONST_FALL",
@@ -30,7 +845,53 @@
         "title": "Fall of Constantinople",
         "description": "Capture of the capital of the Byzantine Empire by the Ottoman Empire.",
         "wikipediaURL": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
-        "category": "battle"
+        "category": "battle",
+        "precision": "day"
+    },
+    {
+        "id": "MARRIAGE_OF_FERDINAND_AND_ISABELLA_1469",
+        "year": 1469,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Marriage of Ferdinand and Isabella",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Marriage_of_Ferdinand_and_Isabella"
+    },
+    {
+        "id": "SPANISH_INQUISITION_ESTABLISHED_1478",
+        "year": 1478,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Spanish Inquisition established",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Spanish_Inquisition_established"
+    },
+    {
+        "id": "COLUMBUS_REACHES_THE_AMERICAS_1492",
+        "year": 1492,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Columbus reaches the Americas",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Columbus_reaches_the_Americas"
+    },
+    {
+        "id": "TREATY_OF_TORDESILLAS_1494",
+        "year": 1494,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Treaty of Tordesillas",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas"
+    },
+    {
+        "id": "VASCO_DA_GAMA_REACHES_INDIA_1498",
+        "year": 1498,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Vasco da Gama reaches India",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Vasco_da_Gama_reaches_India"
     },
     {
         "id": "LUTHER_THESES",
@@ -41,7 +902,92 @@
         "title": "Luther's 95 Theses",
         "description": "Martin Luther posts his Ninety-five Theses on the door of All Saints' Church in Wittenberg.",
         "wikipediaURL": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
-        "category": "religious"
+        "category": "religious",
+        "precision": "day"
+    },
+    {
+        "id": "FIRST_CIRCUMNAVIGATION_OF_THE_EARTH_1519",
+        "year": 1519,
+        "endYear": 1522,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "First circumnavigation of the Earth",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/First_circumnavigation_of_the_Earth"
+    },
+    {
+        "id": "FALL_OF_TENOCHTITLAN_1521",
+        "year": 1521,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Fall of Tenochtitlan",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan"
+    },
+    {
+        "id": "MUGHAL_EMPIRE_FOUNDED_1526",
+        "year": 1526,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Mughal Empire founded",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Mughal_Empire_founded"
+    },
+    {
+        "id": "ENGLISH_REFORMATION_1534",
+        "year": 1534,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "English Reformation",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/English_Reformation"
+    },
+    {
+        "id": "COPERNICUS_PUBLISHES_DE_REVOLUTIONIBUS_1543",
+        "year": 1543,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Copernicus publishes De revolutionibus",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Copernicus_publishes_De_revolutionibus"
+    },
+    {
+        "id": "COUNCIL_OF_TRENT_1545",
+        "year": 1545,
+        "endYear": 1563,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Council of Trent",
+        "category": "religious",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Council_of_Trent"
+    },
+    {
+        "id": "PEACE_OF_AUGSBURG_1555",
+        "year": 1555,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Peace of Augsburg",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Peace_of_Augsburg"
+    },
+    {
+        "id": "DUTCH_REVOLT_1568",
+        "year": 1568,
+        "endYear": 1648,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Dutch Revolt",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Dutch_Revolt"
+    },
+    {
+        "id": "BATTLE_OF_LEPANTO_1571",
+        "year": 1571,
+        "precision": "year",
+        "calendar": "julian",
+        "title": "Battle of Lepanto",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Battle_of_Lepanto"
     },
     {
         "id": "GREGORIAN_Reform",
@@ -52,6 +998,619 @@
         "title": "Introduction of Gregorian Calendar",
         "description": "First day of the Gregorian calendar in Catholic countries (skipping Oct 5-14).",
         "wikipediaURL": "https://en.wikipedia.org/wiki/Gregorian_calendar",
-        "category": "political"
+        "category": "political",
+        "precision": "day"
+    },
+    {
+        "id": "DEFEAT_OF_THE_SPANISH_ARMADA_1588",
+        "year": 1588,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Defeat of the Spanish Armada",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Defeat_of_the_Spanish_Armada"
+    },
+    {
+        "id": "ENGLISH_EAST_INDIA_COMPANY_CHARTERED_1600",
+        "year": 1600,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "English East India Company chartered",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/English_East_India_Company_chartered"
+    },
+    {
+        "id": "TOKUGAWA_SHOGUNATE_BEGINS_1603",
+        "year": 1603,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Tokugawa shogunate begins",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Tokugawa_shogunate_begins"
+    },
+    {
+        "id": "THIRTY_YEARS_WAR_1618",
+        "year": 1618,
+        "endYear": 1648,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "Thirty Years' War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Thirty_Years%27_War",
+        "month": 5,
+        "day": 23,
+        "endMonth": 10,
+        "endDay": 24,
+        "certainty": "certain"
+    },
+    {
+        "id": "MAYFLOWER_COMPACT_1620",
+        "year": 1620,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Mayflower Compact",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Mayflower_Compact"
+    },
+    {
+        "id": "GALILEO_PUBLISHES_DIALOGUE_1632",
+        "year": 1632,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Galileo publishes Dialogue",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Galileo_publishes_Dialogue"
+    },
+    {
+        "id": "ENGLISH_CIVIL_WARS_1642",
+        "year": 1642,
+        "endYear": 1651,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "English Civil Wars",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/English_Civil_Wars"
+    },
+    {
+        "id": "QING_CONQUEST_OF_BEIJING_1644",
+        "year": 1644,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Qing conquest of Beijing",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Qing_conquest_of_Beijing"
+    },
+    {
+        "id": "PEACE_OF_WESTPHALIA_1648",
+        "year": 1648,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Peace of Westphalia",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Peace_of_Westphalia"
+    },
+    {
+        "id": "RESTORATION_OF_THE_ENGLISH_MONARCHY_1660",
+        "year": 1660,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Restoration of the English monarchy",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Restoration_of_the_English_monarchy"
+    },
+    {
+        "id": "NEWTON_PUBLISHES_PRINCIPIA_1687",
+        "year": 1687,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Newton publishes Principia",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Newton_publishes_Principia"
+    },
+    {
+        "id": "GLORIOUS_REVOLUTION_1688",
+        "year": 1688,
+        "endYear": 1689,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Glorious Revolution",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Glorious_Revolution"
+    },
+    {
+        "id": "GREAT_NORTHERN_WAR_1700",
+        "year": 1700,
+        "endYear": 1721,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "Great Northern War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Great_Northern_War",
+        "month": 2,
+        "day": 22,
+        "endMonth": 9,
+        "endDay": 10,
+        "certainty": "certain"
+    },
+    {
+        "id": "WAR_OF_THE_SPANISH_SUCCESSION_1701",
+        "year": 1701,
+        "endYear": 1714,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "War of the Spanish Succession",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+        "month": 7,
+        "day": 9,
+        "endMonth": 9,
+        "endDay": 7,
+        "certainty": "certain"
+    },
+    {
+        "id": "TREATY_OF_UTRECHT_1713",
+        "year": 1713,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Treaty of Utrecht",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Treaty_of_Utrecht"
+    },
+    {
+        "id": "SEVEN_YEARS_WAR_1756",
+        "year": 1756,
+        "endYear": 1763,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "Seven Years' War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+        "month": 5,
+        "day": 17,
+        "endMonth": 2,
+        "endDay": 15,
+        "certainty": "certain",
+        "dateNote": "Ends with the Peace of Hubertusburg on 15 February 1763; the Treaty of Paris was signed on 10 February."
+    },
+    {
+        "id": "WATT_S_SEPARATE_CONDENSER_STEAM_ENGINE_1765",
+        "year": 1765,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Watt's separate-condenser steam engine",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Watt's_separate-condenser_steam_engine"
+    },
+    {
+        "id": "AMERICAN_WAR_OF_INDEPENDENCE_1775",
+        "year": 1775,
+        "endYear": 1783,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "American War of Independence",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+        "month": 4,
+        "day": 19,
+        "endMonth": 9,
+        "endDay": 3,
+        "certainty": "certain"
+    },
+    {
+        "id": "US_DECLARATION_INDEPENDENCE",
+        "year": 1776,
+        "month": 7,
+        "day": 4,
+        "calendar": "gregorian",
+        "title": "United States Declaration of Independence",
+        "description": "The Second Continental Congress adopts the Declaration of Independence.",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+        "category": "political",
+        "precision": "day"
+    },
+    {
+        "id": "FRENCH_REVOLUTION_1789",
+        "year": 1789,
+        "endYear": 1799,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "French Revolution",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/French_Revolution"
+    },
+    {
+        "id": "HAITIAN_REVOLUTION_1791",
+        "year": 1791,
+        "endYear": 1804,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Haitian Revolution",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Haitian_Revolution"
+    },
+    {
+        "id": "FIRST_FRENCH_REPUBLIC_1792",
+        "year": 1792,
+        "month": 1,
+        "day": 1,
+        "calendarYear": 1,
+        "precision": "day",
+        "calendar": "frenchRepublican",
+        "title": "Epoch of the French Republican calendar",
+        "description": "The republican epoch, 1 Vendémiaire Year I, corresponds to the proclamation of the French Republic.",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/French_Republican_calendar",
+        "category": "political",
+        "certainty": "certain",
+        "dateNote": "Stored as 1 Vendémiaire Year I in the French Republican calendar."
+    },
+    {
+        "id": "FRENCH_REVOLUTIONARY_AND_NAPOLEONIC_WARS_1792",
+        "year": 1792,
+        "endYear": 1815,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "French Revolutionary and Napoleonic Wars",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars",
+        "month": 4,
+        "day": 20,
+        "endMonth": 11,
+        "endDay": 20,
+        "certainty": "certain",
+        "dateNote": "Combined interval from the French declaration of war in 1792 through the Second Treaty of Paris in 1815."
+    },
+    {
+        "id": "HAITIAN_DECLARATION_OF_INDEPENDENCE_1804",
+        "year": 1804,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Haitian Declaration of Independence",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Haitian_Declaration_of_Independence"
+    },
+    {
+        "id": "SPANISH_AMERICAN_WARS_OF_INDEPENDENCE_1810",
+        "year": 1810,
+        "endYear": 1826,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Spanish American wars of independence",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence"
+    },
+    {
+        "id": "CONGRESS_OF_VIENNA_1815",
+        "year": 1815,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Congress of Vienna",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+    },
+    {
+        "id": "BELGIAN_REVOLUTION_1830",
+        "year": 1830,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Belgian Revolution",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Belgian_Revolution"
+    },
+    {
+        "id": "FIRST_OPIUM_WAR_1839",
+        "year": 1839,
+        "endYear": 1842,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "First Opium War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/First_Opium_War"
+    },
+    {
+        "id": "REVOLUTIONS_OF_1848_1848",
+        "year": 1848,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Revolutions of 1848",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Revolutions_of_1848"
+    },
+    {
+        "id": "CRIMEAN_WAR_1853",
+        "year": 1853,
+        "endYear": 1856,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Crimean War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Crimean_War"
+    },
+    {
+        "id": "INDIAN_REBELLION_1857",
+        "year": 1857,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Indian Rebellion",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Indian_Rebellion"
+    },
+    {
+        "id": "AMERICAN_CIVIL_WAR_1861",
+        "year": 1861,
+        "endYear": 1865,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "American Civil War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/American_Civil_War",
+        "month": 4,
+        "day": 12,
+        "endMonth": 5,
+        "endDay": 26,
+        "certainty": "certain",
+        "dateNote": "Ends with the surrender of the last significant organized Confederate field army; several alternative end dates are used."
+    },
+    {
+        "id": "MEIJI_RESTORATION_1868",
+        "year": 1868,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Meiji Restoration",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+    },
+    {
+        "id": "FRANCO_PRUSSIAN_WAR_1870",
+        "year": 1870,
+        "endYear": 1871,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Franco-Prussian War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
+    },
+    {
+        "id": "BERLIN_CONFERENCE_1884",
+        "year": 1884,
+        "endYear": 1885,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Berlin Conference",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Berlin_Conference"
+    },
+    {
+        "id": "FIRST_MODERN_OLYMPIC_GAMES_1896",
+        "year": 1896,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "First modern Olympic Games",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/First_modern_Olympic_Games"
+    },
+    {
+        "id": "SECOND_BOER_WAR_1899",
+        "year": 1899,
+        "endYear": 1902,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Second Boer War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Second_Boer_War"
+    },
+    {
+        "id": "RUSSIAN_REVOLUTION_OF_1905_1905",
+        "year": 1905,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Russian Revolution of 1905",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Russian_Revolution_of_1905"
+    },
+    {
+        "id": "XINHAI_REVOLUTION_1911",
+        "year": 1911,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Xinhai Revolution",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Xinhai_Revolution"
+    },
+    {
+        "id": "FIRST_WORLD_WAR_1914",
+        "year": 1914,
+        "endYear": 1918,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "First World War",
+        "category": "battle",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/World_War_I",
+        "month": 7,
+        "day": 28,
+        "endMonth": 11,
+        "endDay": 11,
+        "certainty": "certain"
+    },
+    {
+        "id": "RUSSIAN_REVOLUTION_1917",
+        "year": 1917,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Russian Revolution",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Russian_Revolution"
+    },
+    {
+        "id": "INFLUENZA_PANDEMIC_1918",
+        "year": 1918,
+        "endYear": 1920,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Influenza pandemic",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Influenza_pandemic"
+    },
+    {
+        "id": "WALL_STREET_CRASH_1929",
+        "year": 1929,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Wall Street Crash",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Wall_Street_Crash"
+    },
+    {
+        "id": "NAZI_SEIZURE_OF_POWER_IN_GERMANY_1933",
+        "year": 1933,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Nazi seizure of power in Germany",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Nazi_seizure_of_power_in_Germany"
+    },
+    {
+        "id": "WORLD_WAR_II",
+        "year": 1939,
+        "month": 9,
+        "day": 1,
+        "endYear": 1945,
+        "endMonth": 9,
+        "endDay": 2,
+        "calendar": "gregorian",
+        "title": "Second World War",
+        "description": "Global conflict from 1939 to 1945.",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/World_War_II",
+        "category": "political",
+        "precision": "day"
+    },
+    {
+        "id": "UNITED_NATIONS_FOUNDED_1945",
+        "year": 1945,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "United Nations founded",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/United_Nations_founded"
+    },
+    {
+        "id": "PARTITION_AND_INDEPENDENCE_OF_INDIA_1947",
+        "year": 1947,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Partition and independence of India",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Partition_and_independence_of_India"
+    },
+    {
+        "id": "UNIVERSAL_DECLARATION_OF_HUMAN_RIGHTS_1948",
+        "year": 1948,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Universal Declaration of Human Rights",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights"
+    },
+    {
+        "id": "SCHUMAN_DECLARATION_1950",
+        "year": 1950,
+        "precision": "day",
+        "calendar": "gregorian",
+        "title": "Schuman Declaration",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Schuman_Declaration",
+        "month": 5,
+        "day": 9,
+        "certainty": "certain"
+    },
+    {
+        "id": "TREATY_OF_ROME_1957",
+        "year": 1957,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Treaty of Rome",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Treaty_of_Rome"
+    },
+    {
+        "id": "APOLLO_11_MOON_LANDING_1969",
+        "year": 1969,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Apollo 11 Moon landing",
+        "category": "cultural",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Apollo_11_Moon_landing"
+    },
+    {
+        "id": "FALL_OF_THE_BERLIN_WALL_1989",
+        "year": 1989,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Fall of the Berlin Wall",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
+    },
+    {
+        "id": "DISSOLUTION_OF_THE_SOVIET_UNION_1991",
+        "year": 1991,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Dissolution of the Soviet Union",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+    },
+    {
+        "id": "SEPTEMBER_11_ATTACKS_2001",
+        "year": 2001,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "September 11 attacks",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/September_11_attacks"
+    },
+    {
+        "id": "INDIAN_OCEAN_EARTHQUAKE_AND_TSUNAMI_2004",
+        "year": 2004,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Indian Ocean earthquake and tsunami",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Indian_Ocean_earthquake_and_tsunami"
+    },
+    {
+        "id": "GLOBAL_FINANCIAL_CRISIS_2008",
+        "year": 2008,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Global financial crisis",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Global_financial_crisis"
+    },
+    {
+        "id": "ARAB_SPRING_2011",
+        "year": 2011,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Arab Spring",
+        "category": "political",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Arab_Spring"
+    },
+    {
+        "id": "PARIS_AGREEMENT_2015",
+        "year": 2015,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "Paris Agreement",
+        "category": "treaty",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Paris_Agreement"
+    },
+    {
+        "id": "COVID_19_PANDEMIC_2020",
+        "year": 2020,
+        "endYear": 2023,
+        "precision": "year",
+        "calendar": "gregorian",
+        "title": "COVID-19 pandemic",
+        "category": "other",
+        "wikipediaURL": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
     }
 ]

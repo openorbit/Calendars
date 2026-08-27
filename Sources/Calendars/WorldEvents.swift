@@ -25,8 +25,17 @@ public struct WorldEvent: Codable, Identifiable, Sendable, Hashable {
     /// In this simplified model, we'll store Julian Day Number (JDN) if possible, or ISO-8601 string.
     /// For simplicity with existing JSONs, let's store components and rely on the provider to match.
     public let year: Int
-    public let month: Int
-    public let day: Int
+    public let month: Int?
+    public let day: Int?
+    public let endYear: Int?
+    public let endMonth: Int?
+    public let endDay: Int?
+    /// Native year in the named calendar when it differs from the canonical
+    /// historical year used for ordering (for example, 710 AUC for 44 BCE).
+    public let calendarYear: Int?
+    /// Granularity supported by the source. Month/day may be an internal
+    /// sorting anchor when the event is only known to a year or approximately.
+    public let precision: Precision?
     
     public let calendar: CalendarId // To know which calendar components apply to
     
@@ -34,6 +43,10 @@ public struct WorldEvent: Codable, Identifiable, Sendable, Hashable {
     public let description: String?
     public let wikipediaURL: URL?
     public let category: Category
+    public let certainty: Certainty?
+    /// Human-readable qualification for disputed boundaries, calendar
+    /// conversions, or the historical basis of the date.
+    public let dateNote: String?
     
     public enum Category: String, Codable, Sendable {
         case battle
@@ -44,6 +57,20 @@ public struct WorldEvent: Codable, Identifiable, Sendable, Hashable {
         case birth
         case death
         case other
+    }
+
+    public enum Precision: String, Codable, Sendable {
+        case day
+        case month
+        case year
+        case circa
+    }
+
+    public enum Certainty: String, Codable, Sendable {
+        case certain
+        case approximate
+        case disputed
+        case traditional
     }
 }
 
@@ -60,6 +87,13 @@ public final class WorldEventProvider: @unchecked Sendable {
     
     public init(events: [WorldEvent]) {
         self.events = events
+    }
+
+    public var allEvents: [WorldEvent] {
+        events.sorted {
+            ($0.year, $0.month ?? 1, $0.day ?? 1) <
+                ($1.year, $1.month ?? 1, $1.day ?? 1)
+        }
     }
     
     private func loadEvents() {
@@ -90,17 +124,15 @@ public final class WorldEventProvider: @unchecked Sendable {
     public func events(onJDN jdn: Int) -> [WorldEvent] {
          return events.filter { event in
              // Resolve JDN for the event's definition
-             let eventJDN: Int
-             switch event.calendar {
-             case .julian:
-                 eventJDN = JulianCalendar.shared.jdn(forYear: event.year, month: event.month, day: event.day)
-             case .gregorian:
-                 eventJDN = GregorianCalendar.shared.jdn(forYear: event.year, month: event.month, day: event.day)
-             // Add others if needed (e.g. Roman)
-             default:
-                 // Fallback or complex logic
-                  eventJDN = JulianCalendar.shared.jdn(forYear: event.year, month: event.month, day: event.day)
-             }
+             guard let month = event.month,
+                   let day = event.day,
+                   let calendar = CalendarRegistry.shared.calendar(for: event.calendar)
+             else { return false }
+             let eventJDN = calendar.jdn(
+                forYear: event.calendarYear ?? event.year,
+                month: month,
+                day: day
+             )
              
              return eventJDN == jdn
          }
