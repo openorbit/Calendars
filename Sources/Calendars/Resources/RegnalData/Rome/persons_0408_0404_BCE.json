@@ -1,0 +1,153 @@
+[
+  {
+    "id": "P_GAIUS_IULIUS_IULLUS_408",
+    "name": {
+      "normalized": "Gaius Iulius Iullus"
+    },
+    "variants": [
+      {
+        "form": "C. Iulius Iullus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_SERVILIUS_AHALA_408",
+    "name": {
+      "normalized": "Gaius Servilius Ahala"
+    },
+    "variants": [
+      {
+        "form": "C. Servilius Ahala",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FABIUS_VIBULANUS_407",
+    "name": {
+      "normalized": "Fabius Vibulanus"
+    },
+    "variants": [
+      {
+        "form": "N. (or Cn.) Fabius Vibulanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CORNELIUS_RUTILUS_COSSUS",
+    "name": {
+      "normalized": "Publius Cornelius Rutilus Cossus"
+    },
+    "variants": [
+      {
+        "form": "P. Cornelius Rutilus Cossus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FABIUS_AMBUSTUS_406",
+    "name": {
+      "normalized": "Fabius Ambustus"
+    },
+    "variants": [
+      {
+        "form": "N. (or Cn.) Fabius Ambustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_QUINCTIUS_CAPITOLINUS_BARBATUS_405",
+    "name": {
+      "normalized": "Titus Quinctius Capitolinus Barbatus"
+    },
+    "variants": [
+      {
+        "form": "T. Quinctius Capitolinus Barbatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_MANLIUS_VULSO_CAPITOLINUS",
+    "name": {
+      "normalized": "Aulus Manlius Vulso Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "A. Manlius Vulso Capitolinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MANIUS_SERGIUS_FIDENAS",
+    "name": {
+      "normalized": "Manius Sergius Fidenas"
+    },
+    "variants": [
+      {
+        "form": "M'. Sergius Fidenas",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CORNELIUS_MALUGINENSIS_404",
+    "name": {
+      "normalized": "Publius Cornelius Maluginensis"
+    },
+    "variants": [
+      {
+        "form": "P. Cornelius Maluginensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_KAESO_FABIUS_AMBUSTUS",
+    "name": {
+      "normalized": "Kaeso Fabius Ambustus"
+    },
+    "variants": [
+      {
+        "form": "K. Fabius Ambustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

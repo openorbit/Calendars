@@ -7,15 +7,25 @@ public final class RegnalCalendar: @unchecked Sendable {
     public let persons: [String: RegnalPerson]
     public let offices: [String: RegnalOffice]
     public let polities: [String: RegnalPolity]
-    public let consulYears: [RomanConsulYear]
+    public let magistracyGaps: [RomanMagistracyGap]
+    public var consulYears: [RomanConsulYear] {
+        let years = Set(
+            tenures.compactMap { tenure -> Int? in
+                guard tenure.consular?.role == .ordinaryConsul,
+                      tenure.start.first?.calendar == "AUC" else { return nil }
+                return tenure.start.first?.ymd?.year
+            }
+        )
+        return years.sorted().compactMap { consularYear(auc: $0) }
+    }
     
     private init() {
         // Load data into local vars first
-        var t: [RegnalTenure] = []
+        var t: [String: RegnalTenure] = [:]
         var p: [String: RegnalPerson] = [:]
         var o: [String: RegnalOffice] = [:]
         var pol: [String: RegnalPolity] = [:]
-        var c: [RomanConsulYear] = []
+        var gaps: [String: RomanMagistracyGap] = [:]
         
         if let resourceURL = Bundle.module.url(forResource: "RegnalData", withExtension: nil) {
             let fileManager = FileManager.default
@@ -23,16 +33,36 @@ public final class RegnalCalendar: @unchecked Sendable {
                 for case let fileURL as URL in enumerator {
                     if fileURL.pathExtension == "json" {
                         let filename = fileURL.lastPathComponent
-                        if filename.contains("tenures") {
+                        if filename.contains("magistracy_gaps") {
+                            if let data = try? Data(contentsOf: fileURL),
+                               let items = try? JSONDecoder().decode([RomanMagistracyGap].self, from: data) {
+                                for gap in items {
+                                    gaps[gap.id] = gap
+                                }
+                            }
+                        } else if filename.contains("tenures") {
                             if let data = try? Data(contentsOf: fileURL),
                                let items = try? JSONDecoder().decode([RegnalTenure].self, from: data) {
-                                t.append(contentsOf: items)
+                                for tenure in items {
+                                    let existingIsSourcedConsular = t[tenure.id]?.consular != nil
+                                    if !existingIsSourcedConsular || tenure.consular != nil {
+                                        t[tenure.id] = tenure
+                                    }
+                                }
                             }
                         } else if filename.contains("persons") {
                             if let data = try? Data(contentsOf: fileURL),
-                               let items = try? JSONDecoder().decode([RegnalPerson].self, from: data) {
+                                let items = try? JSONDecoder().decode([RegnalPerson].self, from: data) {
                                 for person in items {
-                                    p[person.id] = person
+                                    let existingHasSourcedForm = p[person.id]?.variants.contains {
+                                        $0.kind == "source"
+                                    } == true
+                                    let candidateHasSourcedForm = person.variants.contains {
+                                        $0.kind == "source"
+                                    }
+                                    if !existingHasSourcedForm || candidateHasSourcedForm {
+                                        p[person.id] = person
+                                    }
                                 }
                             }
                         } else if filename.contains("offices") {
@@ -49,26 +79,6 @@ public final class RegnalCalendar: @unchecked Sendable {
                                      pol[polity.id] = polity
                                  }
                              }
-                        } else if filename.contains("consuls") {
-                             // "consuls" files have a root object with "years": [...]
-                             // But checking the file viewing output in Step 1915, it starts with structure?
-                             // Wait, cat output didn't show root key clearly.
-                             // Let's check Step 1915 output carefully.
-                             // It shows `[ ... ]` at the START? No, I saw `<truncated 327 lines>`.
-                             // I should assume it might be wrapped.
-                             // Wait, Step 1893 showed file `consuls_auc_445_544_prelude.json`.
-                             // Step 1915 output snippet shows indentation suggesting array elements.
-                             // Let's assume it IS a wrapper based on JSON standards in this repo.
-                             // Or decode as Direct Array?
-                             // If I try `RomanConsulsFile` (wrapped) and fail, try `[RomanConsulYear]`.
-                             if let data = try? Data(contentsOf: fileURL) {
-                                 if let wrapper = try? JSONDecoder().decode(RomanConsulsFile.self, from: data) {
-                                     c.append(contentsOf: wrapper.years)
-                                 } else if let items = try? JSONDecoder().decode([RomanConsulYear].self, from: data) {
-                                     // Direct array
-                                     c.append(contentsOf: items)
-                                 }
-                             }
                         }
                     }
                 }
@@ -77,11 +87,24 @@ public final class RegnalCalendar: @unchecked Sendable {
             print("RegnalData folder not found in Bundle.")
         }
         
-        self.tenures = t
+        let assertedRomanGapYears = Set(
+            gaps.values
+                .filter { $0.polityID == "POLITY_ROMAN_REPUBLIC" }
+                .map(\.auc)
+        )
+        self.tenures = t.values.filter { tenure in
+            guard tenure.start.first?.calendar == "AUC",
+                  let auc = tenure.start.first?.ymd?.year,
+                  assertedRomanGapYears.contains(auc),
+                  o[tenure.officeID]?.polityID == "POLITY_ROMAN_REPUBLIC" else {
+                return true
+            }
+            return false
+        }
         self.persons = p
         self.offices = o
         self.polities = pol
-        self.consulYears = c
+        self.magistracyGaps = Array(gaps.values)
     }
     
     // MARK: - Date Calculation
@@ -107,13 +130,12 @@ public final class RegnalCalendar: @unchecked Sendable {
         let startDay = rawDay
         
         if startDefinition.calendar == "AUC" {
-            // Convert to Julian
-            // Simplistic approximation for republic prior to 45 BCE: 1 AUC = 753 BCE
-            // This is sufficient for simple "year of consul" display validation.
-            // A more robust app would use the RomanCalendar for years > 491.
-            startYear = rawYear - 753
-            // Months/Days in pre-Julian Roman calendar might strictly differ,
-            // but we often treat them as 1:1 if we lack better data.
+            let romanYear = rawYear + year - 1
+            guard let startJDN = RomanCalendar.shared.startOfYearJDN(year: romanYear),
+                  let endJDN = RomanCalendar.shared.endOfYearJDN(year: romanYear) else {
+                return nil
+            }
+            return (JulianDate(jdn: startJDN), JulianDate(jdn: endJDN))
         }
         
         // Start of Nth year = Accession Day in (StartYear + N - 1)
@@ -160,15 +182,69 @@ public final class RegnalCalendar: @unchecked Sendable {
     
     public func tenures(forOffice officeID: String) -> [RegnalTenure] {
         tenures.filter { $0.officeID == officeID }.sorted {
-            // Sort by start year
             let startA = $0.start.first?.ymd?.year ?? Int.min
             let startB = $1.start.first?.ymd?.year ?? Int.min
-            return startA < startB
+            if startA != startB { return startA < startB }
+
+            let endA = $0.end.first?.ymd?.year ?? Int.max
+            let endB = $1.end.first?.ymd?.year ?? Int.max
+            if endA != endB { return endA < endB }
+
+            return $0.id < $1.id
         }
     }
     
     public func person(forID id: String) -> RegnalPerson? {
         persons[id]
+    }
+
+    public func magistracyGap(
+        auc: Int,
+        dataset: ConsularTenure.Dataset = .republican
+    ) -> RomanMagistracyGap? {
+        magistracyGaps.first { $0.auc == auc && $0.dataset == dataset }
+    }
+
+    /// Derives the eponymous pair and within-year suffects from canonical tenures.
+    public func consularYear(
+        auc: Int,
+        dataset: ConsularTenure.Dataset = .republican
+    ) -> RomanConsulYear? {
+        let yearTenures = tenures.filter { tenure in
+            tenure.consular?.dataset == dataset
+                && tenure.start.first?.calendar == "AUC"
+                && tenure.start.first?.ymd?.year == auc
+        }
+        guard yearTenures.contains(where: { $0.consular?.role == .ordinaryConsul }) else {
+            return nil
+        }
+
+        func names(for role: ConsularTenure.Role) -> [RomanConsulYear.ConsulName] {
+            yearTenures
+                .filter {
+                    $0.consular?.role == role
+                        && $0.consular?.alternativeToTenureID == nil
+                }
+                .sorted { ($0.consular?.seat ?? Int.max) < ($1.consular?.seat ?? Int.max) }
+                .map { tenure in
+                    RomanConsulYear.ConsulName(
+                        personID: tenure.personID,
+                        name: persons[tenure.personID]?.name.normalized ?? tenure.personID,
+                        seat: tenure.consular?.seat,
+                        consulshipNumber: tenure.consular?.consulshipNumber
+                    )
+                }
+        }
+
+        let notes = yearTenures.compactMap(\.notes).filter { !$0.isEmpty }
+        return RomanConsulYear(
+            auc: auc,
+            startJDN: RomanCalendar.shared.startOfYearJDN(year: auc),
+            endJDN: RomanCalendar.shared.endOfYearJDN(year: auc),
+            consuls: names(for: .ordinaryConsul),
+            suffects: names(for: .suffectConsul),
+            notes: notes.isEmpty ? nil : notes.joined(separator: " ")
+        )
     }
 }
 

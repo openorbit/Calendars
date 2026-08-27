@@ -1,0 +1,348 @@
+[
+  {
+    "id": "P_AULUS_VERGINIUS_TRICOSTUS_CAELIOMONTANUS",
+    "name": {
+      "normalized": "Aulus Verginius Tricostus Caeliomontanus"
+    },
+    "variants": [
+      {
+        "form": "A. Verginius Tricostus Caeliomontanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_VETURIUS_GEMINUS_CICURINUS",
+    "name": {
+      "normalized": "Titus Veturius Geminus Cicurinus"
+    },
+    "variants": [
+      {
+        "form": "T. Veturius Geminus Cicurinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_GEGANIUS_MACERINUS",
+    "name": {
+      "normalized": "Titus Geganius Macerinus"
+    },
+    "variants": [
+      {
+        "form": "T. Geganius Macerinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_MINUCIUS_AUGURINUS",
+    "name": {
+      "normalized": "Publius Minucius Augurinus"
+    },
+    "variants": [
+      {
+        "form": "P. Minucius Augurinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_SULPICIUS_CAMERINUS_CORNUTUS",
+    "name": {
+      "normalized": "Quintus Sulpicius Camerinus Cornutus"
+    },
+    "variants": [
+      {
+        "form": "Q. Sulpicius Camerinus Cornutus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_IULIUS_IULLUS",
+    "name": {
+      "normalized": "Gaius Iulius Iullus"
+    },
+    "variants": [
+      {
+        "form": "C. Iulius Iullus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_PINARIUS_MAMERTINUS_RUFUS",
+    "name": {
+      "normalized": "Publius Pinarius Mamertinus Rufus"
+    },
+    "variants": [
+      {
+        "form": "P. Pinarius Mamertinus Rufus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_NAUTIUS_RUTILUS",
+    "name": {
+      "normalized": "Spurius Nautius Rutilus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Nautius Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SEXTUS_FURIUS_MEDULLINUS_FUSUS",
+    "name": {
+      "normalized": "Sextus Furius Medullinus Fusus"
+    },
+    "variants": [
+      {
+        "form": "Sex. Furius Medullinus? Fusus?",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_SICINUS_SABINUS",
+    "name": {
+      "normalized": "Titus Sicinus Sabinus"
+    },
+    "variants": [
+      {
+        "form": "T. Sicinus Sabinus ?",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_AQUILLIUS_TUSCUS",
+    "name": {
+      "normalized": "Gaius Aquillius Tuscus"
+    },
+    "variants": [
+      {
+        "form": "C. Aquillius Tuscus ?",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PROCULUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "name": {
+      "normalized": "Proculus Verginius Tricostus Rutilus"
+    },
+    "variants": [
+      {
+        "form": "Proculus Verginius Tricostus Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERVIUS_CORNELIUS_MALUGINENSIS",
+    "name": {
+      "normalized": "Servius Cornelius Maluginensis"
+    },
+    "variants": [
+      {
+        "form": "Ser. Cornelius Maluginensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_FABIUS_VIBULANUS",
+    "name": {
+      "normalized": "Quintus Fabius Vibulanus"
+    },
+    "variants": [
+      {
+        "form": "Q. Fabius Vibulanus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_AEMILIUS_MAMERCUS",
+    "name": {
+      "normalized": "Lucius Aemilius Mamercus"
+    },
+    "variants": [
+      {
+        "form": "L. Aemilius Mamercus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_KAESO_FABIUS_VIBULANUS",
+    "name": {
+      "normalized": "Kaeso Fabius Vibulanus"
+    },
+    "variants": [
+      {
+        "form": "K. Fabius Vibulanus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FABIUS_VIBULANUS",
+    "name": {
+      "normalized": "Marcus Fabius Vibulanus"
+    },
+    "variants": [
+      {
+        "form": "M. Fabius Vibulanus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_VALERIUS_POTITUS",
+    "name": {
+      "normalized": "Lucius Valerius Potitus"
+    },
+    "variants": [
+      {
+        "form": "L. Valerius Potitus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_FURIUS_FUSUS",
+    "name": {
+      "normalized": "Spurius Furius Fusus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Furius Fusus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GNAEUS_MANLIUS_CINCINNATUS",
+    "name": {
+      "normalized": "Gnaeus Manlius Cincinnatus"
+    },
+    "variants": [
+      {
+        "form": "Cn. Manlius Cincinnatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "name": {
+      "normalized": "Titus Verginius Tricostus Rutilus"
+    },
+    "variants": [
+      {
+        "form": "T. Verginius Tricostus Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_SERVILIUS_AHALA",
+    "name": {
+      "normalized": "Gaius Servilius Ahala"
+    },
+    "variants": [
+      {
+        "form": "C. Servilius Ahala",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OPITER_VERGINIUS_ESQUILINUS",
+    "name": {
+      "normalized": "Opiter Verginius Esquilinus"
+    },
+    "variants": [
+      {
+        "form": "(Opet. Verginius?) Esquilinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

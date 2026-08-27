@@ -1,0 +1,1647 @@
+[
+  {
+    "id": "TENURE_AUC_361_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_VALERIUS_POTITUS_393",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 393 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "393 BCE, A.L.C. 117"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_361_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_CORNELIUS_MALUGINENSIS_393",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "The source preserves Publius or Servius as alternative praenomina.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "disputed",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "393 BCE, A.L.C. 117"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_361_SUFFECT_1",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_LUCIUS_LUCRETIUS_TRICIPITINUS_FLAVUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Suffect consul recorded for 393 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "393 BCE, A.L.C. 117"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_361_SUFFECT_2",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_SERVIUS_SULPICIUS_CAMERINUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 361
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Suffect consul recorded for 393 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "393 BCE, A.L.C. 117"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_362_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_VALERIUS_POTITUS_393",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 362
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 362
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 392 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "392 BCE, A.L.C. 118"
+        }
+      ],
+      "consulship_number": 2
+    }
+  },
+  {
+    "id": "TENURE_AUC_362_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_MANLIUS_CAPITOLINUS_392",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 362
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 362
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 392 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "392 BCE, A.L.C. 118"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_363_CONSULAR_TRIBUNE_1",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_LUCRETIUS_TRICIPITINUS_FLAVUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 391 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "391 BCE, A.L.C. 119"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_363_CONSULAR_TRIBUNE_2",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_SERVIUS_SULPICIUS_CAMERINUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 391 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "391 BCE, A.L.C. 119"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_363_CONSULAR_TRIBUNE_3",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_AEMILIUS_MAMERCINUS_391",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "Traditional Varronian college for 391 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 3,
+      "tradition": "disputed",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "391 BCE, A.L.C. 119"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_363_CONSULAR_TRIBUNE_4",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_FURIUS_MEDULLINUS_413",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 391 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 4,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "391 BCE, A.L.C. 119"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_363_CONSULAR_TRIBUNE_5",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_AGRIPPA_FURIUS_FUSUS_391",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 391 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 5,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "391 BCE, A.L.C. 119"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_363_CONSULAR_TRIBUNE_6",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_GAIUS_AEMILIUS_MAMERCINUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 363
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 391 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 6,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "391 BCE, A.L.C. 119"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_364_CONSULAR_TRIBUNE_1",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_QUINTUS_FABIUS_AMBUSTUS_390",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 390 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "390 BCE, A.L.C. 120"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_364_CONSULAR_TRIBUNE_2",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_KAESO_FABIUS_AMBUSTUS_390",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 390 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "390 BCE, A.L.C. 120"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_364_CONSULAR_TRIBUNE_3",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_NUMERIUS_FABIUS_AMBUSTUS_390",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 390 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 3,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "390 BCE, A.L.C. 120"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_364_CONSULAR_TRIBUNE_4",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_QUINTUS_SULPICIUS_LONGUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 390 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 4,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "390 BCE, A.L.C. 120"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_364_CONSULAR_TRIBUNE_5",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_QUINTUS_SERVILIUS_FIDENAS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 390 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 5,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "390 BCE, A.L.C. 120"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_364_CONSULAR_TRIBUNE_6",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_PUBLIUS_CORNELIUS_MALUGINENSIS_404",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 364
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 390 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 6,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "390 BCE, A.L.C. 120"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_365_CONSULAR_TRIBUNE_1",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_VALERIUS_POPLICOLA_394",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 389 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "389 BCE, A.L.C. 121"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_365_CONSULAR_TRIBUNE_2",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_VERGINIUS_TRICOSTUS_389",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 389 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "389 BCE, A.L.C. 121"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_365_CONSULAR_TRIBUNE_3",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_PUBLIUS_CORNELIUS_FRAGMENT_389",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "Traditional Varronian college for 389 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 3,
+      "tradition": "disputed",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "389 BCE, A.L.C. 121"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_365_CONSULAR_TRIBUNE_4",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_AULUS_MANLIUS_VULSO_CAPITOLINUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 389 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 4,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "389 BCE, A.L.C. 121"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_365_CONSULAR_TRIBUNE_5",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_AEMILIUS_MAMERCINUS_389",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 389 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 5,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "389 BCE, A.L.C. 121"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_365_CONSULAR_TRIBUNE_6",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_POSTUMIUS_ALBINUS_REGILLENSIS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 365
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 389 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 6,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "389 BCE, A.L.C. 121"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_366_CONSULAR_TRIBUNE_1",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_TITUS_QUINCTIUS_CINCINNATUS_CAPITOLINUS_388",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 388 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "388 BCE, A.L.C. 122"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_366_CONSULAR_TRIBUNE_2",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_QUINTUS_SERVILIUS_FIDENAS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 388 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "388 BCE, A.L.C. 122"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_366_CONSULAR_TRIBUNE_3",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_IULIUS_IULLUS_430",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 388 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 3,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "388 BCE, A.L.C. 122"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_366_CONSULAR_TRIBUNE_4",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_AQUILLIUS_CORVUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 388 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 4,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "388 BCE, A.L.C. 122"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_366_CONSULAR_TRIBUNE_5",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_LUCRETIUS_TRICIPITINUS_FLAVUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 388 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 5,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "388 BCE, A.L.C. 122"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_366_CONSULAR_TRIBUNE_6",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_SERVIUS_SULPICIUS_RUFUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 366
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 388 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 6,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "388 BCE, A.L.C. 122"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_367_CONSULAR_TRIBUNE_1",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_PAPIRIUS_CURSOR_387",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 387 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "387 BCE, A.L.C. 123"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_367_CONSULAR_TRIBUNE_2",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_GNAEUS_SERGIUS_FIDENAS_COXO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 387 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "387 BCE, A.L.C. 123"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_367_CONSULAR_TRIBUNE_3",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_AEMILIUS_MAMERCINUS_389",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 387 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 3,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "387 BCE, A.L.C. 123"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_367_CONSULAR_TRIBUNE_4",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LICINIUS_MENENIUS_LANATUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 387 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 4,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "387 BCE, A.L.C. 123"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_367_CONSULAR_TRIBUNE_5",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_VALERIUS_POPLICOLA_394",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 387 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 5,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "387 BCE, A.L.C. 123"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_367_CONSULAR_TRIBUNE_6",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_UNKNOWN_CONSULAR_TRIBUNE_387",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 367
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "reconstructed",
+    "notes": "The source preserves an unidentified sixth member.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 6,
+      "tradition": "reconstructed",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "387 BCE, A.L.C. 123"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_368_CONSULAR_TRIBUNE_1",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_MARCUS_FURIUS_CAMILLUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 386 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "386 BCE, A.L.C. 124"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_368_CONSULAR_TRIBUNE_2",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_SERVIUS_CORNELIUS_MALUGINENSIS_386",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 386 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "386 BCE, A.L.C. 124"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_368_CONSULAR_TRIBUNE_3",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_QUINTUS_SERVILIUS_FIDENAS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 386 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 3,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "386 BCE, A.L.C. 124"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_368_CONSULAR_TRIBUNE_4",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_QUINCTIUS_CINCINNATUS_386",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 386 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 4,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "386 BCE, A.L.C. 124"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_368_CONSULAR_TRIBUNE_5",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_LUCIUS_HORATIUS_PULVILLUS_386",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 386 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 5,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "386 BCE, A.L.C. 124"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_368_CONSULAR_TRIBUNE_6",
+    "office_id": "OFFICE_CONSULAR_TRIBUNE",
+    "person_id": "P_PUBLIUS_VALERIUS_POTITUS_POPLICOLA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 368
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 386 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "consular_tribune",
+      "seat": 6,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "386 BCE, A.L.C. 124"
+        }
+      ]
+    }
+  }
+]
+

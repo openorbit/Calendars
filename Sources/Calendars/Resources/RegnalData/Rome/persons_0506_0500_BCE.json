@@ -1,0 +1,13 @@
+[
+  { "id": "P_SPURIUS_LARCIUS_RUFUS", "name": { "normalized": "Spurius Larcius Rufus" }, "variants": [{ "form": "Sp. Larcius Rufus (Flavus?)", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_TITUS_HERMINIUS_AQUILINUS", "name": { "normalized": "Titus Herminius Aquilinus" }, "variants": [{ "form": "T. Herminius Aquilinus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_MARCUS_VALERIUS_VOLUSUS", "name": { "normalized": "Marcus Valerius Volusus" }, "variants": [{ "form": "M. Valerius (Volusus?)", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_PUBLIUS_POSTUMIUS_TUBERTUS", "name": { "normalized": "Publius Postumius Tubertus" }, "variants": [{ "form": "P. Postumius Tubertus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_AGRIPPA_MENENIUS_LANATUS", "name": { "normalized": "Agrippa Menenius Lanatus" }, "variants": [{ "form": "Agrippa Menenius Lanatus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_OPITER_VERGINIUS_TRICOSTUS", "name": { "normalized": "Opiter Verginius Tricostus" }, "variants": [{ "form": "Opiter Verginius Tricostus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_SPURIUS_CASSIUS_VECELLINUS", "name": { "normalized": "Spurius Cassius Vecellinus" }, "variants": [{ "form": "Sp. Cassius Vecellinus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_POSTUMIUS_COMINUS_AURUNCUS", "name": { "normalized": "Postumius Cominus Auruncus" }, "variants": [{ "form": "Postumius Cominus Auruncus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_TITUS_LARCIUS_FLAVUS", "name": { "normalized": "Titus Larcius Flavus" }, "variants": [{ "form": "T. Larcius Flavus (Rufus?)", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_SERVIUS_SULPICIUS_CAMERINUS_CORNUTUS", "name": { "normalized": "Servius Sulpicius Camerinus Cornutus" }, "variants": [{ "form": "Ser. Sulpicius Camerinus Cornutus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_MANIUS_TULLIUS_LONGUS", "name": { "normalized": "Manius Tullius Longus" }, "variants": [{ "form": "M'. Tullius Longus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] }
+]

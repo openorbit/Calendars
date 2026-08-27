@@ -1,0 +1,393 @@
+[
+  {
+    "id": "P_LUCIUS_VALERIUS_POTITUS_393",
+    "name": {
+      "normalized": "Lucius Valerius Potitus"
+    },
+    "variants": [
+      {
+        "form": "L. Valerius Potitus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CORNELIUS_MALUGINENSIS_393",
+    "name": {
+      "normalized": "Cornelius Maluginensis"
+    },
+    "variants": [
+      {
+        "form": "P. (Ser.?) Cornelius Maluginensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_LUCRETIUS_TRICIPITINUS_FLAVUS",
+    "name": {
+      "normalized": "Lucius Lucretius Tricipitinus Flavus"
+    },
+    "variants": [
+      {
+        "form": "L. Lucretius Tricipitinus Flavus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERVIUS_SULPICIUS_CAMERINUS",
+    "name": {
+      "normalized": "Servius Sulpicius Camerinus"
+    },
+    "variants": [
+      {
+        "form": "Ser. Sulpicius Camerinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_MANLIUS_CAPITOLINUS_392",
+    "name": {
+      "normalized": "Marcus Manlius Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "M. Manlius Capitolinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AEMILIUS_MAMERCINUS_391",
+    "name": {
+      "normalized": "Aemilius Mamercinus"
+    },
+    "variants": [
+      {
+        "form": "L. (M.?) Aemilius Mamercinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AGRIPPA_FURIUS_FUSUS_391",
+    "name": {
+      "normalized": "Agrippa Furius Fusus"
+    },
+    "variants": [
+      {
+        "form": "Agripp. Furius Fusus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_FABIUS_AMBUSTUS_390",
+    "name": {
+      "normalized": "Quintus Fabius Ambustus"
+    },
+    "variants": [
+      {
+        "form": "Q. Fabius Ambustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_KAESO_FABIUS_AMBUSTUS_390",
+    "name": {
+      "normalized": "Kaeso Fabius Ambustus"
+    },
+    "variants": [
+      {
+        "form": "K. Fabius Ambustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NUMERIUS_FABIUS_AMBUSTUS_390",
+    "name": {
+      "normalized": "Numerius Fabius Ambustus"
+    },
+    "variants": [
+      {
+        "form": "N. Fabius Ambustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_SULPICIUS_LONGUS",
+    "name": {
+      "normalized": "Quintus Sulpicius Longus"
+    },
+    "variants": [
+      {
+        "form": "Q. Sulpicius Longus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_VERGINIUS_TRICOSTUS_389",
+    "name": {
+      "normalized": "Lucius Verginius Tricostus"
+    },
+    "variants": [
+      {
+        "form": "L. Verginius Tricostus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CORNELIUS_FRAGMENT_389",
+    "name": {
+      "normalized": "Publius Cornelius"
+    },
+    "variants": [
+      {
+        "form": "P. Cornelius (-----)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_AEMILIUS_MAMERCINUS_389",
+    "name": {
+      "normalized": "Lucius Aemilius Mamercinus"
+    },
+    "variants": [
+      {
+        "form": "L. Aemilius Mamercinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_POSTUMIUS_ALBINUS_REGILLENSIS",
+    "name": {
+      "normalized": "Lucius Postumius Albinus Regillensis"
+    },
+    "variants": [
+      {
+        "form": "L. Postumius Albinus Regillensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_QUINCTIUS_CINCINNATUS_CAPITOLINUS_388",
+    "name": {
+      "normalized": "Titus Quinctius Cincinnatus Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "T. Quinctius Cincinnatus Capitolinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_AQUILLIUS_CORVUS",
+    "name": {
+      "normalized": "Lucius Aquillius Corvus"
+    },
+    "variants": [
+      {
+        "form": "L. Aquillius Corvus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERVIUS_SULPICIUS_RUFUS",
+    "name": {
+      "normalized": "Servius Sulpicius Rufus"
+    },
+    "variants": [
+      {
+        "form": "Ser. Sulpicius Rufus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_PAPIRIUS_CURSOR_387",
+    "name": {
+      "normalized": "Lucius Papirius Cursor"
+    },
+    "variants": [
+      {
+        "form": "L. Papirius Cursor",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GNAEUS_SERGIUS_FIDENAS_COXO",
+    "name": {
+      "normalized": "Gnaeus Sergius Fidenas Coxo"
+    },
+    "variants": [
+      {
+        "form": "Cn. Sergius Fidenas Coxo",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LICINIUS_MENENIUS_LANATUS",
+    "name": {
+      "normalized": "Licinius Menenius Lanatus"
+    },
+    "variants": [
+      {
+        "form": "Licinius Menenius Lanatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UNKNOWN_CONSULAR_TRIBUNE_387",
+    "name": {
+      "normalized": "Unknown consular tribune"
+    },
+    "variants": [
+      {
+        "form": "[uncertain]",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERVIUS_CORNELIUS_MALUGINENSIS_386",
+    "name": {
+      "normalized": "Servius Cornelius Maluginensis"
+    },
+    "variants": [
+      {
+        "form": "Ser. Cornelius Maluginensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_QUINCTIUS_CINCINNATUS_386",
+    "name": {
+      "normalized": "Lucius Quinctius Cincinnatus"
+    },
+    "variants": [
+      {
+        "form": "L. Quinctius Cincinnatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_HORATIUS_PULVILLUS_386",
+    "name": {
+      "normalized": "Lucius Horatius Pulvillus"
+    },
+    "variants": [
+      {
+        "form": "L. Horatius Pulvillus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_VALERIUS_POTITUS_POPLICOLA",
+    "name": {
+      "normalized": "Publius Valerius Potitus Poplicola"
+    },
+    "variants": [
+      {
+        "form": "P. Valerius Potitus Poplicola",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,483 @@
+[
+  {
+    "id": "P_MARCUS_GEGANIUS_MACERINUS_443",
+    "name": {
+      "normalized": "Marcus Geganius Macerinus"
+    },
+    "variants": [
+      {
+        "form": "M. Geganius Macerinus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FABIUS_VIBULANUS_442",
+    "name": {
+      "normalized": "Marcus Fabius Vibulanus"
+    },
+    "variants": [
+      {
+        "form": "M. Fabius Vibulanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POSTUMUS_AEBUTIUS_HELVA_CORNICEN",
+    "name": {
+      "normalized": "Postumus Aebutius Helva Cornicen"
+    },
+    "variants": [
+      {
+        "form": "Post. Aebutius Helva Cornicen",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_FURIUS_PACILUS_FUSUS",
+    "name": {
+      "normalized": "Gaius Furius Pacilus Fusus"
+    },
+    "variants": [
+      {
+        "form": "C. Furius Pacilus Fusus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MANIUS_PAPIRIUS_CRASSUS",
+    "name": {
+      "normalized": "Manius Papirius Crassus"
+    },
+    "variants": [
+      {
+        "form": "M'. Papirius Crassus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PROCULUS_GEGANIUS_MACERINUS",
+    "name": {
+      "normalized": "Proculus Geganius Macerinus"
+    },
+    "variants": [
+      {
+        "form": "Proculus Geganius Macerinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_MENENIUS_LANATUS_440",
+    "name": {
+      "normalized": "Lucius Menenius Lanatus"
+    },
+    "variants": [
+      {
+        "form": "L. Menenius Lanatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AGRIPPA_MENENIUS_LANATUS_439",
+    "name": {
+      "normalized": "Agrippa Menenius Lanatus"
+    },
+    "variants": [
+      {
+        "form": "Agrippa Menenius Lanatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MAMERCUS_AEMILIUS_MACERINUS_438",
+    "name": {
+      "normalized": "Mamercus Aemilius Macerinus"
+    },
+    "variants": [
+      {
+        "form": "Mam. Aemilius (Macerinus?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_QUINCTIUS_CINCINNATUS_438",
+    "name": {
+      "normalized": "Lucius Quinctius Cincinnatus"
+    },
+    "variants": [
+      {
+        "form": "L. Quinctius Cincinnatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_IULIUS_IULLUS_438",
+    "name": {
+      "normalized": "Iulius Iullus"
+    },
+    "variants": [
+      {
+        "form": "L. (or C.) Iulius Iullus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_SERGIUS_FIDENAS",
+    "name": {
+      "normalized": "Lucius Sergius Fidenas"
+    },
+    "variants": [
+      {
+        "form": "L. Sergius Fidenas I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_PAPIRIUS_CRASSUS",
+    "name": {
+      "normalized": "Lucius Papirius Crassus"
+    },
+    "variants": [
+      {
+        "form": "L. Papirius Crassus I?",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_CORNELIUS_MALUGINENSIS_436",
+    "name": {
+      "normalized": "Marcus Cornelius Maluginensis"
+    },
+    "variants": [
+      {
+        "form": "M. Cornelius Maluginensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_IULIUS_IULLUS_435",
+    "name": {
+      "normalized": "Gaius Iulius Iullus"
+    },
+    "variants": [
+      {
+        "form": "C. Iulius (Iullus?) II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_VERGINIUS_TRICOSTUS_435",
+    "name": {
+      "normalized": "Verginius Tricostus"
+    },
+    "variants": [
+      {
+        "form": "L. (or Proc.) Verginius Tricostus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_MANLIUS_CAPITOLINUS_434",
+    "name": {
+      "normalized": "Marcus Manlius Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "M. Manlius Capitolinus (Vulso?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_SULPICIUS_CAMERINUS_PRAETEXTATUS",
+    "name": {
+      "normalized": "Quintus Sulpicius Camerinus Praetextatus"
+    },
+    "variants": [
+      {
+        "form": "Q. Sulpicius Camerinus Praetextatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERVIUS_CORNELIUS_COSSUS",
+    "name": {
+      "normalized": "Servius Cornelius Cossus"
+    },
+    "variants": [
+      {
+        "form": "Ser. Cornelius Cossus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FOLIUS_FLACCINATOR",
+    "name": {
+      "normalized": "Marcus Folius Flaccinator"
+    },
+    "variants": [
+      {
+        "form": "M. Folius Flaccinator",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_PINARIUS_MAMERCINUS",
+    "name": {
+      "normalized": "Lucius Pinarius Mamercinus"
+    },
+    "variants": [
+      {
+        "form": "L. Pinarius Mamercinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_FURIUS_MEDULLINUS_432",
+    "name": {
+      "normalized": "Lucius Furius Medullinus"
+    },
+    "variants": [
+      {
+        "form": "L. Furius Medullinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_POSTUMIUS_ALBINUS_REGILLENSIS_432",
+    "name": {
+      "normalized": "Spurius Postumius Albinus Regillensis"
+    },
+    "variants": [
+      {
+        "form": "Sp. Postumius Albinus (Regellensis)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_QUINCTIUS_POENUS_CINCINNATUS",
+    "name": {
+      "normalized": "Titus Quinctius Poenus Cincinnatus"
+    },
+    "variants": [
+      {
+        "form": "T. Quinctius Poenus Cincinnatus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_IULIUS_MENTO",
+    "name": {
+      "normalized": "Gaius Iulius Mento"
+    },
+    "variants": [
+      {
+        "form": "C. (or Cn.) Iulius Mento",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_IULIUS_IULLUS_430",
+    "name": {
+      "normalized": "Lucius Iulius Iullus"
+    },
+    "variants": [
+      {
+        "form": "L. Iulius Iullus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HOSTUS_LUCRETIUS_TRICIPITINUS",
+    "name": {
+      "normalized": "Hostus Lucretius Tricipitinus"
+    },
+    "variants": [
+      {
+        "form": "Hostus Lucretius Tricipitinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_CORNELIUS_COSSUS",
+    "name": {
+      "normalized": "Aulus Cornelius Cossus"
+    },
+    "variants": [
+      {
+        "form": "A. Cornelius Cossus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_QUINCTIUS_CINCINNATUS_428",
+    "name": {
+      "normalized": "Lucius Quinctius Cincinnatus"
+    },
+    "variants": [
+      {
+        "form": "L. Quinctius (Cincinnatus ?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_SERVILIUS_STRUCTUS_AHALA",
+    "name": {
+      "normalized": "Gaius Servilius Structus Ahala"
+    },
+    "variants": [
+      {
+        "form": "C. Servilius Structus Ahala",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_PAPIRIUS_MUGILLANUS",
+    "name": {
+      "normalized": "Lucius Papirius Mugillanus"
+    },
+    "variants": [
+      {
+        "form": "L. Papirius Mugillanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_POSTUMIUS_ALBINUS_REGILLENSIS",
+    "name": {
+      "normalized": "Marcus Postumius Albinus Regillensis"
+    },
+    "variants": [
+      {
+        "form": "M. Postumius Albinus Regillensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

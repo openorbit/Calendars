@@ -2,23 +2,6 @@
 import json, re, sys
 from pathlib import Path
 
-def latin_genitive(name: str) -> str:
-    parts = name.split()
-    def g(word: str) -> str:
-        w = word.strip()
-        if re.search(r"(ius|us)$", w):
-            return re.sub(r"(ius|us)$", "i", w)
-        if re.search(r"a$", w):
-            return re.sub(r"a$", "ae", w)
-        if re.search(r"um$", w):
-            return re.sub(r"um$", "i", w)
-        if re.search(r"is$", w):
-            return w
-        if re.search(r"os$", w):
-            return re.sub(r"os$", "i", w)
-        return w + "is"
-    return " ".join(g(p) for p in parts)
-
 def to_person_id(name: str) -> str:
     base = re.sub(r"[^A-Za-z]+", "_", name).strip("_").upper()
     return f"P_{base}"[:120]
@@ -42,13 +25,11 @@ def convert(input_rows):
     def ensure_person(nom):
         pid = to_person_id(nom)
         if pid not in persons:
-            gen = latin_genitive(nom)
             persons[pid] = {
                 "id": pid,
                 "name": {"normalized": nom},
                 "variants": [
-                    {"form": nom, "lang":"la","script":"Latn","kind":"primary","casus":"nom"},
-                    {"form": gen, "lang":"la","script":"Latn","kind":"genitive","casus":"gen"}
+                    {"form": nom, "lang":"la","script":"Latn","kind":"source","casus":"nom"}
                 ]
             }
         return pid

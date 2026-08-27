@@ -1,0 +1,288 @@
+[
+  {
+    "id": "P_LUCIUS_PINARIUS_MAMERCINUS_RUFUS",
+    "name": {
+      "normalized": "Lucius Pinarius Mamercinus Rufus"
+    },
+    "variants": [
+      {
+        "form": "L. Pinarius Mamercinus Rufus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_FURIUS_MEDULLINUS_FUSUS",
+    "name": {
+      "normalized": "Publius Furius Medullinus Fusus"
+    },
+    "variants": [
+      {
+        "form": "P. Furius Medullinus Fusus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_APPIUS_CLAUDIUS_CRASSINUS_INREGILLENSIS_SABINUS",
+    "name": {
+      "normalized": "Appius Claudius Crassinus Inregillensis Sabinus"
+    },
+    "variants": [
+      {
+        "form": "Ap. Claudius Crassinus Inregillensis Sabinus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_QUINCTIUS_CAPITOLINUS_BARBATUS",
+    "name": {
+      "normalized": "Titus Quinctius Capitolinus Barbatus"
+    },
+    "variants": [
+      {
+        "form": "T. Quinctius Capitolinus Barbatus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TIBERIUS_AEMILIUS_MAMERCUS",
+    "name": {
+      "normalized": "Tiberius Aemilius Mamercus"
+    },
+    "variants": [
+      {
+        "form": "Ti. Aemilius Mamercus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_NUMICIUS_PRISCUS",
+    "name": {
+      "normalized": "Titus Numicius Priscus"
+    },
+    "variants": [
+      {
+        "form": "T. Numicius Priscus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_VERGINIUS_CAELIOMONTANUS",
+    "name": {
+      "normalized": "Aulus Verginius Caeliomontanus"
+    },
+    "variants": [
+      {
+        "form": "A. Verginius Caeliomontanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_SERVILIUS_STRUCTUS_PRISCUS",
+    "name": {
+      "normalized": "Quintus Servilius Structus Priscus"
+    },
+    "variants": [
+      {
+        "form": "Q. Servilius Structus Priscus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_FABIUS_VIBULANUS_467",
+    "name": {
+      "normalized": "Quintus Fabius Vibulanus"
+    },
+    "variants": [
+      {
+        "form": "Q. Fabius Vibulanus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_POSTUMIUS_ALBINUS_REGILLENSIS",
+    "name": {
+      "normalized": "Spurius Postumius Albinus Regillensis"
+    },
+    "variants": [
+      {
+        "form": "Sp. Postumius Albinus Regillensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_POSTUMIUS_ALBINUS_REGILLENSIS",
+    "name": {
+      "normalized": "Aulus Postumius Albinus Regillensis"
+    },
+    "variants": [
+      {
+        "form": "A. Postumius Albinus Regillensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_FURIUS_MEDULLINUS_FUSUS",
+    "name": {
+      "normalized": "Spurius Furius Medullinus Fusus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Furius Medullinus Fusus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_SERVILIUS_PRISCUS_463",
+    "name": {
+      "normalized": "Publius Servilius Priscus"
+    },
+    "variants": [
+      {
+        "form": "P. Servilius Priscus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_AEBUTIUS_HELVA",
+    "name": {
+      "normalized": "Lucius Aebutius Helva"
+    },
+    "variants": [
+      {
+        "form": "L. Aebutius Helva",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_LUCRETIUS_TRICIPITINUS",
+    "name": {
+      "normalized": "Lucius Lucretius Tricipitinus"
+    },
+    "variants": [
+      {
+        "form": "L. Lucretius Tricipitinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_VOLUMNIUS_AMINTINUS_GALLUS",
+    "name": {
+      "normalized": "Publius Volumnius Amintinus Gallus"
+    },
+    "variants": [
+      {
+        "form": "P. Volumnius Amintinus Gallus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_SULPICIUS_CAMERINUS_CORNUTUS",
+    "name": {
+      "normalized": "Spurius Sulpicius Camerinus Cornutus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Sulpicius Camerinus Cornutus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_CLAUDIUS_INREGILLENSIS_SABINUS",
+    "name": {
+      "normalized": "Gaius Claudius Inregillensis Sabinus"
+    },
+    "variants": [
+      {
+        "form": "C. Claudius Inregillensis Sabinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_QUINCTIUS_CINCINNATUS",
+    "name": {
+      "normalized": "Lucius Quinctius Cincinnatus"
+    },
+    "variants": [
+      {
+        "form": "L. Quinctius Cincinnatus I(?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

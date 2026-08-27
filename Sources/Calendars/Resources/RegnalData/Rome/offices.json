@@ -10,5 +10,17 @@
     "polity_id": "POLITY_ROMAN_REPUBLIC",
     "label": "Consul suffectus",
     "succession_mode": "replacement"
+  },
+  {
+    "id": "OFFICE_DECEMVIR_LEGIBUS_SCRIBUNDIS",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "label": "Decemvir legibus scribundis",
+    "succession_mode": "extraordinary_college"
+  },
+  {
+    "id": "OFFICE_CONSULAR_TRIBUNE",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "label": "Tribunus militum consulari potestate",
+    "succession_mode": "annual_college"
   }
 ]

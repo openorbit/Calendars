@@ -1,0 +1,153 @@
+[
+  {
+    "id": "P_GAIUS_HORATIUS_PULVILLUS_477",
+    "name": {
+      "normalized": "Gaius Horatius Pulvillus"
+    },
+    "variants": [
+      {
+        "form": "C. (or M.?) Horatius Pulvillus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_MENENIUS_LANATUS",
+    "name": {
+      "normalized": "Titus Menenius Lanatus"
+    },
+    "variants": [
+      {
+        "form": "T. Menenius Lanatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "name": {
+      "normalized": "Aulus Verginius Tricostus Rutilus"
+    },
+    "variants": [
+      {
+        "form": "A. Verginius Tricostus Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_SERVILIUS_STRUCTUS",
+    "name": {
+      "normalized": "Spurius Servilius Structus"
+    },
+    "variants": [
+      {
+        "form": "Sp. (or Ser.) Servilius Structus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_VALERIUS_POPLICOLA_475",
+    "name": {
+      "normalized": "Publius Valerius Poplicola"
+    },
+    "variants": [
+      {
+        "form": "P. Valerius Poplicola I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_NAUTIUS_RUTILUS",
+    "name": {
+      "normalized": "Gaius Nautius Rutilus"
+    },
+    "variants": [
+      {
+        "form": "C. Nautius Rutilus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_FURIUS_MEDULLINUS",
+    "name": {
+      "normalized": "Lucius Furius Medullinus"
+    },
+    "variants": [
+      {
+        "form": "L. Furius Medullinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_MANLIUS_VULSO",
+    "name": {
+      "normalized": "Aulus Manlius Vulso"
+    },
+    "variants": [
+      {
+        "form": "A. Manlius Vulso",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_VOPISCUS_IULIUS_IULLUS",
+    "name": {
+      "normalized": "Vopiscus Iulius Iullus"
+    },
+    "variants": [
+      {
+        "form": "Vopiscus Iulius Iullus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OPITER_VERGINIUS_473",
+    "name": {
+      "normalized": "Opiter Verginius"
+    },
+    "variants": [
+      {
+        "form": "Opet. Verginius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

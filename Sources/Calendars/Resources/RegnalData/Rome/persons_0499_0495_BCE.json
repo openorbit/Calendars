@@ -1,0 +1,11 @@
+[
+  { "id": "P_TITUS_AEBUTIUS_HELVA", "name": { "normalized": "Titus Aebutius Helva" }, "variants": [{ "form": "T. Aebutius Helva", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_GAIUS_VETURIUS_GEMINUS_CICURINUS", "name": { "normalized": "Gaius Veturius Geminus Cicurinus" }, "variants": [{ "form": "C. (P.?) Veturius Geminus Cicurinus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_QUINTUS_CLOELIUS_SICULUS", "name": { "normalized": "Quintus Cloelius Siculus" }, "variants": [{ "form": "Q. Cloelius Siculus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_AULUS_SEMPRONIUS_ATRATINUS", "name": { "normalized": "Aulus Sempronius Atratinus" }, "variants": [{ "form": "A. Sempronius Atratinus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_MARCUS_MINUCIUS_AUGURINUS", "name": { "normalized": "Marcus Minucius Augurinus" }, "variants": [{ "form": "M. Minucius Augurinus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_AULUS_POSTUMIUS_ALBUS", "name": { "normalized": "Aulus Postumius Albus" }, "variants": [{ "form": "A. Postumius Albus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_TITUS_VERGINIUS_TRICOSTUS_CAELIOMONTANUS", "name": { "normalized": "Titus Verginius Tricostus Caeliomontanus" }, "variants": [{ "form": "T. Verginius Tricostus Caeliomontanus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_APPIUS_CLAUDIUS_SABINUS", "name": { "normalized": "Appius Claudius Sabinus Inregillensis" }, "variants": [{ "form": "Ap. Claudius Sabinus Inregillensis", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] },
+  { "id": "P_PUBLIUS_SERVILIUS_PRISCUS_STRUCTUS", "name": { "normalized": "Publius Servilius Priscus Structus" }, "variants": [{ "form": "P. Servilius Priscus Structus", "lang": "la", "script": "Latn", "kind": "source", "casus": "nom" }] }
+]

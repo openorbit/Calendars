@@ -1,0 +1,213 @@
+[
+  {
+    "id": "P_GAIUS_VALERIUS_POTITUS_370",
+    "name": {
+      "normalized": "Gaius Valerius Potitus"
+    },
+    "variants": [
+      {
+        "form": "C. Valerius Potitus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_CORNELIUS_COSSUS_369",
+    "name": {
+      "normalized": "Aulus Cornelius Cossus"
+    },
+    "variants": [
+      {
+        "form": "A. Cornelius Cossus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_CORNELIUS_MALUGINENSIS_369",
+    "name": {
+      "normalized": "Marcus Cornelius Maluginensis"
+    },
+    "variants": [
+      {
+        "form": "M. Cornelius Maluginensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_SERVILIUS_STRUCTUS_368",
+    "name": {
+      "normalized": "Spurius Servilius Structus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Servilius Structus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_VETURIUS_CRASSUS_CICURINUS",
+    "name": {
+      "normalized": "Lucius Veturius Crassus Cicurinus"
+    },
+    "variants": [
+      {
+        "form": "L. Veturius Crassus Cicurinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_GEGANIUS_MACERINUS_367",
+    "name": {
+      "normalized": "Marcus Geganius Macerinus"
+    },
+    "variants": [
+      {
+        "form": "M. Geganius Macerinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_MANLIUS_CAPITOLINUS_367",
+    "name": {
+      "normalized": "Publius Manlius Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "P. Manlius Capitolinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_SEXTIUS_SEXTINUS_LATERANUS",
+    "name": {
+      "normalized": "Lucius Sextius Sextinus Lateranus"
+    },
+    "variants": [
+      {
+        "form": "L. Sextius Sextinus Lateranus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_GENUCIUS_AVENTINENSIS",
+    "name": {
+      "normalized": "Lucius Genucius Aventinensis"
+    },
+    "variants": [
+      {
+        "form": "L. Genucius Aventinensis I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_SERVILIUS_AHALA_365",
+    "name": {
+      "normalized": "Quintus Servilius Ahala"
+    },
+    "variants": [
+      {
+        "form": "Q. Servilius Ahala I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_LICINIUS_STOLO",
+    "name": {
+      "normalized": "Gaius Licinius Stolo"
+    },
+    "variants": [
+      {
+        "form": "C. Licinus Stolo (Calvus ?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GNAEUS_GENUCIUS_AVENTINENSIS",
+    "name": {
+      "normalized": "Gnaeus Genucius Aventinensis"
+    },
+    "variants": [
+      {
+        "form": "Cn. Genucius Aventinensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FABIUS_AMBUSTUS_360",
+    "name": {
+      "normalized": "Marcus Fabius Ambustus"
+    },
+    "variants": [
+      {
+        "form": "M. Fabius Ambustus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_POETELIUS_LIBO_VISOLUS_360",
+    "name": {
+      "normalized": "Gaius Poetelius Libo Visolus"
+    },
+    "variants": [
+      {
+        "form": "C. Poetelius Libo Visolus (Balbus?) I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

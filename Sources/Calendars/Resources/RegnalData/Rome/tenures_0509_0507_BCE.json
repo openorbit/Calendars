@@ -3,264 +3,125 @@
     "id": "TENURE_AUC_245_CONSUL_1",
     "office_id": "OFFICE_CONSUL_ORDINARIUS",
     "person_id": "P_LUCIUS_IUNIUS_BRUTUS",
-    "ordinal": 1,
-    "start": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 245
-        }
-      }
-    ],
-    "end": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 245
-        }
-      }
-    ],
-    "certainty": "medium",
-    "status": "recognized",
-    "notes": "Founding consuls, Collatinus resigned."
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 509 BCE; Brutus died in office.",
+    "consular": {
+      "dataset": "republican", "role": "ordinary_consul", "seat": 1,
+      "consulship_number": 1, "tradition": "traditional",
+      "sources": [
+        { "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I", "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024", "note": "509 BCE" },
+        { "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "509 BCE, A.L.C. 1" }
+      ]
+    }
   },
   {
     "id": "TENURE_AUC_245_CONSUL_2",
     "office_id": "OFFICE_CONSUL_ORDINARIUS",
     "person_id": "P_LUCIUS_TARQUINIUS_COLLATINUS",
-    "ordinal": 2,
-    "start": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 245
-        }
-      }
-    ],
-    "end": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 245
-        }
-      }
-    ],
-    "certainty": "medium",
-    "status": "recognized",
-    "notes": "Founding consuls, Collatinus resigned."
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "certainty": "low", "status": "traditional", "notes": "Traditional Varronian college for 509 BCE; Collatinus resigned.",
+    "consular": {
+      "dataset": "republican", "role": "ordinary_consul", "seat": 2,
+      "consulship_number": 1, "tradition": "traditional",
+      "sources": [
+        { "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I", "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024", "note": "509 BCE" },
+        { "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "509 BCE, A.L.C. 1" }
+      ]
+    }
   },
   {
     "id": "TENURE_AUC_245_SUFFECT_1",
     "office_id": "OFFICE_CONSUL_SUFFECTUS",
-    "person_id": "P_SPURIUS_LUCRETIUS_TRICIPITINUS",
-    "ordinal": 1,
-    "start": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 245
-        }
-      }
-    ],
-    "end": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 245
-        }
-      }
-    ],
-    "certainty": "medium",
-    "status": "recognized",
-    "notes": "Suffect consul"
+    "person_id": "P_PUBLIUS_VALERIUS_POPLICOLA",
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "certainty": "low", "status": "traditional", "notes": "Traditional suffect consul of 509 BCE.",
+    "consular": {
+      "dataset": "republican", "role": "suffect_consul", "seat": 1,
+      "consulship_number": 1, "tradition": "traditional",
+      "sources": [{ "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "509 BCE, suffect consuls" }]
+    }
   },
   {
     "id": "TENURE_AUC_245_SUFFECT_2",
     "office_id": "OFFICE_CONSUL_SUFFECTUS",
-    "person_id": "P_PUBLIUS_VALERIUS_PUBLICOLA",
-    "ordinal": 2,
-    "start": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 245
-        }
-      }
-    ],
-    "end": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 245
-        }
-      }
-    ],
-    "certainty": "medium",
-    "status": "recognized",
-    "notes": "Suffect consul"
+    "person_id": "P_SPURIUS_LUCRETIUS_TRICIPITINUS",
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "certainty": "low", "status": "traditional", "notes": "Traditional suffect consul of 509 BCE.",
+    "consular": {
+      "dataset": "republican", "role": "suffect_consul", "seat": 2,
+      "consulship_number": 1, "tradition": "traditional",
+      "sources": [{ "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "509 BCE, suffect consuls" }]
+    }
+  },
+  {
+    "id": "TENURE_AUC_245_SUFFECT_3",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_MARCUS_HORATIUS_PULVILLUS",
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 245 } }],
+    "certainty": "low", "status": "traditional", "notes": "Traditional suffect consul of 509 BCE.",
+    "consular": {
+      "dataset": "republican", "role": "suffect_consul", "seat": 3,
+      "consulship_number": 1, "tradition": "traditional",
+      "sources": [{ "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "509 BCE, suffect consuls" }]
+    }
   },
   {
     "id": "TENURE_AUC_246_CONSUL_1",
     "office_id": "OFFICE_CONSUL_ORDINARIUS",
-    "person_id": "P_PUBLIUS_VALERIUS_PUBLICOLA",
-    "ordinal": 1,
-    "start": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 246
-        }
-      }
-    ],
-    "end": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 246
-        }
-      }
-    ],
-    "certainty": "medium",
-    "status": "recognized",
-    "notes": ""
+    "person_id": "P_PUBLIUS_VALERIUS_POPLICOLA",
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 246 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 246 } }],
+    "certainty": "low", "status": "traditional", "notes": "Traditional Varronian college for 508 BCE.",
+    "consular": {
+      "dataset": "republican", "role": "ordinary_consul", "seat": 1,
+      "consulship_number": 2, "tradition": "traditional",
+      "sources": [{ "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "508 BCE, A.L.C. 2" }]
+    }
   },
   {
     "id": "TENURE_AUC_246_CONSUL_2",
     "office_id": "OFFICE_CONSUL_ORDINARIUS",
-    "person_id": "P_MARCUS_HORATIUS_PULVILLUS",
-    "ordinal": 2,
-    "start": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 246
-        }
-      }
-    ],
-    "end": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 246
-        }
-      }
-    ],
-    "certainty": "medium",
-    "status": "recognized",
-    "notes": ""
+    "person_id": "P_TITUS_LUCRETIUS_TRICIPITINUS",
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 246 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 246 } }],
+    "certainty": "low", "status": "traditional", "notes": "Traditional Varronian college for 508 BCE.",
+    "consular": {
+      "dataset": "republican", "role": "ordinary_consul", "seat": 2,
+      "consulship_number": 1, "tradition": "traditional",
+      "sources": [{ "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "508 BCE, A.L.C. 2" }]
+    }
   },
   {
     "id": "TENURE_AUC_247_CONSUL_1",
     "office_id": "OFFICE_CONSUL_ORDINARIUS",
-    "person_id": "P_TITUS_LARCIUS_FLAVUS",
-    "ordinal": 1,
-    "start": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 247
-        }
-      }
-    ],
-    "end": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 247
-        }
-      }
-    ],
-    "certainty": "medium",
-    "status": "recognized",
-    "notes": ""
+    "person_id": "P_PUBLIUS_VALERIUS_POPLICOLA",
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 247 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 247 } }],
+    "certainty": "low", "status": "traditional", "notes": "Traditional Varronian college for 507 BCE.",
+    "consular": {
+      "dataset": "republican", "role": "ordinary_consul", "seat": 1,
+      "consulship_number": 3, "tradition": "traditional",
+      "sources": [{ "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "507 BCE, A.L.C. 3" }]
+    }
   },
   {
     "id": "TENURE_AUC_247_CONSUL_2",
     "office_id": "OFFICE_CONSUL_ORDINARIUS",
-    "person_id": "P_SPURIUS_LUCRETIUS_TRICIPITINUS",
-    "ordinal": 2,
-    "start": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 247
-        }
-      }
-    ],
-    "end": [
-      {
-        "rep": "ymd",
-        "calendar": "AUC",
-        "scale": "native",
-        "certainty": "medium",
-        "approx": false,
-        "ymd": {
-          "year": 247
-        }
-      }
-    ],
-    "certainty": "medium",
-    "status": "recognized",
-    "notes": ""
+    "person_id": "P_MARCUS_HORATIUS_PULVILLUS",
+    "start": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 247 } }],
+    "end": [{ "rep": "ymd", "calendar": "AUC", "ymd": { "year": 247 } }],
+    "certainty": "low", "status": "traditional", "notes": "Traditional Varronian college for 507 BCE.",
+    "consular": {
+      "dataset": "republican", "role": "ordinary_consul", "seat": 2,
+      "consulship_number": 2, "tradition": "traditional",
+      "sources": [{ "title": "Christopher S. Mackay, Consuls of the Roman Republic", "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html", "note": "507 BCE, A.L.C. 3" }]
+    }
   }
 ]

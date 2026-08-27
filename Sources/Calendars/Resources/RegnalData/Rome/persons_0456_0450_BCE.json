@@ -1,0 +1,288 @@
+[
+  {
+    "id": "P_MARCUS_VALERIUS_MAXIMUS_LACTUCA",
+    "name": {
+      "normalized": "Marcus Valerius Maximus Lactuca"
+    },
+    "variants": [
+      {
+        "form": "M. Valerius Maximus Lactuca",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_VERGINIUS_TRICOSTUS_CAELIOMONTANUS",
+    "name": {
+      "normalized": "Spurius Verginius Tricostus Caeliomontanus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Verginius Tricostus Caeliomontanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_ROMILIUS_ROCUS_VATICANUS",
+    "name": {
+      "normalized": "Titus Romilius Rocus Vaticanus"
+    },
+    "variants": [
+      {
+        "form": "T. Romilius Rocus Vaticanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_VETURIUS_CICURINUS",
+    "name": {
+      "normalized": "Gaius Veturius Cicurinus"
+    },
+    "variants": [
+      {
+        "form": "C. Veturius Cicurinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_TARPEIUS_MONTANUS_CAPITOLINUS",
+    "name": {
+      "normalized": "Spurius Tarpeius Montanus Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Tarpeius Montanus Capitolinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_AETERNIUS_VARUS_FONTINALIS",
+    "name": {
+      "normalized": "Aulus Aeternius Varus Fontinalis"
+    },
+    "variants": [
+      {
+        "form": "A. Aeternius Varus Fontinalis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SEXTUS_QUINCTILIUS",
+    "name": {
+      "normalized": "Sextus Quinctilius"
+    },
+    "variants": [
+      {
+        "form": "Sex. Quinctilius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CURIATIUS_FISTUS_TRIGEMINUS",
+    "name": {
+      "normalized": "Publius Curiatius Fistus Trigeminus"
+    },
+    "variants": [
+      {
+        "form": "P. Curiatius Fistus Trigeminus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_SESTIUS_CAPITOLINUS_VATICANUS",
+    "name": {
+      "normalized": "Publius Sestius Capitolinus Vaticanus"
+    },
+    "variants": [
+      {
+        "form": "P. Sestius Capitolinus Vaticanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_GENUCIUS_AUGURINUS",
+    "name": {
+      "normalized": "Titus Genucius Augurinus"
+    },
+    "variants": [
+      {
+        "form": "T. Genucius Augurinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_CORNELIUS_MALUGINENSIS_450",
+    "name": {
+      "normalized": "Marcus Cornelius Maluginensis"
+    },
+    "variants": [
+      {
+        "form": "M. Cornelius Maluginensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_SERGIUS_ESQUILINUS_450",
+    "name": {
+      "normalized": "Marcus Sergius Esquilinus"
+    },
+    "variants": [
+      {
+        "form": "M.? Sergius Esquilinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_MINUCIUS_ESQUILINUS_AUGURINUS",
+    "name": {
+      "normalized": "Lucius Minucius Esquilinus Augurinus"
+    },
+    "variants": [
+      {
+        "form": "L. Minucius Esquilinus Augurinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_FABIUS_VIBULANUS_DECEMVIR_450",
+    "name": {
+      "normalized": "Quintus Fabius Vibulanus"
+    },
+    "variants": [
+      {
+        "form": "Q. Fabius Vibulanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_POETELIUS_LIBO_VISOLUS",
+    "name": {
+      "normalized": "Quintus Poetelius Libo Visolus"
+    },
+    "variants": [
+      {
+        "form": "Q. Poetelius Libo Visolus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_ANTONIUS_MERENDA",
+    "name": {
+      "normalized": "Titus Antonius Merenda"
+    },
+    "variants": [
+      {
+        "form": "T. Antonius Merenda",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_KAESO_DUILLIUS_LONGUS",
+    "name": {
+      "normalized": "Kaeso Duillius Longus"
+    },
+    "variants": [
+      {
+        "form": "K. Duillius Longus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_OPPIUS_CORNICEN",
+    "name": {
+      "normalized": "Spurius Oppius Cornicen"
+    },
+    "variants": [
+      {
+        "form": "Sp. Oppius Cornicen",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MANIUS_RABULEIUS",
+    "name": {
+      "normalized": "Manius Rabuleius"
+    },
+    "variants": [
+      {
+        "form": "M'. Rabuleius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

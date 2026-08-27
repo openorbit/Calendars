@@ -1,0 +1,88 @@
+[
+  {
+    "id": "ROMAN_MAGISTRACY_GAP_AUC_379",
+    "dataset": "republican",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "auc": 379,
+    "kind": "no_curule_magistrates",
+    "tradition": "fabricated_varronian",
+    "certainty": "low",
+    "notes": "Traditional so-called anarchy year for 375 BCE; Mackay identifies the five-year sequence as a false chronological insertion.",
+    "sources": [
+      {
+        "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+        "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+        "note": "375 BCE, A.L.C. 135; no curule magistrates elected"
+      }
+    ]
+  },
+  {
+    "id": "ROMAN_MAGISTRACY_GAP_AUC_380",
+    "dataset": "republican",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "auc": 380,
+    "kind": "no_curule_magistrates",
+    "tradition": "fabricated_varronian",
+    "certainty": "low",
+    "notes": "Traditional so-called anarchy year for 374 BCE; Mackay identifies the five-year sequence as a false chronological insertion.",
+    "sources": [
+      {
+        "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+        "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+        "note": "374 BCE, A.L.C. 136; no curule magistrates elected"
+      }
+    ]
+  },
+  {
+    "id": "ROMAN_MAGISTRACY_GAP_AUC_381",
+    "dataset": "republican",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "auc": 381,
+    "kind": "no_curule_magistrates",
+    "tradition": "fabricated_varronian",
+    "certainty": "low",
+    "notes": "Traditional so-called anarchy year for 373 BCE; Mackay identifies the five-year sequence as a false chronological insertion.",
+    "sources": [
+      {
+        "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+        "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+        "note": "373 BCE, A.L.C. 137; no curule magistrates elected"
+      }
+    ]
+  },
+  {
+    "id": "ROMAN_MAGISTRACY_GAP_AUC_382",
+    "dataset": "republican",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "auc": 382,
+    "kind": "no_curule_magistrates",
+    "tradition": "fabricated_varronian",
+    "certainty": "low",
+    "notes": "Traditional so-called anarchy year for 372 BCE; Mackay identifies the five-year sequence as a false chronological insertion.",
+    "sources": [
+      {
+        "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+        "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+        "note": "372 BCE, A.L.C. 138; no curule magistrates elected"
+      }
+    ]
+  },
+  {
+    "id": "ROMAN_MAGISTRACY_GAP_AUC_383",
+    "dataset": "republican",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "auc": 383,
+    "kind": "no_curule_magistrates",
+    "tradition": "fabricated_varronian",
+    "certainty": "low",
+    "notes": "Traditional so-called anarchy year for 371 BCE; Mackay identifies the five-year sequence as a false chronological insertion.",
+    "sources": [
+      {
+        "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+        "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+        "note": "371 BCE, A.L.C. 139; no curule magistrates elected"
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,408 @@
+[
+  {
+    "id": "P_AULUS_MANLIUS_CAPITOLINUS_385",
+    "name": {
+      "normalized": "Aulus Manlius Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "A. Manlius (Capitolinus?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_QUINCTIUS_CINCINNATUS_CAPITOLINUS",
+    "name": {
+      "normalized": "Lucius Quinctius Cincinnatus Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "L. Quinctius Cincinnatus Capitolinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_PAPIRIUS_CRASSUS",
+    "name": {
+      "normalized": "Gaius Papirius Crassus"
+    },
+    "variants": [
+      {
+        "form": "C. Papirius Crassus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_QUINCTIUS_CINCINNATUS_384",
+    "name": {
+      "normalized": "Titus Quinctius Cincinnatus"
+    },
+    "variants": [
+      {
+        "form": "T. Quinctius Cincinnatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_TREBONIUS",
+    "name": {
+      "normalized": "Marcus Trebonius"
+    },
+    "variants": [
+      {
+        "form": "M. Trebonius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_PAPIRIUS_CRASSUS",
+    "name": {
+      "normalized": "Spurius Papirius Crassus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Papirius Crassus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_SULPICIUS_CAMERINUS",
+    "name": {
+      "normalized": "Gaius Sulpicius Camerinus"
+    },
+    "variants": [
+      {
+        "form": "C. Sulpicius Camerinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_POSTUMIUS_REGILLENSIS_381",
+    "name": {
+      "normalized": "Aulus Postumius Regillensis"
+    },
+    "variants": [
+      {
+        "form": "A. Postumius Regillensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_POSTUMIUS_REGILLENSIS_381",
+    "name": {
+      "normalized": "Lucius Postumius Regillensis"
+    },
+    "variants": [
+      {
+        "form": "L. Postumius Regillensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FABIUS_AMBUSTUS_381",
+    "name": {
+      "normalized": "Marcus Fabius Ambustus"
+    },
+    "variants": [
+      {
+        "form": "M. Fabius Ambustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_SULPICIUS_PETICUS",
+    "name": {
+      "normalized": "Gaius Sulpicius Peticus"
+    },
+    "variants": [
+      {
+        "form": "C. Sulpicius Peticus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TIBERIUS_PAPIRIUS_CRASSUS",
+    "name": {
+      "normalized": "Tiberius Papirius Crassus"
+    },
+    "variants": [
+      {
+        "form": "Ti. Papirius Crassus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_MANLIUS_CAPITOLINUS_379",
+    "name": {
+      "normalized": "Publius Manlius Capitolinus"
+    },
+    "variants": [
+      {
+        "form": "P. Manlius Capitolinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_MANLIUS_FRAGMENT_379",
+    "name": {
+      "normalized": "Gaius Manlius"
+    },
+    "variants": [
+      {
+        "form": "C. Manlius (----)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_SEXTILIUS_FRAGMENT_379",
+    "name": {
+      "normalized": "Gaius Sextilius"
+    },
+    "variants": [
+      {
+        "form": "C. Sextilius (---)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_ALBINIUS_FRAGMENT_379",
+    "name": {
+      "normalized": "Marcus Albinius"
+    },
+    "variants": [
+      {
+        "form": "M. Albinius (---)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_ANTISTIUS_FRAGMENT_379",
+    "name": {
+      "normalized": "Lucius Antistius"
+    },
+    "variants": [
+      {
+        "form": "L. Antistius (---)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_TREBONIUS_FRAGMENT_379",
+    "name": {
+      "normalized": "Publius Trebonius"
+    },
+    "variants": [
+      {
+        "form": "P. Trebonius (---)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_ERENUCIUS_FRAGMENT_379",
+    "name": {
+      "normalized": "Gaius Erenucius"
+    },
+    "variants": [
+      {
+        "form": "C. Erenucius (?) (---)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FURIUS_FRAGMENT_378",
+    "name": {
+      "normalized": "Furius"
+    },
+    "variants": [
+      {
+        "form": "Sp. (L.?) Furius (-----)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CLOELIUS_SICULUS",
+    "name": {
+      "normalized": "Publius Cloelius Siculus"
+    },
+    "variants": [
+      {
+        "form": "P. Cloelius Siculus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_HORATIUS_FRAGMENT_378",
+    "name": {
+      "normalized": "Marcus Horatius"
+    },
+    "variants": [
+      {
+        "form": "M. Horatius (----)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_GEGANIUS_MACERINUS",
+    "name": {
+      "normalized": "Lucius Geganius Macerinus"
+    },
+    "variants": [
+      {
+        "form": "L. Geganius Macerinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_VETURIUS_CRASSUS_CICURINUS_377",
+    "name": {
+      "normalized": "Gaius Veturius Crassus Cicurinus"
+    },
+    "variants": [
+      {
+        "form": "C. Veturius (Crassus Cicurinus ?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERVIUS_SULPICIUS_PRAETEXTATUS",
+    "name": {
+      "normalized": "Servius Sulpicius Praetextatus"
+    },
+    "variants": [
+      {
+        "form": "Ser. Sulpicius Praetextatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_QUINCTIUS_CINCINNATUS",
+    "name": {
+      "normalized": "Gaius Quinctius Cincinnatus"
+    },
+    "variants": [
+      {
+        "form": "C. Quinctius Cincinnatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_PAPIRIUS_MUGILLANUS_376",
+    "name": {
+      "normalized": "Lucius Papirius Mugillanus"
+    },
+    "variants": [
+      {
+        "form": "L. Papirius (Mugillanus ?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

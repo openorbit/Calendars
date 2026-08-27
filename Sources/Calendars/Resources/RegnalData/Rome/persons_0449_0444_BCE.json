@@ -1,0 +1,168 @@
+[
+  {
+    "id": "P_LUCIUS_VALERIUS_POTITUS_449",
+    "name": {
+      "normalized": "Lucius Valerius Potitus"
+    },
+    "variants": [
+      {
+        "form": "L. Valerius Potitus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_HORATIUS_BARBATUS",
+    "name": {
+      "normalized": "Marcus Horatius Barbatus"
+    },
+    "variants": [
+      {
+        "form": "M. Horatius Barbatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HERMENIUS_CORTINESANUS_448",
+    "name": {
+      "normalized": "Hermenius Cortinesanus"
+    },
+    "variants": [
+      {
+        "form": "Lars (or Sp.) Hermenius Cortinesanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_VERGINIUS_TRICOSTUS_CAELIOMONTANUS_448",
+    "name": {
+      "normalized": "Titus Verginius Tricostus Caeliomontanus"
+    },
+    "variants": [
+      {
+        "form": "T. Verginius Tricostus Caeliomontanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_GEGANIUS_MACERINUS_447",
+    "name": {
+      "normalized": "Marcus Geganius Macerinus"
+    },
+    "variants": [
+      {
+        "form": "M. Geganius Macerinus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_IULIUS_IULLUS_447",
+    "name": {
+      "normalized": "Gaius Iulius Iullus"
+    },
+    "variants": [
+      {
+        "form": "C. Iulius (Iullus?) I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AGRIPPA_FURIUS_FUSUS",
+    "name": {
+      "normalized": "Agrippa Furius Fusus"
+    },
+    "variants": [
+      {
+        "form": "Agrippa Furius Fusus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_GENUCIUS_AUGURINUS",
+    "name": {
+      "normalized": "Marcus Genucius Augurinus"
+    },
+    "variants": [
+      {
+        "form": "M. Genucius Augurinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_CURTIUS_PHILO_445",
+    "name": {
+      "normalized": "Gaius Curtius Philo"
+    },
+    "variants": [
+      {
+        "form": "C. (or Agrippa) Curtius Philo (or Chilo)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_ATILIUS_LUSCUS",
+    "name": {
+      "normalized": "Lucius Atilius Luscus"
+    },
+    "variants": [
+      {
+        "form": "L. Atilius Luscus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_CLOELIUS_SICULUS",
+    "name": {
+      "normalized": "Titus Cloelius Siculus"
+    },
+    "variants": [
+      {
+        "form": "T. Cloelius Siculus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

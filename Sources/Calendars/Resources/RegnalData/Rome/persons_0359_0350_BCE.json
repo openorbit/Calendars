@@ -1,0 +1,153 @@
+[
+  {
+    "id": "P_MARCUS_POPILLIUS_LAENAS",
+    "name": {
+      "normalized": "Marcus Popillius Laenas"
+    },
+    "variants": [
+      {
+        "form": "M. Popillius Laenas I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GNAEUS_MANLIUS_CAPITOLINUS_IMPERIOSUS",
+    "name": {
+      "normalized": "Gnaeus Manlius Capitolinus Imperiosus"
+    },
+    "variants": [
+      {
+        "form": "Cn. Manlius Capitolinus Imperiosus I?",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_FABIUS_AMBUSTUS_358",
+    "name": {
+      "normalized": "Gaius Fabius Ambustus"
+    },
+    "variants": [
+      {
+        "form": "C. Fabius Ambustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_PLAUTIUS_PROCULUS",
+    "name": {
+      "normalized": "Gaius Plautius Proculus"
+    },
+    "variants": [
+      {
+        "form": "C. Plautius Proculus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_MARCIUS_RUTILUS",
+    "name": {
+      "normalized": "Gaius Marcius Rutilus"
+    },
+    "variants": [
+      {
+        "form": "C. Marcius Rutilus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_VALERIUS_POPLICOLA_355",
+    "name": {
+      "normalized": "Marcus Valerius Poplicola"
+    },
+    "variants": [
+      {
+        "form": "M. Valerius Poplicola I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_QUINCTIUS_POENUS_CAPITOLINUS_CRISPINUS",
+    "name": {
+      "normalized": "Titus Quinctius Poenus Capitolinus Crispinus"
+    },
+    "variants": [
+      {
+        "form": "T. Quinctius Poenus Capitolinus Crispinus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_POPILIUS_LAENAS_ALTERNATIVE_354",
+    "name": {
+      "normalized": "Marcus Popilius Laenas"
+    },
+    "variants": [
+      {
+        "form": "M. Popilius (Laenas) II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_VALERIUS_POPLICOLA_352",
+    "name": {
+      "normalized": "Publius Valerius Poplicola"
+    },
+    "variants": [
+      {
+        "form": "P. Valerius Poplicola",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_CORNELIUS_SCIPIO_350",
+    "name": {
+      "normalized": "Lucius Cornelius Scipio"
+    },
+    "variants": [
+      {
+        "form": "L. Cornelius Scipio",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

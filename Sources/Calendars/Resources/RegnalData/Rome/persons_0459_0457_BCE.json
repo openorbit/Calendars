@@ -1,0 +1,93 @@
+[
+  {
+    "id": "P_LUCIUS_CORNELIUS_MALUGINENSIS_URITINUS",
+    "name": {
+      "normalized": "Lucius Cornelius Maluginensis Uritinus"
+    },
+    "variants": [
+      {
+        "form": "L. Cornelius Maluginensis Uritinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_NAUTIUS_RUTILUS",
+    "name": {
+      "normalized": "Gaius Nautius Rutilus"
+    },
+    "variants": [
+      {
+        "form": "C. Nautius Rutilus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UNKNOWN_CARVETUS_458",
+    "name": {
+      "normalized": "[---] Carve[tus?]"
+    },
+    "variants": [
+      {
+        "form": "----------------Carve[tus?]",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_HORATIUS_PULVILLUS_457",
+    "name": {
+      "normalized": "Gaius Horatius Pulvillus"
+    },
+    "variants": [
+      {
+        "form": "C. Horatius Pulvillus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_MINUCIUS_ESQUILINUS",
+    "name": {
+      "normalized": "Quintus Minucius Esquilinus"
+    },
+    "variants": [
+      {
+        "form": "Q. Minucius Esquilinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FABIUS_VIBULANUS_457",
+    "name": {
+      "normalized": "Marcus Fabius Vibulanus"
+    },
+    "variants": [
+      {
+        "form": "M. Fabius Vibulanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

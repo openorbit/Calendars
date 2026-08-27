@@ -30,9 +30,11 @@ public struct RegnalTenure: Codable, Identifiable {
     public let end: [DateDefinition]
     public let certainty: String
     public let status: String
+    public let notes: String?
+    public let consular: ConsularTenure?
     
     enum CodingKeys: String, CodingKey {
-        case id, ordinal, start, end, certainty, status
+        case id, ordinal, start, end, certainty, status, notes, consular
         case officeID = "office_id"
         case personID = "person_id"
     }
@@ -62,6 +64,48 @@ public struct RegnalTenure: Codable, Identifiable {
         public let year: Int
         public let month: Int?
         public let day: Int?
+    }
+}
+
+/// Metadata attached to a neutral office tenure when that tenure participates in
+/// Roman consular dating. The office remains the canonical fact; eponymous years
+/// are derived from tenures whose role is `ordinaryConsul`.
+public struct ConsularTenure: Codable, Sendable, Equatable {
+    public let dataset: Dataset
+    public let role: Role
+    public let seat: Int?
+    public let consulshipNumber: Int?
+    public let alternativeToTenureID: String?
+    public let tradition: Tradition
+    public let sources: [RegnalSource]
+
+    enum CodingKeys: String, CodingKey {
+        case dataset, role, seat, tradition, sources
+        case consulshipNumber = "consulship_number"
+        case alternativeToTenureID = "alternative_to_tenure_id"
+    }
+
+    public enum Dataset: String, Codable, Sendable {
+        case republican
+        case imperial
+    }
+
+    public enum Role: String, Codable, Sendable {
+        case ordinaryConsul = "ordinary_consul"
+        case suffectConsul = "suffect_consul"
+        case consularTribune = "consular_tribune"
+        case decemvir
+        case dictator
+        case postConsulatum = "post_consulatum"
+    }
+
+    public enum Tradition: String, Codable, Sendable {
+        case attested
+        case traditional
+        case disputed
+        case reconstructed
+        case alternative
+        case fabricatedVarronian = "fabricated_varronian"
     }
 }
 
@@ -102,6 +146,30 @@ public struct RegnalSource: Codable, Sendable, Equatable {
     public let note: String?
 }
 
+/// A sourced assertion that the annual magistracy sequence contains no office
+/// tenure. This remains separate from RegnalTenure so absence is never
+/// represented by a fictitious office or person.
+public struct RomanMagistracyGap: Codable, Identifiable, Sendable, Equatable {
+    public let id: String
+    public let dataset: ConsularTenure.Dataset
+    public let polityID: String
+    public let auc: Int
+    public let kind: Kind
+    public let tradition: ConsularTenure.Tradition
+    public let certainty: String
+    public let notes: String?
+    public let sources: [RegnalSource]
+
+    enum CodingKeys: String, CodingKey {
+        case id, dataset, auc, kind, tradition, certainty, notes, sources
+        case polityID = "polity_id"
+    }
+
+    public enum Kind: String, Codable, Sendable {
+        case noCuruleMagistrates = "no_curule_magistrates"
+    }
+}
+
 public struct RegnalPolity: Codable, Identifiable, Sendable {
     public let id: String
     public let label: String
@@ -123,26 +191,26 @@ public struct RegnalPolity: Codable, Identifiable, Sendable {
     }
 }
 
-public struct RomanConsulYear: Codable, Identifiable, Sendable {
+/// A derived eponymous year. This is intentionally not a second canonical data
+/// format: its officeholders come from ordinary-consul tenures.
+public struct RomanConsulYear: Identifiable, Sendable {
     public let auc: Int
-    public let bc: Int
-    public let consuls: [ConsulName]?
-    public let suffects: [ConsulName]?
+    public let startJDN: Int?
+    public let endJDN: Int?
+    public let consuls: [ConsulName]
+    public let suffects: [ConsulName]
     public let notes: String?
-    
-    // Derived ID
-    public var id: Int { auc }
-    
-    public var consulList: [ConsulName] { consuls ?? [] }
-    public var suffectList: [ConsulName] { suffects ?? [] }
-    public var noteText: String { notes ?? "" }
-    
-    public struct ConsulName: Codable, Sendable {
-        public let name: String
-    }
-}
 
-// Wrapper for the file structure
-struct RomanConsulsFile: Codable {
-    let years: [RomanConsulYear]
+    public var id: Int { auc }
+    public var bc: Int { 754 - auc }
+    public var consulList: [ConsulName] { consuls }
+    public var suffectList: [ConsulName] { suffects }
+    public var noteText: String { notes ?? "" }
+
+    public struct ConsulName: Sendable {
+        public let personID: String
+        public let name: String
+        public let seat: Int?
+        public let consulshipNumber: Int?
+    }
 }
