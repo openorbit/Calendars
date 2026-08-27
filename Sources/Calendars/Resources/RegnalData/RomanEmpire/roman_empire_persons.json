@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "P_ROMAN_EMPIRE_AUGUSTUS",
+    "name": {
+      "normalized": "Augustus"
+    },
+    "variants": [
+      {
+        "form": "Imperator Caesar Augustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Augustus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_TIBERIUS",
+    "name": {
+      "normalized": "Tiberius"
+    },
+    "variants": [
+      {
+        "form": "Tiberius Iulius Caesar Augustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Tiberius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CALIGULA",
+    "name": {
+      "normalized": "Caligula"
+    },
+    "variants": [
+      {
+        "form": "Gaius Caesar Augustus Germanicus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Caligula",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CLAUDIUS",
+    "name": {
+      "normalized": "Claudius"
+    },
+    "variants": [
+      {
+        "form": "Tiberius Claudius Caesar Augustus Germanicus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Claudius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_NERO",
+    "name": {
+      "normalized": "Nero"
+    },
+    "variants": [
+      {
+        "form": "Nero Claudius Caesar Augustus Germanicus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nero",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_GALBA",
+    "name": {
+      "normalized": "Galba"
+    },
+    "variants": [
+      {
+        "form": "Servius Galba Imperator Caesar Augustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Galba",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_OTHO",
+    "name": {
+      "normalized": "Otho"
+    },
+    "variants": [
+      {
+        "form": "Marcus Otho Caesar Augustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Otho",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_VITELLIUS",
+    "name": {
+      "normalized": "Vitellius"
+    },
+    "variants": [
+      {
+        "form": "Aulus Vitellius Germanicus Augustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vitellius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_VESPASIAN",
+    "name": {
+      "normalized": "Vespasian"
+    },
+    "variants": [
+      {
+        "form": "Titus Flavius Vespasianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vespasian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_TITUS",
+    "name": {
+      "normalized": "Titus"
+    },
+    "variants": [
+      {
+        "form": "Titus Flavius Vespasianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Titus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_DOMITIAN",
+    "name": {
+      "normalized": "Domitian"
+    },
+    "variants": [
+      {
+        "form": "Titus Flavius Domitianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Domitian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_NERVA",
+    "name": {
+      "normalized": "Nerva"
+    },
+    "variants": [
+      {
+        "form": "Marcus Cocceius Nerva",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nerva",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_TRAJAN",
+    "name": {
+      "normalized": "Trajan"
+    },
+    "variants": [
+      {
+        "form": "Marcus Ulpius Traianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Trajan",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_HADRIAN",
+    "name": {
+      "normalized": "Hadrian"
+    },
+    "variants": [
+      {
+        "form": "Publius Aelius Hadrianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hadrian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_ANTONINUS_PIUS",
+    "name": {
+      "normalized": "Antoninus Pius"
+    },
+    "variants": [
+      {
+        "form": "Titus Aelius Hadrianus Antoninus Pius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Antoninus Pius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_MARCUS_AURELIUS",
+    "name": {
+      "normalized": "Marcus Aurelius"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Antoninus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marcus Aurelius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_LUCIUS_VERUS",
+    "name": {
+      "normalized": "Lucius Verus"
+    },
+    "variants": [
+      {
+        "form": "Lucius Aurelius Verus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Lucius Verus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_COMMODUS",
+    "name": {
+      "normalized": "Commodus"
+    },
+    "variants": [
+      {
+        "form": "Lucius Aurelius Commodus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Commodus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_PERTINAX",
+    "name": {
+      "normalized": "Pertinax"
+    },
+    "variants": [
+      {
+        "form": "Publius Helvius Pertinax",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pertinax",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_DIDIUS_JULIANUS",
+    "name": {
+      "normalized": "Didius Julianus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Didius Severus Iulianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Didius Julianus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_SEPTIMIUS_SEVERUS",
+    "name": {
+      "normalized": "Septimius Severus"
+    },
+    "variants": [
+      {
+        "form": "Lucius Septimius Severus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Septimius Severus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CARACALLA",
+    "name": {
+      "normalized": "Caracalla"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Antoninus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Caracalla",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_GETA",
+    "name": {
+      "normalized": "Geta"
+    },
+    "variants": [
+      {
+        "form": "Publius Septimius Geta",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Geta",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_MACRINUS",
+    "name": {
+      "normalized": "Macrinus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Opellius Macrinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Macrinus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_DIADUMENIAN",
+    "name": {
+      "normalized": "Diadumenian"
+    },
+    "variants": [
+      {
+        "form": "Marcus Opellius Antoninus Diadumenianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Diadumenian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_ELAGABALUS",
+    "name": {
+      "normalized": "Elagabalus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Antoninus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Elagabalus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_SEVERUS_ALEXANDER",
+    "name": {
+      "normalized": "Severus Alexander"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Severus Alexander",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Severus Alexander",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_MAXIMINUS_THRAX",
+    "name": {
+      "normalized": "Maximinus Thrax"
+    },
+    "variants": [
+      {
+        "form": "Gaius Iulius Verus Maximinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximinus Thrax",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_GORDIAN_I",
+    "name": {
+      "normalized": "Gordian I"
+    },
+    "variants": [
+      {
+        "form": "Marcus Antonius Gordianus Sempronianus Romanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gordian I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_GORDIAN_II",
+    "name": {
+      "normalized": "Gordian II"
+    },
+    "variants": [
+      {
+        "form": "Marcus Antonius Gordianus Sempronianus Romanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gordian II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_PUPIENUS",
+    "name": {
+      "normalized": "Pupienus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Clodius Pupienus Maximus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pupienus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_BALBINUS",
+    "name": {
+      "normalized": "Balbinus"
+    },
+    "variants": [
+      {
+        "form": "Decimus Caelius Calvinus Balbinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Balbinus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_GORDIAN_III",
+    "name": {
+      "normalized": "Gordian III"
+    },
+    "variants": [
+      {
+        "form": "Marcus Antonius Gordianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gordian III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_PHILIP_I",
+    "name": {
+      "normalized": "Philip the Arab"
+    },
+    "variants": [
+      {
+        "form": "Marcus Iulius Philippus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Philip the Arab",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_PHILIP_II",
+    "name": {
+      "normalized": "Philip II"
+    },
+    "variants": [
+      {
+        "form": "Marcus Iulius Severus Philippus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Philip II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_DECIUS",
+    "name": {
+      "normalized": "Decius"
+    },
+    "variants": [
+      {
+        "form": "Gaius Messius Quintus Traianus Decius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Decius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_HERENNIUS_ETRUSCUS",
+    "name": {
+      "normalized": "Herennius Etruscus"
+    },
+    "variants": [
+      {
+        "form": "Quintus Herennius Etruscus Messius Decius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Herennius Etruscus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_HOSTILIAN",
+    "name": {
+      "normalized": "Hostilian"
+    },
+    "variants": [
+      {
+        "form": "Gaius Valens Hostilianus Messius Quintus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hostilian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_TREBONIANUS_GALLUS",
+    "name": {
+      "normalized": "Trebonianus Gallus"
+    },
+    "variants": [
+      {
+        "form": "Gaius Vibius Trebonianus Gallus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Trebonianus Gallus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_VOLUSIAN",
+    "name": {
+      "normalized": "Volusian"
+    },
+    "variants": [
+      {
+        "form": "Gaius Vibius Volusianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Volusian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_AEMILIAN",
+    "name": {
+      "normalized": "Aemilian"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aemilius Aemilianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Aemilian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_VALERIAN",
+    "name": {
+      "normalized": "Valerian"
+    },
+    "variants": [
+      {
+        "form": "Publius Licinius Valerianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Valerian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_GALLIENUS",
+    "name": {
+      "normalized": "Gallienus"
+    },
+    "variants": [
+      {
+        "form": "Publius Licinius Egnatius Gallienus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gallienus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CLAUDIUS_II",
+    "name": {
+      "normalized": "Claudius II Gothicus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Claudius Gothicus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Claudius II Gothicus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_QUINTILLUS",
+    "name": {
+      "normalized": "Quintillus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Claudius Quintillus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Quintillus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_AURELIAN",
+    "name": {
+      "normalized": "Aurelian"
+    },
+    "variants": [
+      {
+        "form": "Lucius Domitius Aurelianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Aurelian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_TACITUS",
+    "name": {
+      "normalized": "Tacitus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Claudius Tacitus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Tacitus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_FLORIAN",
+    "name": {
+      "normalized": "Florian"
+    },
+    "variants": [
+      {
+        "form": "Marcus Annius Florianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Florian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_PROBUS",
+    "name": {
+      "normalized": "Probus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Probus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Probus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CARUS",
+    "name": {
+      "normalized": "Carus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Carus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Carus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CARINUS",
+    "name": {
+      "normalized": "Carinus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Carinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Carinus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_NUMERIAN",
+    "name": {
+      "normalized": "Numerian"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Numerius Numerianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Numerian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_DIOCLETIAN",
+    "name": {
+      "normalized": "Diocletian"
+    },
+    "variants": [
+      {
+        "form": "Gaius Aurelius Valerius Diocletianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Diocletian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_MAXIMIAN",
+    "name": {
+      "normalized": "Maximian"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Valerius Maximianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CONSTANTIUS_I",
+    "name": {
+      "normalized": "Constantius I Chlorus"
+    },
+    "variants": [
+      {
+        "form": "Flavius Valerius Constantius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantius I Chlorus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_GALERIUS",
+    "name": {
+      "normalized": "Galerius"
+    },
+    "variants": [
+      {
+        "form": "Gaius Galerius Valerius Maximianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Galerius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_SEVERUS_II",
+    "name": {
+      "normalized": "Severus II"
+    },
+    "variants": [
+      {
+        "form": "Flavius Valerius Severus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Severus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CONSTANTINE_I",
+    "name": {
+      "normalized": "Constantine I"
+    },
+    "variants": [
+      {
+        "form": "Flavius Valerius Constantinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_MAXENTIUS",
+    "name": {
+      "normalized": "Maxentius"
+    },
+    "variants": [
+      {
+        "form": "Marcus Aurelius Valerius Maxentius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maxentius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_LICINIUS",
+    "name": {
+      "normalized": "Licinius"
+    },
+    "variants": [
+      {
+        "form": "Valerius Licinianus Licinius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Licinius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_MAXIMINUS_II",
+    "name": {
+      "normalized": "Maximinus II Daia"
+    },
+    "variants": [
+      {
+        "form": "Galerius Valerius Maximinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximinus II Daia",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CONSTANTINE_II",
+    "name": {
+      "normalized": "Constantine II"
+    },
+    "variants": [
+      {
+        "form": "Flavius Claudius Constantinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CONSTANS",
+    "name": {
+      "normalized": "Constans"
+    },
+    "variants": [
+      {
+        "form": "Flavius Iulius Constans",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constans",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_CONSTANTIUS_II",
+    "name": {
+      "normalized": "Constantius II"
+    },
+    "variants": [
+      {
+        "form": "Flavius Iulius Constantius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_JULIAN",
+    "name": {
+      "normalized": "Julian"
+    },
+    "variants": [
+      {
+        "form": "Flavius Claudius Iulianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Julian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_JOVIAN",
+    "name": {
+      "normalized": "Jovian"
+    },
+    "variants": [
+      {
+        "form": "Flavius Iovianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jovian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_VALENTINIAN_I",
+    "name": {
+      "normalized": "Valentinian I"
+    },
+    "variants": [
+      {
+        "form": "Flavius Valentinianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Valentinian I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_VALENS",
+    "name": {
+      "normalized": "Valens"
+    },
+    "variants": [
+      {
+        "form": "Flavius Iulius Valens",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Valens",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_GRATIAN",
+    "name": {
+      "normalized": "Gratian"
+    },
+    "variants": [
+      {
+        "form": "Flavius Gratianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gratian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_VALENTINIAN_II",
+    "name": {
+      "normalized": "Valentinian II"
+    },
+    "variants": [
+      {
+        "form": "Flavius Valentinianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Valentinian II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_THEODOSIUS_I",
+    "name": {
+      "normalized": "Theodosius I"
+    },
+    "variants": [
+      {
+        "form": "Flavius Theodosius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodosius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_MAGNUS_MAXIMUS",
+    "name": {
+      "normalized": "Magnus Maximus"
+    },
+    "variants": [
+      {
+        "form": "Magnus Maximus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus Maximus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_ARCADIUS",
+    "name": {
+      "normalized": "Arcadius"
+    },
+    "variants": [
+      {
+        "form": "Flavius Arcadius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Arcadius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_EUGENIUS",
+    "name": {
+      "normalized": "Eugenius"
+    },
+    "variants": [
+      {
+        "form": "Flavius Eugenius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Eugenius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMAN_EMPIRE_HONORIUS",
+    "name": {
+      "normalized": "Honorius"
+    },
+    "variants": [
+      {
+        "form": "Flavius Honorius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Honorius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

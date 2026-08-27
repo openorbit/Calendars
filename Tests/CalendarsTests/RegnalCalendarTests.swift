@@ -62,6 +62,7 @@ struct RegnalCalendarTests {
             "POLITY_PORTUGAL",
             "POLITY_REGNUM_FRANCORUM",
             "POLITY_ROMAN_REPUBLIC",
+            "POLITY_ROMAN_EMPIRE",
             "POLITY_ROMANIA_MONARCHY",
             "POLITY_RUSSIAN_EMPIRE",
             "POLITY_RUSSIAN_FEDERATION",
@@ -76,6 +77,7 @@ struct RegnalCalendarTests {
             "POLITY_UNITED_STATES",
             "POLITY_VISIGOTHIC_KINGDOM",
             "POLITY_WESSEX",
+            "POLITY_WESTERN_ROMAN_EMPIRE",
             "POLITY_WEST_FRANCIA"
         ]
 
@@ -131,6 +133,7 @@ struct RegnalCalendarTests {
         "POLITY_PORTUGAL",
         "POLITY_REGNUM_FRANCORUM",
         "POLITY_ROMAN_REPUBLIC",
+        "POLITY_ROMAN_EMPIRE",
         "POLITY_ROMANIA_MONARCHY",
         "POLITY_RUSSIAN_EMPIRE",
         "POLITY_RUSSIAN_FEDERATION",
@@ -145,6 +148,7 @@ struct RegnalCalendarTests {
         "POLITY_UNITED_STATES",
         "POLITY_VISIGOTHIC_KINGDOM",
         "POLITY_WESSEX",
+        "POLITY_WESTERN_ROMAN_EMPIRE",
         "POLITY_WEST_FRANCIA"
     ])
     func polityHasRegnalTenures(polityID: String) throws {
@@ -810,7 +814,7 @@ struct RegnalCalendarTests {
             tenures.first { $0.personID == "P_EASTERN_ROMAN_CONSTANTINE_XI" }
         )
 
-        #expect(tenures.count == 95)
+        #expect(tenures.count == 89)
         #expect(justinianII.count == 2)
         #expect(isaacII.count == 2)
         #expect(johnV.count == 3)
@@ -829,7 +833,61 @@ struct RegnalCalendarTests {
         )
     }
 
+    @Test("Roman imperial succession preserves co-emperors and ends at the 395 division")
+    func romanImperialSuccessionEndsAtThePermanentDivision() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_ROMAN_EMPIRE_EMPEROR")
+        let augustus = try #require(
+            tenures.first { $0.personID == "P_ROMAN_EMPIRE_AUGUSTUS" }
+        )
+        let diocletian = try #require(
+            tenures.first { $0.personID == "P_ROMAN_EMPIRE_DIOCLETIAN" }
+        )
+        let maximian = try #require(
+            tenures.first { $0.personID == "P_ROMAN_EMPIRE_MAXIMIAN" }
+        )
+        let theodosius = try #require(
+            tenures.first { $0.personID == "P_ROMAN_EMPIRE_THEODOSIUS_I" }
+        )
+
+        #expect(tenures.count == 75)
+        #expect(augustus.start.first?.ymd?.year == -26)
+        #expect(diocletian.start.first?.ymd?.year == 284)
+        #expect(maximian.start.first?.ymd?.year == 286)
+        #expect(maximian.status == "co-emperor")
+        #expect(tenures.contains { $0.status == "disputed" })
+        #expect(theodosius.end.first?.ymd?.year == 395)
+        #expect(
+            calendar.person(forID: "P_ROMAN_EMPIRE_AUGUSTUS")?.variants.contains {
+                $0.form == "Imperator Caesar Augustus" && $0.lang == "la"
+            } == true
+        )
+    }
+
+    @Test("Western and Eastern imperial successions begin together in 395")
+    func westernAndEasternImperialSuccessionsBeginTogether() throws {
+        let west = calendar.tenures(forOffice: "OFFICE_WESTERN_ROMAN_EMPEROR")
+        let east = calendar.tenures(forOffice: "OFFICE_EASTERN_ROMAN_EMPEROR")
+        let nepos = west.filter { $0.personID == "P_WESTERN_ROMAN_JULIUS_NEPOS" }
+        let romulus = try #require(
+            west.first { $0.personID == "P_WESTERN_ROMAN_ROMULUS_AUGUSTULUS" }
+        )
+
+        #expect(west.count == 14)
+        #expect(west.first?.personID == "P_WESTERN_ROMAN_HONORIUS")
+        #expect(west.first?.start.first?.ymd?.year == 395)
+        #expect(east.first?.personID == "P_EASTERN_ROMAN_ARCADIUS")
+        #expect(east.first?.start.first?.ymd?.year == 395)
+        #expect(!west.contains { $0.start.first?.ymd?.year == 466 })
+        #expect(nepos.count == 2)
+        #expect(nepos.contains { $0.status == "exile" })
+        #expect(nepos.last?.end.first?.ymd?.year == 480)
+        #expect(romulus.status == "disputed")
+        #expect(romulus.end.first?.ymd?.year == 476)
+    }
+
     @Test("Russian and Eastern Roman datasets retain source provenance", arguments: [
+        "POLITY_ROMAN_EMPIRE",
+        "POLITY_WESTERN_ROMAN_EMPIRE",
         "POLITY_EASTERN_ROMAN_EMPIRE",
         "POLITY_GRAND_PRINCIPALITY_MOSCOW",
         "POLITY_TSARDOM_RUSSIA",

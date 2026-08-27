@@ -1,0 +1,464 @@
+[
+  {
+    "id": "TEN_WESTERN_ROMAN_HONORIUS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_HONORIUS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 395
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 423
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_CONSTANTIUS_III_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_CONSTANTIUS_III",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 421
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 421
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "co-emperor"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_JOANNES_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_JOANNES",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 423
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 425
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_VALENTINIAN_III_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_VALENTINIAN_III",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 425
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 455
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_PETRONIUS_MAXIMUS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_PETRONIUS_MAXIMUS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 455
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 455
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_AVITUS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_AVITUS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 455
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 456
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_MAJORIAN_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_MAJORIAN",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 457
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 461
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_LIBIUS_SEVERUS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_LIBIUS_SEVERUS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 461
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 465
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_ANTHEMIUS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_ANTHEMIUS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 467
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 472
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_OLYBRIUS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_OLYBRIUS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 472
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 472
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_GLYCERIUS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_GLYCERIUS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 473
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 474
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_JULIUS_NEPOS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_JULIUS_NEPOS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 474
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 475
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_ROMULUS_AUGUSTULUS_1",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_ROMULUS_AUGUSTULUS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 475
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 476
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_WESTERN_ROMAN_JULIUS_NEPOS_2",
+    "office_id": "OFFICE_WESTERN_ROMAN_EMPEROR",
+    "person_id": "P_WESTERN_ROMAN_JULIUS_NEPOS",
+    "ordinal": null,
+    "polity_id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 475
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 480
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "exile"
+  }
+]

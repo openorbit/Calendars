@@ -1,0 +1,288 @@
+[
+  {
+    "id": "P_WESTERN_ROMAN_HONORIUS",
+    "name": {
+      "normalized": "Honorius"
+    },
+    "variants": [
+      {
+        "form": "Flavius Honorius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Honorius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_CONSTANTIUS_III",
+    "name": {
+      "normalized": "Constantius III"
+    },
+    "variants": [
+      {
+        "form": "Flavius Constantius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantius III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_JOANNES",
+    "name": {
+      "normalized": "Joannes"
+    },
+    "variants": [
+      {
+        "form": "Ioannes",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Joannes",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_VALENTINIAN_III",
+    "name": {
+      "normalized": "Valentinian III"
+    },
+    "variants": [
+      {
+        "form": "Flavius Placidus Valentinianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Valentinian III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_PETRONIUS_MAXIMUS",
+    "name": {
+      "normalized": "Petronius Maximus"
+    },
+    "variants": [
+      {
+        "form": "Flavius Anicius Petronius Maximus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Petronius Maximus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_AVITUS",
+    "name": {
+      "normalized": "Avitus"
+    },
+    "variants": [
+      {
+        "form": "Eparchius Avitus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Avitus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_MAJORIAN",
+    "name": {
+      "normalized": "Majorian"
+    },
+    "variants": [
+      {
+        "form": "Iulius Valerius Maiorianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Majorian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_LIBIUS_SEVERUS",
+    "name": {
+      "normalized": "Libius Severus"
+    },
+    "variants": [
+      {
+        "form": "Libius Severus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Libius Severus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_ANTHEMIUS",
+    "name": {
+      "normalized": "Anthemius"
+    },
+    "variants": [
+      {
+        "form": "Procopius Anthemius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anthemius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_OLYBRIUS",
+    "name": {
+      "normalized": "Olybrius"
+    },
+    "variants": [
+      {
+        "form": "Anicius Olybrius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Olybrius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_GLYCERIUS",
+    "name": {
+      "normalized": "Glycerius"
+    },
+    "variants": [
+      {
+        "form": "Glycerius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Glycerius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_JULIUS_NEPOS",
+    "name": {
+      "normalized": "Julius Nepos"
+    },
+    "variants": [
+      {
+        "form": "Iulius Nepos",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Julius Nepos",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WESTERN_ROMAN_ROMULUS_AUGUSTULUS",
+    "name": {
+      "normalized": "Romulus Augustulus"
+    },
+    "variants": [
+      {
+        "form": "Romulus Augustus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Romulus Augustulus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

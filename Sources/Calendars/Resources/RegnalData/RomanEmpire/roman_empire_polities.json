@@ -1,0 +1,18 @@
+[
+  {
+    "id": "POLITY_ROMAN_EMPIRE",
+    "label": "Roman Empire",
+    "sources": [
+      {
+        "title": "The Roman Empire (27 B.C.–393 A.D.)",
+        "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+        "note": "Metropolitan Museum overview and imperial chronology through Theodosius I."
+      },
+      {
+        "title": "Imperial Rome",
+        "url": "https://www.britishmuseum.org/sites/default/files/2019-09/Visit_Imperial_Rome_KS2b.pdf",
+        "note": "British Museum chronology for Augustus, the imperial period, and the permanent division in 395."
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "POLITY_WESTERN_ROMAN_EMPIRE",
+    "label": "Western Roman Empire",
+    "sources": [
+      {
+        "title": "The Roman Empire (27 B.C.–393 A.D.)",
+        "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+        "note": "Metropolitan Museum overview of the 395 division and the western imperial succession."
+      },
+      {
+        "title": "The Last Roman Emperor: The Political Significance of Julius Nepos after 476",
+        "url": "https://classicalstudies.org/annual-meeting/157/abstract/last-roman-emperor-political-significance-julius-nepos-after-476",
+        "note": "Society for Classical Studies summary supporting Nepos's continuing recognition until 480."
+      }
+    ]
+  }
+]
