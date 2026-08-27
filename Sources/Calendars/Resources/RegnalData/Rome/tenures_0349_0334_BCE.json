@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "TENURE_AUC_405_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_FURIUS_CAMILLUS_349",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 405
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 405
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 349 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "349 BCE, A.L.C. 161"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_405_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_APPIUS_CLAUDIUS_CRASSUS_INREGILLENSIS_349",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 405
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 405
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 349 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "349 BCE, A.L.C. 161"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_406_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_VALERIUS_CORVUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 406
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 406
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 348 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "348 BCE, A.L.C. 162"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_406_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_POPILLIUS_LAENAS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 406
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 406
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "The source gives this as the third or fourth consulship; no single number is selected.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "disputed",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "348 BCE, A.L.C. 162"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_407_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_PLAUTIUS_VENNO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 407
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 407
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "The source preserves an uncertain cognomen form.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "disputed",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "347 BCE, A.L.C. 163"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_407_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_MANLIUS_IMPERIOSUS_TORQUATUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 407
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 407
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 347 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "347 BCE, A.L.C. 163"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_408_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_VALERIUS_CORVUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 408
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 408
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 346 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "346 BCE, A.L.C. 164"
+        }
+      ],
+      "consulship_number": 2
+    }
+  },
+  {
+    "id": "TENURE_AUC_408_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_POETELIUS_LIBO_VISOLUS_360",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 408
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 408
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 346 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "346 BCE, A.L.C. 164"
+        }
+      ],
+      "consulship_number": 2
+    }
+  },
+  {
+    "id": "TENURE_AUC_409_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_FABIUS_DORSUO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 409
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 409
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 345 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "345 BCE, A.L.C. 165"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_409_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SERVIUS_SULPICIUS_CAMERINUS_RUFUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 409
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 409
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 345 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "345 BCE, A.L.C. 165"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_410_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MARCIUS_RUTILUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 410
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 410
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 344 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "344 BCE, A.L.C. 166"
+        }
+      ],
+      "consulship_number": 3
+    }
+  },
+  {
+    "id": "TENURE_AUC_410_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_MANLIUS_IMPERIOSUS_TORQUATUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 410
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 410
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 344 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "344 BCE, A.L.C. 166"
+        }
+      ],
+      "consulship_number": 2
+    }
+  },
+  {
+    "id": "TENURE_AUC_411_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_VALERIUS_CORVUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 411
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 411
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 343 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "343 BCE, A.L.C. 167"
+        }
+      ],
+      "consulship_number": 3
+    }
+  },
+  {
+    "id": "TENURE_AUC_411_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_AULUS_CORNELIUS_COSSUS_ARVINA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 411
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 411
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 343 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "343 BCE, A.L.C. 167"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_412_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_SERVILIUS_AHALA_365",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 412
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 412
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 342 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "342 BCE, A.L.C. 168"
+        }
+      ],
+      "consulship_number": 3
+    }
+  },
+  {
+    "id": "TENURE_AUC_412_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MARCIUS_RUTILUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 412
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 412
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 342 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "342 BCE, A.L.C. 168"
+        }
+      ],
+      "consulship_number": 4
+    }
+  },
+  {
+    "id": "TENURE_AUC_413_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_PLAUTIUS_VENNO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 413
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 413
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "The source preserves an uncertain cognomen form.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "disputed",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "341 BCE, A.L.C. 169"
+        }
+      ],
+      "consulship_number": 2
+    }
+  },
+  {
+    "id": "TENURE_AUC_413_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_AEMILIUS_MAMERCINUS_PRIVERNAS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 413
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 413
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 341 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "341 BCE, A.L.C. 169"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_414_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_MANLIUS_IMPERIOSUS_TORQUATUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 414
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 414
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 340 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "340 BCE, A.L.C. 170"
+        }
+      ],
+      "consulship_number": 3
+    }
+  },
+  {
+    "id": "TENURE_AUC_414_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_DECIUS_MUS_340",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 414
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 414
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 340 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "340 BCE, A.L.C. 170"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_415_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TIBERIUS_AEMILIUS_MAMERCINUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 415
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 415
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 339 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "339 BCE, A.L.C. 171"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_415_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_PUBLILIUS_PHILO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 415
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 415
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 339 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "339 BCE, A.L.C. 171"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_416_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_FURIUS_CAMILLUS_338",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 416
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 416
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 338 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "338 BCE, A.L.C. 172"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_416_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MAENIUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 416
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 416
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 338 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "338 BCE, A.L.C. 172"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_417_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_SULPICIUS_LONGUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 417
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 417
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 337 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "337 BCE, A.L.C. 173"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_417_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_AELIUS_PAETUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 417
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 417
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 337 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "337 BCE, A.L.C. 173"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_418_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_PAPIRIUS_CRASSUS_336",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 418
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 418
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 336 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "336 BCE; page prints A.L.C. 178, corrected here to sequential A.L.C. 174"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_418_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_KAESO_DUILLIUS_336",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 418
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 418
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 336 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "336 BCE; page prints A.L.C. 178, corrected here to sequential A.L.C. 174"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_419_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_ATILIUS_REGULUS_CALENUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 419
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 419
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 335 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "335 BCE, A.L.C. 175"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_419_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_VALERIUS_CORVUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 419
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 419
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 335 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "335 BCE, A.L.C. 175"
+        }
+      ],
+      "consulship_number": 4
+    }
+  },
+  {
+    "id": "TENURE_AUC_420_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SPURIUS_POSTUMIUS_ALBINUS_334",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 420
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 420
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 334 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "334 BCE, A.L.C. 176"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_420_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_VETURIUS_CALVINUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 420
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 420
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "traditional",
+    "notes": "Traditional Varronian college for 334 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "tradition": "traditional",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "334 BCE, A.L.C. 176"
+        }
+      ],
+      "consulship_number": 1
+    }
+  },
+  {
+    "id": "TENURE_AUC_405_CONSUL_1_ALTERNATIVE",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_AEMILIUS_349",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 405
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 405
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "Alternative 349b ordinary-consul college in the source.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "alternative_to_tenure_id": "TENURE_AUC_405_CONSUL_1",
+      "tradition": "alternative",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "349b BCE, A.L.C. 161"
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_405_CONSUL_2_ALTERNATIVE",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_QUINCTIUS_349",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 405
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 405
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "Alternative 349b ordinary-consul college in the source.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "alternative_to_tenure_id": "TENURE_AUC_405_CONSUL_2",
+      "tradition": "alternative",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "349b BCE, A.L.C. 161"
+        }
+      ]
+    }
+  }
+]

@@ -453,4 +453,112 @@ struct ConsularFastiTests {
             }
         )
     }
+
+    @Test("The ordinary sequence continues through 334 BCE")
+    func ordinarySequenceThrough334BCE() throws {
+        for auc in 405...420 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        let alternatives = calendar.tenures.filter {
+            $0.start.first?.ymd?.year == 405 &&
+                $0.consular?.alternativeToTenureID != nil
+        }
+        #expect(alternatives.count == 2)
+    }
+
+    @Test("The 336 BCE ALC correction is explicit")
+    func year336CorrectsALCTranscription() {
+        let tenures = calendar.tenures.filter {
+            $0.start.first?.calendar == "AUC" && $0.start.first?.ymd?.year == 418
+        }
+
+        #expect(tenures.count == 2)
+        #expect(tenures.allSatisfy {
+            $0.consular?.sources.first?.note?.contains("corrected here") == true
+        })
+        #expect(RomanChronology.alc(fromVarronianAUC: 418) == 174)
+    }
+
+    @Test("Fabricated dictator-only years do not become consular years")
+    func dictatorOnlyYearsRemainExplicitFabrications() throws {
+        for auc in [421, 430] {
+            #expect(calendar.consularYear(auc: auc) == nil)
+            let dictator = try #require(
+                calendar.tenures(forOffice: "OFFICE_DICTATOR").first {
+                    $0.start.first?.ymd?.year == auc
+                }
+            )
+            #expect(dictator.consular?.role == .dictator)
+            #expect(dictator.consular?.tradition == .fabricatedVarronian)
+        }
+    }
+
+    @Test("The ordinary sequence between dictator insertions remains intact")
+    func ordinarySequenceThrough325BCE() throws {
+        for auc in 422...429 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+        }
+
+        let alternatives = calendar.tenures.filter {
+            $0.start.first?.ymd?.year == 426 &&
+                $0.consular?.alternativeToTenureID != nil
+        }
+        #expect(alternatives.count == 2)
+    }
+
+    @Test("The ordinary sequence continues through 310 BCE")
+    func ordinarySequenceThrough310BCE() throws {
+        for auc in 431...444 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+    }
+
+    @Test("The 309 BCE dictator year remains a fabricated non-consular insertion")
+    func year309IsFabricatedDictatorYear() throws {
+        #expect(calendar.consularYear(auc: 445) == nil)
+        let dictator = try #require(
+            calendar.tenures(forOffice: "OFFICE_DICTATOR").first {
+                $0.start.first?.ymd?.year == 445
+            }
+        )
+
+        #expect(dictator.personID == "P_LUCIUS_PAPIRIUS_CURSOR_326")
+        #expect(dictator.consular?.tradition == .fabricatedVarronian)
+    }
+
+    @Test("The sequence reaches 290 BCE around the final dictator insertion")
+    func sequenceThrough290BCE() throws {
+        for auc in Array(446...452) + Array(454...464) {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+        }
+
+        #expect(calendar.consularYear(auc: 453) == nil)
+        #expect(
+            calendar.tenures(forOffice: "OFFICE_DICTATOR").contains {
+                $0.start.first?.ymd?.year == 453 &&
+                    $0.consular?.tradition == .fabricatedVarronian
+            }
+        )
+    }
+
+    @Test("The 299 BCE suffect remains outside the primary pair")
+    func year299RetainsSuffect() throws {
+        let year = try #require(calendar.consularYear(auc: 455))
+
+        #expect(year.consulList.count == 2)
+        #expect(year.suffectList.count == 1)
+        #expect(year.suffectList[0].personID == "P_MARCUS_VALERIUS_MAXIMUS_CORVUS")
+        #expect(year.suffectList[0].consulshipNumber == 6)
+    }
 }

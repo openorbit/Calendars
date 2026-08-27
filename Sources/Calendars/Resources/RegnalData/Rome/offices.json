@@ -22,5 +22,11 @@
     "polity_id": "POLITY_ROMAN_REPUBLIC",
     "label": "Tribunus militum consulari potestate",
     "succession_mode": "annual_college"
+  },
+  {
+    "id": "OFFICE_DICTATOR",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "label": "Dictator",
+    "succession_mode": "extraordinary_appointment"
   }
 ]

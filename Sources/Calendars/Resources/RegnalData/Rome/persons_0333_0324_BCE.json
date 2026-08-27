@@ -1,0 +1,183 @@
+[
+  {
+    "id": "P_PUBLIUS_CORNELIUS_RUFINUS_333",
+    "name": {
+      "normalized": "Publius Cornelius Rufinus"
+    },
+    "variants": [
+      {
+        "form": "P. Cornelius Rufinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GNAEUS_DOMITIUS_CALVINUS_332",
+    "name": {
+      "normalized": "Gnaeus Domitius Calvinus"
+    },
+    "variants": [
+      {
+        "form": "Cn. Domitius Calvinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_VALERIUS_POTITUS_331",
+    "name": {
+      "normalized": "Gaius Valerius Potitus"
+    },
+    "variants": [
+      {
+        "form": "C. Valerius Potitus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_CLAUDIUS_MARCELLUS_331",
+    "name": {
+      "normalized": "Marcus Claudius Marcellus"
+    },
+    "variants": [
+      {
+        "form": "M. Claudius Marcellus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_PLAUTIUS_VENNO_330",
+    "name": {
+      "normalized": "Lucius Plautius Venno"
+    },
+    "variants": [
+      {
+        "form": "L. Plautius Venno (Venox ?)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_PLAUTIUS_DECIANUS",
+    "name": {
+      "normalized": "Gaius Plautius Decianus"
+    },
+    "variants": [
+      {
+        "form": "C. Plautius Decianus I?",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_PLAUTIUS_PROCULUS_328",
+    "name": {
+      "normalized": "Publius Plautius Proculus"
+    },
+    "variants": [
+      {
+        "form": "P. Plautius Proculus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CORNELIUS_SCAPULA",
+    "name": {
+      "normalized": "Publius Cornelius Scapula"
+    },
+    "variants": [
+      {
+        "form": "P. Cornelius Scapula",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CORNELIUS_SCIPIO_BARBATUS",
+    "name": {
+      "normalized": "Publius Cornelius Scipio Barbatus"
+    },
+    "variants": [
+      {
+        "form": "P. Cornelius Scipio Barbatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_CORNELIUS_LENTULUS_327",
+    "name": {
+      "normalized": "Lucius Cornelius Lentulus"
+    },
+    "variants": [
+      {
+        "form": "L. Cornelius Lentulus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_PAPIRIUS_CURSOR_326",
+    "name": {
+      "normalized": "Lucius Papirius Cursor"
+    },
+    "variants": [
+      {
+        "form": "L. Papirius Cursor I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_DECIUS_IUNIUS_BRUTUS_SCAEVA",
+    "name": {
+      "normalized": "Decius Iunius Brutus Scaeva"
+    },
+    "variants": [
+      {
+        "form": "D. Iunius Brutus Scaeva",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

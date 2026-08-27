@@ -1,0 +1,183 @@
+[
+  {
+    "id": "P_QUINTUS_AULIUS_CERRETANUS",
+    "name": {
+      "normalized": "Quintus Aulius Cerretanus"
+    },
+    "variants": [
+      {
+        "form": "Q. Aulius Cerretanus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_FABIUS_MAXIMUS_RULLIANUS",
+    "name": {
+      "normalized": "Quintus Fabius Maximus Rullianus"
+    },
+    "variants": [
+      {
+        "form": "Q. Fabius Maximus Rullianus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_FULVIUS_CURVUS",
+    "name": {
+      "normalized": "Lucius Fulvius Curvus"
+    },
+    "variants": [
+      {
+        "form": "L. Fulvius Curvus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FOLIUS_FLACCINATOR_318",
+    "name": {
+      "normalized": "Marcus Folius Flaccinator"
+    },
+    "variants": [
+      {
+        "form": "M. Folius Flaccinator",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_NAUTIUS_RUTILUS_316",
+    "name": {
+      "normalized": "Spurius Nautius Rutilus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Nautius Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_POPILIUS_LAENAS_316",
+    "name": {
+      "normalized": "Marcus Popilius Laenas"
+    },
+    "variants": [
+      {
+        "form": "M. Popilius Laenas",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_POETELIUS_LIBO",
+    "name": {
+      "normalized": "Marcus Poetelius Libo"
+    },
+    "variants": [
+      {
+        "form": "M. Poetelius Libo",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_IUNIUS_BUBULCUS_BRUTUS",
+    "name": {
+      "normalized": "Gaius Iunius Bubulcus Brutus"
+    },
+    "variants": [
+      {
+        "form": "C. Iunius Bubulcus Brutus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_AEMILIUS_BARBULA",
+    "name": {
+      "normalized": "Quintus Aemilius Barbula"
+    },
+    "variants": [
+      {
+        "form": "Q. Aemilius Barbula I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_VALERIUS_MAXIMUS_CORVINUS_312",
+    "name": {
+      "normalized": "Marcus Valerius Maximus Corvinus"
+    },
+    "variants": [
+      {
+        "form": "M. Valerius Maximus (Corvinus) I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_DECIUS_MUS_312",
+    "name": {
+      "normalized": "Publius Decius Mus"
+    },
+    "variants": [
+      {
+        "form": "P. Decius Mus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_MARCIUS_RUTILUS_CENSORINUS",
+    "name": {
+      "normalized": "Gaius Marcius Rutilus Censorinus"
+    },
+    "variants": [
+      {
+        "form": "C. Marcius Rutilus (Censorinus)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+
