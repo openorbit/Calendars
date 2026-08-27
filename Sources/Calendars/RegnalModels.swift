@@ -38,9 +38,20 @@ public struct RegnalTenure: Codable, Identifiable {
     }
     
     public struct DateDefinition: Codable {
-        public let rep: String // "ymd"
-        public let calendar: String // "Julian"
+        public let rep: String // "ymd" or "open"
+        public let calendar: String
         public let ymd: YMD?
+
+        enum CodingKeys: String, CodingKey {
+            case rep, calendar, ymd
+        }
+
+        public init(from decoder: any Decoder) throws {
+            let container = try decoder.container(keyedBy: CodingKeys.self)
+            rep = try container.decode(String.self, forKey: .rep)
+            calendar = try container.decodeIfPresent(String.self, forKey: .calendar) ?? ""
+            ymd = try container.decodeIfPresent(YMD.self, forKey: .ymd)
+        }
     }
     
     public struct YMD: Codable {
@@ -54,10 +65,30 @@ public struct RegnalOffice: Codable, Identifiable, Sendable {
     public let id: String
     public let label: String
     public let polityID: String
-    
+
     enum CodingKeys: String, CodingKey {
         case id, label
         case polityID = "polity_id"
+        case scopePolityID = "scope_polity_id"
+    }
+
+    public init(from decoder: any Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        id = try container.decode(String.self, forKey: .id)
+        label = try container.decode(String.self, forKey: .label)
+
+        if let polityID = try container.decodeIfPresent(String.self, forKey: .polityID) {
+            self.polityID = polityID
+        } else {
+            polityID = try container.decode(String.self, forKey: .scopePolityID)
+        }
+    }
+
+    public func encode(to encoder: any Encoder) throws {
+        var container = encoder.container(keyedBy: CodingKeys.self)
+        try container.encode(id, forKey: .id)
+        try container.encode(label, forKey: .label)
+        try container.encode(polityID, forKey: .polityID)
     }
 }
 
@@ -66,9 +97,17 @@ public struct RegnalPolity: Codable, Identifiable, Sendable {
     public let label: String
     public let region: String
     public let notes: String?
-    
+
     enum CodingKeys: String, CodingKey {
         case id, label, region, notes
+    }
+
+    public init(from decoder: any Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        id = try container.decode(String.self, forKey: .id)
+        label = try container.decode(String.self, forKey: .label)
+        region = try container.decodeIfPresent(String.self, forKey: .region) ?? ""
+        notes = try container.decodeIfPresent(String.self, forKey: .notes)
     }
 }
 

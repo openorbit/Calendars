@@ -1,0 +1,884 @@
+[
+  {
+    "id": "TEN_P_KLEPSCH_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_KLEPSCH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1992,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1994,
+          "month": 7,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HAENSCH_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_HAENSCH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1994,
+          "month": 7,
+          "day": 19
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1997,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_GIL_ROBLES_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_GIL_ROBLES",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1997,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1999,
+          "month": 7,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_FONTIANE_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_FONTIANE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1999,
+          "month": 7,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2002,
+          "month": 1,
+          "day": 15
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_COX_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_COX",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2002,
+          "month": 1,
+          "day": 15
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2004,
+          "month": 7,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_BORRELL_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_BORRELL",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2004,
+          "month": 7,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2007,
+          "month": 1,
+          "day": 16
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_POETTERING_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_POETTERING",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2007,
+          "month": 1,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2009,
+          "month": 7,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_BUZEK_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_BUZEK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2009,
+          "month": 7,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2012,
+          "month": 1,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_SCHULZ_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_SCHULZ",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2012,
+          "month": 1,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2017,
+          "month": 1,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_TAJANI_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_TAJANI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2017,
+          "month": 1,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2019,
+          "month": 7,
+          "day": 3
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_SASSOLI_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_SASSOLI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2019,
+          "month": 7,
+          "day": 3
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2022,
+          "month": 1,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_METSOLA_OFFICE_EU_PARLIAMENT_SPEAKER",
+    "office_id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "person_id": "P_METSOLA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2022,
+          "month": 1,
+          "day": 18
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_DELOURS_OFFICE_EU_COMMISSION_PRESIDENT",
+    "office_id": "OFFICE_EU_COMMISSION_PRESIDENT",
+    "person_id": "P_DELOURS",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1985,
+          "month": 1,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1995,
+          "month": 1,
+          "day": 23
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_SAN_TER_OFFICE_EU_COMMISSION_PRESIDENT",
+    "office_id": "OFFICE_EU_COMMISSION_PRESIDENT",
+    "person_id": "P_SAN_TER",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1995,
+          "month": 1,
+          "day": 23
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1999,
+          "month": 9,
+          "day": 15
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_PRODI_OFFICE_EU_COMMISSION_PRESIDENT",
+    "office_id": "OFFICE_EU_COMMISSION_PRESIDENT",
+    "person_id": "P_PRODI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1999,
+          "month": 9,
+          "day": 15
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2004,
+          "month": 11,
+          "day": 22
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_BARROSO_OFFICE_EU_COMMISSION_PRESIDENT",
+    "office_id": "OFFICE_EU_COMMISSION_PRESIDENT",
+    "person_id": "P_BARROSO",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2004,
+          "month": 11,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2014,
+          "month": 11,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_JUNCKER_OFFICE_EU_COMMISSION_PRESIDENT",
+    "office_id": "OFFICE_EU_COMMISSION_PRESIDENT",
+    "person_id": "P_JUNCKER",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2014,
+          "month": 11,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2019,
+          "month": 12,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_VON_DER_LEYEN_OFFICE_EU_COMMISSION_PRESIDENT",
+    "office_id": "OFFICE_EU_COMMISSION_PRESIDENT",
+    "person_id": "P_VON_DER_LEYEN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2019,
+          "month": 12,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_VAN_ROMPUY_OFFICE_EU_COUNCIL_PRESIDENT",
+    "office_id": "OFFICE_EU_COUNCIL_PRESIDENT",
+    "person_id": "P_VAN_ROMPUY",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2010,
+          "month": 1,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2014,
+          "month": 11,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_TUSK_OFFICE_EU_COUNCIL_PRESIDENT",
+    "office_id": "OFFICE_EU_COUNCIL_PRESIDENT",
+    "person_id": "P_TUSK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2014,
+          "month": 12,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2019,
+          "month": 11,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_MICHEL_OFFICE_EU_COUNCIL_PRESIDENT",
+    "office_id": "OFFICE_EU_COUNCIL_PRESIDENT",
+    "person_id": "P_MICHEL",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2019,
+          "month": 12,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2024,
+          "month": 11,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Second term ended when António Costa took office."
+  },
+  {
+    "id": "TEN_P_ANTONIO_COSTA_OFFICE_EU_COUNCIL_PRESIDENT_2024",
+    "office_id": "OFFICE_EU_COUNCIL_PRESIDENT",
+    "person_id": "P_ANTONIO_COSTA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_EU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2024,
+          "month": 12,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "scheduled",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2027,
+          "month": 5,
+          "day": 31
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent",
+    "notes": "First 2.5-year term; scheduled end of mandate. The office is renewable once."
+  }
+]

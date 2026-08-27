@@ -1,0 +1,483 @@
+[
+  {
+    "id": "TEN_P_HENRY_FOWLER_OFFICE_GERMANY_KING_919",
+    "office_id": "OFFICE_GERMANY_KING",
+    "person_id": "P_HENRY_FOWLER",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_GERMANY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 919
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 936
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Duke of Saxony, elected King of East Francia (Germany)."
+  },
+  {
+    "id": "TEN_P_OTTO_I_OFFICE_GERMANY_KING_936",
+    "office_id": "OFFICE_GERMANY_KING",
+    "person_id": "P_OTTO_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_GERMANY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 936
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 973
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OTTO_I_OFFICE_ITALY_KING_961",
+    "office_id": "OFFICE_ITALY_KING",
+    "person_id": "P_OTTO_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_ITALY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 961
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 973
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Became King of Italy through conquest."
+  },
+  {
+    "id": "TEN_P_OTTO_I_OFFICE_ROMAN_EMPEROR_962",
+    "office_id": "OFFICE_ROMAN_EMPEROR",
+    "person_id": "P_OTTO_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_HOLY_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 962
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 973
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First Holy Roman Emperor (962)."
+  },
+  {
+    "id": "TEN_P_OTTO_II_OFFICE_GERMANY_KING_973",
+    "office_id": "OFFICE_GERMANY_KING",
+    "person_id": "P_OTTO_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_GERMANY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 973
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 983
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OTTO_II_OFFICE_ITALY_KING_980",
+    "office_id": "OFFICE_ITALY_KING",
+    "person_id": "P_OTTO_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_ITALY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 980
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 983
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OTTO_II_OFFICE_ROMAN_EMPEROR_967",
+    "office_id": "OFFICE_ROMAN_EMPEROR",
+    "person_id": "P_OTTO_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_HOLY_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 967
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 983
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Crowned co-emperor with Otto I in 967; sole emperor from 973."
+  },
+  {
+    "id": "TEN_P_OTTO_III_OFFICE_GERMANY_KING_983",
+    "office_id": "OFFICE_GERMANY_KING",
+    "person_id": "P_OTTO_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_GERMANY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 983
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1002
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OTTO_III_OFFICE_ITALY_KING_996",
+    "office_id": "OFFICE_ITALY_KING",
+    "person_id": "P_OTTO_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_ITALY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 996
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1002
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OTTO_III_OFFICE_ROMAN_EMPEROR_996",
+    "office_id": "OFFICE_ROMAN_EMPEROR",
+    "person_id": "P_OTTO_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_HOLY_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 996
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1002
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HENRY_II_OFFICE_GERMANY_KING_1002",
+    "office_id": "OFFICE_GERMANY_KING",
+    "person_id": "P_HENRY_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_GERMANY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1002
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1024
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HENRY_II_OFFICE_ITALY_KING_1004",
+    "office_id": "OFFICE_ITALY_KING",
+    "person_id": "P_HENRY_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_ITALY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1004
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1024
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HENRY_II_OFFICE_ROMAN_EMPEROR_1014",
+    "office_id": "OFFICE_ROMAN_EMPEROR",
+    "person_id": "P_HENRY_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_HOLY_ROMAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1014
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1024
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  }
+]

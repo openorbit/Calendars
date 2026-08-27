@@ -1,0 +1,34 @@
+[
+  {
+    "id": "CALR_ROMAN_REPUBLIC_AUC_PHASED",
+    "system": "RomanRepublican",
+    "year_model": "phased_new_year",
+    "phases": [
+      {
+        "label": "Early Republic",
+        "auc_range": {
+          "start": 245,
+          "end": 600
+        },
+        "new_year": {
+          "kind": "fixed_roman_festival",
+          "festival": "Ides_of_March"
+        }
+      },
+      {
+        "label": "Post-153 BCE Reform",
+        "auc_range": {
+          "start": 601,
+          "end": 754
+        },
+        "new_year": {
+          "kind": "fixed_month_day",
+          "month": "Ianuarius",
+          "day": 1
+        }
+      }
+    ],
+    "leap_scheme": "none",
+    "year_label": "Anno Urbis Conditae {N}"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "TEN_P_HENRY_VII_1308",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_HENRY_VII",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1308,
+          "month": 11,
+          "day": 27
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1313,
+          "month": 8,
+          "day": 24
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 27 Nov 1308 (Frankfurt); crowned Aachen 6 Jan 1309; imperial coronation 29 Jun 1312."
+  },
+  {
+    "id": "TEN_P_LOUIS_IV_1314",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_LOUIS_IV",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1314,
+          "month": 10,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1347,
+          "month": 10,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 20 Oct 1314; crowned Aachen 25 Nov 1314; crowned Emperor 17 Jan 1328 (Rome)."
+  },
+  {
+    "id": "TEN_P_FREDERICK_FAIR_1314",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FREDERICK_FAIR",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1314,
+          "month": 10,
+          "day": 19
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1330,
+          "month": 1,
+          "day": 13
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "antiking",
+    "notes": "Elected 19 Oct 1314; Bonn coronation 25 Nov 1314; recognized as co-king by treaty 5 Sep 1325; status contested."
+  },
+  {
+    "id": "TEN_P_CHARLES_IV_1346",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_CHARLES_IV",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1346,
+          "month": 7,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1378,
+          "month": 11,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 11 Jul 1346; Bonn coronation 26 Nov 1346; re-elected 1349; crowned Emperor 5 Apr 1355."
+  },
+  {
+    "id": "TEN_P_GUNTHER_SCHWARZBURG_1349",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_GUNTHER_SCHWARZBURG",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1349,
+          "month": 1,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1349,
+          "month": 6,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "antiking",
+    "notes": "Elected 30 Jan 1349; abdicated (Treaty of Eltville) 26 May 1349; died 19 Jun 1349."
+  },
+  {
+    "id": "TEN_P_WENCESLAUS_1376",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_WENCESLAUS",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1376,
+          "month": 6,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1400,
+          "month": 8,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected King of the Romans 10 Jun 1376; deposed 20 Aug 1400."
+  }
+]

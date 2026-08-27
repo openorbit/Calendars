@@ -1,0 +1,13 @@
+[
+  {
+    "id": "POLITY_SWEDEN",
+    "label": "Kingdom of Sweden",
+    "calendar_rule_id": "CALR_SWEDEN_OS_JULIAN",
+    "region": "Sweden",
+    "valid_julian": {
+      "start": "0970-01-01",
+      "end": "1523-06-06"
+    },
+    "notes": "Covers Sweden from Erik the Victorious (~970) through Gustav I Vasa (1523). Later periods use separate packs."
+  }
+]

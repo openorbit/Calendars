@@ -1,0 +1,322 @@
+[
+  {
+    "id": "P_GUDFRED",
+    "name": {
+      "normalized": "Gudfred (Godfred)"
+    },
+    "variants": [
+      {
+        "form": "Guðfriðr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gudfred",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Godofridus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gudfred"
+    }
+  },
+  {
+    "id": "P_HEMMING",
+    "name": {
+      "normalized": "Hemming"
+    },
+    "variants": [
+      {
+        "form": "Hemmingr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hemming",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hemmingus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Hemming_of_Denmark"
+    }
+  },
+  {
+    "id": "P_SIGFRED_II",
+    "name": {
+      "normalized": "Sigfred (brief claimant)"
+    },
+    "variants": [
+      {
+        "form": "Sigfriðr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigfred",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigefridus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sigfred_and_Anund"
+    }
+  },
+  {
+    "id": "P_ANUND",
+    "name": {
+      "normalized": "Anund (Anulo?)"
+    },
+    "variants": [
+      {
+        "form": "Anundr/Ánulo?",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Anund/Anulo",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Anulo?",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sigfred_and_Anund"
+    }
+  },
+  {
+    "id": "P_HARALD_KLAK",
+    "name": {
+      "normalized": "Harald Klak"
+    },
+    "variants": [
+      {
+        "form": "Haraldr Klak",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Harald Klak",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Haraldus Clacus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_Klak"
+    }
+  },
+  {
+    "id": "P_HORIK_I",
+    "name": {
+      "normalized": "Horik I"
+    },
+    "variants": [
+      {
+        "form": "Hǫrīkr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hårik I",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Horicus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Horik_I"
+    }
+  },
+  {
+    "id": "P_HORIK_II",
+    "name": {
+      "normalized": "Horik II"
+    },
+    "variants": [
+      {
+        "form": "Hǫrīkr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hårik II",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Horicus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Horik_II"
+    }
+  },
+  {
+    "id": "P_GORM_OLD",
+    "name": {
+      "normalized": "Gorm the Old"
+    },
+    "variants": [
+      {
+        "form": "Gormr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gorm den Gamle",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gormus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gorm_the_Old"
+    }
+  },
+  {
+    "id": "P_HARALD_BLUETOOTH",
+    "name": {
+      "normalized": "Harald Bluetooth"
+    },
+    "variants": [
+      {
+        "form": "Haraldr blátǫnn",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Harald Blåtand",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Haraldus Bluetooth",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+    }
+  },
+  {
+    "id": "P_SWEYN_FORKBEARD",
+    "name": {
+      "normalized": "Sweyn Forkbeard"
+    },
+    "variants": [
+      {
+        "form": "Sveinn tjúguskegg",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Svend Tveskæg",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sueno Forkbeardus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+    }
+  }
+]

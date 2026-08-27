@@ -1,0 +1,14 @@
+[
+  {
+    "id": "CALR_FRANCE_GREGORIAN_1582",
+    "system": "Gregorian",
+    "year_model": "fixed_new_year",
+    "new_year": {
+      "month": 1,
+      "day": 1
+    },
+    "day_count": 365,
+    "leap_scheme": "gregorian",
+    "year_label": "An de règne {N}"
+  }
+]

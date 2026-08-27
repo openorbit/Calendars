@@ -1,0 +1,32 @@
+[
+  {
+    "id": "OFFICE_FRANKS_KING",
+    "label": "King of the Franks",
+    "scope_polity_id": "POLITY_REGNUM_FRANCORUM",
+    "notes": "Rex Francorum; supreme monarch when the realm was united."
+  },
+  {
+    "id": "OFFICE_NEUSTRIA_KING",
+    "label": "King of Neustria",
+    "scope_polity_id": "POLITY_NEUSTRIA",
+    "notes": "Sub-king in the western Frankish partition (around Soissons/Paris)."
+  },
+  {
+    "id": "OFFICE_AUSTRASIA_KING",
+    "label": "King of Austrasia",
+    "scope_polity_id": "POLITY_AUSTRASIA",
+    "notes": "Sub-king in the eastern Frankish partition (around Metz)."
+  },
+  {
+    "id": "OFFICE_BURGUNDY_KING",
+    "label": "King of Burgundy",
+    "scope_polity_id": "POLITY_BURGUNDY_FRANKISH",
+    "notes": "Sub-king in the southeastern Frankish partition (around Lyon)."
+  },
+  {
+    "id": "OFFICE_MAYOR_OF_PALACE",
+    "label": "Mayor of the Palace",
+    "scope_polity_id": "POLITY_REGNUM_FRANCORUM",
+    "notes": "Major domus; chief officer who often wielded effective power in late Merovingian period."
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "PERSON_ERIC_POMERANIA",
+    "name": {
+      "normalized": "Eric of Pomerania"
+    },
+    "variants": [
+      {
+        "form": "Ericus Pomeraniae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erici Pomeraniae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Erik av Pommern",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHRISTOPHER_BAVARIA",
+    "name": {
+      "normalized": "Christopher of Bavaria"
+    },
+    "variants": [
+      {
+        "form": "Christophorus Bavariae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christophori Bavariae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Kristoffer av Bayern",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHRISTIAN_I",
+    "name": {
+      "normalized": "Christian I"
+    },
+    "variants": [
+      {
+        "form": "Christianus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christiani I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Kristian I",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_KING_HANS",
+    "name": {
+      "normalized": "Hans (John)"
+    },
+    "variants": [
+      {
+        "form": "Ioannes II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannis II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Kung Hans",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHRISTIAN_II",
+    "name": {
+      "normalized": "Christian II"
+    },
+    "variants": [
+      {
+        "form": "Christianus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christiani II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Kristian II",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ENGELBREKT",
+    "name": {
+      "normalized": "Engelbrekt Engelbrektsson"
+    },
+    "variants": [
+      {
+        "form": "Engelbrechtus Engelbrechtsson",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Engelbrekt Engelbrektsson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_KARL_KNUTSSON",
+    "name": {
+      "normalized": "Karl Knutsson Bonde"
+    },
+    "variants": [
+      {
+        "form": "Carolus Canuti filius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Caroli Canuti filii",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Karl Knutsson Bonde",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_STEN_STURE_ELDER",
+    "name": {
+      "normalized": "Sten Sture the Elder"
+    },
+    "variants": [
+      {
+        "form": "Steno Sture senior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sten Sture den äldre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_SVANTE_NILSSON",
+    "name": {
+      "normalized": "Svante Nilsson"
+    },
+    "variants": [
+      {
+        "form": "Suantus Nicolai filius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Svante Nilsson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_STEN_STURE_YOUNGER",
+    "name": {
+      "normalized": "Sten Sture the Younger"
+    },
+    "variants": [
+      {
+        "form": "Steno Sture junior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sten Sture den yngre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_GUSTAV_VASA",
+    "name": {
+      "normalized": "Gustav I Vasa"
+    },
+    "variants": [
+      {
+        "form": "Gustavus I Vasa",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gustavi I Vasae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Gustav Eriksson Vasa",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  }
+]

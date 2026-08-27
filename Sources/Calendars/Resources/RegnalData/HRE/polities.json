@@ -1,0 +1,13 @@
+[
+  {
+    "id": "POLITY_HRE",
+    "label": "Holy Roman Empire",
+    "calendar_rule_id": "CALR_JULIAN_MEDIEVAL",
+    "region": "Central Europe",
+    "valid_julian": {
+      "start": "0962-02-02",
+      "end": "1806-08-06"
+    },
+    "notes": "Dates here focus on the period with prominent anti-kings (Investiture Controversy to early 14th century)."
+  }
+]

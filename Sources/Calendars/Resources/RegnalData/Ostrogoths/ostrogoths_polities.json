@@ -1,0 +1,33 @@
+[
+  {
+    "id": "POLITY_OSTROGOTHIC_KINGDOM",
+    "label": "Ostrogothic Kingdom",
+    "aliases": [
+      "Regnum Ostrogothorum",
+      "Kingdom of the Ostrogoths"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 493
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 553
+        }
+      }
+    ],
+    "notes": "Founded by Theoderic the Great after defeating Odoacer; ended with Byzantine reconquest in the Gothic War."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "RULE_JULIAN_LADYDAY",
+    "label": "Julian (year starts March 25 / Lady Day)",
+    "base_calendar": "Julian",
+    "year_start": "march_25",
+    "valid_from": {
+      "rep": "open"
+    },
+    "valid_to": {
+      "rep": "ymd",
+      "calendar": "Julian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1559,
+        "month": 1,
+        "day": 1
+      }
+    },
+    "regions": [
+      "DK",
+      "NO",
+      "SE",
+      "EN",
+      "SCO"
+    ],
+    "notes": "Traditional medieval civil New Year on 25 March in much of Northern Europe; Denmark shifts to Jan 1 in 1559."
+  },
+  {
+    "id": "RULE_JULIAN_JAN1",
+    "label": "Julian (year starts January 1)",
+    "base_calendar": "Julian",
+    "year_start": "jan_1",
+    "valid_from": {
+      "rep": "ymd",
+      "calendar": "Julian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1559,
+        "month": 1,
+        "day": 1
+      }
+    },
+    "valid_to": {
+      "rep": "ymd",
+      "calendar": "Julian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1700,
+        "month": 2,
+        "day": 18
+      }
+    },
+    "regions": [
+      "DK",
+      "NO"
+    ],
+    "notes": "Civil New Year on Jan 1 from 1559 until Gregorian reform in 1700 (DK-NO). Last Julian day: 1700-02-18."
+  },
+  {
+    "id": "RULE_GREGORIAN_DK",
+    "label": "Gregorian (Denmark–Norway)",
+    "base_calendar": "Gregorian",
+    "year_start": "jan_1",
+    "valid_from": {
+      "rep": "ymd",
+      "calendar": "Gregorian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1700,
+        "month": 3,
+        "day": 1
+      }
+    },
+    "valid_to": {
+      "rep": "open"
+    },
+    "regions": [
+      "DK",
+      "NO"
+    ],
+    "notes": "Gregorian adopted 1700-03-01 in Denmark–Norway; 1700-02-18 was followed by 1700-03-01."
+  }
+]

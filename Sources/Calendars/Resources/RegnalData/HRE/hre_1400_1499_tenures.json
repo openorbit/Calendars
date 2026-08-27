@@ -1,0 +1,187 @@
+[
+  {
+    "id": "TEN_P_RUPERT_1400",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_RUPERT",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1400,
+          "month": 8,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1410,
+          "month": 5,
+          "day": 18
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 21 Aug 1400 after deposition of Wenceslaus."
+  },
+  {
+    "id": "TEN_P_JOBST_1410",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_JOBST",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1410,
+          "month": 10,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1411,
+          "month": 1,
+          "day": 18
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "antiking",
+    "notes": "Elected by a minority on 1 Oct 1410; died 18 Jan 1411."
+  },
+  {
+    "id": "TEN_P_SIGISMUND_1410",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_SIGISMUND",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1410,
+          "month": 9,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1437,
+          "month": 12,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 20 Sep 1410; crowned Emperor 31 May 1433 (Rome)."
+  },
+  {
+    "id": "TEN_P_ALBERT_II_1438",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_ALBERT_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1438,
+          "month": 3,
+          "day": 18
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1439,
+          "month": 10,
+          "day": 27
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 18 Mar 1438; died 27 Oct 1439."
+  },
+  {
+    "id": "TEN_P_FREDERICK_III_1440",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FREDERICK_III",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1440,
+          "month": 2,
+          "day": 2
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1493,
+          "month": 8,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 2 Feb 1440; crowned Emperor 19 Mar 1452; died 19 Aug 1493."
+  }
+]

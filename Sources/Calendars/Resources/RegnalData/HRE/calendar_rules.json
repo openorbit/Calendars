@@ -1,0 +1,14 @@
+[
+  {
+    "id": "CALR_JULIAN_MEDIEVAL",
+    "system": "Julian",
+    "year_model": "fixed_new_year",
+    "new_year": {
+      "month": 1,
+      "day": 1
+    },
+    "day_count": 365,
+    "leap_scheme": "julian",
+    "year_label": "Anno Regni {N}"
+  }
+]

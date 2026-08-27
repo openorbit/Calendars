@@ -1,78 +1,189 @@
-import XCTest
+import Testing
 @testable import Calendars
 
-final class RegnalCalendarTests: XCTestCase {
-    
-    func testLoading() {
-        let rc = RegnalCalendar.shared
-        
-        // Check tenures loaded
-        XCTAssertFalse(rc.tenures.isEmpty, "Tenures should not be empty")
-        
-        // Check persons loaded
-        XCTAssertFalse(rc.persons.isEmpty, "Persons should not be empty")
-        
-        // Check specific known person: Henry VIII
-        let henry8 = rc.persons["PERSON_HENRY_VIII"]
-        XCTAssertNotNil(henry8)
-        XCTAssertEqual(henry8?.name.normalized, "Henry VIII")
+@Suite("Regnal calendars")
+struct RegnalCalendarTests {
+    private let calendar = RegnalCalendar.shared
+
+    @Test("All supported polities load")
+    func allSupportedPolitiesLoad() {
+        let expectedIDs: Set<String> = [
+            "POLITY_AUSTRASIA",
+            "POLITY_BURGUNDY_FRANKISH",
+            "POLITY_CAROLINGIAN_EMPIRE",
+            "POLITY_DENMARK_KINGDOM",
+            "POLITY_DENMARK_NORWAY_UNION",
+            "POLITY_EAST_ANGLIA",
+            "POLITY_EAST_FRANCIA",
+            "POLITY_ENGLAND",
+            "POLITY_ESSEX",
+            "POLITY_EU",
+            "POLITY_FRANCE",
+            "POLITY_GERMANY",
+            "POLITY_HOLY_ROMAN_EMPIRE",
+            "POLITY_HRE",
+            "POLITY_KALMAR_UNION",
+            "POLITY_KENT",
+            "POLITY_KINGDOM_ITALY",
+            "POLITY_KINGDOM_LOMBARDS",
+            "POLITY_MERCIA",
+            "POLITY_MIDDLE_FRANCIA",
+            "POLITY_NEUSTRIA",
+            "POLITY_NORTHUMBRIA",
+            "POLITY_NORWAY_KINGDOM",
+            "POLITY_NORWAY_SWEDEN_UNION",
+            "POLITY_OSTROGOTHIC_KINGDOM",
+            "POLITY_REGNUM_FRANCORUM",
+            "POLITY_ROMAN_REPUBLIC",
+            "POLITY_SUSSEX",
+            "POLITY_SWEDEN",
+            "POLITY_UNITED_STATES",
+            "POLITY_VISIGOTHIC_KINGDOM",
+            "POLITY_WESSEX",
+            "POLITY_WEST_FRANCIA"
+        ]
+
+        #expect(Set(calendar.polities.keys) == expectedIDs)
     }
-    
-    func testTenureLookup() {
-        let rc = RegnalCalendar.shared
-        // "Edward III"
-        let tenures = rc.findTenures(forMonarch: "Edward III")
-        XCTAssertFalse(tenures.isEmpty)
-        
-        let ed3 = tenures.first
-        XCTAssertEqual(ed3?.personID, "PERSON_EDWARD_III")
+
+    @Test("Polity has regnal tenures", arguments: [
+        "POLITY_CAROLINGIAN_EMPIRE",
+        "POLITY_DENMARK_KINGDOM",
+        "POLITY_EAST_ANGLIA",
+        "POLITY_EAST_FRANCIA",
+        "POLITY_ENGLAND",
+        "POLITY_ESSEX",
+        "POLITY_EU",
+        "POLITY_FRANCE",
+        "POLITY_GERMANY",
+        "POLITY_HOLY_ROMAN_EMPIRE",
+        "POLITY_HRE",
+        "POLITY_KENT",
+        "POLITY_KINGDOM_ITALY",
+        "POLITY_KINGDOM_LOMBARDS",
+        "POLITY_MERCIA",
+        "POLITY_MIDDLE_FRANCIA",
+        "POLITY_NORTHUMBRIA",
+        "POLITY_NORWAY_KINGDOM",
+        "POLITY_OSTROGOTHIC_KINGDOM",
+        "POLITY_REGNUM_FRANCORUM",
+        "POLITY_ROMAN_REPUBLIC",
+        "POLITY_SUSSEX",
+        "POLITY_SWEDEN",
+        "POLITY_UNITED_STATES",
+        "POLITY_VISIGOTHIC_KINGDOM",
+        "POLITY_WESSEX",
+        "POLITY_WEST_FRANCIA"
+    ])
+    func polityHasRegnalTenures(polityID: String) throws {
+        let polity = try #require(calendar.polities[polityID])
+        let offices = calendar.offices(forPolity: polity.id)
+        let tenures = offices.flatMap { calendar.tenures(forOffice: $0.id) }
+
+        #expect(!offices.isEmpty, "No offices loaded for \(polity.label)")
+        #expect(!tenures.isEmpty, "No tenures loaded for \(polity.label)")
+        #expect(tenures.allSatisfy { calendar.person(forID: $0.personID) != nil })
     }
-    
-    func testRegnalYearCalculation() {
-        let rc = RegnalCalendar.shared
-        
-        guard let tenure = rc.findTenures(forMonarch: "Henry VIII").first else {
-            XCTFail("Henry VIII tenure not found")
-            return
-        }
-        
-        // Henry VIII accession: April 22, 1509 (Julian)
-        // 1st year: Apr 22, 1509 -> Apr 21, 1510
-        
-        if let range = rc.julianDateRange(forRegnalYear: 1, tenure: tenure) {
-            XCTAssertEqual(range.0, JulianDate(year: 1509, month: 4, day: 22))
-            XCTAssertEqual(range.1, JulianDate(year: 1510, month: 4, day: 21))
-        } else {
-            XCTFail("Failed to calc regnal year 1")
-        }
-        
-        // 5th year: Apr 22, 1513 -> Apr 21, 1514
-        // (1509 + 4 = 1513)
-        
-        if let range5 = rc.julianDateRange(forRegnalYear: 5, tenure: tenure) {
-            XCTAssertEqual(range5.0, JulianDate(year: 1513, month: 4, day: 22))
-            XCTAssertEqual(range5.1, JulianDate(year: 1514, month: 4, day: 21))
-        } else {
-            XCTFail("Failed to calc regnal year 5")
+
+    @Test("Every office belongs to a loaded polity")
+    func everyOfficeBelongsToLoadedPolity() {
+        for office in calendar.offices.values {
+            #expect(
+                calendar.polities[office.polityID] != nil,
+                "Office \(office.id) references missing polity \(office.polityID)"
+            )
         }
     }
-    
-    func testRomanConsulLookup() {
-        let rc = RegnalCalendar.shared
-        // "Lucius Iunius Brutus" (AUC 245)
-        let tenures = rc.findTenures(forMonarch: "Lucius Iunius Brutus")
-        XCTAssertFalse(tenures.isEmpty, "Should find Brutus")
-        
-        guard let tenure = tenures.first else { return }
-        // Year 1 of tenure (Consulship is usually 1 year)
-        if let range = rc.julianDateRange(forRegnalYear: 1, tenure: tenure) {
-            // AUC 245 -> 245 - 753 = -508
-            // Start default Jan 1
-            XCTAssertEqual(range.0.year, -508)
-            XCTAssertEqual(range.0.month, 1) // default
-            XCTAssertEqual(range.0.day, 1)   // default
-        } else {
-            XCTFail("Failed to calc consular year")
+
+    @Test("Every tenure has a loaded office and person")
+    func everyTenureHasLoadedRelationships() {
+        for tenure in calendar.tenures {
+            #expect(
+                calendar.offices[tenure.officeID] != nil,
+                "Tenure \(tenure.id) references missing office \(tenure.officeID)"
+            )
+            #expect(
+                calendar.persons[tenure.personID] != nil,
+                "Tenure \(tenure.id) references missing person \(tenure.personID)"
+            )
         }
+    }
+
+    @Test("European Council presidency transitions to António Costa")
+    func europeanCouncilPresidencyTransitionsToAntonioCosta() throws {
+        let councilTenures = calendar.tenures(
+            forOffice: "OFFICE_EU_COUNCIL_PRESIDENT"
+        )
+        let michel = try #require(
+            councilTenures.first { $0.personID == "P_MICHEL" }
+        )
+        let costa = try #require(
+            councilTenures.first { $0.personID == "P_ANTONIO_COSTA" }
+        )
+
+        #expect(michel.end.first?.ymd?.year == 2024)
+        #expect(michel.end.first?.ymd?.month == 11)
+        #expect(michel.end.first?.ymd?.day == 30)
+        #expect(costa.start.first?.ymd?.year == 2024)
+        #expect(costa.start.first?.ymd?.month == 12)
+        #expect(costa.start.first?.ymd?.day == 1)
+        #expect(costa.end.first?.ymd?.year == 2027)
+        #expect(costa.end.first?.ymd?.month == 5)
+        #expect(costa.end.first?.ymd?.day == 31)
+        #expect(costa.status == "incumbent")
+    }
+
+    @Test("United States presidential succession is complete")
+    func unitedStatesPresidentialSuccessionIsComplete() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_US_PRESIDENT")
+        let personIDs = Set(tenures.map(\.personID))
+        let cleveland = tenures.filter { $0.personID == "P_US_GROVER_CLEVELAND" }
+        let trump = tenures.filter { $0.personID == "P_US_DONALD_TRUMP" }
+        let incumbent = try #require(tenures.first { $0.ordinal == 47 })
+
+        #expect(tenures.count == 47)
+        #expect(personIDs.count == 45)
+        #expect(Set(cleveland.compactMap(\.ordinal)) == [22, 24])
+        #expect(Set(trump.compactMap(\.ordinal)) == [45, 47])
+        #expect(incumbent.status == "incumbent")
+        #expect(incumbent.start.first?.ymd?.year == 2025)
+        #expect(incumbent.start.first?.ymd?.month == 1)
+        #expect(incumbent.start.first?.ymd?.day == 20)
+        #expect(incumbent.end.first?.ymd?.year == 2029)
+        #expect(incumbent.end.first?.ymd?.month == 1)
+        #expect(incumbent.end.first?.ymd?.day == 20)
+    }
+
+    @Test("English regnal year uses the accession anniversary")
+    func englishRegnalYearUsesAccessionAnniversary() throws {
+        let tenure = try #require(
+            calendar.findTenures(forMonarch: "Henry VIII")
+                .first { $0.officeID == "OFFICE_ENGLAND_KING" }
+        )
+        let firstYear = try #require(calendar.julianDateRange(forRegnalYear: 1, tenure: tenure))
+        let fifthYear = try #require(calendar.julianDateRange(forRegnalYear: 5, tenure: tenure))
+
+        #expect(firstYear.0 == JulianDate(year: 1509, month: 4, day: 22))
+        #expect(firstYear.1 == JulianDate(year: 1510, month: 4, day: 21))
+        #expect(fifthYear.0 == JulianDate(year: 1513, month: 4, day: 22))
+        #expect(fifthYear.1 == JulianDate(year: 1514, month: 4, day: 21))
+    }
+
+    @Test("Roman AUC tenure converts to the package year representation")
+    func romanAUCTenureConvertsToPackageYear() throws {
+        let tenure = try #require(
+            calendar.findTenures(forMonarch: "Lucius Iunius Brutus")
+                .first { $0.officeID == "OFFICE_CONSUL_ORDINARIUS" }
+        )
+        let firstYear = try #require(calendar.julianDateRange(forRegnalYear: 1, tenure: tenure))
+
+        #expect(firstYear.0 == JulianDate(year: -508, month: 1, day: 1))
+    }
+
+    @Test("Name lookup accepts common regnal abbreviations and Arabic ordinals")
+    func nameLookupNormalizesRegnalNames() {
+        let matches = calendar.findTenures(forMonarch: "Hen. 8")
+
+        #expect(matches.contains { $0.personID == "PERSON_HENRY_VIII" })
     }
 }

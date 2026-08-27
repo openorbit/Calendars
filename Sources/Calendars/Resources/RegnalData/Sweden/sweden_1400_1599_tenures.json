@@ -1,0 +1,827 @@
+[
+  {
+    "id": "TEN_P_MARGARET_I_1389",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_MARGARET_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1389
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1412
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Personal union monarch; founder of the Kalmar Union."
+  },
+  {
+    "id": "TEN_P_ERIK_POM_1396",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_ERIK_POM",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1396
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1439
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Kalmar Union king; deposed in Sweden 1439."
+  },
+  {
+    "id": "TEN_P_CHARLES_VIII_1448",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_VIII",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1448
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1457
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected king after interregnum; later deposed."
+  },
+  {
+    "id": "TEN_P_CHARLES_VIII_1464",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_VIII",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1464
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1465
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Restored (short reign)."
+  },
+  {
+    "id": "TEN_P_CHARLES_VIII_1467",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_VIII",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1467
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1470
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Restored; died 1470."
+  },
+  {
+    "id": "TEN_P_CHRISTOPHER_BAV_1441",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHRISTOPHER_BAV",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1441
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1448
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Kalmar Union king."
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_I_1457",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHRISTIAN_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1457
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1464
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Union king; deposed."
+  },
+  {
+    "id": "TEN_P_JOHN_II_1497",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_JOHN_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1497
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1501
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Union king; deposition led to Sture regency."
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_II_1520",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHRISTIAN_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1520
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1521
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Union king; Stockholm Bloodbath 1520; soon ousted."
+  },
+  {
+    "id": "TEN_P_NILS_OX_1448",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_NILS_OX",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1448
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1448
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "regent",
+    "notes": "Co-regent with brother Bengt Jönsson pending royal election."
+  },
+  {
+    "id": "TEN_P_BENGT_OX_1448",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_BENGT_OX",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1448
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1448
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "regent",
+    "notes": "Co-regent with Nils Jönsson."
+  },
+  {
+    "id": "TEN_P_JONS_BENGT_1457",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_JONS_BENGT",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1457
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1457
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "regent",
+    "notes": "Brief regency in 1457."
+  },
+  {
+    "id": "TEN_P_JONS_BENGT_1465",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_JONS_BENGT",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1465
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1466
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "regent",
+    "notes": "Regent during rebellion against Christian I."
+  },
+  {
+    "id": "TEN_P_KETTIL_VASA_1464",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_KETTIL_VASA",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1464
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1465
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Leader of anti-Danish party; died 1465."
+  },
+  {
+    "id": "TEN_P_ERIK_TOTT_1466",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_ERIK_TOTT",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1466
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1467
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Regent before Charles VIII’s final restoration."
+  },
+  {
+    "id": "TEN_P_STEN_STURE_ELD_1470",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_STEN_STURE_ELD",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1470
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1497
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "First long Sture regency."
+  },
+  {
+    "id": "TEN_P_STEN_STURE_ELD_1501",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_STEN_STURE_ELD",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1501
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1503
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Restored regency after Hans deposed."
+  },
+  {
+    "id": "TEN_P_SVANTE_N_1504",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_SVANTE_N",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1504
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1512
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Succeeded Sten Sture the Elder."
+  },
+  {
+    "id": "TEN_P_STEN_STURE_YNG_1512",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_STEN_STURE_YNG",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1512
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1520
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Defeated at Bogesund; died 1520."
+  },
+  {
+    "id": "TEN_P_GUSTAV_I_1521",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_GUSTAV_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1521
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1523
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Led Swedish War of Liberation; elected king 1523."
+  },
+  {
+    "id": "TEN_P_GUSTAV_I_1523",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_GUSTAV_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1523
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1560
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Founder of the Vasa dynasty; Reformation in Sweden."
+  },
+  {
+    "id": "TEN_P_ERIC_XIV_1560",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_ERIC_XIV",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1560
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1568
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed; later died in captivity."
+  },
+  {
+    "id": "TEN_P_JOHN_III_1568",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_JOHN_III",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1568
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1592
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_SIGISMUND_SW_1592",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_SIGISMUND_SW",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1592
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1599
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed in Sweden; personal union with Poland ended."
+  },
+  {
+    "id": "TEN_P_CHARLES_IX_1599",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_CHARLES_IX",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1599
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1604
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "De facto ruler after Sigismund’s deposition; crowned 1607 (reign 1604–1611)."
+  }
+]

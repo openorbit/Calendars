@@ -1,0 +1,398 @@
+[
+  {
+    "id": "TEN_P_SVEIGDIR_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_SVEIGDIR",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary Yngling king, son of Fjölnir."
+  },
+  {
+    "id": "TEN_P_VANLANDI_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_VANLANDI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary king, died by witchcraft."
+  },
+  {
+    "id": "TEN_P_DOMALDI_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_DOMALDI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary king, sacrificed to avert famine."
+  },
+  {
+    "id": "TEN_P_DOMAR_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_DOMAR",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary king of Sweden/Norway saga tradition."
+  },
+  {
+    "id": "TEN_P_DYGGVI_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_DYGGVI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary king; said to be in Hel with Hel-goddess."
+  },
+  {
+    "id": "TEN_P_DAG_WISE_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_DAG_WISE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary king, famed for wisdom."
+  },
+  {
+    "id": "TEN_P_AGNE_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_AGNE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary king, hanged by wife Skjalf."
+  },
+  {
+    "id": "TEN_P_ALREK_ERIK_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_ALREK_ERIK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary co-kings, brothers who killed each other."
+  },
+  {
+    "id": "TEN_P_YNGVI_ALF_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_YNGVI_ALF",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary twin co-kings, killed each other."
+  },
+  {
+    "id": "TEN_P_HALFDAN_OLD_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HALFDAN_OLD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary progenitor figure, father of many lines."
+  },
+  {
+    "id": "TEN_P_HALFDAN_BLACK_700",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HALFDAN_BLACK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 850
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Father of Harald Fairhair; semi-legendary, transitional to history."
+  }
+]

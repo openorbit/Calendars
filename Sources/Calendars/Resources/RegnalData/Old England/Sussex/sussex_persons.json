@@ -1,0 +1,144 @@
+[
+  {
+    "id": "P_AELLE",
+    "name": {
+      "normalized": "Ælle of Sussex"
+    },
+    "variants": [
+      {
+        "form": "Ælle",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CISSA",
+    "name": {
+      "normalized": "Cissa of Sussex"
+    },
+    "variants": [
+      {
+        "form": "Cissa",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELWALH",
+    "name": {
+      "normalized": "Æthelwalh of Sussex"
+    },
+    "variants": [
+      {
+        "form": "Æþelwalh",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BERTHUN",
+    "name": {
+      "normalized": "Berthun"
+    },
+    "variants": [
+      {
+        "form": "Berthunus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ANDHUN",
+    "name": {
+      "normalized": "Andhun"
+    },
+    "variants": [
+      {
+        "form": "Andhunus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NUNNA",
+    "name": {
+      "normalized": "Nunna (Nothhelm)"
+    },
+    "variants": [
+      {
+        "form": "Nunna",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Nothhelm",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSMUND",
+    "name": {
+      "normalized": "Osmund of Sussex"
+    },
+    "variants": [
+      {
+        "form": "Osmundus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSLAC",
+    "name": {
+      "normalized": "Oslac of Sussex"
+    },
+    "variants": [
+      {
+        "form": "Oslacus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AELFWALD",
+    "name": {
+      "normalized": "Ælfwald of Sussex"
+    },
+    "variants": [
+      {
+        "form": "Ælfwaldus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

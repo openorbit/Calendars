@@ -1,0 +1,33 @@
+[
+  {
+    "id": "POLITY_NORTHUMBRIA",
+    "label": "Kingdom of Northumbria",
+    "aliases": [
+      "Norþanhymbra rīce",
+      "Regnum Northanhymbrorum"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 604
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 954
+        }
+      }
+    ],
+    "notes": "One of the Anglo-Saxon Heptarchy; formed by the union of Bernicia and Deira. Last independent king Eric Bloodaxe killed in 954, after which Northumbria was absorbed into England."
+  }
+]

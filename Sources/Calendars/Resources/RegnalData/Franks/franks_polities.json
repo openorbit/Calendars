@@ -1,0 +1,132 @@
+[
+  {
+    "id": "POLITY_REGNUM_FRANCORUM",
+    "label": "Regnum Francorum (Kingdom of the Franks)",
+    "aliases": [
+      "Kingdom of the Franks",
+      "Francia",
+      "Regnum Francorum"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 450
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 843
+        }
+      }
+    ],
+    "notes": "Umbrella polity for united Frankish rule until the Treaty of Verdun (843)."
+  },
+  {
+    "id": "POLITY_NEUSTRIA",
+    "label": "Neustria (Frankish sub-kingdom)",
+    "aliases": [
+      "Neustria"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 751
+        }
+      }
+    ],
+    "notes": "Western Frankish partition centered on Soissons/Paris; repeatedly reunited/split."
+  },
+  {
+    "id": "POLITY_AUSTRASIA",
+    "label": "Austrasia (Frankish sub-kingdom)",
+    "aliases": [
+      "Austrasia"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 751
+        }
+      }
+    ],
+    "notes": "Eastern Frankish partition centered on Metz; power base of later Carolingians."
+  },
+  {
+    "id": "POLITY_BURGUNDY_FRANKISH",
+    "label": "Burgundy (Frankish sub-kingdom)",
+    "aliases": [
+      "Burgundia"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 534
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 751
+        }
+      }
+    ],
+    "notes": "Former Burgundian kingdom integrated under the Franks; later a Frankish sub-kingdom."
+  }
+]

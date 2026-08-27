@@ -1,0 +1,38 @@
+[
+  {
+    "id": "P_MARGRETHE_II",
+    "name": {
+      "normalized": "Margrethe II"
+    },
+    "variants": [
+      {
+        "form": "Margrethe II",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Margrethe_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERIK_X",
+    "name": {
+      "normalized": "Frederik X"
+    },
+    "variants": [
+      {
+        "form": "Frederik X",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederik_X_of_Denmark"
+    }
+  }
+]

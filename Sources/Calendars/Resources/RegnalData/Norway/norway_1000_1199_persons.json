@@ -1,0 +1,427 @@
+[
+  {
+    "id": "P_OLAF_II",
+    "name": {
+      "normalized": "Olaf II Haraldsson (St. Olaf)"
+    },
+    "variants": [
+      {
+        "form": "Óláfr Haraldsson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olav den Hellige",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olaf_II_of_Norway"
+    }
+  },
+  {
+    "id": "P_CNUT",
+    "name": {
+      "normalized": "Cnut the Great"
+    },
+    "variants": [
+      {
+        "form": "Knútr inn ríki",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Knut den Store",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+    }
+  },
+  {
+    "id": "P_MAGNUS_I",
+    "name": {
+      "normalized": "Magnus I the Good"
+    },
+    "variants": [
+      {
+        "form": "Magnús góði",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus den Gode",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_I_of_Norway"
+    }
+  },
+  {
+    "id": "P_HARALD_HARDRADA",
+    "name": {
+      "normalized": "Harald III Hardrada"
+    },
+    "variants": [
+      {
+        "form": "Haraldr harðráði",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Harald Hardråde",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_Hardrada"
+    }
+  },
+  {
+    "id": "P_OLAF_III",
+    "name": {
+      "normalized": "Olaf III Kyrre"
+    },
+    "variants": [
+      {
+        "form": "Óláfr kyrri",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olav Kyrre",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olaf_III_of_Norway"
+    }
+  },
+  {
+    "id": "P_MAGNUS_III",
+    "name": {
+      "normalized": "Magnus III Barefoot"
+    },
+    "variants": [
+      {
+        "form": "Magnús berfœttr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus Berrføtt",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Barefoot"
+    }
+  },
+  {
+    "id": "P_SIGURD_I",
+    "name": {
+      "normalized": "Sigurd I (the Crusader)"
+    },
+    "variants": [
+      {
+        "form": "Sigurðr Jórsalafari",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigurd Jorsalfare",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sigurd_I_of_Norway"
+    }
+  },
+  {
+    "id": "P_OYSTEIN_I",
+    "name": {
+      "normalized": "Øystein I"
+    },
+    "variants": [
+      {
+        "form": "Eystein Magnússon",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Øystein I",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/%C3%98ystein_I_of_Norway"
+    }
+  },
+  {
+    "id": "P_OLAF_MAGNUSSON",
+    "name": {
+      "normalized": "Olaf Magnusson"
+    },
+    "variants": [
+      {
+        "form": "Óláfr Magnússon",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olav Magnusson",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Magnusson_of_Norway"
+    }
+  },
+  {
+    "id": "P_MAGNUS_IV",
+    "name": {
+      "normalized": "Magnus IV the Blind"
+    },
+    "variants": [
+      {
+        "form": "Magnús blindi",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus Blinde",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_IV_of_Norway"
+    }
+  },
+  {
+    "id": "P_HARALD_IV",
+    "name": {
+      "normalized": "Harald IV Gille"
+    },
+    "variants": [
+      {
+        "form": "Haraldr gilli",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Harald Gille",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_IV_of_Norway"
+    }
+  },
+  {
+    "id": "P_SIGURD_II",
+    "name": {
+      "normalized": "Sigurd II (Munn)"
+    },
+    "variants": [
+      {
+        "form": "Sigurðr munnr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigurd Munn",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sigurd_II_of_Norway"
+    }
+  },
+  {
+    "id": "P_INGE_I",
+    "name": {
+      "normalized": "Inge I (the Hunchback)"
+    },
+    "variants": [
+      {
+        "form": "Ingi krókhryggr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Inge Krokrygg",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Inge_I_of_Norway"
+    }
+  },
+  {
+    "id": "P_EYSTEIN_II",
+    "name": {
+      "normalized": "Eystein II"
+    },
+    "variants": [
+      {
+        "form": "Eysteinn Haraldsson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Eystein II",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eystein_II_of_Norway"
+    }
+  },
+  {
+    "id": "P_HAAKON_II",
+    "name": {
+      "normalized": "Haakon II Sigurdsson (the Broadshouldered)"
+    },
+    "variants": [
+      {
+        "form": "Hákon Herðibreiðr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Håkon Herdebrei",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_II_of_Norway"
+    }
+  },
+  {
+    "id": "P_MAGNUS_V",
+    "name": {
+      "normalized": "Magnus V Erlingsson"
+    },
+    "variants": [
+      {
+        "form": "Magnús Erlingsson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus V",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_V_of_Norway"
+    }
+  },
+  {
+    "id": "P_SVERRE",
+    "name": {
+      "normalized": "Sverre Sigurdsson"
+    },
+    "variants": [
+      {
+        "form": "Sverrir Sigurðarson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sverre Sigurdsson",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sverre_of_Norway"
+    }
+  }
+]

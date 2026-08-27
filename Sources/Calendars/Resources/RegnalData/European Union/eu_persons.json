@@ -1,0 +1,405 @@
+[
+  {
+    "id": "P_KLEPSCH",
+    "name": {
+      "normalized": "Egon Klepsch"
+    },
+    "variants": [
+      {
+        "form": "Egon Klepsch",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Egon_Klepsch"
+    }
+  },
+  {
+    "id": "P_HAENSCH",
+    "name": {
+      "normalized": "Klaus Hänsch"
+    },
+    "variants": [
+      {
+        "form": "Klaus Hänsch",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Klaus_H%C3%A4nsch"
+    }
+  },
+  {
+    "id": "P_GIL_ROBLES",
+    "name": {
+      "normalized": "José María Gil-Robles"
+    },
+    "variants": [
+      {
+        "form": "José María Gil-Robles",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Gil-Robles_Gil-Delgado"
+    }
+  },
+  {
+    "id": "P_FONTIANE",
+    "name": {
+      "normalized": "Nicole Fontaine"
+    },
+    "variants": [
+      {
+        "form": "Nicole Fontaine",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Fontaine"
+    }
+  },
+  {
+    "id": "P_COX",
+    "name": {
+      "normalized": "Pat Cox"
+    },
+    "variants": [
+      {
+        "form": "Pat Cox",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Pat_Cox"
+    }
+  },
+  {
+    "id": "P_BORRELL",
+    "name": {
+      "normalized": "Josep Borrell"
+    },
+    "variants": [
+      {
+        "form": "Josep Borrell",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Josep_Borrell"
+    }
+  },
+  {
+    "id": "P_POETTERING",
+    "name": {
+      "normalized": "Hans-Gert Pöttering"
+    },
+    "variants": [
+      {
+        "form": "Hans-Gert Pöttering",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Hans-Gert_P%C3%B6ttering"
+    }
+  },
+  {
+    "id": "P_BUZEK",
+    "name": {
+      "normalized": "Jerzy Buzek"
+    },
+    "variants": [
+      {
+        "form": "Jerzy Buzek",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerzy_Buzek"
+    }
+  },
+  {
+    "id": "P_SCHULZ",
+    "name": {
+      "normalized": "Martin Schulz"
+    },
+    "variants": [
+      {
+        "form": "Martin Schulz",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_Schulz"
+    }
+  },
+  {
+    "id": "P_TAJANI",
+    "name": {
+      "normalized": "Antonio Tajani"
+    },
+    "variants": [
+      {
+        "form": "Antonio Tajani",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Tajani"
+    }
+  },
+  {
+    "id": "P_SASSOLI",
+    "name": {
+      "normalized": "David Sassoli"
+    },
+    "variants": [
+      {
+        "form": "David Sassoli",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/David_Sassoli"
+    }
+  },
+  {
+    "id": "P_METSOLA",
+    "name": {
+      "normalized": "Roberta Metsola"
+    },
+    "variants": [
+      {
+        "form": "Roberta Metsola",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Roberta_Metsola"
+    }
+  },
+  {
+    "id": "P_DELOURS",
+    "name": {
+      "normalized": "Jacques Delors"
+    },
+    "variants": [
+      {
+        "form": "Jacques Delors",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Delors"
+    }
+  },
+  {
+    "id": "P_SAN_TER",
+    "name": {
+      "normalized": "Jacques Santer"
+    },
+    "variants": [
+      {
+        "form": "Jacques Santer",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Santer"
+    }
+  },
+  {
+    "id": "P_PRODI",
+    "name": {
+      "normalized": "Romano Prodi"
+    },
+    "variants": [
+      {
+        "form": "Romano Prodi",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Romano_Prodi"
+    }
+  },
+  {
+    "id": "P_BARROSO",
+    "name": {
+      "normalized": "José Manuel Barroso"
+    },
+    "variants": [
+      {
+        "form": "José Manuel Barroso",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Barroso"
+    }
+  },
+  {
+    "id": "P_JUNCKER",
+    "name": {
+      "normalized": "Jean-Claude Juncker"
+    },
+    "variants": [
+      {
+        "form": "Jean-Claude Juncker",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
+    }
+  },
+  {
+    "id": "P_VON_DER_LEYEN",
+    "name": {
+      "normalized": "Ursula von der Leyen"
+    },
+    "variants": [
+      {
+        "form": "Ursula von der Leyen",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ursula_von_der_Leyen"
+    }
+  },
+  {
+    "id": "P_VAN_ROMPUY",
+    "name": {
+      "normalized": "Herman Van Rompuy"
+    },
+    "variants": [
+      {
+        "form": "Herman Van Rompuy",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Herman_Van_Rompuy"
+    }
+  },
+  {
+    "id": "P_TUSK",
+    "name": {
+      "normalized": "Donald Tusk"
+    },
+    "variants": [
+      {
+        "form": "Donald Tusk",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Donald_Tusk"
+    }
+  },
+  {
+    "id": "P_MICHEL",
+    "name": {
+      "normalized": "Charles Michel"
+    },
+    "variants": [
+      {
+        "form": "Charles Michel",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Michel"
+    }
+  },
+  {
+    "id": "P_ANTONIO_COSTA",
+    "name": {
+      "normalized": "António Costa"
+    },
+    "variants": [
+      {
+        "form": "António Costa",
+        "lang": "pt",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Antonio Costa",
+        "lang": "mul",
+        "script": "Latn",
+        "kind": "ascii",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "official": "https://www.consilium.europa.eu/en/european-council/president/biography/"
+    }
+  }
+]

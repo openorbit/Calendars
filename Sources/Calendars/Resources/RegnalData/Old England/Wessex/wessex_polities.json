@@ -1,0 +1,33 @@
+[
+  {
+    "id": "POLITY_WESSEX",
+    "label": "Kingdom of Wessex",
+    "aliases": [
+      "Westseaxna rīce",
+      "Regnum Occidentalium Saxonum"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 519
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 939
+        }
+      }
+    ],
+    "notes": "One of the Anglo-Saxon Heptarchy; founded by Cerdic (519). Unified into the English monarchy under Æthelstan (939)."
+  }
+]

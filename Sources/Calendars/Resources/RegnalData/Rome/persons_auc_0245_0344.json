@@ -1,0 +1,376 @@
+[
+  {
+    "id": "P_LUCIUS_IUNIUS_BRUTUS",
+    "name": {
+      "normalized": "Lucius Iunius Brutus"
+    },
+    "variants": [
+      {
+        "form": "Lucius Iunius Brutus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Luci Iuni Bruti",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_TARQUINIUS_COLLATINUS",
+    "name": {
+      "normalized": "Lucius Tarquinius Collatinus"
+    },
+    "variants": [
+      {
+        "form": "Lucius Tarquinius Collatinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Luci Tarquini Collatini",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_LUCRETIUS_TRICIPITINUS",
+    "name": {
+      "normalized": "Spurius Lucretius Tricipitinus"
+    },
+    "variants": [
+      {
+        "form": "Spurius Lucretius Tricipitinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Spuri Lucreti Tricipitini",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_VALERIUS_PUBLICOLA",
+    "name": {
+      "normalized": "Publius Valerius Publicola"
+    },
+    "variants": [
+      {
+        "form": "Publius Valerius Publicola",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Publi Valeri Publicolae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_HORATIUS_PULVILLUS",
+    "name": {
+      "normalized": "Marcus Horatius Pulvillus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Horatius Pulvillus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Marci Horati Pulvilli",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_LARCIUS_FLAVUS",
+    "name": {
+      "normalized": "Titus Larcius Flavus"
+    },
+    "variants": [
+      {
+        "form": "Titus Larcius Flavus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Titi Larci Flavi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_APPIUS_CLAUDIUS_SABINUS",
+    "name": {
+      "normalized": "Appius Claudius Sabinus"
+    },
+    "variants": [
+      {
+        "form": "Appius Claudius Sabinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Appi Claudi Sabini",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_SERVILIUS_PRISCUS_STRUCTUS",
+    "name": {
+      "normalized": "Publius Servilius Priscus Structus"
+    },
+    "variants": [
+      {
+        "form": "Publius Servilius Priscus Structus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Publi Servili Prisci Structi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "name": {
+      "normalized": "Aulus Verginius Tricostus Rutilus"
+    },
+    "variants": [
+      {
+        "form": "Aulus Verginius Tricostus Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Auli Vergini Tricosti Rutili",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "name": {
+      "normalized": "Titus Verginius Tricostus Rutilus"
+    },
+    "variants": [
+      {
+        "form": "Titus Verginius Tricostus Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Titi Vergini Tricosti Rutili",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_CASSIUS_VECELLINUS",
+    "name": {
+      "normalized": "Spurius Cassius Vecellinus"
+    },
+    "variants": [
+      {
+        "form": "Spurius Cassius Vecellinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Spuri Cassi Vecellini",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_OPITER_VERGINIUS_TRICOSTUS",
+    "name": {
+      "normalized": "Opiter Verginius Tricostus"
+    },
+    "variants": [
+      {
+        "form": "Opiter Verginius Tricostus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Opiteris Vergini Tricosti",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_POSTUMIUS_TUBERTUS",
+    "name": {
+      "normalized": "Publius Postumius Tubertus"
+    },
+    "variants": [
+      {
+        "form": "Publius Postumius Tubertus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Publi Postumi Tuberti",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_AGRIPPA_MENENIUS_LANATUS",
+    "name": {
+      "normalized": "Agrippa Menenius Lanatus"
+    },
+    "variants": [
+      {
+        "form": "Agrippa Menenius Lanatus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Agrippae Meneni Lanati",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_POSTUMIUS_ALBUS_REGILLENSIS",
+    "name": {
+      "normalized": "Aulus Postumius Albus Regillensis"
+    },
+    "variants": [
+      {
+        "form": "Aulus Postumius Albus Regillensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Auli Postumi Albi Regillensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_VERGINIUS_TRICOSTUS_CAELIOMONTANUS",
+    "name": {
+      "normalized": "Titus Verginius Tricostus Caeliomontanus"
+    },
+    "variants": [
+      {
+        "form": "Titus Verginius Tricostus Caeliomontanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Titi Vergini Tricosti Caeliomontani",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_PROCULUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "name": {
+      "normalized": "Proculus Verginius Tricostus Rutilus"
+    },
+    "variants": [
+      {
+        "form": "Proculus Verginius Tricostus Rutilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Proculi Vergini Tricosti Rutili",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  }
+]

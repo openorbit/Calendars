@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TEN_P_SVERRE_1177",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_SVERRE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1177
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1202
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Birkebeiner leader; reign continues from previous block."
+  },
+  {
+    "id": "TEN_P_HAAKON_III_1202",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1202
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_GUTTORM_1204",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_GUTTORM",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Child king."
+  },
+  {
+    "id": "TEN_P_INGE_II_1204",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_INGE_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1204
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1217
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HAAKON_IV_1217",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_IV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1217
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1263
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Long reign, consolidation of the realm, 'Golden Age'."
+  },
+  {
+    "id": "TEN_P_MAGNUS_VI_1263",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_MAGNUS_VI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1263
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1280
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "The Lawmender; reformed Norwegian law."
+  },
+  {
+    "id": "TEN_P_ERIC_II_1280",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_ERIC_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1280
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1299
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HAAKON_V_1299",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_V",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1299
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1319
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Moved capital to Oslo; last male of Fairhair line."
+  },
+  {
+    "id": "TEN_P_MAGNUS_VII_1319",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_MAGNUS_VII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1319
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1355
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Also king of Sweden (Magnus IV)."
+  },
+  {
+    "id": "TEN_P_HAAKON_VI_1355",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_VI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1355
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1380
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Married Margaret of Denmark; father of Olaf IV."
+  },
+  {
+    "id": "TEN_P_OLAF_IV_1380",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OLAF_IV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1380
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1387
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Also Olaf II of Denmark; died young."
+  },
+  {
+    "id": "TEN_P_MARGARET_I_1387",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_MARGARET_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1387
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1399
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "De facto ruler; founder of Kalmar Union; reign continues into 1400s."
+  }
+]

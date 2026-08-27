@@ -1,0 +1,9 @@
+[
+  {
+    "id": "OFFICE_FRANCE_KING",
+    "polity_id": "POLITY_FRANCE",
+    "label": "King of France",
+    "succession_mode": "hereditary",
+    "year_boundary_override": null
+  }
+]

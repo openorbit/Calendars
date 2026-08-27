@@ -1,0 +1,156 @@
+[
+  {
+    "id": "P_LUCIUS_IUNIUS_BRUTUS",
+    "name": {
+      "normalized": "Lucius Iunius Brutus"
+    },
+    "variants": [
+      {
+        "form": "Lucius Iunius Brutus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Lucii Iunii Bruti",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_TARQUINIUS_COLLATINUS",
+    "name": {
+      "normalized": "Lucius Tarquinius Collatinus"
+    },
+    "variants": [
+      {
+        "form": "Lucius Tarquinius Collatinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Lucii Tarquinii Collatini",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_VALERIUS_PUBLICOLA",
+    "name": {
+      "normalized": "Publius Valerius Publicola"
+    },
+    "variants": [
+      {
+        "form": "Publius Valerius Publicola",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Publii Valerii Publicolae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_LUCRETIUS_TRICIPITINUS",
+    "name": {
+      "normalized": "Spurius Lucretius Tricipitinus"
+    },
+    "variants": [
+      {
+        "form": "Spurius Lucretius Tricipitinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Spurii Lucretii Tricipitini",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_HORATIUS_PULVILLUS",
+    "name": {
+      "normalized": "Marcus Horatius Pulvillus"
+    },
+    "variants": [
+      {
+        "form": "Marcus Horatius Pulvillus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Marci Horatii Pulvilli",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_LARCIUS_FLAVUS",
+    "name": {
+      "normalized": "Titus Larcius Flavus"
+    },
+    "variants": [
+      {
+        "form": "Titus Larcius Flavus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Titi Larcii Flavi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "P_APPIUS_CLAUDIUS_SABINUS",
+    "name": {
+      "normalized": "Appius Claudius Sabinus"
+    },
+    "variants": [
+      {
+        "form": "Appius Claudius Sabinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Appii Claudii Sabini",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  }
+]

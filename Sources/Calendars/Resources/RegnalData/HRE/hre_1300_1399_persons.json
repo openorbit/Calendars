@@ -1,0 +1,173 @@
+[
+  {
+    "id": "P_HENRY_VII",
+    "name": {
+      "normalized": "Henry VII of Luxembourg"
+    },
+    "variants": [
+      {
+        "form": "Henricus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich VII.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Enrico VII",
+        "lang": "it",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_LOUIS_IV",
+    "name": {
+      "normalized": "Louis IV the Bavarian"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludwig IV. der Bayer",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_IV,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_FREDERICK_FAIR",
+    "name": {
+      "normalized": "Frederick the Fair"
+    },
+    "variants": [
+      {
+        "form": "Fridericus Pulcher",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Friedrich der Schöne",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_the_Fair"
+    }
+  },
+  {
+    "id": "P_CHARLES_IV",
+    "name": {
+      "normalized": "Charles IV"
+    },
+    "variants": [
+      {
+        "form": "Carolus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl IV.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karel IV.",
+        "lang": "cs",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_GUNTHER_SCHWARZBURG",
+    "name": {
+      "normalized": "Günther of Schwarzburg"
+    },
+    "variants": [
+      {
+        "form": "Guntherus Nigri Montis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Günther von Schwarzburg",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCnther_von_Schwarzburg"
+    }
+  },
+  {
+    "id": "P_WENCESLAUS",
+    "name": {
+      "normalized": "Wenceslaus (Václav)"
+    },
+    "variants": [
+      {
+        "form": "Wenceslaus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Wenzel",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Václav IV.",
+        "lang": "cs",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia"
+    }
+  }
+]

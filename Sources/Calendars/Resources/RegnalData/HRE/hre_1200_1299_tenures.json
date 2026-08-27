@@ -1,0 +1,261 @@
+[
+  {
+    "id": "TEN_P_HENRY_RASPE_1246",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_HENRY_RASPE",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1246,
+          "month": 5,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1247,
+          "month": 2,
+          "day": 16
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "antiking",
+    "notes": "Elected anti-king 22 May 1246 against Conrad IV."
+  },
+  {
+    "id": "TEN_P_WILLIAM_II_HOLLAND_1247",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_WILLIAM_II_HOLLAND",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1247,
+          "month": 10,
+          "day": 3
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1256,
+          "month": 1,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 3 Oct 1247; crowned at Aachen 1 Nov 1248."
+  },
+  {
+    "id": "TEN_P_RICHARD_OF_CORNWALL_1257",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_RICHARD_OF_CORNWALL",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1257,
+          "month": 5,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1272,
+          "month": 4,
+          "day": 2
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 1257; crowned at Aachen 17 May 1257; rival to Alfonso X."
+  },
+  {
+    "id": "TEN_P_ALFONSO_X_1257",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_ALFONSO_X",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1257,
+          "month": 4,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1275,
+          "month": 1,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "antiking",
+    "notes": "Elected by rival electors 1 Apr 1257; claim effectively abandoned by 1275."
+  },
+  {
+    "id": "TEN_P_RUDOLF_I_1273",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_RUDOLF_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1273,
+          "month": 10,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1291,
+          "month": 7,
+          "day": 15
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected at Frankfurt 1 Oct 1273; crowned Aachen 24 Oct 1273."
+  },
+  {
+    "id": "TEN_P_ADOLF_NASSAU_1292",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_ADOLF_NASSAU",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1292,
+          "month": 5,
+          "day": 5
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1298,
+          "month": 7,
+          "day": 2
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 5 May 1292; crowned Aachen 24 Jun 1292; deposed 23 Jun 1298; killed at Göllheim 2 Jul 1298."
+  },
+  {
+    "id": "TEN_P_ALBERT_I_1298",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_ALBERT_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1298,
+          "month": 7,
+          "day": 27
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1308,
+          "month": 5,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected (after Göllheim) 27 Jul 1298; crowned Aachen 24 Aug 1298; assassinated 1 May 1308."
+  }
+]

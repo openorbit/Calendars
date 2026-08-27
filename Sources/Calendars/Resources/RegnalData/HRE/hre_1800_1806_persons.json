@@ -1,0 +1,27 @@
+[
+  {
+    "id": "P_FRANCIS_II",
+    "name": {
+      "normalized": "Francis II"
+    },
+    "variants": [
+      {
+        "form": "Franciscus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Franz II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_II,_Holy_Roman_Emperor"
+    }
+  }
+]

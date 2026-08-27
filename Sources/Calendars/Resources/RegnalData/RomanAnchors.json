@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": "CAESAR_IDES_44",
+    "calendar": "RomanRepublican",
+    "roman_date": "Ides of March, 44 BCE",
+    "julian_date": "-43-03-15",
+    "event": "Assassination of Julius Caesar",
+    "source": "Nicolaus of Damascus; Appian; Suetonius; Fasti",
+    "certainty": "high",
+    "notes": "Firmly equated to 15 March 44 BCE (Julian). Classic anchor for end of Republican calendar."
+  },
+  {
+    "id": "PYDNA_168",
+    "calendar": "RomanRepublican",
+    "roman_date": "A.D. XIII Kal. Oct., 168 BCE",
+    "julian_date": "-167-06-22",
+    "event": "Battle of Pydna",
+    "source": "Polybius 29.27; Livy (Periochae 44); Plutarch, Aem. 17",
+    "certainty": "medium",
+    "notes": "Romans gave XIII Kal. Oct.; Greek synchronism shows June 22 (Julian). Demonstrates month drift."
+  },
+  {
+    "id": "TRASIMENE_217",
+    "calendar": "RomanRepublican",
+    "roman_date": "Non. Quintilis, 217 BCE",
+    "julian_date": "-216-06-21",
+    "event": "Battle of Lake Trasimene",
+    "source": "Livy 22.7; Polybius 3.84",
+    "certainty": "medium",
+    "notes": "Aligned with summer solstice; highlights calendar drift."
+  },
+  {
+    "id": "ECLIPSE_190",
+    "calendar": "RomanRepublican",
+    "roman_date": "Prodigy report, 190 BCE",
+    "julian_date": "-189-03-14",
+    "event": "Solar eclipse observed at Rome",
+    "source": "Livy 37.4; astronomical calculation (NASA canon)",
+    "certainty": "high",
+    "notes": "March 14, 190 BCE eclipse visible in Italy; confirms correlation."
+  },
+  {
+    "id": "CICERO_CATILINE_63",
+    "calendar": "RomanRepublican",
+    "roman_date": "Consulship of Cicero, 63 BCE",
+    "julian_date": "-62-11-08",
+    "event": "Catilinarian conspiracy (First speech)",
+    "source": "Cicero, In Catilinam 1; letters; fasti",
+    "certainty": "high",
+    "notes": "Secure absolute dating from Cicero’s correspondence."
+  },
+  {
+    "id": "CAESAR_CONSUL_59",
+    "calendar": "RomanRepublican",
+    "roman_date": "Consulship of Caesar, 59 BCE",
+    "julian_date": "-58-01-01",
+    "event": "Start of Caesar's first consulship",
+    "source": "Fasti Capitolini; Cassius Dio",
+    "certainty": "high",
+    "notes": "Cross-checked with Olympiad dating."
+  },
+  {
+    "id": "FASTI_ANTIATES",
+    "calendar": "RomanRepublican",
+    "roman_date": "Snapshot c. 60 BCE",
+    "julian_date": "-59-01-01",
+    "event": "Fasti Antiates Maiores (wall calendar from Antium)",
+    "source": "Archaeological fasti fragment",
+    "certainty": "high",
+    "notes": "Shows month structure of Republican calendar immediately before Caesar’s reform."
+  }
+]

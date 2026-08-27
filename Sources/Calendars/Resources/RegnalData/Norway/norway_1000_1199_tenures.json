@@ -1,0 +1,614 @@
+[
+  {
+    "id": "TEN_P_OLAF_II_1015",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OLAF_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1015
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1028
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Later canonized as St. Olaf, Norway's patron saint."
+  },
+  {
+    "id": "TEN_P_CNUT_1028",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_CNUT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1028
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1035
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "overlord",
+    "notes": "Ruled Norway as part of North Sea Empire."
+  },
+  {
+    "id": "TEN_P_MAGNUS_I_1035",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_MAGNUS_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1035
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1047
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HARALD_HARDRADA_1046",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HARALD_HARDRADA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1046
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1066
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Killed at Battle of Stamford Bridge, 1066."
+  },
+  {
+    "id": "TEN_P_OLAF_III_1067",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OLAF_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1067
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1093
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Known for peaceful reign, city-building."
+  },
+  {
+    "id": "TEN_P_MAGNUS_III_1093",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_MAGNUS_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1093
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1103
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Expansion into British Isles; killed in Ireland."
+  },
+  {
+    "id": "TEN_P_SIGURD_I_1103",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_SIGURD_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1103
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1130
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OYSTEIN_I_1103",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OYSTEIN_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1103
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1123
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OLAF_MAGNUSSON_1103",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OLAF_MAGNUSSON",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1103
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1115
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_MAGNUS_IV_1130",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_MAGNUS_IV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1130
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1135
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": "Civil War era king; blinded, abdicated."
+  },
+  {
+    "id": "TEN_P_HARALD_IV_1130",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HARALD_IV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1130
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1136
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": "Rival to Magnus IV; killed 1136."
+  },
+  {
+    "id": "TEN_P_SIGURD_II_1136",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_SIGURD_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1136
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1155
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_INGE_I_1136",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_INGE_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1136
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1161
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_EYSTEIN_II_1142",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_EYSTEIN_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1142
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1157
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HAAKON_II_1157",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1157
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1162
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_MAGNUS_V_1161",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_MAGNUS_V",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1161
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1184
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_SVERRE_1177",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_SVERRE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1177
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1199
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": "Leader of Birkebeiner faction; reign continues into 1200s."
+  }
+]

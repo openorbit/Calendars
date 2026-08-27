@@ -1,0 +1,167 @@
+[
+  {
+    "id": "TENURE_SW_HALSTEN",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_HALSTEN",
+    "ordinal": 6,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1067
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1070
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Co-ruler or brief king after Stenkil, contested."
+  },
+  {
+    "id": "TENURE_SW_INGE_I",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_INGE_I",
+    "ordinal": 7,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1079
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1105
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Known as Inge the Elder; reign included exile and rival."
+  },
+  {
+    "id": "TENURE_SW_BLOT_SWEYN",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_BLot_SWEYN",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "low",
+        "approx": true,
+        "ymd": {
+          "year": 1084
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "low",
+        "approx": true,
+        "ymd": {
+          "year": 1087
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "rival",
+    "notes": "Pagan rival to Inge I; called 'Blot-Sweyn'."
+  },
+  {
+    "id": "TENURE_SW_PHILIP",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_PHILIP_SWEDEN",
+    "ordinal": 8,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1105
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1125
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Ruled jointly with his brother Inge the Younger."
+  },
+  {
+    "id": "TENURE_SW_INGE_II",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_INGE_II",
+    "ordinal": 9,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1110
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1125
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Jointly ruled with Philip; called Inge the Younger."
+  }
+]

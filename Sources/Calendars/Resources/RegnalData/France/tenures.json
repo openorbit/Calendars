@@ -1,0 +1,1020 @@
+[
+  {
+    "id": "TENURE_FR_HUGH_CAPET",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_HUGH_CAPET",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 987,
+          "month": 7,
+          "day": 3
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 996,
+          "month": 10,
+          "day": 24
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_ROBERT_II",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_ROBERT_II",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 996,
+          "month": 10,
+          "day": 24
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1031,
+          "month": 7,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_HENRY_I",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_HENRY_I_FR",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1031,
+          "month": 7,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1060,
+          "month": 8,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_PHILIP_I",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_PHILIP_I",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1060,
+          "month": 8,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1108,
+          "month": 7,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_VI",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_VI",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1108,
+          "month": 7,
+          "day": 29
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1137,
+          "month": 8,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_VII",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_VII",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1137,
+          "month": 8,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1180,
+          "month": 9,
+          "day": 18
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_PHILIP_II",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_PHILIP_II",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1180,
+          "month": 9,
+          "day": 18
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1223,
+          "month": 7,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_VIII",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_VIII",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1223,
+          "month": 7,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1226,
+          "month": 11,
+          "day": 8
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_IX",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_IX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1226,
+          "month": 11,
+          "day": 8
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1270,
+          "month": 8,
+          "day": 25
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_PHILIP_III",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_PHILIP_III",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1270,
+          "month": 8,
+          "day": 25
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1285,
+          "month": 10,
+          "day": 5
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_PHILIP_IV",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_PHILIP_IV",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1285,
+          "month": 10,
+          "day": 5
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1314,
+          "month": 11,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_X",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_X",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1314,
+          "month": 11,
+          "day": 29
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1316,
+          "month": 6,
+          "day": 5
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_JOHN_I",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_JOHN_I_FR",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1316,
+          "month": 11,
+          "day": 15
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1316,
+          "month": 11,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reigned five days."
+  },
+  {
+    "id": "TENURE_FR_PHILIP_V",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_PHILIP_V",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1316,
+          "month": 11,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1322,
+          "month": 1,
+          "day": 3
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_CHARLES_IV",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_CHARLES_IV",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1322,
+          "month": 1,
+          "day": 3
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1328,
+          "month": 2,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_PHILIP_VI",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_PHILIP_VI",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1328,
+          "month": 4,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1350,
+          "month": 8,
+          "day": 22
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Accession recognized in 1328; exact YMD varies by source."
+  },
+  {
+    "id": "TENURE_FR_JOHN_II",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_JOHN_II_FR",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1350,
+          "month": 8,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1364,
+          "month": 4,
+          "day": 8
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_CHARLES_V",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_CHARLES_V",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1364,
+          "month": 4,
+          "day": 8
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1380,
+          "month": 9,
+          "day": 16
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_CHARLES_VI",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_CHARLES_VI",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1380,
+          "month": 9,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1422,
+          "month": 10,
+          "day": 21
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_HENRY_VI_RIVAL",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_HENRY_VI_ENGLAND_FR",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1422,
+          "month": 10,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1453,
+          "month": 10,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "rival",
+    "notes": "Claim under Treaty of Troyes; effective control ended with fall of Bordeaux (1453)."
+  },
+  {
+    "id": "TENURE_FR_CHARLES_VII",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_CHARLES_VII",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1422,
+          "month": 10,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1461,
+          "month": 7,
+          "day": 22
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_XI",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_XI",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1461,
+          "month": 7,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1483,
+          "month": 8,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_CHARLES_VIII",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_CHARLES_VIII",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1483,
+          "month": 8,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1498,
+          "month": 4,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_XII",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_XII",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1498,
+          "month": 4,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1515,
+          "month": 1,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_FRANCIS_I",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_FRANCIS_I",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1515,
+          "month": 1,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1547,
+          "month": 3,
+          "day": 31
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_HENRY_II",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_HENRY_II_FR",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1547,
+          "month": 3,
+          "day": 31
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1559,
+          "month": 7,
+          "day": 10
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_FRANCIS_II",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_FRANCIS_II",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1559,
+          "month": 7,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1560,
+          "month": 12,
+          "day": 5
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_CHARLES_IX",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_CHARLES_IX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1560,
+          "month": 12,
+          "day": 5
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1574,
+          "month": 5,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_HENRY_III",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_HENRY_III_FR",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1574,
+          "month": 5,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1589,
+          "month": 8,
+          "day": 2
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  }
+]

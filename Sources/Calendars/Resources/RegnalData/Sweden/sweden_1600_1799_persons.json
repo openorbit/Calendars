@@ -1,0 +1,352 @@
+[
+  {
+    "id": "P_CHARLES_IX",
+    "name": {
+      "normalized": "Charles IX"
+    },
+    "variants": [
+      {
+        "form": "Carolus IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl IX",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_IX_of_Sweden"
+    }
+  },
+  {
+    "id": "P_GUSTAVUS_ADOLPHUS",
+    "name": {
+      "normalized": "Gustav II Adolf (Gustavus Adolphus)"
+    },
+    "variants": [
+      {
+        "form": "Gustavus II Adolphus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gustav II Adolf",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHRISTINA",
+    "name": {
+      "normalized": "Christina"
+    },
+    "variants": [
+      {
+        "form": "Christina",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Kristina",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christina,_Queen_of_Sweden"
+    }
+  },
+  {
+    "id": "P_REGENCY_CHRISTINA",
+    "name": {
+      "normalized": "Regency Council for Christina"
+    },
+    "variants": [
+      {
+        "form": "Consilium Regens",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Förmyndarregeringen",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christina,_Queen_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHARLES_X_G",
+    "name": {
+      "normalized": "Charles X Gustav"
+    },
+    "variants": [
+      {
+        "form": "Carolus X Gustavus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl X Gustav",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_X_Gustav_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHARLES_XI",
+    "name": {
+      "normalized": "Charles XI"
+    },
+    "variants": [
+      {
+        "form": "Carolus XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl XI",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XI_of_Sweden"
+    }
+  },
+  {
+    "id": "P_REGENCY_CHARLES_XI",
+    "name": {
+      "normalized": "Regency Council for Charles XI"
+    },
+    "variants": [
+      {
+        "form": "Consilium Regens",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Förmyndarregeringen",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XI_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHARLES_XII",
+    "name": {
+      "normalized": "Charles XII"
+    },
+    "variants": [
+      {
+        "form": "Carolus XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl XII",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XII_of_Sweden"
+    }
+  },
+  {
+    "id": "P_ULRIKA_ELEONORA",
+    "name": {
+      "normalized": "Ulrika Eleonora"
+    },
+    "variants": [
+      {
+        "form": "Ulrica Eleonora",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ulrika Eleonora",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ulrika_Eleonora,_Queen_of_Sweden"
+    }
+  },
+  {
+    "id": "P_FREDERICK_I",
+    "name": {
+      "normalized": "Frederick I"
+    },
+    "variants": [
+      {
+        "form": "Fridericus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Fredrik I",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_I_of_Sweden"
+    }
+  },
+  {
+    "id": "P_ADOLF_FREDERICK",
+    "name": {
+      "normalized": "Adolf Frederick"
+    },
+    "variants": [
+      {
+        "form": "Adolphus Fredericus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Adolf Fredrik",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Frederick,_King_of_Sweden"
+    }
+  },
+  {
+    "id": "P_GUSTAV_III",
+    "name": {
+      "normalized": "Gustav III"
+    },
+    "variants": [
+      {
+        "form": "Gustavus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gustav III",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gustav_III"
+    }
+  },
+  {
+    "id": "P_GUSTAV_IV_ADOLF",
+    "name": {
+      "normalized": "Gustav IV Adolf"
+    },
+    "variants": [
+      {
+        "form": "Gustavus IV Adolphus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gustav IV Adolf",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gustav_IV_Adolf"
+    }
+  },
+  {
+    "id": "P_REGENCY_GIV",
+    "name": {
+      "normalized": "Regency for Gustav IV Adolf"
+    },
+    "variants": [
+      {
+        "form": "Consilium Regens",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Förmyndarregeringen",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gustav_IV_Adolf"
+    }
+  }
+]

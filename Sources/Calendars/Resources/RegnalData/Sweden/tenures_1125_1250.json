@@ -1,0 +1,167 @@
+[
+  {
+    "id": "TENURE_SW_SVERKER_I",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_SVERKER_I",
+    "ordinal": 10,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1130
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1156
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Founder of the Sverker dynasty."
+  },
+  {
+    "id": "TENURE_SW_ERIK_IX",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_ERIK_IX",
+    "ordinal": 11,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1156
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1160
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Erik the Holy, later patron saint of Sweden."
+  },
+  {
+    "id": "TENURE_SW_KARL_SVERKERSSON",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_KARL_SVERKERSSON",
+    "ordinal": 12,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1161
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1167
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Karl Sverkersson, son of Sverker I."
+  },
+  {
+    "id": "TENURE_SW_KNUT_ERIKSSON",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_KNUT_ERIKSSON",
+    "ordinal": 13,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1167
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Son of Erik IX, member of the Erik dynasty."
+  },
+  {
+    "id": "TENURE_SW_SVERKER_II",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_SVERKER_II",
+    "ordinal": 14,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1208
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Son of Karl Sverkersson, defeated by Erik dynasty."
+  }
+]

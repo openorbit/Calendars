@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "TEN_P_CHILDERIC_I_OFFICE_FRANKS_KING_457",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CHILDERIC_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 457
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 481
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CLOVIS_I_OFFICE_FRANKS_KING_481",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CLOVIS_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 481
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "United the Franks; converted to Catholic Christianity."
+  },
+  {
+    "id": "TEN_P_THEUDERIC_I_OFFICE_AUSTRASIA_KING_511",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_THEUDERIC_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 533
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHLODOMER_OFFICE_BURGUNDY_KING_511",
+    "office_id": "OFFICE_BURGUNDY_KING",
+    "person_id": "P_CHLODOMER",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_BURGUNDY_FRANKISH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 524
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Ruled Orléans/Burgundy share; killed in Burgundy campaign."
+  },
+  {
+    "id": "TEN_P_CHILDEBERT_I_OFFICE_NEUSTRIA_KING_511",
+    "office_id": "OFFICE_NEUSTRIA_KING",
+    "person_id": "P_CHILDEBERT_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NEUSTRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 558
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CLOTHAR_I_OFFICE_FRANKS_KING_511",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CLOTHAR_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 561
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Initially Soissons share; reunited kingdom 558–561."
+  },
+  {
+    "id": "TEN_P_THEUDEBERT_I_OFFICE_AUSTRASIA_KING_533",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_THEUDEBERT_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 533
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 548
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_THEUDEBALD_OFFICE_AUSTRASIA_KING_548",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_THEUDEBALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 548
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 555
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHARIBERT_I_OFFICE_NEUSTRIA_KING_561",
+    "office_id": "OFFICE_NEUSTRIA_KING",
+    "person_id": "P_CHARIBERT_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NEUSTRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 561
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 567
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Paris/Neustria share."
+  },
+  {
+    "id": "TEN_P_GUNTRAM_OFFICE_BURGUNDY_KING_561",
+    "office_id": "OFFICE_BURGUNDY_KING",
+    "person_id": "P_GUNTRAM",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_BURGUNDY_FRANKISH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 561
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 592
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_SIGEBERT_I_OFFICE_AUSTRASIA_KING_561",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_SIGEBERT_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 561
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 575
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHILPERIC_I_OFFICE_NEUSTRIA_KING_561",
+    "office_id": "OFFICE_NEUSTRIA_KING",
+    "person_id": "P_CHILPERIC_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NEUSTRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 561
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 584
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHILDEBERT_II_OFFICE_AUSTRASIA_KING_575",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_CHILDEBERT_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 575
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 596
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHILDEBERT_II_OFFICE_BURGUNDY_KING_592",
+    "office_id": "OFFICE_BURGUNDY_KING",
+    "person_id": "P_CHILDEBERT_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_BURGUNDY_FRANKISH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 592
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 596
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Also inherited Burgundy from Guntram 592."
+  },
+  {
+    "id": "TEN_P_THEUDEBERT_II_OFFICE_AUSTRASIA_KING_595",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_THEUDEBERT_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 595
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 612
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_THEUDERIC_II_OFFICE_BURGUNDY_KING_595",
+    "office_id": "OFFICE_BURGUNDY_KING",
+    "person_id": "P_THEUDERIC_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_BURGUNDY_FRANKISH",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 595
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 613
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHLOTHAR_II_OFFICE_NEUSTRIA_KING_584",
+    "office_id": "OFFICE_NEUSTRIA_KING",
+    "person_id": "P_CHLOTHAR_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NEUSTRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 584
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 629
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Under regency of Fredegund until 597; later reunited kingdom 613–629."
+  },
+  {
+    "id": "TEN_P_CHLOTHAR_II_OFFICE_FRANKS_KING_613",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CHLOTHAR_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 613
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 629
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reunited the Frankish kingdom 613."
+  },
+  {
+    "id": "TEN_P_DAGOBERT_I_OFFICE_FRANKS_KING_629",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_DAGOBERT_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 629
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 639
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_SIGEBERT_III_OFFICE_AUSTRASIA_KING_633",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_SIGEBERT_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 633
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 656
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Sub-king set up by Dagobert I; under influence of mayors of the palace."
+  },
+  {
+    "id": "TEN_P_CLOVIS_II_OFFICE_NEUSTRIA_KING_639",
+    "office_id": "OFFICE_NEUSTRIA_KING",
+    "person_id": "P_CLOVIS_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NEUSTRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 639
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 657
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Also king of Burgundy after 642."
+  },
+  {
+    "id": "TEN_P_CHLOTHAR_III_OFFICE_NEUSTRIA_KING_657",
+    "office_id": "OFFICE_NEUSTRIA_KING",
+    "person_id": "P_CHLOTHAR_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NEUSTRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 657
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 673
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Also Burgundy; under mayors of the palace."
+  },
+  {
+    "id": "TEN_P_CHILDERIC_II_OFFICE_AUSTRASIA_KING_662",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_CHILDERIC_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 662
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 675
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHILDERIC_II_OFFICE_FRANKS_KING_673",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CHILDERIC_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 673
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 675
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Brief reunification."
+  },
+  {
+    "id": "TEN_P_THEUDERIC_III_OFFICE_NEUSTRIA_KING_673",
+    "office_id": "OFFICE_NEUSTRIA_KING",
+    "person_id": "P_THEUDERIC_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NEUSTRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 673
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 691
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "From 679 effectively king of the Franks."
+  },
+  {
+    "id": "TEN_P_DAGOBERT_II_OFFICE_AUSTRASIA_KING_676",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_DAGOBERT_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 676
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 679
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CLOVIS_III_OFFICE_AUSTRASIA_KING_675",
+    "office_id": "OFFICE_AUSTRASIA_KING",
+    "person_id": "P_CLOVIS_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_AUSTRASIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 675
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 676
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": "Disputed/puppet king in Austrasia."
+  },
+  {
+    "id": "TEN_P_CLOVIS_IV_OFFICE_FRANKS_KING_691",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CLOVIS_IV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 691
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 695
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHILDEBERT_III_OFFICE_FRANKS_KING_695",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CHILDEBERT_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 695
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 711
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_DAGOBERT_III_OFFICE_FRANKS_KING_711",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_DAGOBERT_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 711
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 715
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHILPERIC_II_OFFICE_FRANKS_KING_715",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CHILPERIC_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 715
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 721
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_THEUDERIC_IV_OFFICE_FRANKS_KING_721",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_THEUDERIC_IV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 721
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 737
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_INTERREGNUM_737",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": null,
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 737
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 743
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "interregnum",
+    "notes": "No anointed king; de facto rule by Charles Martel as Mayor of the Palace."
+  },
+  {
+    "id": "TEN_P_CHILDERIC_III_OFFICE_FRANKS_KING_743",
+    "office_id": "OFFICE_FRANKS_KING",
+    "person_id": "P_CHILDERIC_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_REGNUM_FRANCORUM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 743
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 751
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed by Pepin the Short; end of Merovingian dynasty."
+  }
+]

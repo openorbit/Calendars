@@ -1,0 +1,167 @@
+[
+  {
+    "id": "TENURE_SW_ERIK_VICTORIOUS",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_ERIK_VICTORIOUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 970
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 995
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Approximate reign per medieval sources; overlap with co-rulership traditions possible."
+  },
+  {
+    "id": "TENURE_SW_OLOF_SKOTKONUNG",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_OLOF_SKOTKONUNG",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 995
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1022
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "First Christian king of Sweden; coinage attested."
+  },
+  {
+    "id": "TENURE_SW_ANUND_JACOB",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_ANUND_JACOB",
+    "ordinal": 3,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1022
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1050
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Sometimes dated to 1050/1051."
+  },
+  {
+    "id": "TENURE_SW_EMUND_THE_OLD",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_EMUND_THE_OLD",
+    "ordinal": 4,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1050
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1060
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "End around 1060; start of Stenkil dynasty thereafter."
+  },
+  {
+    "id": "TENURE_SW_STENKIL",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_STENKIL",
+    "ordinal": 5,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1060
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1066
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Included to close out the first block that ends at 1060/1066."
+  }
+]

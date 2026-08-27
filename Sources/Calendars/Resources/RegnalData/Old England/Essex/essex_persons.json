@@ -1,0 +1,107 @@
+[
+  {
+    "id": "P_AESCWINE",
+    "name": {
+      "normalized": "Æscwine"
+    },
+    "variants": [
+      {
+        "form": "Æscwine",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SLEBBA",
+    "name": {
+      "normalized": "Sæbbi (Sæbba)"
+    },
+    "variants": [
+      {
+        "form": "Sæbbi",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SAEWARD",
+    "name": {
+      "normalized": "Sæward"
+    },
+    "variants": [
+      {
+        "form": "Sæwardus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SIGEBERHT_GOOD",
+    "name": {
+      "normalized": "Sigeberht the Good"
+    },
+    "variants": [
+      {
+        "form": "Sigeberhtus Bonus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SIGEBERHT_BAD",
+    "name": {
+      "normalized": "Sigeberht the Little"
+    },
+    "variants": [
+      {
+        "form": "Sigeberhtus Parvus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SWITHHELM",
+    "name": {
+      "normalized": "Swithhelm"
+    },
+    "variants": [
+      {
+        "form": "Swithhelmus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SIGERIC",
+    "name": {
+      "normalized": "Sigeric of Essex"
+    },
+    "variants": [
+      {
+        "form": "Sigericus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

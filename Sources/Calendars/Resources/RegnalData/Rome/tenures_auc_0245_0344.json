@@ -1,0 +1,728 @@
+[
+  {
+    "id": "TENURE_AUC_245_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_IUNIUS_BRUTUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 245
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 245
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Founding consuls; Collatinus resigned; suffects filled in sequence."
+  },
+  {
+    "id": "TENURE_AUC_245_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_TARQUINIUS_COLLATINUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 245
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 245
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Founding consuls; Collatinus resigned; suffects filled in sequence."
+  },
+  {
+    "id": "TENURE_AUC_245_SUFFECT_1",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_SPURIUS_LUCRETIUS_TRICIPITINUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 245
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 245
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Founding consuls; Collatinus resigned; suffects filled in sequence."
+  },
+  {
+    "id": "TENURE_AUC_245_SUFFECT_2",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_PUBLIUS_VALERIUS_PUBLICOLA",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 245
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 245
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Founding consuls; Collatinus resigned; suffects filled in sequence."
+  },
+  {
+    "id": "TENURE_AUC_246_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_VALERIUS_PUBLICOLA",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 246
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 246
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_246_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_HORATIUS_PULVILLUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 246
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 246
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_247_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_LARCIUS_FLAVUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 247
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 247
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_247_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SPURIUS_LUCRETIUS_TRICIPITINUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 247
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 247
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_248_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_APPIUS_CLAUDIUS_SABINUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 248
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 248
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_248_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_SERVILIUS_PRISCUS_STRUCTUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 248
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 248
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_249_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_AULUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 249
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 249
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_249_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 249
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 249
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_250_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SPURIUS_CASSIUS_VECELLINUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 250
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 250
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_250_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_OPITER_VERGINIUS_TRICOSTUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 250
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 250
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_251_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_POSTUMIUS_TUBERTUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 251
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 251
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_251_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_LARCIUS_FLAVUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 251
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 251
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_252_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_AGRIPPA_MENENIUS_LANATUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 252
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 252
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_252_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_POSTUMIUS_TUBERTUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 252
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 252
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_253_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_AULUS_POSTUMIUS_ALBUS_REGILLENSIS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 253
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 253
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_253_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_VERGINIUS_TRICOSTUS_CAELIOMONTANUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 253
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 253
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_254_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SPURIUS_CASSIUS_VECELLINUS",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 254
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 254
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_AUC_254_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PROCULUS_VERGINIUS_TRICOSTUS_RUTILUS",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 254
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 254
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  }
+]

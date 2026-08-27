@@ -1,0 +1,275 @@
+[
+  {
+    "id": "POLITY_ENGLAND",
+    "label": "Kingdom of the English",
+    "aliases": [
+      "Regnum Anglorum",
+      "England"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 927
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1066
+        }
+      }
+    ],
+    "notes": "Unified under Athelstan; ends here at the Norman Conquest."
+  },
+  {
+    "id": "POLITY_WESSEX",
+    "label": "Kingdom of Wessex",
+    "aliases": [
+      "Westseaxna rīce"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 519
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 927
+        }
+      }
+    ],
+    "notes": "Dominant Anglo-Saxon kingdom leading to unification."
+  },
+  {
+    "id": "POLITY_MERCIA",
+    "label": "Kingdom of Mercia",
+    "aliases": [
+      "Mierce"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 527
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 918
+        }
+      }
+    ],
+    "notes": "Absorbed into West Saxon hegemony by early 10th c."
+  },
+  {
+    "id": "POLITY_NORTHUMBRIA",
+    "label": "Kingdom of Northumbria",
+    "aliases": [
+      "Norþanhymbra rīce"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 654
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 954
+        }
+      }
+    ],
+    "notes": "Often under Norse/Danish control later."
+  },
+  {
+    "id": "POLITY_EAST_ANGLIA",
+    "label": "Kingdom of East Anglia",
+    "aliases": [
+      "Ēast Engla rīce"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 571
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 918
+        }
+      }
+    ],
+    "notes": "Conquered by Danes; later integrated under Wessex."
+  },
+  {
+    "id": "POLITY_KENT",
+    "label": "Kingdom of Kent",
+    "aliases": [
+      "Cantware rīce"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 450
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 825
+        }
+      }
+    ],
+    "notes": "Early Christianization under Æthelberht."
+  },
+  {
+    "id": "POLITY_ESSEX",
+    "label": "Kingdom of Essex",
+    "aliases": [
+      "Ēastseaxna rīce"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 527
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 825
+        }
+      }
+    ],
+    "notes": "Absorbed by Mercia/Wessex."
+  },
+  {
+    "id": "POLITY_SUSSEX",
+    "label": "Kingdom of Sussex",
+    "aliases": [
+      "Sūþseaxna rīce"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 477
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 825
+        }
+      }
+    ],
+    "notes": "Absorbed by Wessex."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P_HARALD_FAIRHAIR",
+    "name": {
+      "normalized": "Harald I Fairhair"
+    },
+    "variants": [
+      {
+        "form": "Haraldr inn hárfagri",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Harald Hårfagre",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_Fairhair"
+    }
+  },
+  {
+    "id": "P_ERIC_BLOODAXE",
+    "name": {
+      "normalized": "Eric I Bloodaxe"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr blóðøx",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Eirik Blodøks",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_Bloodaxe"
+    }
+  },
+  {
+    "id": "P_HAAKON_GOOD",
+    "name": {
+      "normalized": "Haakon I the Good"
+    },
+    "variants": [
+      {
+        "form": "Hákon góði",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Håkon den Gode",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_the_Good"
+    }
+  },
+  {
+    "id": "P_HARALD_GREYCLOAK",
+    "name": {
+      "normalized": "Harald II Greycloak"
+    },
+    "variants": [
+      {
+        "form": "Haraldr gráfeldr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Harald Gråfell",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_Greycloak"
+    }
+  },
+  {
+    "id": "P_HAAKON_SIGURDSSON",
+    "name": {
+      "normalized": "Haakon Sigurdsson (Jarl of Lade)"
+    },
+    "variants": [
+      {
+        "form": "Hákon Sigurðarson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Håkon Sigurdsson Ladejarl",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_Sigurdsson"
+    }
+  },
+  {
+    "id": "P_OLAF_TRYGGVASON",
+    "name": {
+      "normalized": "Olaf I Tryggvason"
+    },
+    "variants": [
+      {
+        "form": "Óláfr Tryggvason",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olav Tryggvason",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Tryggvason"
+    }
+  }
+]

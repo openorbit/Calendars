@@ -1,0 +1,178 @@
+[
+  {
+    "id": "PERSON_HALSTEN",
+    "name": {
+      "normalized": "Halsten"
+    },
+    "variants": [
+      {
+        "form": "Halstenus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.7
+      },
+      {
+        "form": "Halsteni",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.7
+      },
+      {
+        "form": "Halsten",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": "PERSON_INGE_I",
+    "name": {
+      "normalized": "Inge the Elder"
+    },
+    "variants": [
+      {
+        "form": "Ingo senior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.7
+      },
+      {
+        "form": "Ingonis senioris",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.65
+      },
+      {
+        "form": "Ingi gamli",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.7
+      },
+      {
+        "form": "Inge den äldre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": "PERSON_BLot_SWEYN",
+    "name": {
+      "normalized": "Blot-Sweyn"
+    },
+    "variants": [
+      {
+        "form": "Sueno sacrificulus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.6
+      },
+      {
+        "form": "Sueni",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.6
+      },
+      {
+        "form": "Blót-Sveinn",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.7
+      },
+      {
+        "form": "Blot-Sven",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP_SWEDEN",
+    "name": {
+      "normalized": "Philip"
+    },
+    "variants": [
+      {
+        "form": "Philippus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.8
+      },
+      {
+        "form": "Philippi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.8
+      },
+      {
+        "form": "Filip",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": "PERSON_INGE_II",
+    "name": {
+      "normalized": "Inge the Younger"
+    },
+    "variants": [
+      {
+        "form": "Ingo iunior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.7
+      },
+      {
+        "form": "Ingonis iunioris",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.65
+      },
+      {
+        "form": "Ingi yngri",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.7
+      },
+      {
+        "form": "Inge den yngre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  }
+]

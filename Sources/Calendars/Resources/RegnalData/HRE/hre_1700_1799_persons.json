@@ -1,0 +1,177 @@
+[
+  {
+    "id": "P_LEOPOLD_I",
+    "name": {
+      "normalized": "Leopold I"
+    },
+    "variants": [
+      {
+        "form": "Leopoldus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Leopold_I,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_JOSEPH_I",
+    "name": {
+      "normalized": "Joseph I"
+    },
+    "variants": [
+      {
+        "form": "Iosephus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_I,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_CHARLES_VI",
+    "name": {
+      "normalized": "Charles VI"
+    },
+    "variants": [
+      {
+        "form": "Carolus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl VI.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_VI,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_CHARLES_VII",
+    "name": {
+      "normalized": "Charles VII"
+    },
+    "variants": [
+      {
+        "form": "Carolus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl VII.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_VII,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_FRANCIS_I",
+    "name": {
+      "normalized": "Francis I"
+    },
+    "variants": [
+      {
+        "form": "Franciscus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Franz I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_I,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_JOSEPH_II",
+    "name": {
+      "normalized": "Joseph II"
+    },
+    "variants": [
+      {
+        "form": "Iosephus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_LEOPOLD_II",
+    "name": {
+      "normalized": "Leopold II"
+    },
+    "variants": [
+      {
+        "form": "Leopoldus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Leopold_II,_Holy_Roman_Emperor"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "OFFICE_DENMARK_MONARCH",
+    "label": "Monarch of Denmark",
+    "scope_polity_id": "POLITY_DENMARK_KINGDOM",
+    "notes": "Crowned monarch (rex/regina Daniae)."
+  },
+  {
+    "id": "OFFICE_DENMARK_REGENT",
+    "label": "Regent of Denmark",
+    "scope_polity_id": "POLITY_DENMARK_KINGDOM",
+    "notes": "Interim head of state (riksforstander / rigsforstander) during minorities or vacancies."
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "id": "TEN_P_CHARLES_IX_1604",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_IX",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1604
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1611
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Became king 1604 after serving as regent since 1599."
+  },
+  {
+    "id": "TEN_P_GUSTAVUS_ADOLPHUS_1611",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_GUSTAVUS_ADOLPHUS",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1611
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1632
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Killed at the Battle of Lützen 1632."
+  },
+  {
+    "id": "TEN_P_REGENCY_CHRISTINA_1632",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_REGENCY_CHRISTINA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1632
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1644
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Minority regency led by Axel Oxenstierna."
+  },
+  {
+    "id": "TEN_P_CHRISTINA_1632",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHRISTINA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1632
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1654
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Abdicated 1654 in favor of Charles X Gustav."
+  },
+  {
+    "id": "TEN_P_CHARLES_X_G_1654",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_X_G",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1654
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1660
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_REGENCY_CHARLES_XI_1660",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_REGENCY_CHARLES_XI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1660
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1672
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Minority regency."
+  },
+  {
+    "id": "TEN_P_CHARLES_XI_1672",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_XI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1672
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1697
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHARLES_XII_1697",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_XII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1697
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1718
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Killed at Fredriksten 1718."
+  },
+  {
+    "id": "TEN_P_ULRIKA_ELEONORA_1718",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_ULRIKA_ELEONORA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1718
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1720
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_FREDERICK_I_1720",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_FREDERICK_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1720
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1751
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_ADOLF_FREDERICK_1751A",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_ADOLF_FREDERICK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1751
+        },
+        "calendarRuleID": "RULE_JULIAN_JAN1"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_JAN1",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1753,
+          "month": 2,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Julian calendar segment up to reform."
+  },
+  {
+    "id": "TEN_P_ADOLF_FREDERICK_1753B",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_ADOLF_FREDERICK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_SE",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1753,
+          "month": 3,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1771
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Gregorian calendar segment after reform."
+  },
+  {
+    "id": "TEN_P_GUSTAV_III_1771",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_GUSTAV_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1771
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_REGENCY_GIV_1792",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "P_REGENCY_GIV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1796
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "regent",
+    "notes": "Minority regency headed by Duke Charles; Reuterholm influential."
+  },
+  {
+    "id": "TEN_P_GUSTAV_IV_ADOLF_1792",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_GUSTAV_IV_ADOLF",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1809
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed in the 1809 coup."
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "P_HENRY_FOWLER",
+    "name": {
+      "normalized": "Henry I (the Fowler)"
+    },
+    "variants": [
+      {
+        "form": "Heinricus Auceps",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich der Vogler",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_the_Fowler"
+    }
+  },
+  {
+    "id": "P_OTTO_I",
+    "name": {
+      "normalized": "Otto I (the Great)"
+    },
+    "variants": [
+      {
+        "form": "Otto Magnus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Otto der Große",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Otto_I,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_OTTO_II",
+    "name": {
+      "normalized": "Otto II"
+    },
+    "variants": [
+      {
+        "form": "Otto II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Otto II",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Otto_II,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_OTTO_III",
+    "name": {
+      "normalized": "Otto III"
+    },
+    "variants": [
+      {
+        "form": "Otto III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Otto III",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Otto_III,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_HENRY_II",
+    "name": {
+      "normalized": "Henry II (the Saint)"
+    },
+    "variants": [
+      {
+        "form": "Heinricus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich II",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+    }
+  }
+]

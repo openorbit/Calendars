@@ -1,0 +1,33 @@
+[
+  {
+    "id": "POLITY_VISIGOTHIC_KINGDOM",
+    "label": "Visigothic Kingdom",
+    "aliases": [
+      "Regnum Visigothorum",
+      "Kingdom of the Visigoths"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 418
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 711
+        }
+      }
+    ],
+    "notes": "Successor kingdom of the Goths in Gaul and later Hispania; ended with Umayyad conquest (711)."
+  }
+]

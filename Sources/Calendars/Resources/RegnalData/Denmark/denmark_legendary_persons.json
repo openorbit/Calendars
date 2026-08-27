@@ -1,0 +1,191 @@
+[
+  {
+    "id": "P_SKJOLD",
+    "name": {
+      "normalized": "Skjöldr (Scyld Scefing)"
+    },
+    "variants": [
+      {
+        "form": "Skjǫldr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Scyld Scefing",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Scyldus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Scyld_Scefing"
+    }
+  },
+  {
+    "id": "P_FRODE_I",
+    "name": {
+      "normalized": "Fróði I (the Peaceful)"
+    },
+    "variants": [
+      {
+        "form": "Fróði",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Frotho",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Fro%C3%B0i"
+    }
+  },
+  {
+    "id": "P_HALFDAN",
+    "name": {
+      "normalized": "Halfdan (Haldanus)"
+    },
+    "variants": [
+      {
+        "form": "Halfdan",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Haldanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Halfdan"
+    }
+  },
+  {
+    "id": "P_HROTHGAR",
+    "name": {
+      "normalized": "Hrothgar (Roar)"
+    },
+    "variants": [
+      {
+        "form": "Hróarr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Roar",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hroðgar",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Hrothgar"
+    }
+  },
+  {
+    "id": "P_HELGI",
+    "name": {
+      "normalized": "Helgi (Halga)"
+    },
+    "variants": [
+      {
+        "form": "Helgi",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Halga",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Halga"
+    }
+  },
+  {
+    "id": "P_HROLFR_KRAKI",
+    "name": {
+      "normalized": "Hrólfr Kraki"
+    },
+    "variants": [
+      {
+        "form": "Hrólfr Kraki",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Rolfo Krake",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Hr%C3%B3lfr_Kraki"
+    }
+  },
+  {
+    "id": "P_RAGNAR_LODBROK",
+    "name": {
+      "normalized": "Ragnar Lodbrok"
+    },
+    "variants": [
+      {
+        "form": "Ragnarr Loðbrók",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ragnar Lothbrocus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ragnar_Lodbrok"
+    }
+  }
+]

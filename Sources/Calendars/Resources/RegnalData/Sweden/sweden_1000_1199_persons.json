@@ -1,0 +1,434 @@
+[
+  {
+    "id": "P_OLOF_SKOTKONUNG",
+    "name": {
+      "normalized": "Olof Skötkonung"
+    },
+    "variants": [
+      {
+        "form": "Olavus Skotkonungus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olof Skotkonungr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olof Skötkonung",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olof_Sk%C3%B6tkonung"
+    }
+  },
+  {
+    "id": "P_ANUND_JACOB",
+    "name": {
+      "normalized": "Anund Jacob"
+    },
+    "variants": [
+      {
+        "form": "Anundus Iacobus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Anund Jakob",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Anund_Jacob"
+    }
+  },
+  {
+    "id": "P_EMUND_OLD",
+    "name": {
+      "normalized": "Emund the Old"
+    },
+    "variants": [
+      {
+        "form": "Emundus Senior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Emund den gamle",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Emund_the_Old"
+    }
+  },
+  {
+    "id": "P_STENKIL",
+    "name": {
+      "normalized": "Stenkil"
+    },
+    "variants": [
+      {
+        "form": "Stenkillus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Stenkil",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Stenkil"
+    }
+  },
+  {
+    "id": "P_HALSTEN",
+    "name": {
+      "normalized": "Halsten"
+    },
+    "variants": [
+      {
+        "form": "Halstinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Halsten",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Halsten"
+    }
+  },
+  {
+    "id": "P_HAKAN_RED",
+    "name": {
+      "normalized": "Håkan the Red"
+    },
+    "variants": [
+      {
+        "form": "Haco Rubeus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Håkan röde",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A5kan_the_Red"
+    }
+  },
+  {
+    "id": "P_INGE_ELDER",
+    "name": {
+      "normalized": "Inge the Elder"
+    },
+    "variants": [
+      {
+        "form": "Ingo Senior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Inge den äldre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Inge_the_Elder"
+    }
+  },
+  {
+    "id": "P_BLOT_SWEYN",
+    "name": {
+      "normalized": "Blot-Sweyn"
+    },
+    "variants": [
+      {
+        "form": "Sueno Paganus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Blot-Sven",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Blot-Sweyn"
+    }
+  },
+  {
+    "id": "P_PHILIP_SWEDEN",
+    "name": {
+      "normalized": "Philip of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Philippus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Filip",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_of_Sweden"
+    }
+  },
+  {
+    "id": "P_INGE_YOUNGER",
+    "name": {
+      "normalized": "Inge the Younger"
+    },
+    "variants": [
+      {
+        "form": "Ingo Iunior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Inge den yngre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Inge_the_Younger"
+    }
+  },
+  {
+    "id": "P_RAGNV_KNAPH",
+    "name": {
+      "normalized": "Ragnvald Knaphövde"
+    },
+    "variants": [
+      {
+        "form": "Raginaldus Knaphovdus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ragnvald Knaphövde",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ragnvald_Knaph%C3%B6vde"
+    }
+  },
+  {
+    "id": "P_SVERKER_I",
+    "name": {
+      "normalized": "Sverker I the Elder"
+    },
+    "variants": [
+      {
+        "form": "Sueccherus Senior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sverker den äldre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sverker_I_of_Sweden"
+    }
+  },
+  {
+    "id": "P_ERIC_IX",
+    "name": {
+      "normalized": "Eric IX (the Saint)"
+    },
+    "variants": [
+      {
+        "form": "Ericus IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik den helige",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_IX_of_Sweden"
+    }
+  },
+  {
+    "id": "P_MAGNUS_HENRIK",
+    "name": {
+      "normalized": "Magnus Henriksson"
+    },
+    "variants": [
+      {
+        "form": "Magnus Henrici filius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus Henriksson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Henriksson"
+    }
+  },
+  {
+    "id": "P_CHARLES_VII_SW",
+    "name": {
+      "normalized": "Charles VII of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Carolus VII Sueciae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl Sverkersson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_VII_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CANUTE_I",
+    "name": {
+      "normalized": "Canute I of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Canutus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Knut Eriksson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Knut_Eriksson"
+    }
+  },
+  {
+    "id": "P_SVERKER_II",
+    "name": {
+      "normalized": "Sverker II"
+    },
+    "variants": [
+      {
+        "form": "Sueccherus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sverker Karlsson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sverker_II_of_Sweden"
+    }
+  }
+]

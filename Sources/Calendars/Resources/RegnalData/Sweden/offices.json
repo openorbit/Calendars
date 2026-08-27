@@ -1,0 +1,16 @@
+[
+  {
+    "id": "OFFICE_SWEDEN_KING",
+    "polity_id": "POLITY_SWEDEN",
+    "label": "King of Sweden",
+    "succession_mode": "monarchic",
+    "year_boundary_override": null
+  },
+  {
+    "id": "OFFICE_SWEDEN_REGENT",
+    "polity_id": "POLITY_SWEDEN",
+    "label": "Regent of Sweden (Riksföreståndare)",
+    "succession_mode": "appointed",
+    "year_boundary_override": null
+  }
+]

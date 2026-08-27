@@ -1,0 +1,164 @@
+[
+  {
+    "id": "PERSON_SVERKER_I",
+    "name": {
+      "normalized": "Sverker I"
+    },
+    "variants": [
+      {
+        "form": "Suercherus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.7
+      },
+      {
+        "form": "Suercheri",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.7
+      },
+      {
+        "form": "Sverker den äldre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ERIK_IX",
+    "name": {
+      "normalized": "Erik IX the Holy"
+    },
+    "variants": [
+      {
+        "form": "Ericus IX sanctus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.8
+      },
+      {
+        "form": "Erici IX sancti",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.8
+      },
+      {
+        "form": "Erik Jedvardsson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      },
+      {
+        "form": "Helige Erik",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "id": "PERSON_KARL_SVERKERSSON",
+    "name": {
+      "normalized": "Karl Sverkersson"
+    },
+    "variants": [
+      {
+        "form": "Carolus Suerchersson",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.7
+      },
+      {
+        "form": "Caroli Suercherssonis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.65
+      },
+      {
+        "form": "Karl Sverkersson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": "PERSON_KNUT_ERIKSSON",
+    "name": {
+      "normalized": "Knut Eriksson"
+    },
+    "variants": [
+      {
+        "form": "Canutus Erici filius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.7
+      },
+      {
+        "form": "Canuti Erici filii",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.65
+      },
+      {
+        "form": "Knut Eriksson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": "PERSON_SVERKER_II",
+    "name": {
+      "normalized": "Sverker II"
+    },
+    "variants": [
+      {
+        "form": "Suercherus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.7
+      },
+      {
+        "form": "Suercheri II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.7
+      },
+      {
+        "form": "Sverker den yngre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  }
+]

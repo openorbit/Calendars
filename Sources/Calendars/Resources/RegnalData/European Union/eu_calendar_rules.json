@@ -1,0 +1,18 @@
+[
+  {
+    "id": "RULE_GREGORIAN",
+    "label": "Gregorian calendar",
+    "base_calendar": "Gregorian",
+    "year_start": "january_1",
+    "valid_from": {
+      "rep": "open"
+    },
+    "valid_to": {
+      "rep": "open"
+    },
+    "regions": [
+      "EU"
+    ],
+    "notes": "Standard Gregorian calendar, used for modern Europe."
+  }
+]

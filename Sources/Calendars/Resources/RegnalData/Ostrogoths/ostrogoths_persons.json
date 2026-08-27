@@ -1,0 +1,92 @@
+[
+  {
+    "id": "P_THEODERIC",
+    "name": {
+      "normalized": "Theoderic the Great"
+    },
+    "variants": [
+      {
+        "form": "Theodericus Magnus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ATHALARIC",
+    "name": {
+      "normalized": "Athalaric"
+    },
+    "variants": [
+      {
+        "form": "Athalaricus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_THEODAHAD",
+    "name": {
+      "normalized": "Theodahad"
+    },
+    "variants": [
+      {
+        "form": "Theodahadus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WITIGES",
+    "name": {
+      "normalized": "Witiges"
+    },
+    "variants": [
+      {
+        "form": "Vitiges",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TOTILA",
+    "name": {
+      "normalized": "Totila"
+    },
+    "variants": [
+      {
+        "form": "Totila",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TEIA",
+    "name": {
+      "normalized": "Teia"
+    },
+    "variants": [
+      {
+        "form": "Teia",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

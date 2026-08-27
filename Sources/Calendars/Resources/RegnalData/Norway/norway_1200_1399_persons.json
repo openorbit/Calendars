@@ -1,0 +1,302 @@
+[
+  {
+    "id": "P_SVERRE",
+    "name": {
+      "normalized": "Sverre Sigurdsson"
+    },
+    "variants": [
+      {
+        "form": "Sverrir Sigurðarson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sverre Sigurdsson",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sverre_of_Norway"
+    }
+  },
+  {
+    "id": "P_HAAKON_III",
+    "name": {
+      "normalized": "Haakon III Sverresson"
+    },
+    "variants": [
+      {
+        "form": "Hákon Sverrisson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Håkon III",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_III_of_Norway"
+    }
+  },
+  {
+    "id": "P_GUTTORM",
+    "name": {
+      "normalized": "Guttorm Sigurdsson"
+    },
+    "variants": [
+      {
+        "form": "Guttormr Sigurðarson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Guttorm Sigurdsson",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Guttorm_Sigurdsson"
+    }
+  },
+  {
+    "id": "P_INGE_II",
+    "name": {
+      "normalized": "Inge II Bårdsson"
+    },
+    "variants": [
+      {
+        "form": "Ingi Bárðarson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Inge II",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Inge_B%C3%A5rdsson"
+    }
+  },
+  {
+    "id": "P_HAAKON_IV",
+    "name": {
+      "normalized": "Haakon IV Håkonsson"
+    },
+    "variants": [
+      {
+        "form": "Hákon Hákonarson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Håkon Håkonsson",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_IV_of_Norway"
+    }
+  },
+  {
+    "id": "P_MAGNUS_VI",
+    "name": {
+      "normalized": "Magnus VI Lagabøte"
+    },
+    "variants": [
+      {
+        "form": "Magnús lagabœtir",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus Lagabøte",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_VI_of_Norway"
+    }
+  },
+  {
+    "id": "P_ERIC_II",
+    "name": {
+      "normalized": "Eric II Magnusson"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr Magnússon",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Eirik Magnusson",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_II_of_Norway"
+    }
+  },
+  {
+    "id": "P_HAAKON_V",
+    "name": {
+      "normalized": "Haakon V Magnusson"
+    },
+    "variants": [
+      {
+        "form": "Hákon Magnússon",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Håkon Magnusson",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_V_of_Norway"
+    }
+  },
+  {
+    "id": "P_MAGNUS_VII",
+    "name": {
+      "normalized": "Magnus VII Eriksson"
+    },
+    "variants": [
+      {
+        "form": "Magnús Eiríksson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus Eriksson",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_IV_of_Sweden"
+    }
+  },
+  {
+    "id": "P_HAAKON_VI",
+    "name": {
+      "normalized": "Haakon VI Magnusson"
+    },
+    "variants": [
+      {
+        "form": "Hákon Magnússon",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Håkon VI",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_VI_of_Norway"
+    }
+  },
+  {
+    "id": "P_OLAF_IV",
+    "name": {
+      "normalized": "Olaf IV Haakonsson"
+    },
+    "variants": [
+      {
+        "form": "Óláfr Hákonarson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olav IV",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olaf_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_MARGARET_I",
+    "name": {
+      "normalized": "Margaret I of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Margrete Valdemarsdatter",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Margrete I",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_I_of_Denmark"
+    }
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "P_RUPERT",
+    "name": {
+      "normalized": "Rupert of the Palatinate"
+    },
+    "variants": [
+      {
+        "form": "Rupertus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ruprecht von der Pfalz",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Rupert,_King_of_Germany"
+    }
+  },
+  {
+    "id": "P_JOBST",
+    "name": {
+      "normalized": "Jobst of Moravia"
+    },
+    "variants": [
+      {
+        "form": "Jobstus Moraviae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Jobst von Mähren",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Jošt Moravský",
+        "lang": "cs",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jobst_of_Moravia"
+    }
+  },
+  {
+    "id": "P_SIGISMUND",
+    "name": {
+      "normalized": "Sigismund of Luxembourg"
+    },
+    "variants": [
+      {
+        "form": "Sigismundus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigismund",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Žigmund",
+        "lang": "sk",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_ALBERT_II",
+    "name": {
+      "normalized": "Albert II of Germany"
+    },
+    "variants": [
+      {
+        "form": "Albertus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Albrecht II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Albert_II_of_Germany"
+    }
+  },
+  {
+    "id": "P_FREDERICK_III",
+    "name": {
+      "normalized": "Frederick III"
+    },
+    "variants": [
+      {
+        "form": "Fridericus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Friedrich III.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_III,_Holy_Roman_Emperor"
+    }
+  }
+]

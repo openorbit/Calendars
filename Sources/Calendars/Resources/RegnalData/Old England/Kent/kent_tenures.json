@@ -1,0 +1,668 @@
+[
+  {
+    "id": "TEN_P_HENGIST_455",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_HENGIST",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 455
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 488
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "legendary",
+    "notes": "Legendary Jutish founder with his brother Horsa."
+  },
+  {
+    "id": "TEN_P_HORSA_455",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_HORSA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 455
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 455
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "legendary",
+    "notes": "Legendary Jutish founder, killed in battle."
+  },
+  {
+    "id": "TEN_P_OCTA_488",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_OCTA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 488
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 512
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "legendary",
+    "notes": "Legendary successor, son of Hengist."
+  },
+  {
+    "id": "TEN_P_OISC_512",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_OISC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 512
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 540
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "legendary",
+    "notes": "Legendary early ruler, eponym of Oiscingas dynasty."
+  },
+  {
+    "id": "TEN_P_AETHELBERT_I_589",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_AETHELBERT_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 589
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First Christian king of Kent, Bretwalda."
+  },
+  {
+    "id": "TEN_P_EADBALD_616",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_EADBALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 640
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Initially pagan, converted later."
+  },
+  {
+    "id": "TEN_P_EORCENBERHT_640",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_EORCENBERHT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 640
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 664
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First English king to command destruction of idols."
+  },
+  {
+    "id": "TEN_P_ECGBERHT_I_664",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_ECGBERHT_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 664
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 673
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded Eorcenberht."
+  },
+  {
+    "id": "TEN_P_HLOTHHERE_673",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_HLOTHHERE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 673
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Ruled jointly with brother Eadric at times."
+  },
+  {
+    "id": "TEN_P_EADRIC_KENT_685",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_EADRIC_KENT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 686
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Ecgberht I, short reign."
+  },
+  {
+    "id": "TEN_P_OSWINE_688",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_OSWINE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 688
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 690
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "contested",
+    "notes": "Brief king, possibly a usurper."
+  },
+  {
+    "id": "TEN_P_WIHTRED_690",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_WIHTRED",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 690
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 725
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Issued law code; stabilized kingdom."
+  },
+  {
+    "id": "TEN_P_AETHELBERHT_II_725",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_AETHELBERHT_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 725
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 762
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Later Kentish king."
+  },
+  {
+    "id": "TEN_P_EADBERHT_II_725",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_EADBERHT_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 725
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 748
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Also known as Eadberht I Præn."
+  },
+  {
+    "id": "TEN_P_ECGBERHT_II_760",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_ECGBERHT_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 760
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 784
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Later king of Kent."
+  },
+  {
+    "id": "TEN_P_EADBERHT_PRÆN_796",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_EADBERHT_PRÆN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 796
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 798
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "contested",
+    "notes": "Rebelled against Mercian control."
+  },
+  {
+    "id": "TEN_P_CUTHRED_KENT_798",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_CUTHRED_KENT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 798
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 807
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Client king under Mercia."
+  },
+  {
+    "id": "TEN_P_BALDRED_823",
+    "office_id": "OFFICE_KENT_KING",
+    "person_id": "P_BALDRED",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KENT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 823
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 825
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed by Egbert of Wessex."
+  }
+]

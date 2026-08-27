@@ -1,0 +1,127 @@
+[
+  {
+    "id": "P_RUDOLF_II",
+    "name": {
+      "normalized": "Rudolf II"
+    },
+    "variants": [
+      {
+        "form": "Rudolphus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Rudolf II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_II,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_MATTHIAS",
+    "name": {
+      "normalized": "Matthias"
+    },
+    "variants": [
+      {
+        "form": "Matthias",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Matthias",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Matthias,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_FERDINAND_II",
+    "name": {
+      "normalized": "Ferdinand II"
+    },
+    "variants": [
+      {
+        "form": "Ferdinandus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_II,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_FERDINAND_III",
+    "name": {
+      "normalized": "Ferdinand III"
+    },
+    "variants": [
+      {
+        "form": "Ferdinandus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand III.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_III,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_LEOPOLD_I",
+    "name": {
+      "normalized": "Leopold I"
+    },
+    "variants": [
+      {
+        "form": "Leopoldus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Leopold_I,_Holy_Roman_Emperor"
+    }
+  }
+]

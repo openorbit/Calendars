@@ -1,0 +1,213 @@
+[
+  {
+    "id": "PERSON_ERIK_VICTORIOUS",
+    "name": {
+      "normalized": "Erik the Victorious"
+    },
+    "variants": [
+      {
+        "form": "Ericus victoriosus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.8
+      },
+      {
+        "form": "Erici victoriosi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.75
+      },
+      {
+        "form": "Eirikær / Erikær",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.7
+      },
+      {
+        "form": "Erik Segersäll",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      },
+      {
+        "form": "ᛖᚱᛁᚴᛋ (Eriks)",
+        "lang": "non",
+        "script": "Runr",
+        "kind": "epigraphic",
+        "confidence": 0.4
+      }
+    ]
+  },
+  {
+    "id": "PERSON_OLOF_SKOTKONUNG",
+    "name": {
+      "normalized": "Olof Skötkonung"
+    },
+    "variants": [
+      {
+        "form": "Olavus Skotkonung",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.8
+      },
+      {
+        "form": "Olavi Skotkonungi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.75
+      },
+      {
+        "form": "Olafr skautkonungr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.7
+      },
+      {
+        "form": "Olof Skotkonung",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.9
+      },
+      {
+        "form": "Olof Skötkonung",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "confidence": 0.95
+      },
+      {
+        "form": "ᚮᛚᚮᚠᚱ (Olafr)",
+        "lang": "non",
+        "script": "Runr",
+        "kind": "epigraphic",
+        "confidence": 0.4
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ANUND_JACOB",
+    "name": {
+      "normalized": "Anund Jacob"
+    },
+    "variants": [
+      {
+        "form": "Anundus Iacobus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.75
+      },
+      {
+        "form": "Anundi Iacobi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.7
+      },
+      {
+        "form": "Anundr Iakob",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.7
+      },
+      {
+        "form": "Anund Jakob",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": "PERSON_EMUND_THE_OLD",
+    "name": {
+      "normalized": "Emund the Old"
+    },
+    "variants": [
+      {
+        "form": "Aemundus vetus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.7
+      },
+      {
+        "form": "Aemundi veteris",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.65
+      },
+      {
+        "form": "Æmundr gamli / Emundr gamli",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.7
+      },
+      {
+        "form": "Emund den gamle",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": "PERSON_STENKIL",
+    "name": {
+      "normalized": "Stenkil"
+    },
+    "variants": [
+      {
+        "form": "Stenchillus / Stenkilus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.6
+      },
+      {
+        "form": "Stenchilli / Stenkili",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.6
+      },
+      {
+        "form": "Steinkell / Stenkil",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.8
+      },
+      {
+        "form": "Stenkil",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "confidence": 0.95
+      }
+    ]
+  }
+]

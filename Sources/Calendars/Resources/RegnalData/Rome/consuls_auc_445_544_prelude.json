@@ -1,0 +1,778 @@
+{
+  "title": "Roman Consuls AUC 445–544 (309–210 BCE) — pre‑populated subset",
+  "schema": "consular_years.v1",
+  "range_auc": [
+    445,
+    544
+  ],
+  "note": "Years are AUC (Ab urbe condita) using the Varronian chronology with March 15 accessions during this period. This file pre-populates AUC 536–544 (218–210 BCE); earlier years are scaffolded for later fill.",
+  "entries": [
+    {
+      "auc": 445,
+      "bc": 309,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 446,
+      "bc": 308,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 447,
+      "bc": 307,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 448,
+      "bc": 306,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 449,
+      "bc": 305,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 450,
+      "bc": 304,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 451,
+      "bc": 303,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 452,
+      "bc": 302,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 453,
+      "bc": 301,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 454,
+      "bc": 300,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 455,
+      "bc": 299,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 456,
+      "bc": 298,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 457,
+      "bc": 297,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 458,
+      "bc": 296,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 459,
+      "bc": 295,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 460,
+      "bc": 294,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 461,
+      "bc": 293,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 462,
+      "bc": 292,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 463,
+      "bc": 291,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 464,
+      "bc": 290,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 465,
+      "bc": 289,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 466,
+      "bc": 288,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 467,
+      "bc": 287,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 468,
+      "bc": 286,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 469,
+      "bc": 285,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 470,
+      "bc": 284,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 471,
+      "bc": 283,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 472,
+      "bc": 282,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 473,
+      "bc": 281,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 474,
+      "bc": 280,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 475,
+      "bc": 279,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 476,
+      "bc": 278,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 477,
+      "bc": 277,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 478,
+      "bc": 276,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 479,
+      "bc": 275,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 480,
+      "bc": 274,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 481,
+      "bc": 273,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 482,
+      "bc": 272,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 483,
+      "bc": 271,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 484,
+      "bc": 270,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 485,
+      "bc": 269,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 486,
+      "bc": 268,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 487,
+      "bc": 267,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 488,
+      "bc": 266,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 489,
+      "bc": 265,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 490,
+      "bc": 264,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 491,
+      "bc": 263,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 492,
+      "bc": 262,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 493,
+      "bc": 261,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 494,
+      "bc": 260,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 495,
+      "bc": 259,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 496,
+      "bc": 258,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 497,
+      "bc": 257,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 498,
+      "bc": 256,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 499,
+      "bc": 255,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 500,
+      "bc": 254,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 501,
+      "bc": 253,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 502,
+      "bc": 252,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 503,
+      "bc": 251,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 504,
+      "bc": 250,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 505,
+      "bc": 249,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 506,
+      "bc": 248,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 507,
+      "bc": 247,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 508,
+      "bc": 246,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 509,
+      "bc": 245,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 510,
+      "bc": 244,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 511,
+      "bc": 243,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 512,
+      "bc": 242,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 513,
+      "bc": 241,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 514,
+      "bc": 240,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 515,
+      "bc": 239,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 516,
+      "bc": 238,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 517,
+      "bc": 237,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 518,
+      "bc": 236,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 519,
+      "bc": 235,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 520,
+      "bc": 234,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 521,
+      "bc": 233,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 522,
+      "bc": 232,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 523,
+      "bc": 231,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 524,
+      "bc": 230,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 525,
+      "bc": 229,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 526,
+      "bc": 228,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 527,
+      "bc": 227,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 528,
+      "bc": 226,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 529,
+      "bc": 225,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 530,
+      "bc": 224,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 531,
+      "bc": 223,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 532,
+      "bc": 222,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 533,
+      "bc": 221,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 534,
+      "bc": 220,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 535,
+      "bc": 219,
+      "consuls": [],
+      "suffects": [],
+      "notes": "placeholder"
+    },
+    {
+      "auc": 536,
+      "bc": 218,
+      "consuls": [
+        {
+          "name": "Publius Cornelius Scipio"
+        },
+        {
+          "name": "Tiberius Sempronius Longus"
+        }
+      ],
+      "suffects": [],
+      "notes": "Second Punic War begins."
+    },
+    {
+      "auc": 537,
+      "bc": 217,
+      "consuls": [
+        {
+          "name": "Gaius Flaminius"
+        },
+        {
+          "name": "Gnaeus Servilius Geminus"
+        }
+      ],
+      "suffects": [],
+      "notes": "Battle of Lake Trasimene (Flaminius) later in the year."
+    },
+    {
+      "auc": 538,
+      "bc": 216,
+      "consuls": [
+        {
+          "name": "Lucius Aemilius Paullus"
+        },
+        {
+          "name": "Gaius Terentius Varro"
+        }
+      ],
+      "suffects": [],
+      "notes": "Battle of Cannae, 2 Aug 216 BCE."
+    },
+    {
+      "auc": 539,
+      "bc": 215,
+      "consuls": [
+        {
+          "name": "Tiberius Sempronius Gracchus"
+        },
+        {
+          "name": "Lucius Postumius Albinus"
+        }
+      ],
+      "suffects": [
+        {
+          "name": "Quintus Fabius Maximus Verrucosus"
+        }
+      ],
+      "notes": "L. Postumius Albinus killed before taking office; Q. Fabius Maximus (Cunctator) chosen as suffect."
+    },
+    {
+      "auc": 540,
+      "bc": 214,
+      "consuls": [
+        {
+          "name": "Quintus Fabius Maximus Verrucosus"
+        },
+        {
+          "name": "Marcus Claudius Marcellus"
+        }
+      ],
+      "suffects": [],
+      "notes": "Fabius (IV), Marcellus (III)."
+    },
+    {
+      "auc": 541,
+      "bc": 213,
+      "consuls": [
+        {
+          "name": "Tiberius Sempronius Gracchus"
+        },
+        {
+          "name": "Quintus Fabius Maximus"
+        }
+      ],
+      "suffects": [],
+      "notes": "Gracchus (II), Q. Fabius Maximus (the younger)."
+    },
+    {
+      "auc": 542,
+      "bc": 212,
+      "consuls": [
+        {
+          "name": "Quintus Fulvius Flaccus"
+        },
+        {
+          "name": "Appius Claudius Pulcher"
+        }
+      ],
+      "suffects": [],
+      "notes": "Siege/Battles around Capua."
+    },
+    {
+      "auc": 543,
+      "bc": 211,
+      "consuls": [
+        {
+          "name": "Publius Sulpicius Galba Maximus"
+        },
+        {
+          "name": "Gnaeus Fulvius Centumalus Maximus"
+        }
+      ],
+      "suffects": [],
+      "notes": "Defence of Rome; both consuls later to provinces."
+    },
+    {
+      "auc": 544,
+      "bc": 210,
+      "consuls": [
+        {
+          "name": "Marcus Valerius Laevinus"
+        },
+        {
+          "name": "Marcus Claudius Marcellus"
+        }
+      ],
+      "suffects": [],
+      "notes": "Marcellus (IV)."
+    }
+  ]
+}

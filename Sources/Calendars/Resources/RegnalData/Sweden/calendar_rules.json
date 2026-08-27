@@ -1,0 +1,106 @@
+[
+  {
+    "id": "RULE_JULIAN_LADYDAY",
+    "label": "Julian (year starts March 25 / Lady Day)",
+    "base_calendar": "Julian",
+    "year_start": "march_25",
+    "valid_from": {
+      "rep": "open"
+    },
+    "valid_to": {
+      "rep": "ymd",
+      "calendar": "Julian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1559,
+        "month": 1,
+        "day": 1
+      }
+    },
+    "regions": [
+      "SE",
+      "DK",
+      "NO",
+      "EN",
+      "SCO"
+    ],
+    "notes": "Traditional medieval practice in much of Northern Europe; Sweden formalized Jan 1 in 1559."
+  },
+  {
+    "id": "RULE_JULIAN_JAN1",
+    "label": "Julian (year starts January 1)",
+    "base_calendar": "Julian",
+    "year_start": "jan_1",
+    "valid_from": {
+      "rep": "ymd",
+      "calendar": "Julian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1559,
+        "month": 1,
+        "day": 1
+      }
+    },
+    "valid_to": {
+      "rep": "ymd",
+      "calendar": "Julian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1753,
+        "month": 2,
+        "day": 28
+      }
+    },
+    "regions": [
+      "SE"
+    ],
+    "notes": "Swedish chancery uses Jan 1 from 1559; Julian day-count until Gregorian adoption in 1753."
+  },
+  {
+    "id": "RULE_GREGORIAN_SE",
+    "label": "Gregorian (Sweden)",
+    "base_calendar": "Gregorian",
+    "year_start": "jan_1",
+    "valid_from": {
+      "rep": "ymd",
+      "calendar": "Gregorian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1753,
+        "month": 3,
+        "day": 1
+      }
+    },
+    "valid_to": {
+      "rep": "open"
+    },
+    "regions": [
+      "SE"
+    ],
+    "notes": "Sweden adopted Gregorian in 1753; Feb 17 was followed by Mar 1."
+  },
+  {
+    "id": "RULE_JULIAN_JAN1_DEFAULT",
+    "label": "Julian (Jan 1) — generic",
+    "base_calendar": "Julian",
+    "year_start": "jan_1",
+    "valid_from": {
+      "rep": "open"
+    },
+    "valid_to": {
+      "rep": "open"
+    },
+    "regions": [
+      "*"
+    ],
+    "notes": "Generic fallback where Jan 1 is used under the Julian calendar."
+  }
+]

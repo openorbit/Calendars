@@ -1,0 +1,335 @@
+[
+  {
+    "id": "TEN_P_AELLE_477",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_AELLE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 477
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 514
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "legendary",
+    "notes": "Legendary founder of Sussex; considered first Bretwalda."
+  },
+  {
+    "id": "TEN_P_CISSA_514",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_CISSA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 514
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 540
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "legendary",
+    "notes": "Legendary son of Ælle."
+  },
+  {
+    "id": "TEN_P_AETHELWALH_660",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_AETHELWALH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 660
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First Christian king of Sussex."
+  },
+  {
+    "id": "TEN_P_BERTHUN_685",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_BERTHUN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 690
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Joint ruler after Æthelwalh."
+  },
+  {
+    "id": "TEN_P_ANDHUN_685",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_ANDHUN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 690
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Joint ruler with Berthun."
+  },
+  {
+    "id": "TEN_P_NUNNA_692",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_NUNNA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 692
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 725
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Succeeded Berthun and Andhun."
+  },
+  {
+    "id": "TEN_P_OSMUND_765",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_OSMUND",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 765
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 772
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "One of several joint rulers."
+  },
+  {
+    "id": "TEN_P_OSLAC_765",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_OSLAC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 765
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 772
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Joint ruler with Osmund and Ælfwald."
+  },
+  {
+    "id": "TEN_P_AELFWALD_765",
+    "office_id": "OFFICE_SUSSEX_KING",
+    "person_id": "P_AELFWALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_SUSSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 765
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 772
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Joint ruler with Osmund and Oslac."
+  }
+]

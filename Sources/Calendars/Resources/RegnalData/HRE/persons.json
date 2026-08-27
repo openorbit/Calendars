@@ -1,0 +1,562 @@
+[
+  {
+    "id": "PERSON_HENRY_IV",
+    "name": {
+      "normalized": "Henry IV"
+    },
+    "variants": [
+      {
+        "form": "Heinricus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrici IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Heinrich IV",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_RUDOLF_RHEINFELDEN",
+    "name": {
+      "normalized": "Rudolf of Rheinfelden"
+    },
+    "variants": [
+      {
+        "form": "Rudolfus de Rinofelda",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Rudolfi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Rudolf von Rheinfelden",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HERMANN_SALM",
+    "name": {
+      "normalized": "Hermann of Salm"
+    },
+    "variants": [
+      {
+        "form": "Hermannus de Salmo",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hermanni",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Hermann von Salm",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CONRAD_ITALY",
+    "name": {
+      "normalized": "Conrad (Italy)"
+    },
+    "variants": [
+      {
+        "form": "Chunradus rex Italiae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Chunradi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Konrad",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_V",
+    "name": {
+      "normalized": "Henry V"
+    },
+    "variants": [
+      {
+        "form": "Heinricus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrici V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Heinrich V",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOTHAIR_III",
+    "name": {
+      "normalized": "Lothair III"
+    },
+    "variants": [
+      {
+        "form": "Lotharius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Lotharii III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Lothar III.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CONRAD_III",
+    "name": {
+      "normalized": "Conrad III"
+    },
+    "variants": [
+      {
+        "form": "Chunradus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Chunradi III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Konrad III.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_FREDERICK_I",
+    "name": {
+      "normalized": "Frederick I Barbarossa"
+    },
+    "variants": [
+      {
+        "form": "Fridericus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Friderici I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Friedrich I. Barbarossa",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_VI_HOHENSTAUFEN",
+    "name": {
+      "normalized": "Henry VI (Hohenstaufen)"
+    },
+    "variants": [
+      {
+        "form": "Heinricus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrici VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Heinrich VI.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_OTTO_IV",
+    "name": {
+      "normalized": "Otto IV"
+    },
+    "variants": [
+      {
+        "form": "Otto IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ottonis IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Otto IV.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP_SWABIA",
+    "name": {
+      "normalized": "Philip of Swabia"
+    },
+    "variants": [
+      {
+        "form": "Philippus Suevus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Philipp von Schwaben",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_FREDERICK_II",
+    "name": {
+      "normalized": "Frederick II"
+    },
+    "variants": [
+      {
+        "form": "Fridericus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Friderici II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Friedrich II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_RASPE",
+    "name": {
+      "normalized": "Henry Raspe"
+    },
+    "variants": [
+      {
+        "form": "Heinricus Raspo",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrici Rasponis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Heinrich Raspe",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_WILLIAM_HOLLAND",
+    "name": {
+      "normalized": "William of Holland"
+    },
+    "variants": [
+      {
+        "form": "Willelmus Hollandiae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Willelmi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Wilhelm von Holland",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_RICHARD_CORNWALL",
+    "name": {
+      "normalized": "Richard of Cornwall"
+    },
+    "variants": [
+      {
+        "form": "Ricardus Cornubiae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ricardi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Richard von Cornwall",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ALFONSO_X",
+    "name": {
+      "normalized": "Alfonso X of Castile"
+    },
+    "variants": [
+      {
+        "form": "Adefonsus X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Adefonsi X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Alfons X.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_RUDOLF_I",
+    "name": {
+      "normalized": "Rudolf I"
+    },
+    "variants": [
+      {
+        "form": "Rudolfus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Rudolfi I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Rudolf I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ADOLF_NASSAU",
+    "name": {
+      "normalized": "Adolf of Nassau"
+    },
+    "variants": [
+      {
+        "form": "Adolphus Nassoviae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Adolphi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Adolf von Nassau",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ALBERT_I",
+    "name": {
+      "normalized": "Albert I"
+    },
+    "variants": [
+      {
+        "form": "Albertus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Alberti I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Albrecht I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_VII_LUX",
+    "name": {
+      "normalized": "Henry VII (Luxembourg)"
+    },
+    "variants": [
+      {
+        "form": "Heinricus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrici VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Heinrich VII.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  }
+]

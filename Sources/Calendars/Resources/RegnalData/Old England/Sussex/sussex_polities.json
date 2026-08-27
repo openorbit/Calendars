@@ -1,0 +1,34 @@
+[
+  {
+    "id": "POLITY_SUSSEX",
+    "label": "Kingdom of Sussex",
+    "aliases": [
+      "Sūþseaxna rīce",
+      "Regnum Australium Saxonum",
+      "South Saxons"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 477
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 825
+        }
+      }
+    ],
+    "notes": "One of the Anglo-Saxon Heptarchy; traditionally founded by Ælle (477). Absorbed into Wessex by early 9th century."
+  }
+]

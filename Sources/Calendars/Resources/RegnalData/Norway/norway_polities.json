@@ -1,0 +1,126 @@
+[
+  {
+    "id": "POLITY_NORWAY_KINGDOM",
+    "label": "Kingdom of Norway",
+    "aliases": [
+      "Kongeriket Norge",
+      "Norge",
+      "Regnum Norvegiae"
+    ],
+    "start": [
+      {
+        "rep": "open"
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "notes": "Core realm; includes medieval and modern periods."
+  },
+  {
+    "id": "POLITY_DENMARK_NORWAY_UNION",
+    "label": "Denmark–Norway (personal union)",
+    "aliases": [
+      "Danmark–Norge",
+      "Den-Nor"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1380
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1814
+        }
+      }
+    ],
+    "notes": "Personal union of Denmark and Norway under one monarch."
+  },
+  {
+    "id": "POLITY_KALMAR_UNION",
+    "label": "Kalmar Union",
+    "aliases": [
+      "Unio Calmariensis",
+      "Kalmarunionen",
+      "Kalmarunion"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1397
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1523
+        }
+      }
+    ],
+    "notes": "Personal union of Denmark, Norway, and Sweden under one monarch."
+  },
+  {
+    "id": "POLITY_NORWAY_SWEDEN_UNION",
+    "label": "Union between Sweden and Norway",
+    "aliases": [
+      "Sverige–Norge",
+      "Sweden–Norway"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1814,
+          "month": 11,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1905,
+          "month": 10,
+          "day": 26
+        }
+      }
+    ],
+    "notes": "Personal union under the Swedish king; ended in 1905."
+  }
+]

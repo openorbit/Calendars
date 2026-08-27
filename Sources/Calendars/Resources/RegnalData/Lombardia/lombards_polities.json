@@ -1,0 +1,33 @@
+[
+  {
+    "id": "POLITY_KINGDOM_LOMBARDS",
+    "label": "Kingdom of the Lombards",
+    "aliases": [
+      "Regnum Langobardorum",
+      "Regnum Italiae (Lombard)"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 568
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 774
+        }
+      }
+    ],
+    "notes": "Established after Lombard invasion of Italy (568); conquered by Charlemagne who became King of the Lombards in 774."
+  }
+]

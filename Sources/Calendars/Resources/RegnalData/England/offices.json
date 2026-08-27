@@ -1,0 +1,9 @@
+[
+  {
+    "id": "OFFICE_ENGLAND_KING",
+    "polity_id": "POLITY_ENGLAND",
+    "label": "King of England",
+    "succession_mode": "monarchic",
+    "year_boundary_override": null
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "P_WUFFA",
+    "name": {
+      "normalized": "Wuffa"
+    },
+    "variants": [
+      {
+        "form": "Wuffa",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TYPPA",
+    "name": {
+      "normalized": "Tytta (Tytla)"
+    },
+    "variants": [
+      {
+        "form": "Tytla",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RAEDWALD",
+    "name": {
+      "normalized": "Rædwald"
+    },
+    "variants": [
+      {
+        "form": "Raedwaldus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EORPWAULD",
+    "name": {
+      "normalized": "Eorpwald"
+    },
+    "variants": [
+      {
+        "form": "Eorpwaldus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SIGEBERHT",
+    "name": {
+      "normalized": "Sigeberht of East Anglia"
+    },
+    "variants": [
+      {
+        "form": "Sigeberhtus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ECGRIC",
+    "name": {
+      "normalized": "Ecgric"
+    },
+    "variants": [
+      {
+        "form": "Ecgricus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ANNA",
+    "name": {
+      "normalized": "Anna of East Anglia"
+    },
+    "variants": [
+      {
+        "form": "Anna",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELHERE",
+    "name": {
+      "normalized": "Æthelhere"
+    },
+    "variants": [
+      {
+        "form": "Æþelhere",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELWALD",
+    "name": {
+      "normalized": "Æthelwold of East Anglia"
+    },
+    "variants": [
+      {
+        "form": "Æþelwald",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ALDWINE",
+    "name": {
+      "normalized": "Aldwine"
+    },
+    "variants": [
+      {
+        "form": "Alduinus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AELFWALD",
+    "name": {
+      "normalized": "Ælfwald of East Anglia"
+    },
+    "variants": [
+      {
+        "form": "Ælfwaldus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BEORN",
+    "name": {
+      "normalized": "Beornred"
+    },
+    "variants": [
+      {
+        "form": "Beornredus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELBERHT_II",
+    "name": {
+      "normalized": "Æthelberht II of East Anglia"
+    },
+    "variants": [
+      {
+        "form": "Æthelberhtus II",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EADMUND",
+    "name": {
+      "normalized": "Edmund the Martyr"
+    },
+    "variants": [
+      {
+        "form": "Eadmundus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

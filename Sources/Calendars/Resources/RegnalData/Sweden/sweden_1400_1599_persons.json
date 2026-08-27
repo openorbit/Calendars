@@ -1,0 +1,544 @@
+[
+  {
+    "id": "P_MARGARET_I",
+    "name": {
+      "normalized": "Margaret I"
+    },
+    "variants": [
+      {
+        "form": "Margarita I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Margareta",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Margrete I",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ERIK_POM",
+    "name": {
+      "normalized": "Eric of Pomerania"
+    },
+    "variants": [
+      {
+        "form": "Ericus Pomeraniae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik av Pommern",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik af Pommern",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_of_Pomerania"
+    }
+  },
+  {
+    "id": "P_CHARLES_VIII",
+    "name": {
+      "normalized": "Charles VIII (Karl Knutsson Bonde)"
+    },
+    "variants": [
+      {
+        "form": "Carolus VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl Knutsson Bonde",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_VIII_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHRISTOPHER_BAV",
+    "name": {
+      "normalized": "Christopher of Bavaria"
+    },
+    "variants": [
+      {
+        "form": "Christophorus Bavarus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Kristoffer av Bayern",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher_of_Bavaria"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_I",
+    "name": {
+      "normalized": "Christian I of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Christianus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Kristian I",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christian I",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_JOHN_II",
+    "name": {
+      "normalized": "John (Hans) of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Ioannes II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hans",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hans",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/John,_King_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_II",
+    "name": {
+      "normalized": "Christian II of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Christianus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Kristian II",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christian II",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_NILS_OX",
+    "name": {
+      "normalized": "Nils Jönsson Oxenstierna"
+    },
+    "variants": [
+      {
+        "form": "Nicolaus Oxenstierna",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Nils Jönsson Oxenstierna",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Nils_J%C3%B6nsson_Oxenstierna"
+    }
+  },
+  {
+    "id": "P_BENGT_OX",
+    "name": {
+      "normalized": "Bengt Jönsson Oxenstierna"
+    },
+    "variants": [
+      {
+        "form": "Benedictus Oxenstierna",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Bengt Jönsson Oxenstierna",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Bengt_J%C3%B6nsson_Oxenstierna"
+    }
+  },
+  {
+    "id": "P_JONS_BENGT",
+    "name": {
+      "normalized": "Jöns Bengtsson (Oxenstierna)"
+    },
+    "variants": [
+      {
+        "form": "Ioannes Benedicti filius Oxenstierna",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Jöns Bengtsson Oxenstierna",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/J%C3%B6ns_Bengtsson_Oxenstierna"
+    }
+  },
+  {
+    "id": "P_KETTIL_VASA",
+    "name": {
+      "normalized": "Kettil Karlsson (Vasa)"
+    },
+    "variants": [
+      {
+        "form": "Ketillus Caroli filius Vasa",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Kettil Karlsson Vasa",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Kettil_Karlsson_(Vasa)"
+    }
+  },
+  {
+    "id": "P_ERIK_TOTT",
+    "name": {
+      "normalized": "Erik Axelsson (Tott)"
+    },
+    "variants": [
+      {
+        "form": "Ericus Axeli filius Thott",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik Axelsson Tott",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Erik_Axelsson_Tott"
+    }
+  },
+  {
+    "id": "P_STEN_STURE_ELD",
+    "name": {
+      "normalized": "Sten Sture the Elder"
+    },
+    "variants": [
+      {
+        "form": "Steno Sture Senior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sten Sture den äldre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sten_Sture_the_Elder"
+    }
+  },
+  {
+    "id": "P_SVANTE_N",
+    "name": {
+      "normalized": "Svante Nilsson (Sture)"
+    },
+    "variants": [
+      {
+        "form": "Suantus Nicolai filius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Svante Nilsson Sture",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Svante_Nilsson_(Sture)"
+    }
+  },
+  {
+    "id": "P_STEN_STURE_YNG",
+    "name": {
+      "normalized": "Sten Sture the Younger"
+    },
+    "variants": [
+      {
+        "form": "Steno Sture Iunior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sten Sture den yngre",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sten_Sture_the_Younger"
+    }
+  },
+  {
+    "id": "P_GUSTAV_I",
+    "name": {
+      "normalized": "Gustav I Vasa"
+    },
+    "variants": [
+      {
+        "form": "Gustavus I Vasa",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gustav Vasa",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gustav_I_of_Sweden"
+    }
+  },
+  {
+    "id": "P_ERIC_XIV",
+    "name": {
+      "normalized": "Eric XIV"
+    },
+    "variants": [
+      {
+        "form": "Ericus XIV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik XIV",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_XIV_of_Sweden"
+    }
+  },
+  {
+    "id": "P_JOHN_III",
+    "name": {
+      "normalized": "John III"
+    },
+    "variants": [
+      {
+        "form": "Ioannes III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Johan III",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/John_III_of_Sweden"
+    }
+  },
+  {
+    "id": "P_SIGISMUND_SW",
+    "name": {
+      "normalized": "Sigismund III Vasa (in Sweden)"
+    },
+    "variants": [
+      {
+        "form": "Sigismundus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigismund",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Zygmunt III Waza",
+        "lang": "pl",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sigismund_III_Vasa"
+    }
+  },
+  {
+    "id": "P_CHARLES_IX",
+    "name": {
+      "normalized": "Charles IX (as Duke/regent)"
+    },
+    "variants": [
+      {
+        "form": "Carolus IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl IX",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_IX_of_Sweden"
+    }
+  }
+]

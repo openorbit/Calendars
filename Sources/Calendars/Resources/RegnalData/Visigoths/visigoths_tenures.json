@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "TEN_P_WALLIA_418",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_WALLIA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 418
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 419
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Foederatus king, established kingdom in Gaul."
+  },
+  {
+    "id": "TEN_P_THEODERIC_I_419",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_THEODERIC_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 419
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 451
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Killed at the Battle of the Catalaunian Plains."
+  },
+  {
+    "id": "TEN_P_THORISMUND_451",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_THORISMUND",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 451
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 453
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Theodoric I."
+  },
+  {
+    "id": "TEN_P_THEODERIC_II_453",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_THEODERIC_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 453
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 466
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Ruled from Toulouse."
+  },
+  {
+    "id": "TEN_P_EURIC_466",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_EURIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 466
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 484
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Expanded into Hispania, issued Codex Euricianus."
+  },
+  {
+    "id": "TEN_P_ALARIC_II_484",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_ALARIC_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 484
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 507
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Defeated by Clovis at Vouillé."
+  },
+  {
+    "id": "TEN_P_GESALIC_507",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_GESALIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 507
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Unstable reign, deposed by Ostrogoths."
+  },
+  {
+    "id": "TEN_P_AMALARIC_511",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_AMALARIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 511
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 531
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last ruler with Ostrogothic ties."
+  },
+  {
+    "id": "TEN_P_THELAGISCLUS_531",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_THELAGISCLUS",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 531
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 548
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Ostrogothic general, became king in Hispania."
+  },
+  {
+    "id": "TEN_P_AGILA_I_549",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_AGILA_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 549
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 554
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Opposed by Athanagild."
+  },
+  {
+    "id": "TEN_P_ATHANAGILD_554",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_ATHANAGILD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 554
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 567
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Sought Byzantine aid, lost southern Hispania."
+  },
+  {
+    "id": "TEN_P_LEOVIGILD_568",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_LEOVIGILD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 568
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 586
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Consolidated kingdom, Arian Christian."
+  },
+  {
+    "id": "TEN_P_RECCARED_I_586",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_RECCARED_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 586
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 601
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Converted kingdom to Catholicism."
+  },
+  {
+    "id": "TEN_P_LIUVA_II_601",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_LIUVA_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 601
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 603
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed and executed by Witteric."
+  },
+  {
+    "id": "TEN_P_WITTERIC_603",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_WITTERIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 603
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 610
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Seized power in coup."
+  },
+  {
+    "id": "TEN_P_GUNDAMAR_610",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_GUNDAMAR",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 610
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 612
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Brief reign."
+  },
+  {
+    "id": "TEN_P_SISEBUT_612",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_SISEBUT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 612
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 621
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Known for persecution of Jews."
+  },
+  {
+    "id": "TEN_P_RECCARED_II_621",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_RECCARED_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 621
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 621
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Child king, brief reign."
+  },
+  {
+    "id": "TEN_P_SUINTILA_621",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_SUINTILA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 621
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 631
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Captured Byzantine outposts, deposed."
+  },
+  {
+    "id": "TEN_P_SISENAND_631",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_SISENAND",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 631
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 636
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Council of Toledo recognized his rule."
+  },
+  {
+    "id": "TEN_P_CHINTILA_636",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_CHINTILA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 636
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 639
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Held councils at Toledo."
+  },
+  {
+    "id": "TEN_P_TULGA_639",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_TULGA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 639
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 642
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed by Chindasuinth."
+  },
+  {
+    "id": "TEN_P_CHINDASUINTH_642",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_CHINDASUINTH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 642
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elderly king, co-ruled with son Recceswinth."
+  },
+  {
+    "id": "TEN_P_RECCESWINTH_649",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_RECCESWINTH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 649
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 672
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Co-ruler then sole king."
+  },
+  {
+    "id": "TEN_P_WAMBA_672",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_WAMBA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 672
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 680
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Forced to abdicate."
+  },
+  {
+    "id": "TEN_P_ERVIG_680",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_ERVIG",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 680
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 687
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded Wamba."
+  },
+  {
+    "id": "TEN_P_EGICA_687",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_EGICA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 687
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 702
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Married Ervig's daughter; financial reforms."
+  },
+  {
+    "id": "TEN_P_WITTIZA_694",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_WITTIZA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 694
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 710
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Co-ruled with Egica, then sole king."
+  },
+  {
+    "id": "TEN_P_RODERIC_710",
+    "office_id": "OFFICE_VISIGOTH_KING",
+    "person_id": "P_RODERIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_VISIGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 710
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 711
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last Visigothic king, killed at Battle of Guadalete."
+  }
+]

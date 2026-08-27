@@ -1,0 +1,444 @@
+[
+  {
+    "id": "P_AETHELFRITH",
+    "name": {
+      "normalized": "Æthelfrith of Bernicia"
+    },
+    "variants": [
+      {
+        "form": "Æthelfrith",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EDWIN",
+    "name": {
+      "normalized": "Edwin of Deira"
+    },
+    "variants": [
+      {
+        "form": "Edwin",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSWALD",
+    "name": {
+      "normalized": "Oswald of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Oswald",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSWIU",
+    "name": {
+      "normalized": "Oswiu of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Oswiu",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ECGFRITH",
+    "name": {
+      "normalized": "Ecgfrith of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Ecgfrith",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ALDFRITH",
+    "name": {
+      "normalized": "Aldfrith of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Aldfrith",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSRED_I",
+    "name": {
+      "normalized": "Osred I"
+    },
+    "variants": [
+      {
+        "form": "Osred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_COENRED",
+    "name": {
+      "normalized": "Coenred of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Coenred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSRIC",
+    "name": {
+      "normalized": "Osric of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Osric",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CEOLWULF",
+    "name": {
+      "normalized": "Ceolwulf of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Ceolwulf",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EADBERHT",
+    "name": {
+      "normalized": "Eadberht of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Eadberht",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELWALD_MOLL",
+    "name": {
+      "normalized": "Æthelwald Moll"
+    },
+    "variants": [
+      {
+        "form": "Æthelwald Moll",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ALHRED",
+    "name": {
+      "normalized": "Alhred"
+    },
+    "variants": [
+      {
+        "form": "Alhred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELRED_I",
+    "name": {
+      "normalized": "Æthelred I of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Æthelred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AELFWALD_I",
+    "name": {
+      "normalized": "Ælfwald I"
+    },
+    "variants": [
+      {
+        "form": "Ælfwald",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSBERT",
+    "name": {
+      "normalized": "Osbert"
+    },
+    "variants": [
+      {
+        "form": "Osbert",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSBALD",
+    "name": {
+      "normalized": "Osbald"
+    },
+    "variants": [
+      {
+        "form": "Osbald",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EARDWULF",
+    "name": {
+      "normalized": "Eardwulf"
+    },
+    "variants": [
+      {
+        "form": "Eardwulf",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AELFWALD_II",
+    "name": {
+      "normalized": "Ælfwald II"
+    },
+    "variants": [
+      {
+        "form": "Ælfwald II",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EANRED",
+    "name": {
+      "normalized": "Eanred"
+    },
+    "variants": [
+      {
+        "form": "Eanred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELRED_II",
+    "name": {
+      "normalized": "Æthelred II of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Æthelred II",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSBERHT",
+    "name": {
+      "normalized": "Osberht"
+    },
+    "variants": [
+      {
+        "form": "Osberht",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AELLA",
+    "name": {
+      "normalized": "Ælla of Northumbria"
+    },
+    "variants": [
+      {
+        "form": "Ælla",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HALFDAN",
+    "name": {
+      "normalized": "Halfdan Ragnarsson"
+    },
+    "variants": [
+      {
+        "form": "Halfdan",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GUTHRED",
+    "name": {
+      "normalized": "Guthred"
+    },
+    "variants": [
+      {
+        "form": "Guthred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RAGNALL",
+    "name": {
+      "normalized": "Ragnall ua Ímair"
+    },
+    "variants": [
+      {
+        "form": "Ragnall",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SIHTRIC",
+    "name": {
+      "normalized": "Sihtric Cáech"
+    },
+    "variants": [
+      {
+        "form": "Sihtric",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ANLAF",
+    "name": {
+      "normalized": "Anlaf Guthfrithson"
+    },
+    "variants": [
+      {
+        "form": "Anlaf",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ERIC_BLOODAXE",
+    "name": {
+      "normalized": "Eric Bloodaxe"
+    },
+    "variants": [
+      {
+        "form": "Eirikr blóðøx",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Eric Bloodaxe",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

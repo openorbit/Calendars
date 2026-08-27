@@ -1,0 +1,853 @@
+[
+  {
+    "id": "TEN_P_ALBOIN_568",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_ALBOIN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 568
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 572
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Led Lombards into Italy, founded kingdom."
+  },
+  {
+    "id": "TEN_P_CLEPH_572",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_CLEPH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 572
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 574
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Assassinated; followed by 10-year rule of dukes."
+  },
+  {
+    "id": "TEN_P_AUTHARI_584",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_AUTHARI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 584
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 590
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reestablished monarchy."
+  },
+  {
+    "id": "TEN_P_AGILULF_591",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_AGILULF",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 591
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Consolidated rule, Catholic influence of queen Theodelinda."
+  },
+  {
+    "id": "TEN_P_ADALOALD_616",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_ADALOALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 626
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed."
+  },
+  {
+    "id": "TEN_P_ARIOALD_626",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_ARIOALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 626
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 636
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First Arian king after Catholic phase."
+  },
+  {
+    "id": "TEN_P_ROTHARI_636",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_ROTHARI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 636
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 652
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Codified Lombard laws (Edictum Rothari)."
+  },
+  {
+    "id": "TEN_P_RODOALD_652",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_RODOALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 652
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Brief reign."
+  },
+  {
+    "id": "TEN_P_ARIPERT_I_653",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_ARIPERT_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 661
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First Catholic king after Arian dominance."
+  },
+  {
+    "id": "TEN_P_PERCTARIT_661",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_PERCTARIT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 661
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 662
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed; restored 671."
+  },
+  {
+    "id": "TEN_P_GODEPERT_661",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_GODEPERT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 661
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 662
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Co-king with Perctarit, assassinated."
+  },
+  {
+    "id": "TEN_P_GRIMOALD_662",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_GRIMOALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 662
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 671
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Duke of Benevento, seized throne."
+  },
+  {
+    "id": "TEN_P_PERCTARIT_REST_671",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_PERCTARIT_REST",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 671
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 688
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Restored as king after Grimoald."
+  },
+  {
+    "id": "TEN_P_CUNIPERT_688",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_CUNIPERT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 688
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Perctarit."
+  },
+  {
+    "id": "TEN_P_LIUTPERT_700",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_LIUTPERT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 702
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed by Raginpert; restored briefly."
+  },
+  {
+    "id": "TEN_P_RAGINPERT_701",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_RAGINPERT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 701
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 702
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Duke of Turin, usurper."
+  },
+  {
+    "id": "TEN_P_ARIPERT_II_702",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_ARIPERT_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 702
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 712
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed by Liutprand."
+  },
+  {
+    "id": "TEN_P_LIUTPRAND_712",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_LIUTPRAND",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 712
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 744
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Most powerful Lombard king; extended influence."
+  },
+  {
+    "id": "TEN_P_HILDEPRAND_744",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_HILDEPRAND",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 744
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 744
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Briefly king, deposed."
+  },
+  {
+    "id": "TEN_P_RATCHIS_744",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_RATCHIS",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 744
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 749
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Abdicated to become monk."
+  },
+  {
+    "id": "TEN_P_ASTOLFO_749",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_ASTOLFO",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 749
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 756
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Expanded into central Italy; defeated by Franks."
+  },
+  {
+    "id": "TEN_P_DESIDERIUS_756",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_DESIDERIUS",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 756
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 774
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last king of Lombards; deposed by Charlemagne."
+  },
+  {
+    "id": "TEN_INTERREGNUM_574_584",
+    "office_id": "OFFICE_LOMBARD_KING",
+    "person_id": "P_LOMBARD_RULE_OF_DUKES",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_KINGDOM_LOMBARDS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 574
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 584
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "interregnum",
+    "notes": "Rule of Dukes (no king) 574–584."
+  }
+]

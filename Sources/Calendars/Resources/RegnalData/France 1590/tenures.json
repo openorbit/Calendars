@@ -1,0 +1,178 @@
+[
+  {
+    "id": "TENURE_FR_HENRY_IV",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_HENRY_IV_FR",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1589,
+          "month": 8,
+          "day": 2
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1610,
+          "month": 5,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_XIII",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_XIII",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1610,
+          "month": 5,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1643,
+          "month": 5,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_XIV",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_XIV",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1643,
+          "month": 5,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1715,
+          "month": 9,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_XV",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_XV",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1715,
+          "month": 9,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1774,
+          "month": 5,
+          "day": 10
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_FR_LOUIS_XVI",
+    "office_id": "OFFICE_FRANCE_KING",
+    "person_id": "PERSON_LOUIS_XVI",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1774,
+          "month": 5,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1792,
+          "month": 9,
+          "day": 21
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Monarchy abolished (Convention)."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "RULE_JULIAN_LADYDAY",
+    "label": "Julian (year starts March 25 / Lady Day)",
+    "base_calendar": "Julian",
+    "year_start": "march_25",
+    "valid_from": {
+      "rep": "open"
+    },
+    "valid_to": {
+      "rep": "open"
+    },
+    "regions": [
+      "ES",
+      "PT",
+      "FR"
+    ],
+    "notes": "Used in Visigothic Hispania and Septimania before Islamic conquest and later Gregorian adoption."
+  }
+]

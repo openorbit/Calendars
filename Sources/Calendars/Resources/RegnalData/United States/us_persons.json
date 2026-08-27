@@ -1,0 +1,677 @@
+[
+  {
+    "id": "P_US_GEORGE_WASHINGTON",
+    "name": {
+      "normalized": "George Washington"
+    },
+    "variants": [
+      {
+        "form": "George Washington",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JOHN_ADAMS",
+    "name": {
+      "normalized": "John Adams"
+    },
+    "variants": [
+      {
+        "form": "John Adams",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_THOMAS_JEFFERSON",
+    "name": {
+      "normalized": "Thomas Jefferson"
+    },
+    "variants": [
+      {
+        "form": "Thomas Jefferson",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JAMES_MADISON",
+    "name": {
+      "normalized": "James Madison"
+    },
+    "variants": [
+      {
+        "form": "James Madison",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JAMES_MONROE",
+    "name": {
+      "normalized": "James Monroe"
+    },
+    "variants": [
+      {
+        "form": "James Monroe",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JOHN_QUINCY_ADAMS",
+    "name": {
+      "normalized": "John Quincy Adams"
+    },
+    "variants": [
+      {
+        "form": "John Quincy Adams",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_ANDREW_JACKSON",
+    "name": {
+      "normalized": "Andrew Jackson"
+    },
+    "variants": [
+      {
+        "form": "Andrew Jackson",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_MARTIN_VAN_BUREN",
+    "name": {
+      "normalized": "Martin Van Buren"
+    },
+    "variants": [
+      {
+        "form": "Martin Van Buren",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_WILLIAM_HENRY_HARRISON",
+    "name": {
+      "normalized": "William Henry Harrison"
+    },
+    "variants": [
+      {
+        "form": "William Henry Harrison",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JOHN_TYLER",
+    "name": {
+      "normalized": "John Tyler"
+    },
+    "variants": [
+      {
+        "form": "John Tyler",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JAMES_K_POLK",
+    "name": {
+      "normalized": "James K. Polk"
+    },
+    "variants": [
+      {
+        "form": "James K. Polk",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_ZACHARY_TAYLOR",
+    "name": {
+      "normalized": "Zachary Taylor"
+    },
+    "variants": [
+      {
+        "form": "Zachary Taylor",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_MILLARD_FILLMORE",
+    "name": {
+      "normalized": "Millard Fillmore"
+    },
+    "variants": [
+      {
+        "form": "Millard Fillmore",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_FRANKLIN_PIERCE",
+    "name": {
+      "normalized": "Franklin Pierce"
+    },
+    "variants": [
+      {
+        "form": "Franklin Pierce",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JAMES_BUCHANAN",
+    "name": {
+      "normalized": "James Buchanan"
+    },
+    "variants": [
+      {
+        "form": "James Buchanan",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_ABRAHAM_LINCOLN",
+    "name": {
+      "normalized": "Abraham Lincoln"
+    },
+    "variants": [
+      {
+        "form": "Abraham Lincoln",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_ANDREW_JOHNSON",
+    "name": {
+      "normalized": "Andrew Johnson"
+    },
+    "variants": [
+      {
+        "form": "Andrew Johnson",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_ULYSSES_S_GRANT",
+    "name": {
+      "normalized": "Ulysses S. Grant"
+    },
+    "variants": [
+      {
+        "form": "Ulysses S. Grant",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_RUTHERFORD_B_HAYES",
+    "name": {
+      "normalized": "Rutherford B. Hayes"
+    },
+    "variants": [
+      {
+        "form": "Rutherford B. Hayes",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JAMES_A_GARFIELD",
+    "name": {
+      "normalized": "James A. Garfield"
+    },
+    "variants": [
+      {
+        "form": "James A. Garfield",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_CHESTER_A_ARTHUR",
+    "name": {
+      "normalized": "Chester A. Arthur"
+    },
+    "variants": [
+      {
+        "form": "Chester A. Arthur",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_GROVER_CLEVELAND",
+    "name": {
+      "normalized": "Grover Cleveland"
+    },
+    "variants": [
+      {
+        "form": "Grover Cleveland",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_BENJAMIN_HARRISON",
+    "name": {
+      "normalized": "Benjamin Harrison"
+    },
+    "variants": [
+      {
+        "form": "Benjamin Harrison",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_WILLIAM_MCKINLEY",
+    "name": {
+      "normalized": "William McKinley"
+    },
+    "variants": [
+      {
+        "form": "William McKinley",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_THEODORE_ROOSEVELT",
+    "name": {
+      "normalized": "Theodore Roosevelt"
+    },
+    "variants": [
+      {
+        "form": "Theodore Roosevelt",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_WILLIAM_HOWARD_TAFT",
+    "name": {
+      "normalized": "William Howard Taft"
+    },
+    "variants": [
+      {
+        "form": "William Howard Taft",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_WOODROW_WILSON",
+    "name": {
+      "normalized": "Woodrow Wilson"
+    },
+    "variants": [
+      {
+        "form": "Woodrow Wilson",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_WARREN_G_HARDING",
+    "name": {
+      "normalized": "Warren G. Harding"
+    },
+    "variants": [
+      {
+        "form": "Warren G. Harding",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_CALVIN_COOLIDGE",
+    "name": {
+      "normalized": "Calvin Coolidge"
+    },
+    "variants": [
+      {
+        "form": "Calvin Coolidge",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_HERBERT_HOOVER",
+    "name": {
+      "normalized": "Herbert Hoover"
+    },
+    "variants": [
+      {
+        "form": "Herbert Hoover",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_FRANKLIN_D_ROOSEVELT",
+    "name": {
+      "normalized": "Franklin D. Roosevelt"
+    },
+    "variants": [
+      {
+        "form": "Franklin D. Roosevelt",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_HARRY_S_TRUMAN",
+    "name": {
+      "normalized": "Harry S. Truman"
+    },
+    "variants": [
+      {
+        "form": "Harry S. Truman",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_DWIGHT_D_EISENHOWER",
+    "name": {
+      "normalized": "Dwight D. Eisenhower"
+    },
+    "variants": [
+      {
+        "form": "Dwight D. Eisenhower",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JOHN_F_KENNEDY",
+    "name": {
+      "normalized": "John F. Kennedy"
+    },
+    "variants": [
+      {
+        "form": "John F. Kennedy",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_LYNDON_B_JOHNSON",
+    "name": {
+      "normalized": "Lyndon B. Johnson"
+    },
+    "variants": [
+      {
+        "form": "Lyndon B. Johnson",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_RICHARD_NIXON",
+    "name": {
+      "normalized": "Richard Nixon"
+    },
+    "variants": [
+      {
+        "form": "Richard Nixon",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_GERALD_R_FORD",
+    "name": {
+      "normalized": "Gerald R. Ford"
+    },
+    "variants": [
+      {
+        "form": "Gerald R. Ford",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JIMMY_CARTER",
+    "name": {
+      "normalized": "Jimmy Carter"
+    },
+    "variants": [
+      {
+        "form": "Jimmy Carter",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_RONALD_REAGAN",
+    "name": {
+      "normalized": "Ronald Reagan"
+    },
+    "variants": [
+      {
+        "form": "Ronald Reagan",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_GEORGE_H_W_BUSH",
+    "name": {
+      "normalized": "George H. W. Bush"
+    },
+    "variants": [
+      {
+        "form": "George H. W. Bush",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_BILL_CLINTON",
+    "name": {
+      "normalized": "Bill Clinton"
+    },
+    "variants": [
+      {
+        "form": "Bill Clinton",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_GEORGE_W_BUSH",
+    "name": {
+      "normalized": "George W. Bush"
+    },
+    "variants": [
+      {
+        "form": "George W. Bush",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_BARACK_OBAMA",
+    "name": {
+      "normalized": "Barack Obama"
+    },
+    "variants": [
+      {
+        "form": "Barack Obama",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_DONALD_TRUMP",
+    "name": {
+      "normalized": "Donald J. Trump"
+    },
+    "variants": [
+      {
+        "form": "Donald J. Trump",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_US_JOE_BIDEN",
+    "name": {
+      "normalized": "Joe Biden"
+    },
+    "variants": [
+      {
+        "form": "Joe Biden",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

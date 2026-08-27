@@ -1,0 +1,274 @@
+[
+  {
+    "id": "P_CANUTE_VI",
+    "name": {
+      "normalized": "Canute VI"
+    },
+    "variants": [
+      {
+        "form": "Knútr VI",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Knud 6.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Canute_VI_of_Denmark"
+    }
+  },
+  {
+    "id": "P_VALDEMAR_II",
+    "name": {
+      "normalized": "Valdemar II the Victorious"
+    },
+    "variants": [
+      {
+        "form": "Valdimarr II",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Valdemar Sejr",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Valdemar_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ERIC_IV",
+    "name": {
+      "normalized": "Eric IV Ploughpenny"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr plógpenningr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik Plovpenning",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_IV_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ABEL",
+    "name": {
+      "normalized": "Abel of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Ábæl",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Abel",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Abel_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTOPHER_I",
+    "name": {
+      "normalized": "Christopher I"
+    },
+    "variants": [
+      {
+        "form": "Kristoffer I",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ERIC_V",
+    "name": {
+      "normalized": "Eric V Klipping"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr Klippingr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik Klipping",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_V_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ERIC_VI",
+    "name": {
+      "normalized": "Eric VI Menved"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr Menveðr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik Menved",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_VI_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTOPHER_II",
+    "name": {
+      "normalized": "Christopher II"
+    },
+    "variants": [
+      {
+        "form": "Kristoffer II",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_INTERREGNUM_1332",
+    "name": {
+      "normalized": "Interregnum (mortgaged Denmark)"
+    },
+    "variants": [
+      {
+        "form": "Interregnum",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher_II_of_Denmark#Interregnum"
+    }
+  },
+  {
+    "id": "P_VALDEMAR_IV",
+    "name": {
+      "normalized": "Valdemar IV Atterdag"
+    },
+    "variants": [
+      {
+        "form": "Valdimarr Atterdag",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Valdemar Atterdag",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Valdemar_IV_of_Denmark"
+    }
+  },
+  {
+    "id": "P_OLAF_II",
+    "name": {
+      "normalized": "Olaf II of Denmark (IV of Norway)"
+    },
+    "variants": [
+      {
+        "form": "Óláfr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olaf 2.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olaf_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_MARGARET_I",
+    "name": {
+      "normalized": "Margaret I of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Margrete I",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_I_of_Denmark"
+    }
+  }
+]

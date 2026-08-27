@@ -1,0 +1,13 @@
+[
+  {
+    "id": "POLITY_ROMAN_REPUBLIC",
+    "label": "Roman Republic",
+    "calendar_rule_id": "CALR_ROMAN_REPUBLIC_AUC_PHASED",
+    "region": "Italy",
+    "valid_auc": {
+      "start": 1,
+      "end": 707
+    },
+    "notes": "Consular dating in AUC. Early year start around Ides of March, shifted to 1 January after 153 BCE."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "P_CONRAD_II",
+    "name": {
+      "normalized": "Conrad II (the Elder)"
+    },
+    "variants": [
+      {
+        "form": "Chuonradus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Konrad II",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_HENRY_III",
+    "name": {
+      "normalized": "Henry III"
+    },
+    "variants": [
+      {
+        "form": "Heinricus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich III",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_HENRY_IV",
+    "name": {
+      "normalized": "Henry IV"
+    },
+    "variants": [
+      {
+        "form": "Heinricus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich IV",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_HENRY_V",
+    "name": {
+      "normalized": "Henry V"
+    },
+    "variants": [
+      {
+        "form": "Heinricus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich V",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor"
+    }
+  }
+]

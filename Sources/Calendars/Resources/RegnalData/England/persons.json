@@ -1,0 +1,617 @@
+[
+  {
+    "id": "PERSON_WILLIAM_I",
+    "name": {
+      "normalized": "William I"
+    },
+    "variants": [
+      {
+        "form": "Willelmus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom",
+        "confidence": 0.95
+      },
+      {
+        "form": "Willelmi I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen",
+        "confidence": 0.9
+      },
+      {
+        "form": "William the Conqueror",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "orthographic",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "id": "PERSON_WILLIAM_II",
+    "name": {
+      "normalized": "William II"
+    },
+    "variants": [
+      {
+        "form": "Willelmus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Willelmi II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "William Rufus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_I",
+    "name": {
+      "normalized": "Henry I"
+    },
+    "variants": [
+      {
+        "form": "Henricus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_STEPhen",
+    "name": {
+      "normalized": "Stephen"
+    },
+    "variants": [
+      {
+        "form": "Stephanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephani",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_MATILDA",
+    "name": {
+      "normalized": "Empress Matilda"
+    },
+    "variants": [
+      {
+        "form": "Mathildis Imperatrix",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Mathildis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "orthographic"
+      },
+      {
+        "form": "Matilda",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_II",
+    "name": {
+      "normalized": "Henry II"
+    },
+    "variants": [
+      {
+        "form": "Henricus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_RICHARD_I",
+    "name": {
+      "normalized": "Richard I"
+    },
+    "variants": [
+      {
+        "form": "Ricardus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ricardi I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Richard the Lionheart",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_JOHN",
+    "name": {
+      "normalized": "John"
+    },
+    "variants": [
+      {
+        "form": "Iohannes",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Iohannis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "John Lackland",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_III",
+    "name": {
+      "normalized": "Henry III"
+    },
+    "variants": [
+      {
+        "form": "Henricus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_EDWARD_I",
+    "name": {
+      "normalized": "Edward I"
+    },
+    "variants": [
+      {
+        "form": "Edwardus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Edwardi I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_EDWARD_II",
+    "name": {
+      "normalized": "Edward II"
+    },
+    "variants": [
+      {
+        "form": "Edwardus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Edwardi II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_EDWARD_III",
+    "name": {
+      "normalized": "Edward III"
+    },
+    "variants": [
+      {
+        "form": "Edwardus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Edwardi III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_RICHARD_II",
+    "name": {
+      "normalized": "Richard II"
+    },
+    "variants": [
+      {
+        "form": "Ricardus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ricardi II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_IV",
+    "name": {
+      "normalized": "Henry IV"
+    },
+    "variants": [
+      {
+        "form": "Henricus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_V",
+    "name": {
+      "normalized": "Henry V"
+    },
+    "variants": [
+      {
+        "form": "Henricus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_VI",
+    "name": {
+      "normalized": "Henry VI"
+    },
+    "variants": [
+      {
+        "form": "Henricus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_EDWARD_IV",
+    "name": {
+      "normalized": "Edward IV"
+    },
+    "variants": [
+      {
+        "form": "Edwardus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Edwardi IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_EDWARD_V",
+    "name": {
+      "normalized": "Edward V"
+    },
+    "variants": [
+      {
+        "form": "Edwardus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Edwardi V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_RICHARD_III",
+    "name": {
+      "normalized": "Richard III"
+    },
+    "variants": [
+      {
+        "form": "Ricardus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ricardi III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_VII",
+    "name": {
+      "normalized": "Henry VII"
+    },
+    "variants": [
+      {
+        "form": "Henricus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_VIII",
+    "name": {
+      "normalized": "Henry VIII"
+    },
+    "variants": [
+      {
+        "form": "Henricus VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Henry the Eighth",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_EDWARD_VI",
+    "name": {
+      "normalized": "Edward VI"
+    },
+    "variants": [
+      {
+        "form": "Edwardus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Edwardi VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LADY_JANE",
+    "name": {
+      "normalized": "Lady Jane Grey"
+    },
+    "variants": [
+      {
+        "form": "Iohanna Graia",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "orthographic",
+        "casus": "nom"
+      },
+      {
+        "form": "Jane Grey",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_MARY_I",
+    "name": {
+      "normalized": "Mary I"
+    },
+    "variants": [
+      {
+        "form": "Maria I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Mariae I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP",
+    "name": {
+      "normalized": "Philip (II of Spain) as King of England"
+    },
+    "variants": [
+      {
+        "form": "Philippus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippi",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Philip",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ELIZABETH_I",
+    "name": {
+      "normalized": "Elizabeth I"
+    },
+    "variants": [
+      {
+        "form": "Elizabetha I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Elizabethae I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      }
+    ]
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "id": "TEN_P_AESCWINE_527",
+    "office_id": "OFFICE_ESSEX_KING",
+    "person_id": "P_AESCWINE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_ESSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 527
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 587
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "legendary",
+    "notes": "Legendary founder of the Kingdom of Essex."
+  },
+  {
+    "id": "TEN_P_SLEBBA_664",
+    "office_id": "OFFICE_ESSEX_KING",
+    "person_id": "P_SLEBBA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_ESSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 664
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 694
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Converted to Christianity; revered as saint."
+  },
+  {
+    "id": "TEN_P_SAEWARD_604",
+    "office_id": "OFFICE_ESSEX_KING",
+    "person_id": "P_SAEWARD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_ESSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 604
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 623
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Co-ruled with brother Sæbbi at times."
+  },
+  {
+    "id": "TEN_P_SIGEBERHT_GOOD_623",
+    "office_id": "OFFICE_ESSEX_KING",
+    "person_id": "P_SIGEBERHT_GOOD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_ESSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 623
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Converted to Christianity through influence of St. Cedd."
+  },
+  {
+    "id": "TEN_P_SIGEBERHT_BAD_653",
+    "office_id": "OFFICE_ESSEX_KING",
+    "person_id": "P_SIGEBERHT_BAD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_ESSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 660
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Succeeded Sigeberht the Good."
+  },
+  {
+    "id": "TEN_P_SWITHHELM_660",
+    "office_id": "OFFICE_ESSEX_KING",
+    "person_id": "P_SWITHHELM",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_ESSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 660
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 664
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Converted to Christianity late in reign."
+  },
+  {
+    "id": "TEN_P_SIGERIC_798",
+    "office_id": "OFFICE_ESSEX_KING",
+    "person_id": "P_SIGERIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_ESSEX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 798
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 825
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last recorded king of Essex; abdicated and went to Rome."
+  }
+]

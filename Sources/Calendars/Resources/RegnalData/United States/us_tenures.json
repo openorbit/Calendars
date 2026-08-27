@@ -1,0 +1,1929 @@
+[
+  {
+    "id": "TEN_US_PRESIDENT_1_1789",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_GEORGE_WASHINGTON",
+    "ordinal": 1,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1789,
+          "month": 4,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1797,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_2_1797",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JOHN_ADAMS",
+    "ordinal": 2,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1797,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1801,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_3_1801",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_THOMAS_JEFFERSON",
+    "ordinal": 3,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1801,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1809,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_4_1809",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JAMES_MADISON",
+    "ordinal": 4,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1809,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1817,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_5_1817",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JAMES_MONROE",
+    "ordinal": 5,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1817,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1825,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_6_1825",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JOHN_QUINCY_ADAMS",
+    "ordinal": 6,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1825,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1829,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_7_1829",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_ANDREW_JACKSON",
+    "ordinal": 7,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1829,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1837,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_8_1837",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_MARTIN_VAN_BUREN",
+    "ordinal": 8,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1837,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1841,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_9_1841",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_WILLIAM_HENRY_HARRISON",
+    "ordinal": 9,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1841,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1841,
+          "month": 4,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_10_1841",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JOHN_TYLER",
+    "ordinal": 10,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1841,
+          "month": 4,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1845,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_11_1845",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JAMES_K_POLK",
+    "ordinal": 11,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1845,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1849,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_12_1849",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_ZACHARY_TAYLOR",
+    "ordinal": 12,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1849,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1850,
+          "month": 7,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_13_1850",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_MILLARD_FILLMORE",
+    "ordinal": 13,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1850,
+          "month": 7,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1853,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_14_1853",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_FRANKLIN_PIERCE",
+    "ordinal": 14,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1853,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1857,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_15_1857",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JAMES_BUCHANAN",
+    "ordinal": 15,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1857,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1861,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_16_1861",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_ABRAHAM_LINCOLN",
+    "ordinal": 16,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1861,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1865,
+          "month": 4,
+          "day": 15
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_17_1865",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_ANDREW_JOHNSON",
+    "ordinal": 17,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1865,
+          "month": 4,
+          "day": 15
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1869,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_18_1869",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_ULYSSES_S_GRANT",
+    "ordinal": 18,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1869,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1877,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_19_1877",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_RUTHERFORD_B_HAYES",
+    "ordinal": 19,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1877,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1881,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_20_1881",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JAMES_A_GARFIELD",
+    "ordinal": 20,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1881,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1881,
+          "month": 9,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_21_1881",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_CHESTER_A_ARTHUR",
+    "ordinal": 21,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1881,
+          "month": 9,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1885,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_22_1885",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_GROVER_CLEVELAND",
+    "ordinal": 22,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1885,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1889,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_23_1889",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_BENJAMIN_HARRISON",
+    "ordinal": 23,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1889,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1893,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_24_1893",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_GROVER_CLEVELAND",
+    "ordinal": 24,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1893,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1897,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_25_1897",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_WILLIAM_MCKINLEY",
+    "ordinal": 25,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1897,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1901,
+          "month": 9,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_26_1901",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_THEODORE_ROOSEVELT",
+    "ordinal": 26,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1901,
+          "month": 9,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1909,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_27_1909",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_WILLIAM_HOWARD_TAFT",
+    "ordinal": 27,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1909,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1913,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_28_1913",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_WOODROW_WILSON",
+    "ordinal": 28,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1913,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1921,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_29_1921",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_WARREN_G_HARDING",
+    "ordinal": 29,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1921,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1923,
+          "month": 8,
+          "day": 2
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_30_1923",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_CALVIN_COOLIDGE",
+    "ordinal": 30,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1923,
+          "month": 8,
+          "day": 2
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1929,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_31_1929",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_HERBERT_HOOVER",
+    "ordinal": 31,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1929,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1933,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_32_1933",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_FRANKLIN_D_ROOSEVELT",
+    "ordinal": 32,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1933,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1945,
+          "month": 4,
+          "day": 12
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_33_1945",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_HARRY_S_TRUMAN",
+    "ordinal": 33,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1945,
+          "month": 4,
+          "day": 12
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1953,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_34_1953",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_DWIGHT_D_EISENHOWER",
+    "ordinal": 34,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1953,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1961,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_35_1961",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JOHN_F_KENNEDY",
+    "ordinal": 35,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1961,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1963,
+          "month": 11,
+          "day": 22
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_36_1963",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_LYNDON_B_JOHNSON",
+    "ordinal": 36,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1963,
+          "month": 11,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1969,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_37_1969",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_RICHARD_NIXON",
+    "ordinal": 37,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1969,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1974,
+          "month": 8,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_38_1974",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_GERALD_R_FORD",
+    "ordinal": 38,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1974,
+          "month": 8,
+          "day": 9
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1977,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_39_1977",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JIMMY_CARTER",
+    "ordinal": 39,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1977,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1981,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_40_1981",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_RONALD_REAGAN",
+    "ordinal": 40,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1981,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1989,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_41_1989",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_GEORGE_H_W_BUSH",
+    "ordinal": 41,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1989,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1993,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_42_1993",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_BILL_CLINTON",
+    "ordinal": 42,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1993,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2001,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_43_2001",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_GEORGE_W_BUSH",
+    "ordinal": 43,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2001,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2009,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_44_2009",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_BARACK_OBAMA",
+    "ordinal": 44,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2009,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2017,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_45_2017",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_DONALD_TRUMP",
+    "ordinal": 45,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2017,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2021,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_46_2021",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_JOE_BIDEN",
+    "ordinal": 46,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2021,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2025,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_US_PRESIDENT_47_2025",
+    "office_id": "OFFICE_US_PRESIDENT",
+    "person_id": "P_US_DONALD_TRUMP",
+    "ordinal": 47,
+    "default_calendar_rule_id": "RULE_GREGORIAN",
+    "polity_id": "POLITY_UNITED_STATES",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2025,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN",
+        "scale": "scheduled",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2029,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent",
+    "notes": "Second non-consecutive administration; scheduled constitutional term end."
+  }
+]

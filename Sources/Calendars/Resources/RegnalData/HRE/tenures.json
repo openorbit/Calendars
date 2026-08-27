@@ -1,0 +1,648 @@
+[
+  {
+    "id": "TENURE_HRE_HENRY_IV",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_HENRY_IV",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1056
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1105
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RIVAL_RUDOLF_RHEINFELDEN",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_RUDOLF_RHEINFELDEN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1077
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1080
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "rival",
+    "notes": "Anti-king against Henry IV.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RIVAL_HERMANN_SALM",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_HERMANN_SALM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1081
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1088
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "rival",
+    "notes": "Anti-king against Henry IV.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RIVAL_CONRAD_ITALY",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_CONRAD_ITALY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1093
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1098
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "rival",
+    "notes": "Henry IV’s son, set up in Italy.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_HENRY_V",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_HENRY_V",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1106
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1125
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_LOTHAIR_III",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_LOTHAIR_III",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1125
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1137
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_CONRAD_III",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_CONRAD_III",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1138
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1152
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_FREDERICK_I",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_FREDERICK_I",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1152
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1190
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_HENRY_VI",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_HENRY_VI_HOHENSTAUFEN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1190
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1197
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_OTTO_IV",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_OTTO_IV",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1198
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1215
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Contested by Philip of Swabia (1198–1208) and later by Frederick II (from 1212).",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RIVAL_PHILIP_SWABIA",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_PHILIP_SWABIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1198
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1208
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "rival",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_FREDERICK_II",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_FREDERICK_II",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1212
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1250
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RIVAL_HENRY_RASPE",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_HENRY_RASPE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1246
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1247
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "rival",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RIVAL_WILLIAM_HOLLAND",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_WILLIAM_HOLLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1247
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1256
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "rival",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_RICHARD_CORNWALL",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_RICHARD_CORNWALL",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1257
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1272
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Interregnum claimant recognized by a faction.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RIVAL_ALFONSO_X",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_ALFONSO_X",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1257
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1275
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "rival",
+    "notes": "Elected by a rival group of electors.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_RUDOLF_I",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_RUDOLF_I",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1273
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1291
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_ADOLF_NASSAU",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_ADOLF_NASSAU",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1292
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1298
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_ALBERT_I",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_ALBERT_I",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1298
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1308
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HRE_HENRY_VII",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "PERSON_HENRY_VII_LUX",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1308
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1313
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  }
+]

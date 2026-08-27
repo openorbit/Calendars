@@ -1,0 +1,20 @@
+[
+  {
+    "id": "OFFICE_EU_PARLIAMENT_SPEAKER",
+    "label": "President of the European Parliament",
+    "scope_polity_id": "POLITY_EU",
+    "notes": "Speaker of the European Parliament (formally President)."
+  },
+  {
+    "id": "OFFICE_EU_COMMISSION_PRESIDENT",
+    "label": "President of the European Commission",
+    "scope_polity_id": "POLITY_EU",
+    "notes": "Head of the European Commission (executive)."
+  },
+  {
+    "id": "OFFICE_EU_COUNCIL_PRESIDENT",
+    "label": "President of the European Council",
+    "scope_polity_id": "POLITY_EU",
+    "notes": "Chair of the European Council."
+  }
+]

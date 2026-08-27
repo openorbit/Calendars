@@ -1,0 +1,360 @@
+[
+  {
+    "id": "TENURE_SW_ERIC_POMERANIA",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_ERIC_POMERANIA",
+    "ordinal": 21,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1396
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1439
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First king of the Kalmar Union."
+  },
+  {
+    "id": "TENURE_SW_CHRISTOPHER_BAVARIA",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_CHRISTOPHER_BAVARIA",
+    "ordinal": 22,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1441
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1448
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "King of Denmark, Norway, and Sweden."
+  },
+  {
+    "id": "TENURE_SW_CHRISTIAN_I",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_CHRISTIAN_I",
+    "ordinal": 23,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1457
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1464
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_SW_KING_HANS",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_KING_HANS",
+    "ordinal": 24,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1497
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1501
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_SW_CHRISTIAN_II",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_CHRISTIAN_II",
+    "ordinal": 25,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1520
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1521
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed after Stockholm Bloodbath resistance."
+  },
+  {
+    "id": "TENURE_SW_ENGELBREKT",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "PERSON_ENGELBREKT",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1435
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1436
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Leader of uprising, briefly regent."
+  },
+  {
+    "id": "TENURE_SW_KARL_KNUTSSON_REGENT",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "PERSON_KARL_KNUTSSON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1438
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1440
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_SW_STEN_STURE_ELDER",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "PERSON_STEN_STURE_ELDER",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1470
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1497
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Central figure resisting Danish control."
+  },
+  {
+    "id": "TENURE_SW_SVANTE_NILSSON",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "PERSON_SVANTE_NILSSON",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1504
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1512
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_SW_STEN_STURE_YOUNGER",
+    "office_id": "OFFICE_SWEDEN_REGENT",
+    "person_id": "PERSON_STEN_STURE_YOUNGER",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1512
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1520
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Died in battle 1520; shortly before Christian II’s coronation."
+  },
+  {
+    "id": "TENURE_SW_GUSTAV_VASA",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_GUSTAV_VASA",
+    "ordinal": 26,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1523,
+          "month": 6,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1560,
+          "month": 9,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Established hereditary monarchy; end of Kalmar Union era."
+  }
+]

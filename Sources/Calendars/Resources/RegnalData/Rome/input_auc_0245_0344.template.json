@@ -1,0 +1,635 @@
+[
+  {
+    "auc": 245,
+    "ordinarii": [
+      "Lucius Iunius Brutus",
+      "Lucius Tarquinius Collatinus"
+    ],
+    "suffects": [
+      "Spurius Lucretius Tricipitinus",
+      "Publius Valerius Publicola"
+    ],
+    "notes": "Founding consuls; Collatinus resigned; suffects filled in sequence."
+  },
+  {
+    "auc": 246,
+    "ordinarii": [
+      "Publius Valerius Publicola",
+      "Marcus Horatius Pulvillus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 247,
+    "ordinarii": [
+      "Titus Larcius Flavus",
+      "Spurius Lucretius Tricipitinus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 248,
+    "ordinarii": [
+      "Appius Claudius Sabinus",
+      "Publius Servilius Priscus Structus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 249,
+    "ordinarii": [
+      "Aulus Verginius Tricostus Rutilus",
+      "Titus Verginius Tricostus Rutilus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 250,
+    "ordinarii": [
+      "Spurius Cassius Vecellinus",
+      "Opiter Verginius Tricostus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 251,
+    "ordinarii": [
+      "Publius Postumius Tubertus",
+      "Titus Larcius Flavus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 252,
+    "ordinarii": [
+      "Agrippa Menenius Lanatus",
+      "Publius Postumius Tubertus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 253,
+    "ordinarii": [
+      "Aulus Postumius Albus Regillensis",
+      "Titus Verginius Tricostus Caeliomontanus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 254,
+    "ordinarii": [
+      "Spurius Cassius Vecellinus",
+      "Proculus Verginius Tricostus Rutilus"
+    ],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 255,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 256,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 257,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 258,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 259,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 260,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 261,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 262,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 263,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 264,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 265,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 266,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 267,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 268,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 269,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 270,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 271,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 272,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 273,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 274,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 275,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 276,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 277,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 278,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 279,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 280,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 281,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 282,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 283,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 284,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 285,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 286,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 287,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 288,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 289,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 290,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 291,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 292,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 293,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 294,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 295,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 296,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 297,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 298,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 299,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 300,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 301,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 302,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 303,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 304,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 305,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 306,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 307,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 308,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 309,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 310,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 311,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 312,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 313,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 314,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 315,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 316,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 317,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 318,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 319,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 320,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 321,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 322,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 323,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 324,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 325,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 326,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 327,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 328,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 329,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 330,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 331,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 332,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 333,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 334,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 335,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 336,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 337,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 338,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 339,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 340,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 341,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 342,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 343,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  },
+  {
+    "auc": 344,
+    "ordinarii": [],
+    "suffects": [],
+    "notes": ""
+  }
+]

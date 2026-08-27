@@ -1,0 +1,164 @@
+[
+  {
+    "id": "P_CHRISTIAN_VII",
+    "name": {
+      "normalized": "Christian VII"
+    },
+    "variants": [
+      {
+        "form": "Christian VII",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_VII_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_VI",
+    "name": {
+      "normalized": "Frederick VI"
+    },
+    "variants": [
+      {
+        "form": "Frederik VI",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_VI_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_VIII",
+    "name": {
+      "normalized": "Christian VIII"
+    },
+    "variants": [
+      {
+        "form": "Christian VIII",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_VIII_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_VII",
+    "name": {
+      "normalized": "Frederick VII"
+    },
+    "variants": [
+      {
+        "form": "Frederik VII",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_VII_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_IX",
+    "name": {
+      "normalized": "Christian IX"
+    },
+    "variants": [
+      {
+        "form": "Christian IX",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_IX_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_VIII",
+    "name": {
+      "normalized": "Frederick VIII"
+    },
+    "variants": [
+      {
+        "form": "Frederik VIII",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_VIII_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_X",
+    "name": {
+      "normalized": "Christian X"
+    },
+    "variants": [
+      {
+        "form": "Christian X",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_X_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_IX",
+    "name": {
+      "normalized": "Frederick IX"
+    },
+    "variants": [
+      {
+        "form": "Frederik IX",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_IX_of_Denmark"
+    }
+  },
+  {
+    "id": "P_MARGRETHE_II",
+    "name": {
+      "normalized": "Margrethe II"
+    },
+    "variants": [
+      {
+        "form": "Margrethe II",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Margrethe_II_of_Denmark"
+    }
+  }
+]

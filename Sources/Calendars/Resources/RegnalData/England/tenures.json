@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "TENURE_WILLIAM_I",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_WILLIAM_I",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1066,
+          "month": 10,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1087,
+          "month": 9,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_WILLIAM_II",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_WILLIAM_II",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1087,
+          "month": 9,
+          "day": 9
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1100,
+          "month": 8,
+          "day": 2
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_I",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_I",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1100,
+          "month": 8,
+          "day": 5
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1135,
+          "month": 12,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_STEPhen",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_STEPhen",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1135,
+          "month": 12,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1154,
+          "month": 10,
+          "day": 25
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_MATILDA_RIVAL_1141",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_MATILDA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1141,
+          "month": 4,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1141,
+          "month": 11,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "rival",
+    "notes": "Styled 'Domina Anglorum' during the Anarchy.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_II",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_II",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1154,
+          "month": 10,
+          "day": 25
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1189,
+          "month": 7,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RICHARD_I",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_RICHARD_I",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1189,
+          "month": 7,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1199,
+          "month": 4,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_JOHN",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_JOHN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1199,
+          "month": 4,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1216,
+          "month": 10,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_III",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_III",
+    "ordinal": 3,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1216,
+          "month": 10,
+          "day": 28
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1272,
+          "month": 11,
+          "day": 16
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_EDWARD_I",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_EDWARD_I",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1272,
+          "month": 11,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1307,
+          "month": 7,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_EDWARD_II",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_EDWARD_II",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1307,
+          "month": 7,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1327,
+          "month": 1,
+          "day": 25
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_EDWARD_III",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_EDWARD_III",
+    "ordinal": 3,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1327,
+          "month": 1,
+          "day": 25
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1377,
+          "month": 6,
+          "day": 21
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RICHARD_II",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_RICHARD_II",
+    "ordinal": 2,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1377,
+          "month": 6,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1399,
+          "month": 9,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_IV",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_IV",
+    "ordinal": 4,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1399,
+          "month": 9,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1413,
+          "month": 3,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_V",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_V",
+    "ordinal": 5,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1413,
+          "month": 3,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1422,
+          "month": 8,
+          "day": 31
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_VI_PART1",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_VI",
+    "ordinal": 6,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1422,
+          "month": 9,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1461,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_EDWARD_IV_PART1",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_EDWARD_IV",
+    "ordinal": 4,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1461,
+          "month": 3,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1470,
+          "month": 10,
+          "day": 3
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_VI_READEPTION",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_VI",
+    "ordinal": 6,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1470,
+          "month": 10,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1471,
+          "month": 4,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_EDWARD_IV_PART2",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_EDWARD_IV",
+    "ordinal": 4,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1471,
+          "month": 4,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1483,
+          "month": 4,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_EDWARD_V",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_EDWARD_V",
+    "ordinal": 5,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1483,
+          "month": 4,
+          "day": 9
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1483,
+          "month": 6,
+          "day": 26
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "disputed",
+    "notes": "Never crowned; deposed via Titulus Regius.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_RICHARD_III",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_RICHARD_III",
+    "ordinal": 3,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1483,
+          "month": 6,
+          "day": 26
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1485,
+          "month": 8,
+          "day": 22
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_VII",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_VII",
+    "ordinal": 7,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1485,
+          "month": 8,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1509,
+          "month": 4,
+          "day": 21
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_HENRY_VIII",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_HENRY_VIII",
+    "ordinal": 8,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1509,
+          "month": 4,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1547,
+          "month": 1,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_EDWARD_VI",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_EDWARD_VI",
+    "ordinal": 6,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1547,
+          "month": 1,
+          "day": 28
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1553,
+          "month": 7,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_LADY_JANE_RIVAL",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_LADY_JANE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1553,
+          "month": 7,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1553,
+          "month": 7,
+          "day": 19
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "pretender",
+    "notes": "Proclaimed queen for nine days; never widely recognized.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_MARY_I",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_MARY_I",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1553,
+          "month": 7,
+          "day": 19
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1558,
+          "month": 11,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_PHILIP_CO_KING",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_PHILIP",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1554,
+          "month": 7,
+          "day": 25
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1558,
+          "month": 11,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Philip styled King of England jure uxoris; co-reign with Mary I.",
+    "anchor_ids": []
+  },
+  {
+    "id": "TENURE_ELIZABETH_I",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "PERSON_ELIZABETH_I",
+    "ordinal": 1,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1558,
+          "month": 11,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1603,
+          "month": 3,
+          "day": 24
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "anchor_ids": []
+  }
+]

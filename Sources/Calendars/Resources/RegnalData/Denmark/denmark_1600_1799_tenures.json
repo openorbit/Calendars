@@ -1,0 +1,254 @@
+[
+  {
+    "id": "TEN_P_CHRISTIAN_IV_1600",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_CHRISTIAN_IV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_JAN1",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1600
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_JAN1",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1648
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Continued reign from 1588; died 1648."
+  },
+  {
+    "id": "TEN_P_FREDERICK_III_1648",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FREDERICK_III",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_JAN1",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1648
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_JAN1",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1670
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_V_1670",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_CHRISTIAN_V",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_JAN1",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_JAN1",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1670
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_JAN1",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1699
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reigned until reform year."
+  },
+  {
+    "id": "TEN_P_FREDERICK_IV_1699",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FREDERICK_IV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1699
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1730
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_VI_1730",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_CHRISTIAN_VI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1730
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1746
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_FREDERICK_V_1746",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FREDERICK_V",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1746
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1766
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_VII_1766",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_CHRISTIAN_VII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1766
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1799
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reign continues into 19th century."
+  }
+]

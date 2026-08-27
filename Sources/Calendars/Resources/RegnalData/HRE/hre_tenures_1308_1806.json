@@ -1,0 +1,893 @@
+[
+  {
+    "id": "TENURE_P_HENRY_VII_LUX",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_HENRY_VII_LUX",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1308
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1313
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected King of the Romans 27 Nov 1308; crowned Emperor 29 Jun 1312."
+  },
+  {
+    "id": "TENURE_P_LOUIS_IV_BAV",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_LOUIS_IV_BAV",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1314
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1347
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "King of the Romans 1314; Emperor from 1328."
+  },
+  {
+    "id": "TENURE_P_FREDERICK_THE_FAIR",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FREDERICK_THE_FAIR",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1314
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1330
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "antiking",
+    "notes": "Anti-king against Louis IV; recognized as co-king in 1325; died 1330."
+  },
+  {
+    "id": "TENURE_P_CHARLES_IV",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_CHARLES_IV",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1346
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1378
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 11 Jul 1346 against Louis IV; re-elected 1349; Emperor 1355."
+  },
+  {
+    "id": "TENURE_P_GUNTHER_SCHWARZBURG",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_GUNTHER_SCHWARZBURG",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1349
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1349
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "antiking",
+    "notes": "Anti-king elected 30 Jan 1349; abdicated June 1349; died 14 Jun 1349."
+  },
+  {
+    "id": "TENURE_P_WENCESLAUS",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_WENCESLAUS",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1378
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1400
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Deposed 1400."
+  },
+  {
+    "id": "TENURE_P_RUPERT_PFALZ",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_RUPERT_PFALZ",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1400
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1410
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected after deposition of Wenceslaus."
+  },
+  {
+    "id": "TENURE_P_SIGISMUND",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_SIGISMUND",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1410
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1437
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "King of the Romans 1410; Emperor 1433."
+  },
+  {
+    "id": "TENURE_P_JOBST_MORAVIA",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_JOBST_MORAVIA",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1410
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1411
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "antiking",
+    "notes": "Rival election; died 1411."
+  },
+  {
+    "id": "TENURE_P_ALBERT_II",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_ALBERT_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1438
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1439
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "King of the Romans; died 1439."
+  },
+  {
+    "id": "TENURE_P_FREDERICK_III",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FREDERICK_III",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1440
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1493
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Emperor from 1452 to 1493."
+  },
+  {
+    "id": "TENURE_P_MAXIMILIAN_I",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_MAXIMILIAN_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1493
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1519
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "King of the Romans 1486; assumed Imperial title 1508."
+  },
+  {
+    "id": "TENURE_P_CHARLES_V",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_CHARLES_V",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1519
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1556
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Abdicated 1556."
+  },
+  {
+    "id": "TENURE_P_FERDINAND_I",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FERDINAND_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1556
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1564
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_MAXIMILIAN_II",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_MAXIMILIAN_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1564
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1576
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_RUDOLF_II",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_RUDOLF_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1576
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1612
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_MATTHIAS",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_MATTHIAS",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1612
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1619
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_FERDINAND_II",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FERDINAND_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1619
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1637
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_FERDINAND_III",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FERDINAND_III",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1637
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1657
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_LEOPOLD_I",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_LEOPOLD_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1658
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1705
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_JOSEPH_I",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_JOSEPH_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1705
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1711
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_CHARLES_VI",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_CHARLES_VI",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1711
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1740
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_CHARLES_VII",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_CHARLES_VII",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1742
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1745
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Wittelsbach interlude."
+  },
+  {
+    "id": "TENURE_P_FRANCIS_I",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FRANCIS_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1745
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1765
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_JOSEPH_II",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_JOSEPH_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1765
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1790
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_LEOPOLD_II",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_LEOPOLD_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1790
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TENURE_P_FRANCIS_II",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FRANCIS_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1806
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last Holy Roman Emperor; abdicated 6 Aug 1806."
+  }
+]

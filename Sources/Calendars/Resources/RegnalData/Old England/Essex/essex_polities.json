@@ -1,0 +1,34 @@
+[
+  {
+    "id": "POLITY_ESSEX",
+    "label": "Kingdom of Essex",
+    "aliases": [
+      "Ēastseaxna rīce",
+      "Regnum Orientalium Saxonum",
+      "East Saxons"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 527
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 825
+        }
+      }
+    ],
+    "notes": "One of the Anglo-Saxon Heptarchy; converted to Christianity in 7th century. Absorbed by Mercia/Wessex by 9th century."
+  }
+]

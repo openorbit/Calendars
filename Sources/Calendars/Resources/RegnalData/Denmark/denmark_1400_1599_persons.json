@@ -1,0 +1,260 @@
+[
+  {
+    "id": "P_ERIC_POM",
+    "name": {
+      "normalized": "Eric of Pomerania"
+    },
+    "variants": [
+      {
+        "form": "Ericus Pomeraniae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik af Pommern",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_of_Pomerania"
+    }
+  },
+  {
+    "id": "P_CHRISTOPHER_BAVARIA",
+    "name": {
+      "normalized": "Christopher of Bavaria"
+    },
+    "variants": [
+      {
+        "form": "Christopherus Bavarus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christoffer af Bayern",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher_of_Bavaria"
+    }
+  },
+  {
+    "id": "P_INTERREGNUM_1448",
+    "name": {
+      "normalized": "Interregnum 1448"
+    },
+    "variants": [
+      {
+        "form": "Interregnum",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CHRISTIAN_I",
+    "name": {
+      "normalized": "Christian I"
+    },
+    "variants": [
+      {
+        "form": "Christianus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christian 1.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_JOHN_I",
+    "name": {
+      "normalized": "John (Hans)"
+    },
+    "variants": [
+      {
+        "form": "Johannes",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hans",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/John,_King_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_II",
+    "name": {
+      "normalized": "Christian II"
+    },
+    "variants": [
+      {
+        "form": "Christianus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christian 2.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_I",
+    "name": {
+      "normalized": "Frederick I"
+    },
+    "variants": [
+      {
+        "form": "Fridericus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Frederik 1.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_INTERREGNUM_1533",
+    "name": {
+      "normalized": "Interregnum (Count's Feud)"
+    },
+    "variants": [
+      {
+        "form": "Interregnum",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Count%27s_Feud"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_III",
+    "name": {
+      "normalized": "Christian III"
+    },
+    "variants": [
+      {
+        "form": "Christianus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christian 3.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_III_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_II",
+    "name": {
+      "normalized": "Frederick II"
+    },
+    "variants": [
+      {
+        "form": "Fridericus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Frederik 2.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_IV",
+    "name": {
+      "normalized": "Christian IV"
+    },
+    "variants": [
+      {
+        "form": "Christianus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Christian 4.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_IV_of_Denmark"
+    }
+  }
+]

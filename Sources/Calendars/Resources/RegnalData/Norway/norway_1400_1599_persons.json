@@ -1,0 +1,196 @@
+[
+  {
+    "id": "P_MARGARET_I",
+    "name": {
+      "normalized": "Margaret I of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Margrete Valdemarsdatter",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Margrete I",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ERIC_POM",
+    "name": {
+      "normalized": "Eric of Pomerania"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr af Pommern",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik av Pommern",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_of_Pomerania"
+    }
+  },
+  {
+    "id": "P_CHRISTOPHER_BAVARIA",
+    "name": {
+      "normalized": "Christopher of Bavaria"
+    },
+    "variants": [
+      {
+        "form": "Kristoffer av Bayern",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher_of_Bavaria"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_I",
+    "name": {
+      "normalized": "Christian I of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Kristian I",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_JOHN_DENMARK",
+    "name": {
+      "normalized": "John (Hans) of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Hans",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_II",
+    "name": {
+      "normalized": "Christian II"
+    },
+    "variants": [
+      {
+        "form": "Kristian II",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_I",
+    "name": {
+      "normalized": "Frederick I of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Fredrik I",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_III",
+    "name": {
+      "normalized": "Christian III"
+    },
+    "variants": [
+      {
+        "form": "Kristian III",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_III_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_II",
+    "name": {
+      "normalized": "Frederick II"
+    },
+    "variants": [
+      {
+        "form": "Fredrik II",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_IV",
+    "name": {
+      "normalized": "Christian IV"
+    },
+    "variants": [
+      {
+        "form": "Kristian IV",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_IV_of_Denmark"
+    }
+  }
+]

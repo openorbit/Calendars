@@ -1,0 +1,14 @@
+[
+  {
+    "id": "OFFICE_NORWAY_MONARCH",
+    "label": "Monarch of Norway",
+    "scope_polity_id": "POLITY_NORWAY_KINGDOM",
+    "notes": "Konge av Norge / Kongen i statsråd (modern)."
+  },
+  {
+    "id": "OFFICE_NORWAY_REGENT",
+    "label": "Regent of Norway",
+    "scope_polity_id": "POLITY_NORWAY_KINGDOM",
+    "notes": "Riksforstander / rigsforstander; interim or minority rule."
+  }
+]

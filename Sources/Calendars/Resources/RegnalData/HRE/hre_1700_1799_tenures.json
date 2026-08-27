@@ -1,0 +1,261 @@
+[
+  {
+    "id": "TEN_P_LEOPOLD_I_1658",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_LEOPOLD_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1658,
+          "month": 7,
+          "day": 18
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1705,
+          "month": 5,
+          "day": 5
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 18 Jul 1658; died 5 May 1705."
+  },
+  {
+    "id": "TEN_P_JOSEPH_I_1705",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_JOSEPH_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1705,
+          "month": 5,
+          "day": 5
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1711,
+          "month": 4,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Leopold I; reigned 1705–1711."
+  },
+  {
+    "id": "TEN_P_CHARLES_VI_1711",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_CHARLES_VI",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1711,
+          "month": 10,
+          "day": 12
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1740,
+          "month": 10,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Leopold I; reigned 1711–1740."
+  },
+  {
+    "id": "TEN_P_CHARLES_VII_1742",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_CHARLES_VII",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1742,
+          "month": 1,
+          "day": 24
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1745,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Charles Albert of Bavaria, only Wittelsbach emperor, 1742–1745."
+  },
+  {
+    "id": "TEN_P_FRANCIS_I_1745",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FRANCIS_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1745,
+          "month": 9,
+          "day": 13
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1765,
+          "month": 8,
+          "day": 18
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Husband of Maria Theresa; reigned 1745–1765."
+  },
+  {
+    "id": "TEN_P_JOSEPH_II_1765",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_JOSEPH_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1765,
+          "month": 8,
+          "day": 18
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1790,
+          "month": 2,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Francis I and Maria Theresa; co-regent with his mother; sole ruler 1780–1790."
+  },
+  {
+    "id": "TEN_P_LEOPOLD_II_1790",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_LEOPOLD_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1790,
+          "month": 9,
+          "day": 30
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1792,
+          "month": 3,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Francis I and Maria Theresa; brother of Joseph II."
+  }
+]

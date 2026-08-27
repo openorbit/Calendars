@@ -1,0 +1,50 @@
+[
+  {
+    "id": "OFFICE_KING_OF_THE_ENGLISH",
+    "label": "King of the English",
+    "scope_polity_id": "POLITY_ENGLAND",
+    "notes": "Ruler of the unified English kingdom; emerges clearly under Athelstan (927)."
+  },
+  {
+    "id": "OFFICE_KING_WESSEX",
+    "label": "King of Wessex",
+    "scope_polity_id": "POLITY_WESSEX",
+    "notes": "West Saxon kings; dominant line leading to English unification."
+  },
+  {
+    "id": "OFFICE_KING_MERCIA",
+    "label": "King of Mercia",
+    "scope_polity_id": "POLITY_MERCIA",
+    "notes": "Mercian rulers of the midlands; overlordship in 8th–early 9th c."
+  },
+  {
+    "id": "OFFICE_KING_NORTHUMBRIA",
+    "label": "King of Northumbria",
+    "scope_polity_id": "POLITY_NORTHUMBRIA",
+    "notes": "Northumbrian kings (Bernicia/Deira)."
+  },
+  {
+    "id": "OFFICE_KING_EAST_ANGLIA",
+    "label": "King of East Anglia",
+    "scope_polity_id": "POLITY_EAST_ANGLIA",
+    "notes": "East Anglian kings."
+  },
+  {
+    "id": "OFFICE_KING_KENT",
+    "label": "King of Kent",
+    "scope_polity_id": "POLITY_KENT",
+    "notes": "Early Anglo-Saxon kingdom."
+  },
+  {
+    "id": "OFFICE_KING_ESSEX",
+    "label": "King of Essex",
+    "scope_polity_id": "POLITY_ESSEX",
+    "notes": "Early Anglo-Saxon kingdom."
+  },
+  {
+    "id": "OFFICE_KING_SUSSEX",
+    "label": "King of Sussex",
+    "scope_polity_id": "POLITY_SUSSEX",
+    "notes": "Early Anglo-Saxon kingdom."
+  }
+]

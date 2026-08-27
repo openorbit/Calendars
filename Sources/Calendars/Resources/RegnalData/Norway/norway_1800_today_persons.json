@@ -1,0 +1,200 @@
+[
+  {
+    "id": "P_CHRISTIAN_VII",
+    "name": {
+      "normalized": "Christian VII"
+    },
+    "variants": [
+      {
+        "form": "Kristian VII",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_VII_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_VI",
+    "name": {
+      "normalized": "Frederick VI"
+    },
+    "variants": [
+      {
+        "form": "Fredrik VI",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_VI_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_FREDERICK",
+    "name": {
+      "normalized": "Christian Frederick"
+    },
+    "variants": [
+      {
+        "form": "Kristian Frederik",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_VIII_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHARLES_XIII",
+    "name": {
+      "normalized": "Charles XIII of Sweden (Karl II of Norway)"
+    },
+    "variants": [
+      {
+        "form": "Karl II",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XIII_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHARLES_XIV",
+    "name": {
+      "normalized": "Charles XIV John (Karl III Johan)"
+    },
+    "variants": [
+      {
+        "form": "Karl III Johan",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XIV_John_of_Sweden"
+    }
+  },
+  {
+    "id": "P_OSCAR_I",
+    "name": {
+      "normalized": "Oscar I"
+    },
+    "variants": [
+      {
+        "form": "Oscar I",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Oscar_I_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHARLES_XV",
+    "name": {
+      "normalized": "Charles XV (Karl IV of Norway)"
+    },
+    "variants": [
+      {
+        "form": "Karl IV",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XV_of_Sweden"
+    }
+  },
+  {
+    "id": "P_OSCAR_II",
+    "name": {
+      "normalized": "Oscar II"
+    },
+    "variants": [
+      {
+        "form": "Oscar II",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Oscar_II"
+    }
+  },
+  {
+    "id": "P_HAAKON_VII",
+    "name": {
+      "normalized": "Haakon VII"
+    },
+    "variants": [
+      {
+        "form": "Haakon VII",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_VII_of_Norway"
+    }
+  },
+  {
+    "id": "P_OLAV_V",
+    "name": {
+      "normalized": "Olav V"
+    },
+    "variants": [
+      {
+        "form": "Olav V",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olav_V_of_Norway"
+    }
+  },
+  {
+    "id": "P_HARALD_V",
+    "name": {
+      "normalized": "Harald V"
+    },
+    "variants": [
+      {
+        "form": "Harald V",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_V_of_Norway"
+    }
+  }
+]

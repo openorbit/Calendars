@@ -1,0 +1,13 @@
+[
+  {
+    "id": "POLITY_FRANCE",
+    "label": "Kingdom of France",
+    "calendar_rule_id": "CALR_FRANCE_GREGORIAN_1582",
+    "region": "France",
+    "valid_gregorian": {
+      "start": "1582-12-20",
+      "end": "1792-09-21"
+    },
+    "notes": "Gregorian calendar in Catholic France from late 1582; monarchy abolished 21 Sep 1792."
+  }
+]

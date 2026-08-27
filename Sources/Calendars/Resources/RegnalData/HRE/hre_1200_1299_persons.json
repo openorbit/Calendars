@@ -1,0 +1,184 @@
+[
+  {
+    "id": "P_HENRY_RASPE",
+    "name": {
+      "normalized": "Henry Raspe"
+    },
+    "variants": [
+      {
+        "form": "Heinricus Raspo",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich Raspe",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_Raspe"
+    }
+  },
+  {
+    "id": "P_WILLIAM_II_HOLLAND",
+    "name": {
+      "normalized": "William II of Holland"
+    },
+    "variants": [
+      {
+        "form": "Willelmus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Wilhelm II. von Holland",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/William_II_of_Holland"
+    }
+  },
+  {
+    "id": "P_RICHARD_OF_CORNWALL",
+    "name": {
+      "normalized": "Richard of Cornwall"
+    },
+    "variants": [
+      {
+        "form": "Ricardus Cornubiensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Richard von Cornwall",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Richard of Cornwall",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Richard_of_Cornwall"
+    }
+  },
+  {
+    "id": "P_ALFONSO_X",
+    "name": {
+      "normalized": "Alfonso X of Castile"
+    },
+    "variants": [
+      {
+        "form": "Alfonsus X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Alfonso X el Sabio",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile"
+    }
+  },
+  {
+    "id": "P_RUDOLF_I",
+    "name": {
+      "normalized": "Rudolf I of Germany"
+    },
+    "variants": [
+      {
+        "form": "Rudolfus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Rudolf I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany"
+    }
+  },
+  {
+    "id": "P_ADOLF_NASSAU",
+    "name": {
+      "normalized": "Adolf of Nassau"
+    },
+    "variants": [
+      {
+        "form": "Adolphus Nassaviensis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Adolf von Nassau",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Adolf,_King_of_the_Romans"
+    }
+  },
+  {
+    "id": "P_ALBERT_I",
+    "name": {
+      "normalized": "Albert I of Germany"
+    },
+    "variants": [
+      {
+        "form": "Albertus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Albrecht I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Albert_I_of_Germany"
+    }
+  }
+]

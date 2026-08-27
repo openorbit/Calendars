@@ -1,0 +1,13 @@
+[
+  {
+    "id": "POLITY_ENGLAND",
+    "label": "Kingdom of England",
+    "calendar_rule_id": "CALR_ENGLAND_OS_1155_1751",
+    "region": "England",
+    "valid_julian": {
+      "start": "1066-10-14",
+      "end": "1603-03-24"
+    },
+    "notes": "Old Style (Annunciation) New Year on March 25 in this period."
+  }
+]

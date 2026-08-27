@@ -1,0 +1,220 @@
+[
+  {
+    "id": "P_CONRAD_III",
+    "name": {
+      "normalized": "Conrad III"
+    },
+    "variants": [
+      {
+        "form": "Chuonradus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Konrad III",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Conrad_III_of_Germany"
+    }
+  },
+  {
+    "id": "P_FREDERICK_I",
+    "name": {
+      "normalized": "Frederick I Barbarossa"
+    },
+    "variants": [
+      {
+        "form": "Fridericus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Friedrich I Barbarossa",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_I,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_HENRY_VI",
+    "name": {
+      "normalized": "Henry VI"
+    },
+    "variants": [
+      {
+        "form": "Heinricus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich VI",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_PHILIP_SWABIA",
+    "name": {
+      "normalized": "Philip of Swabia"
+    },
+    "variants": [
+      {
+        "form": "Philippus Sueviae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philipp von Schwaben",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_of_Swabia"
+    }
+  },
+  {
+    "id": "P_OTTO_IV",
+    "name": {
+      "normalized": "Otto IV (Welf)"
+    },
+    "variants": [
+      {
+        "form": "Otto IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Otto IV",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_FREDERICK_II",
+    "name": {
+      "normalized": "Frederick II"
+    },
+    "variants": [
+      {
+        "form": "Fridericus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Friedrich II",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_HENRY_RASPE",
+    "name": {
+      "normalized": "Henry Raspe"
+    },
+    "variants": [
+      {
+        "form": "Heinricus Raspe",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich Raspe",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_Raspe"
+    }
+  },
+  {
+    "id": "P_WILLIAM_HOLLAND",
+    "name": {
+      "normalized": "William II of Holland"
+    },
+    "variants": [
+      {
+        "form": "Willelmus Hollandiae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/William_II_of_Holland"
+    }
+  },
+  {
+    "id": "P_CONRAD_IV",
+    "name": {
+      "normalized": "Conrad IV"
+    },
+    "variants": [
+      {
+        "form": "Chuonradus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Konrad IV",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Conrad_IV_of_Germany"
+    }
+  }
+]

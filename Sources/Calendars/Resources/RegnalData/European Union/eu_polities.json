@@ -1,0 +1,30 @@
+[
+  {
+    "id": "POLITY_EU",
+    "label": "European Union",
+    "aliases": [
+      "EU",
+      "Union européenne",
+      "Europäische Union"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 1993,
+          "month": 11,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "notes": "Supranational polity created by the Treaty of Maastricht (1993)."
+  }
+]

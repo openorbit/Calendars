@@ -1,0 +1,187 @@
+[
+  {
+    "id": "POLITY_CAROLINGIAN_EMPIRE",
+    "label": "Carolingian Empire",
+    "aliases": [
+      "Imperium Romanum",
+      "Imperium Francorum",
+      "Carolingian Empire"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 800
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 888
+        }
+      }
+    ],
+    "notes": "Empire created with Charlemagne’s coronation in 800; fragmented after 888."
+  },
+  {
+    "id": "POLITY_REGNUM_FRANCORUM",
+    "label": "Regnum Francorum (Kingdom of the Franks)",
+    "aliases": [
+      "Francia"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 751
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 843
+        }
+      }
+    ],
+    "notes": "United Frankish kingdom under Carolingians until divided in 843."
+  },
+  {
+    "id": "POLITY_WEST_FRANCIA",
+    "label": "West Francia",
+    "aliases": [
+      "Francia Occidentalis",
+      "West Frankish Kingdom"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 843
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 987
+        }
+      }
+    ],
+    "notes": "Western Frankish kingdom from Treaty of Verdun to Hugh Capet (987); precursor of France."
+  },
+  {
+    "id": "POLITY_EAST_FRANCIA",
+    "label": "East Francia",
+    "aliases": [
+      "Francia Orientalis",
+      "East Frankish Kingdom"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 843
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 962
+        }
+      }
+    ],
+    "notes": "Eastern Frankish kingdom from Treaty of Verdun until Otto I’s imperial coronation (962)."
+  },
+  {
+    "id": "POLITY_MIDDLE_FRANCIA",
+    "label": "Middle Francia",
+    "aliases": [
+      "Francia Media"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 843
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 855
+        }
+      }
+    ],
+    "notes": "Created by Treaty of Verdun for Lothair I; fragmented into Lotharingia, Burgundy, Italy."
+  },
+  {
+    "id": "POLITY_KINGDOM_ITALY",
+    "label": "Kingdom of Italy (Carolingian)",
+    "aliases": [
+      "Regnum Italiae",
+      "Kingdom of the Lombards"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 774
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 962
+        }
+      }
+    ],
+    "notes": "Former Lombard kingdom, conquered by Charlemagne in 774; Carolingian sub-kingdom."
+  }
+]

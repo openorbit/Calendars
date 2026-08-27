@@ -1,0 +1,20 @@
+[
+  {
+    "id": "OFFICE_GERMANY_KING",
+    "label": "King of East Francia / Germany",
+    "scope_polity_id": "POLITY_GERMANY",
+    "notes": "Rex Francorum orientalium / Rex Romanorum; the royal title held by Ottonians 919–1024."
+  },
+  {
+    "id": "OFFICE_ROMAN_EMPEROR",
+    "label": "Holy Roman Emperor",
+    "scope_polity_id": "POLITY_HOLY_ROMAN_EMPIRE",
+    "notes": "Imperator Romanorum; imperial title from Otto I’s coronation in 962."
+  },
+  {
+    "id": "OFFICE_ITALY_KING",
+    "label": "King of Italy",
+    "scope_polity_id": "POLITY_KINGDOM_ITALY",
+    "notes": "Rex Italiae; title often held by Ottonian rulers after conquest of Italy."
+  }
+]

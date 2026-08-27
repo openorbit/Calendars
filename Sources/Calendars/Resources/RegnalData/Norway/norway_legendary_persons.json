@@ -1,0 +1,214 @@
+[
+  {
+    "id": "P_SVEIGDIR",
+    "name": {
+      "normalized": "Sveigðir"
+    },
+    "variants": [
+      {
+        "form": "Sveigðir",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sveigdir"
+    }
+  },
+  {
+    "id": "P_VANLANDI",
+    "name": {
+      "normalized": "Vanlandi"
+    },
+    "variants": [
+      {
+        "form": "Vanlandi",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Vanlandi"
+    }
+  },
+  {
+    "id": "P_DOMALDI",
+    "name": {
+      "normalized": "Domaldi"
+    },
+    "variants": [
+      {
+        "form": "Dómaldi",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Domaldi"
+    }
+  },
+  {
+    "id": "P_DOMAR",
+    "name": {
+      "normalized": "Domar"
+    },
+    "variants": [
+      {
+        "form": "Dómar",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Domarr"
+    }
+  },
+  {
+    "id": "P_DYGGVI",
+    "name": {
+      "normalized": "Dyggvi"
+    },
+    "variants": [
+      {
+        "form": "Dyggvi",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dyggvi"
+    }
+  },
+  {
+    "id": "P_DAG_WISE",
+    "name": {
+      "normalized": "Dag the Wise"
+    },
+    "variants": [
+      {
+        "form": "Dag hinn spaki",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dag_the_Wise"
+    }
+  },
+  {
+    "id": "P_AGNE",
+    "name": {
+      "normalized": "Agne"
+    },
+    "variants": [
+      {
+        "form": "Agni",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Agne"
+    }
+  },
+  {
+    "id": "P_ALREK_ERIK",
+    "name": {
+      "normalized": "Alrek and Eirík"
+    },
+    "variants": [
+      {
+        "form": "Alrekr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Eiríkr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Alrek_and_Eirik"
+    }
+  },
+  {
+    "id": "P_YNGVI_ALF",
+    "name": {
+      "normalized": "Yngvi and Alf"
+    },
+    "variants": [
+      {
+        "form": "Yngvi",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Alf",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yngvi_and_Alf"
+    }
+  },
+  {
+    "id": "P_HALFDAN_OLD",
+    "name": {
+      "normalized": "Halfdan the Old"
+    },
+    "variants": [
+      {
+        "form": "Halfdan gamli",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Halfdan_the_Old"
+    }
+  },
+  {
+    "id": "P_HALFDAN_BLACK",
+    "name": {
+      "normalized": "Halfdan the Black"
+    },
+    "variants": [
+      {
+        "form": "Halfdan svarti",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Halfdan_the_Black"
+    }
+  }
+]

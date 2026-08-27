@@ -1,0 +1,362 @@
+[
+  {
+    "id": "P_CERDIC",
+    "name": {
+      "normalized": "Cerdic of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Cerdic",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CYNRIC",
+    "name": {
+      "normalized": "Cynric of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Cynric",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CEAWLIN",
+    "name": {
+      "normalized": "Ceawlin of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Ceawlin",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CEOL",
+    "name": {
+      "normalized": "Ceol of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Ceol",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CEOLWULF",
+    "name": {
+      "normalized": "Ceolwulf of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Ceolwulf",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CYNEGILS",
+    "name": {
+      "normalized": "Cynegils of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Cynegils",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CENWEALH",
+    "name": {
+      "normalized": "Cenwealh of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Cenwealh",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AESCWIN",
+    "name": {
+      "normalized": "Æscwine of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Æscwine",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CENTWINE",
+    "name": {
+      "normalized": "Centwine of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Centwine",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CAEDWALLA",
+    "name": {
+      "normalized": "Cædwalla of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Cædwalla",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_INE",
+    "name": {
+      "normalized": "Ine of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Ine",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELHEARD",
+    "name": {
+      "normalized": "Æthelheard of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Æthelheard",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CUTHRED",
+    "name": {
+      "normalized": "Cuthred of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Cuthred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SIGEBAERHT",
+    "name": {
+      "normalized": "Sigeberht of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Sigeberht",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CYNEWULF",
+    "name": {
+      "normalized": "Cynewulf of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Cynewulf",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BEOHRTRIC",
+    "name": {
+      "normalized": "Beorhtric of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Beorhtric",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EGBERT",
+    "name": {
+      "normalized": "Egbert of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Egbert",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELWULF",
+    "name": {
+      "normalized": "Æthelwulf of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Æthelwulf",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELBALD",
+    "name": {
+      "normalized": "Æthelbald of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Æthelbald",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELBERT",
+    "name": {
+      "normalized": "Æthelberht of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Æthelberht",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELRED_I",
+    "name": {
+      "normalized": "Æthelred I of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Æthelred I",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ALFRED",
+    "name": {
+      "normalized": "Alfred the Great"
+    },
+    "variants": [
+      {
+        "form": "Alfred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EDWARD_ELDER",
+    "name": {
+      "normalized": "Edward the Elder"
+    },
+    "variants": [
+      {
+        "form": "Edward",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELSTAN",
+    "name": {
+      "normalized": "Æthelstan of Wessex"
+    },
+    "variants": [
+      {
+        "form": "Æthelstan",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

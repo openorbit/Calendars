@@ -1,0 +1,9 @@
+[
+  {
+    "id": "OFFICE_HRE_KING",
+    "polity_id": "POLITY_HRE",
+    "label": "King of the Romans (Holy Roman Empire)",
+    "succession_mode": "elective",
+    "year_boundary_override": null
+  }
+]

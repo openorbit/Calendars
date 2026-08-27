@@ -1,0 +1,254 @@
+[
+  {
+    "id": "TEN_P_SKJOLD_400",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_SKJOLD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 400
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 420
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Mythical founder of the Skjöldung dynasty, son of Odin in some traditions."
+  },
+  {
+    "id": "TEN_P_FRODE_I_420",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FRODE_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 420
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 450
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary Danish king known for peace and prosperity."
+  },
+  {
+    "id": "TEN_P_HALFDAN_450",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HALFDAN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 450
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 480
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary ruler, ancestor of later Danish kings."
+  },
+  {
+    "id": "TEN_P_HROTHGAR_500",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HROTHGAR",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 500
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 530
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Famed in Beowulf as builder of Heorot hall."
+  },
+  {
+    "id": "TEN_P_HELGI_500",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HELGI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 500
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 520
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Brother of Hrothgar in saga and Beowulf tradition."
+  },
+  {
+    "id": "TEN_P_HROLFR_KRAKI_530",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HROLFR_KRAKI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 530
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 560
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Legendary great king of Denmark, appears in many sagas."
+  },
+  {
+    "id": "TEN_P_RAGNAR_LODBROK_750",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_RAGNAR_LODBROK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 750
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "legendary",
+        "approx": true,
+        "ymd": {
+          "year": 865
+        }
+      }
+    ],
+    "certainty": "legendary",
+    "status": "legendary",
+    "notes": "Semi-legendary Viking Age ruler; father of many famous sons."
+  }
+]

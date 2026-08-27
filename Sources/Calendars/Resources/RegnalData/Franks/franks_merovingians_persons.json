@@ -1,0 +1,752 @@
+[
+  {
+    "id": "P_CHILDERIC_I",
+    "name": {
+      "normalized": "Childeric I"
+    },
+    "variants": [
+      {
+        "form": "Childericus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Childéric Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Childeric_I"
+    }
+  },
+  {
+    "id": "P_CLOVIS_I",
+    "name": {
+      "normalized": "Clovis I"
+    },
+    "variants": [
+      {
+        "form": "Chlodovechus (Clodoveus)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Clovis Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Clovis_I"
+    }
+  },
+  {
+    "id": "P_THEUDERIC_I",
+    "name": {
+      "normalized": "Theuderic I"
+    },
+    "variants": [
+      {
+        "form": "Theudericus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Thierry Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Theuderic_I"
+    }
+  },
+  {
+    "id": "P_CHLODOMER",
+    "name": {
+      "normalized": "Chlodomer"
+    },
+    "variants": [
+      {
+        "form": "Chlodomerus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Clodomir",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Chlodomer"
+    }
+  },
+  {
+    "id": "P_CHILDEBERT_I",
+    "name": {
+      "normalized": "Childebert I"
+    },
+    "variants": [
+      {
+        "form": "Childebertus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Childebert Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Childebert_I"
+    }
+  },
+  {
+    "id": "P_CLOTHAR_I",
+    "name": {
+      "normalized": "Chlothar I (Clotaire I)"
+    },
+    "variants": [
+      {
+        "form": "Chlotharius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Clotaire Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Chlothar_I"
+    }
+  },
+  {
+    "id": "P_THEUDEBERT_I",
+    "name": {
+      "normalized": "Theudebert I"
+    },
+    "variants": [
+      {
+        "form": "Theudebertus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Thibert Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Theudebert_I"
+    }
+  },
+  {
+    "id": "P_THEUDEBALD",
+    "name": {
+      "normalized": "Theudebald"
+    },
+    "variants": [
+      {
+        "form": "Theudebaldus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Thibaut",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Theudebald"
+    }
+  },
+  {
+    "id": "P_CHARIBERT_I",
+    "name": {
+      "normalized": "Charibert I"
+    },
+    "variants": [
+      {
+        "form": "Charibertus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Caribert Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charibert_I"
+    }
+  },
+  {
+    "id": "P_GUNTRAM",
+    "name": {
+      "normalized": "Guntram"
+    },
+    "variants": [
+      {
+        "form": "Gunthramnus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gontran",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Guntram"
+    }
+  },
+  {
+    "id": "P_SIGEBERT_I",
+    "name": {
+      "normalized": "Sigebert I"
+    },
+    "variants": [
+      {
+        "form": "Sigibertus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigebert Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sigebert_I"
+    }
+  },
+  {
+    "id": "P_CHILPERIC_I",
+    "name": {
+      "normalized": "Chilperic I"
+    },
+    "variants": [
+      {
+        "form": "Chilpericus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Chilpéric Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Chilperic_I"
+    }
+  },
+  {
+    "id": "P_CHILDEBERT_II",
+    "name": {
+      "normalized": "Childebert II"
+    },
+    "variants": [
+      {
+        "form": "Childebertus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Childebert II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Childebert_II"
+    }
+  },
+  {
+    "id": "P_THEUDEBERT_II",
+    "name": {
+      "normalized": "Theudebert II"
+    },
+    "variants": [
+      {
+        "form": "Theudebertus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Thibert II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Theudebert_II"
+    }
+  },
+  {
+    "id": "P_THEUDERIC_II",
+    "name": {
+      "normalized": "Theuderic II"
+    },
+    "variants": [
+      {
+        "form": "Theudericus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Thierry II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Theuderic_II"
+    }
+  },
+  {
+    "id": "P_CHLOTHAR_II",
+    "name": {
+      "normalized": "Chlothar II"
+    },
+    "variants": [
+      {
+        "form": "Chlotharius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Clotaire II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Chlothar_II"
+    }
+  },
+  {
+    "id": "P_DAGOBERT_I",
+    "name": {
+      "normalized": "Dagobert I"
+    },
+    "variants": [
+      {
+        "form": "Dagobertus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Dagobert Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dagobert_I"
+    }
+  },
+  {
+    "id": "P_SIGEBERT_III",
+    "name": {
+      "normalized": "Sigebert III"
+    },
+    "variants": [
+      {
+        "form": "Sigebertus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigebert III",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sigebert_III"
+    }
+  },
+  {
+    "id": "P_CLOVIS_II",
+    "name": {
+      "normalized": "Clovis II"
+    },
+    "variants": [
+      {
+        "form": "Chlodoveus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Clovis II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Clovis_II"
+    }
+  },
+  {
+    "id": "P_CHLOTHAR_III",
+    "name": {
+      "normalized": "Chlothar III"
+    },
+    "variants": [
+      {
+        "form": "Chlotharius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Clotaire III",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Chlothar_III"
+    }
+  },
+  {
+    "id": "P_CHILDERIC_II",
+    "name": {
+      "normalized": "Childeric II"
+    },
+    "variants": [
+      {
+        "form": "Childericus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Childéric II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Childeric_II"
+    }
+  },
+  {
+    "id": "P_THEUDERIC_III",
+    "name": {
+      "normalized": "Theuderic III"
+    },
+    "variants": [
+      {
+        "form": "Theudericus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Thierry III",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Theuderic_III"
+    }
+  },
+  {
+    "id": "P_DAGOBERT_II",
+    "name": {
+      "normalized": "Dagobert II"
+    },
+    "variants": [
+      {
+        "form": "Dagobertus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Dagobert II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dagobert_II"
+    }
+  },
+  {
+    "id": "P_CLOVIS_III",
+    "name": {
+      "normalized": "Clovis III"
+    },
+    "variants": [
+      {
+        "form": "Chlodoveus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Clovis III",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Clovis_III"
+    }
+  },
+  {
+    "id": "P_CLOVIS_IV",
+    "name": {
+      "normalized": "Clovis IV"
+    },
+    "variants": [
+      {
+        "form": "Chlodoveus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Clovis IV",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Clovis_IV"
+    }
+  },
+  {
+    "id": "P_CHILDEBERT_III",
+    "name": {
+      "normalized": "Childebert III"
+    },
+    "variants": [
+      {
+        "form": "Childebertus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Childebert III",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Childebert_III"
+    }
+  },
+  {
+    "id": "P_DAGOBERT_III",
+    "name": {
+      "normalized": "Dagobert III"
+    },
+    "variants": [
+      {
+        "form": "Dagobertus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Dagobert III",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dagobert_III"
+    }
+  },
+  {
+    "id": "P_CHILPERIC_II",
+    "name": {
+      "normalized": "Chilperic II"
+    },
+    "variants": [
+      {
+        "form": "Chilpericus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Chilpéric II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Chilperic_II"
+    }
+  },
+  {
+    "id": "P_THEUDERIC_IV",
+    "name": {
+      "normalized": "Theuderic IV"
+    },
+    "variants": [
+      {
+        "form": "Theudericus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Thierry IV",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Theuderic_IV"
+    }
+  },
+  {
+    "id": "P_CHILDERIC_III",
+    "name": {
+      "normalized": "Childeric III"
+    },
+    "variants": [
+      {
+        "form": "Childericus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Childéric III",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Childeric_III"
+    }
+  }
+]

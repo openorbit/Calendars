@@ -1,0 +1,33 @@
+[
+  {
+    "id": "POLITY_MERCIA",
+    "label": "Kingdom of Mercia",
+    "aliases": [
+      "Mierce",
+      "Regnum Merciorum"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 527
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 918
+        }
+      }
+    ],
+    "notes": "One of the Anglo-Saxon Heptarchy; Mercia dominated England in the 8th century under Offa. Later absorbed into Wessex."
+  }
+]

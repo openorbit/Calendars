@@ -1,0 +1,14 @@
+[
+  {
+    "id": "OFFICE_CONSUL_ORDINARIUS",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "label": "Consul ordinarius",
+    "succession_mode": "annual_duumvirate"
+  },
+  {
+    "id": "OFFICE_CONSUL_SUFFECTUS",
+    "polity_id": "POLITY_ROMAN_REPUBLIC",
+    "label": "Consul suffectus",
+    "succession_mode": "replacement"
+  }
+]

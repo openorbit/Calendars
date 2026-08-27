@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "TEN_P_AETHELFRITH_593",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_AETHELFRITH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 593
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "United Bernicia and Deira into Northumbria."
+  },
+  {
+    "id": "TEN_P_EDWIN_616",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_EDWIN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 633
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First Christian king of unified Northumbria."
+  },
+  {
+    "id": "TEN_P_OSWALD_634",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_OSWALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 634
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 642
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Saintly king; killed at Maserfield."
+  },
+  {
+    "id": "TEN_P_OSWIU_642",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_OSWIU",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 642
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 670
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Victor at Winwaed, consolidated Northumbria."
+  },
+  {
+    "id": "TEN_P_ECGFRITH_670",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_ECGFRITH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 670
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Expansionist king, killed at Nechtansmere."
+  },
+  {
+    "id": "TEN_P_ALDFRITH_685",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_ALDFRITH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 685
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 704
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Scholar king; stabilized kingdom."
+  },
+  {
+    "id": "TEN_P_OSRED_I_704",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_OSRED_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 704
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 716
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Child king after Aldfrith."
+  },
+  {
+    "id": "TEN_P_COENRED_716",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_COENRED",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 716
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 718
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Brief reign."
+  },
+  {
+    "id": "TEN_P_OSRIC_718",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_OSRIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 718
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 729
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Reigned after Coenred."
+  },
+  {
+    "id": "TEN_P_CEOLWULF_729",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_CEOLWULF",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 729
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 737
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Patron of Bede; abdicated to monastery."
+  },
+  {
+    "id": "TEN_P_EADBERHT_737",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_EADBERHT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 737
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 758
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Powerful king, brother of Archbishop Ecgberht."
+  },
+  {
+    "id": "TEN_P_AETHELWALD_MOLL_759",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_AETHELWALD_MOLL",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 759
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 765
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "contested",
+    "notes": "Usurper, later deposed."
+  },
+  {
+    "id": "TEN_P_ALHRED_765",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_ALHRED",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 765
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 774
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Married into Pictish royalty."
+  },
+  {
+    "id": "TEN_P_AETHELRED_I_774",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_AETHELRED_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 774
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 779
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Deposed, restored later."
+  },
+  {
+    "id": "TEN_P_AELFWALD_I_779",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_AELFWALD_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 779
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 788
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Murdered by usurpers."
+  },
+  {
+    "id": "TEN_P_OSBERT_789",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_OSBERT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 789
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 796
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "contested",
+    "notes": "Minor king; overlap uncertain."
+  },
+  {
+    "id": "TEN_P_OSBALD_796",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_OSBALD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 796
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 796
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "contested",
+    "notes": "Ruled briefly, deposed after 27 days."
+  },
+  {
+    "id": "TEN_P_EARDWULF_796",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_EARDWULF",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 796
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 806
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Deposed and restored."
+  },
+  {
+    "id": "TEN_P_AELFWALD_II_806",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_AELFWALD_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 806
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": false,
+        "ymd": {
+          "year": 808
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Brief reign."
+  },
+  {
+    "id": "TEN_P_EANRED_808",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_EANRED",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 808
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 840
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Long reign under Viking threat."
+  },
+  {
+    "id": "TEN_P_AETHELRED_II_840",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_AETHELRED_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 840
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 848
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Killed in Viking conflicts."
+  },
+  {
+    "id": "TEN_P_OSBERHT_848",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_OSBERHT",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 848
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 867
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Killed fighting Great Heathen Army."
+  },
+  {
+    "id": "TEN_P_AELLA_866",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_AELLA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 866
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 867
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Killed by Vikings; legend of the blood eagle."
+  },
+  {
+    "id": "TEN_P_HALFDAN_867",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_HALFDAN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 867
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 876
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Viking leader; installed as king."
+  },
+  {
+    "id": "TEN_P_GUTHRED_883",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_GUTHRED",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 883
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 895
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Viking king of Northumbria."
+  },
+  {
+    "id": "TEN_P_RAGNALL_918",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_RAGNALL",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 918
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 921
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Norse king from Uí Ímair dynasty."
+  },
+  {
+    "id": "TEN_P_SIHTRIC_921",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_SIHTRIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 921
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 927
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Norse king; married Æthelstan’s sister."
+  },
+  {
+    "id": "TEN_P_ANLAF_939",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_ANLAF",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 939
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 944
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Norse ruler, contested with Wessex."
+  },
+  {
+    "id": "TEN_P_ERIC_BLOODAXE_947",
+    "office_id": "OFFICE_NORTHUMBRIA_KING",
+    "person_id": "P_ERIC_BLOODAXE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_NORTHUMBRIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 947
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 954
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last independent king of Northumbria, killed in battle."
+  }
+]

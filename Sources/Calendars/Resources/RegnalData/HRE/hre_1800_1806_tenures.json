@@ -1,0 +1,39 @@
+[
+  {
+    "id": "TEN_P_FRANCIS_II_1792",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FRANCIS_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1792,
+          "month": 7,
+          "day": 5
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1806,
+          "month": 8,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reigned as last Holy Roman Emperor; abdicated and dissolved the Empire on 6 Aug 1806."
+  }
+]

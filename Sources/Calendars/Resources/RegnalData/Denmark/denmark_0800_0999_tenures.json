@@ -1,0 +1,398 @@
+[
+  {
+    "id": "TEN_P_GUDFRED_804",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_GUDFRED",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 804
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 810
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Historically attested; active against Franks; killed 810."
+  },
+  {
+    "id": "TEN_P_HEMMING_810",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HEMMING",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 810
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 812
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded Gudfred; short reign per Frankish sources."
+  },
+  {
+    "id": "TEN_P_SIGFRED_II_812",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_SIGFRED_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 812
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 812
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "contested",
+    "notes": "Briefly recognized with Anund; contested succession."
+  },
+  {
+    "id": "TEN_P_ANUND_812",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_ANUND",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": true,
+        "ymd": {
+          "year": 812
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "low",
+        "approx": true,
+        "ymd": {
+          "year": 812
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "contested",
+    "notes": "Possibly identical with 'Anulo' in Frankish sources; highly uncertain."
+  },
+  {
+    "id": "TEN_P_HARALD_KLAK_812",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HARALD_KLAK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 812
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 814
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Intermittent rule among multiple claimants; exiled 814."
+  },
+  {
+    "id": "TEN_P_HARALD_KLAK_819",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HARALD_KLAK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 819
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 827
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Restored with Frankish support; baptized 826."
+  },
+  {
+    "id": "TEN_P_HORIK_I_827",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HORIK_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 827
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 854
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Long reign; known to Frankish annals; allowed Ansgar to preach in Denmark."
+  },
+  {
+    "id": "TEN_P_HORIK_II_854",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HORIK_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 854
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 873
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Successor amidst dynastic turmoil; chronology uncertain."
+  },
+  {
+    "id": "TEN_P_GORM_OLD_936",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_GORM_OLD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 936
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 958
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First widely recognized king of all Denmark; Jelling dynasty."
+  },
+  {
+    "id": "TEN_P_HARALD_BLUETOOTH_958",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_HARALD_BLUETOOTH",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 958
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 986
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Christianized Denmark; Jelling stones."
+  },
+  {
+    "id": "TEN_P_SWEYN_FORKBEARD_986",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_SWEYN_FORKBEARD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 986
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1014
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Conquered England 1013–1014; tenure continues beyond this block."
+  }
+]

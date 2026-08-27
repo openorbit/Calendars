@@ -1,0 +1,209 @@
+[
+  {
+    "id": "P_CHARLES_XIII",
+    "name": {
+      "normalized": "Charles XIII"
+    },
+    "variants": [
+      {
+        "form": "Carolus XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl XIII",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XIII_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHARLES_XIV_JOHN",
+    "name": {
+      "normalized": "Charles XIV John"
+    },
+    "variants": [
+      {
+        "form": "Carolus XIV Ioannes",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl XIV Johan",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Jean-Baptiste Bernadotte",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XIV_John"
+    }
+  },
+  {
+    "id": "P_OSCAR_I",
+    "name": {
+      "normalized": "Oscar I"
+    },
+    "variants": [
+      {
+        "form": "Oscar I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Oscar I",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Oscar_I_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CHARLES_XV",
+    "name": {
+      "normalized": "Charles XV"
+    },
+    "variants": [
+      {
+        "form": "Carolus XV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl XV",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_XV"
+    }
+  },
+  {
+    "id": "P_OSCAR_II",
+    "name": {
+      "normalized": "Oscar II"
+    },
+    "variants": [
+      {
+        "form": "Oscar II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Oscar II",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Oscar_II"
+    }
+  },
+  {
+    "id": "P_GUSTAF_V",
+    "name": {
+      "normalized": "Gustaf V"
+    },
+    "variants": [
+      {
+        "form": "Gustavus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gustaf V",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gustaf_V"
+    }
+  },
+  {
+    "id": "P_GUSTAF_VI_ADOLF",
+    "name": {
+      "normalized": "Gustaf VI Adolf"
+    },
+    "variants": [
+      {
+        "form": "Gustavus VI Adolphus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Gustaf VI Adolf",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gustaf_VI_Adolf"
+    }
+  },
+  {
+    "id": "P_CARL_XVI_GUSTAF",
+    "name": {
+      "normalized": "Carl XVI Gustaf"
+    },
+    "variants": [
+      {
+        "form": "Carolus XVI Gustavus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Carl XVI Gustaf",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Carl_XVI_Gustaf"
+    }
+  }
+]

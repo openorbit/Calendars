@@ -1,0 +1,638 @@
+[
+  {
+    "id": "P_HENRY_VII_LUX",
+    "name": {
+      "normalized": "Henry VII of Luxembourg"
+    },
+    "variants": [
+      {
+        "form": "Henricus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Heinrich VII.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Enrico VII",
+        "lang": "it",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LOUIS_IV_BAV",
+    "name": {
+      "normalized": "Louis IV 'the Bavarian'"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludwig IV. der Bayer",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FREDERICK_THE_FAIR",
+    "name": {
+      "normalized": "Frederick the Fair"
+    },
+    "variants": [
+      {
+        "form": "Fridericus Pulcher",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Friedrich der Schöne",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CHARLES_IV",
+    "name": {
+      "normalized": "Charles IV"
+    },
+    "variants": [
+      {
+        "form": "Carolus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karel IV.",
+        "lang": "cs",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl IV.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GUNTHER_SCHWARZBURG",
+    "name": {
+      "normalized": "Günther of Schwarzburg"
+    },
+    "variants": [
+      {
+        "form": "Guntherus Nigri Montis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Günther von Schwarzburg",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WENCESLAUS",
+    "name": {
+      "normalized": "Wenceslaus (Václav)"
+    },
+    "variants": [
+      {
+        "form": "Wenceslaus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Václav IV.",
+        "lang": "cs",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Wenzel",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUPERT_PFALZ",
+    "name": {
+      "normalized": "Rupert of the Palatinate"
+    },
+    "variants": [
+      {
+        "form": "Rupertus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ruprecht von der Pfalz",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SIGISMUND",
+    "name": {
+      "normalized": "Sigismund of Luxembourg"
+    },
+    "variants": [
+      {
+        "form": "Sigismundus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Sigismund",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Žigmund",
+        "lang": "sk",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_JOBST_MORAVIA",
+    "name": {
+      "normalized": "Jobst of Moravia"
+    },
+    "variants": [
+      {
+        "form": "Jobstus Moraviae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Jobst von Mähren",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Jošt Moravský",
+        "lang": "cs",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ALBERT_II",
+    "name": {
+      "normalized": "Albert II of Germany"
+    },
+    "variants": [
+      {
+        "form": "Albertus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Albrecht II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FREDERICK_III",
+    "name": {
+      "normalized": "Frederick III"
+    },
+    "variants": [
+      {
+        "form": "Fridericus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Friedrich III.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MAXIMILIAN_I",
+    "name": {
+      "normalized": "Maximilian I"
+    },
+    "variants": [
+      {
+        "form": "Maximilianus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximilian I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CHARLES_V",
+    "name": {
+      "normalized": "Charles V"
+    },
+    "variants": [
+      {
+        "form": "Carolus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl V.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Carlos V",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FERDINAND_I",
+    "name": {
+      "normalized": "Ferdinand I"
+    },
+    "variants": [
+      {
+        "form": "Ferdinandus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MAXIMILIAN_II",
+    "name": {
+      "normalized": "Maximilian II"
+    },
+    "variants": [
+      {
+        "form": "Maximilianus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximilian II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RUDOLF_II",
+    "name": {
+      "normalized": "Rudolf II"
+    },
+    "variants": [
+      {
+        "form": "Rudolphus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Rudolf II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MATTHIAS",
+    "name": {
+      "normalized": "Matthias"
+    },
+    "variants": [
+      {
+        "form": "Matthias",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Matthias",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FERDINAND_II",
+    "name": {
+      "normalized": "Ferdinand II"
+    },
+    "variants": [
+      {
+        "form": "Ferdinandus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FERDINAND_III",
+    "name": {
+      "normalized": "Ferdinand III"
+    },
+    "variants": [
+      {
+        "form": "Ferdinandus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand III.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LEOPOLD_I",
+    "name": {
+      "normalized": "Leopold I"
+    },
+    "variants": [
+      {
+        "form": "Leopoldus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_JOSEPH_I",
+    "name": {
+      "normalized": "Joseph I"
+    },
+    "variants": [
+      {
+        "form": "Iosephus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CHARLES_VI",
+    "name": {
+      "normalized": "Charles VI"
+    },
+    "variants": [
+      {
+        "form": "Carolus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl VI.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CHARLES_VII",
+    "name": {
+      "normalized": "Charles VII"
+    },
+    "variants": [
+      {
+        "form": "Carolus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl VII.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FRANCIS_I",
+    "name": {
+      "normalized": "Francis I"
+    },
+    "variants": [
+      {
+        "form": "Franciscus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Franz I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_JOSEPH_II",
+    "name": {
+      "normalized": "Joseph II"
+    },
+    "variants": [
+      {
+        "form": "Iosephus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LEOPOLD_II",
+    "name": {
+      "normalized": "Leopold II"
+    },
+    "variants": [
+      {
+        "form": "Leopoldus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_FRANCIS_II",
+    "name": {
+      "normalized": "Francis II"
+    },
+    "variants": [
+      {
+        "form": "Franciscus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Franz II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

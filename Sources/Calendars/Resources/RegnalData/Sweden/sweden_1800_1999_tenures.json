@@ -1,0 +1,282 @@
+[
+  {
+    "id": "TEN_P_CHARLES_XIII_1809",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_XIII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1809
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1818
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHARLES_XIV_JOHN_1818",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_XIV_JOHN",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1818
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1844
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OSCAR_I_1844",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_OSCAR_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1844
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1859
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHARLES_XV_1859",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_XV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1859
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1872
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OSCAR_II_1872",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_OSCAR_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1872
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1907
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_GUSTAF_V_1907",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_GUSTAF_V",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1907
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1950
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_GUSTAF_VI_ADOLF_1950",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_GUSTAF_VI_ADOLF",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1950
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1973
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CARL_XVI_GUSTAF_1973",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CARL_XVI_GUSTAF",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_SE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1973
+        },
+        "calendarRuleID": "RULE_GREGORIAN_SE"
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reigning monarch."
+  }
+]

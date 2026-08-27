@@ -1,0 +1,317 @@
+[
+  {
+    "id": "P_EGBERT",
+    "name": {
+      "normalized": "Egbert (Wessex)"
+    },
+    "variants": [
+      {
+        "form": "Ecgbeorhtus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELWULF",
+    "name": {
+      "normalized": "Æthelwulf"
+    },
+    "variants": [
+      {
+        "form": "Æthelwulfus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELBALD",
+    "name": {
+      "normalized": "Æthelbald"
+    },
+    "variants": [
+      {
+        "form": "Æthelbaldus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELBERT",
+    "name": {
+      "normalized": "Æthelbert (Wessex)"
+    },
+    "variants": [
+      {
+        "form": "Æthelbertus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELRED_I_W",
+    "name": {
+      "normalized": "Æthelred I (Wessex)"
+    },
+    "variants": [
+      {
+        "form": "Æthelredus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ALFRED",
+    "name": {
+      "normalized": "Alfred the Great"
+    },
+    "variants": [
+      {
+        "form": "Ælfredus Magnus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EDWARD_ELDER",
+    "name": {
+      "normalized": "Edward the Elder"
+    },
+    "variants": [
+      {
+        "form": "Eadweard Senior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ATHELSTAN",
+    "name": {
+      "normalized": "Athelstan"
+    },
+    "variants": [
+      {
+        "form": "Æðelstanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EDMUND_I",
+    "name": {
+      "normalized": "Edmund I"
+    },
+    "variants": [
+      {
+        "form": "Eadmundus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EADRED",
+    "name": {
+      "normalized": "Eadred"
+    },
+    "variants": [
+      {
+        "form": "Eadredus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EADWIG",
+    "name": {
+      "normalized": "Eadwig"
+    },
+    "variants": [
+      {
+        "form": "Eadwigus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EDGAR",
+    "name": {
+      "normalized": "Edgar (the Peaceful)"
+    },
+    "variants": [
+      {
+        "form": "Eadgarus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EDWARD_MARTYR",
+    "name": {
+      "normalized": "Edward the Martyr"
+    },
+    "variants": [
+      {
+        "form": "Eadwardus Martyr",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELRED_II",
+    "name": {
+      "normalized": "Æthelred II (the Unready)"
+    },
+    "variants": [
+      {
+        "form": "Æthelredus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SWEYN",
+    "name": {
+      "normalized": "Sweyn Forkbeard"
+    },
+    "variants": [
+      {
+        "form": "Svein Tjuguskegg",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EDMUND_II",
+    "name": {
+      "normalized": "Edmund II (Ironside)"
+    },
+    "variants": [
+      {
+        "form": "Eadmundus Ferreus Latus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CNUT",
+    "name": {
+      "normalized": "Cnut (the Great)"
+    },
+    "variants": [
+      {
+        "form": "Knútr",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HAROLD_HAREFOOT",
+    "name": {
+      "normalized": "Harold I (Harefoot)"
+    },
+    "variants": [
+      {
+        "form": "Haroldus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HARTHACNUT",
+    "name": {
+      "normalized": "Harthacnut"
+    },
+    "variants": [
+      {
+        "form": "Hardeknut",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EDWARD_CONF",
+    "name": {
+      "normalized": "Edward the Confessor"
+    },
+    "variants": [
+      {
+        "form": "Eadwardus Confessor",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HAROLD_GODWINSON",
+    "name": {
+      "normalized": "Harold II (Godwinson)"
+    },
+    "variants": [
+      {
+        "form": "Haroldus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

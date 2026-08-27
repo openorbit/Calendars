@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TEN_P_HARALD_FAIRHAIR_872",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HARALD_FAIRHAIR",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 872
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 930
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Traditionally first king of a united Norway."
+  },
+  {
+    "id": "TEN_P_ERIC_BLOODAXE_930",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_ERIC_BLOODAXE",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 930
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 934
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Son of Harald Fairhair; briefly king before exile to Northumbria."
+  },
+  {
+    "id": "TEN_P_HAAKON_GOOD_934",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_GOOD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 934
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 961
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Promoted Christianity; killed at Battle of Fitjar."
+  },
+  {
+    "id": "TEN_P_HARALD_GREYCLOAK_961",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HARALD_GREYCLOAK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 961
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 970
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Killed in Denmark; end of Fairhair dynasty rule for a time."
+  },
+  {
+    "id": "TEN_P_HAAKON_SIGURDSSON_970",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_SIGURDSSON",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 970
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 995
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "de_facto",
+    "notes": "Jarl of Lade, ruled Norway under Danish suzerainty."
+  },
+  {
+    "id": "TEN_P_OLAF_TRYGGVASON_995",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OLAF_TRYGGVASON",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 995
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": true,
+        "ymd": {
+          "year": 1000
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Christianizer of Norway; killed at Battle of Svolder."
+  }
+]

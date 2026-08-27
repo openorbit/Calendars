@@ -1,0 +1,286 @@
+[
+  {
+    "id": "P_HENGIST",
+    "name": {
+      "normalized": "Hengist"
+    },
+    "variants": [
+      {
+        "form": "Hengest",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HORSA",
+    "name": {
+      "normalized": "Horsa"
+    },
+    "variants": [
+      {
+        "form": "Horsa",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OCTA",
+    "name": {
+      "normalized": "Octa"
+    },
+    "variants": [
+      {
+        "form": "Octa",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OISC",
+    "name": {
+      "normalized": "Oisc (Æsc)"
+    },
+    "variants": [
+      {
+        "form": "Oisc",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Æsc",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELBERT_I",
+    "name": {
+      "normalized": "Æthelberht I of Kent"
+    },
+    "variants": [
+      {
+        "form": "Æthelberhtus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ethelbert",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EADBALD",
+    "name": {
+      "normalized": "Eadbald of Kent"
+    },
+    "variants": [
+      {
+        "form": "Eadbaldus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EORCENBERHT",
+    "name": {
+      "normalized": "Eorcenberht"
+    },
+    "variants": [
+      {
+        "form": "Eorcenberhtus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ECGBERHT_I",
+    "name": {
+      "normalized": "Ecgberht I of Kent"
+    },
+    "variants": [
+      {
+        "form": "Ecgberhtus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HLOTHHERE",
+    "name": {
+      "normalized": "Hlothhere"
+    },
+    "variants": [
+      {
+        "form": "Hlotharius",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EADRIC_KENT",
+    "name": {
+      "normalized": "Eadric of Kent"
+    },
+    "variants": [
+      {
+        "form": "Eadricus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OSWINE",
+    "name": {
+      "normalized": "Oswine of Kent"
+    },
+    "variants": [
+      {
+        "form": "Oswinus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WIHTRED",
+    "name": {
+      "normalized": "Wihtred of Kent"
+    },
+    "variants": [
+      {
+        "form": "Wihtredus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELBERHT_II",
+    "name": {
+      "normalized": "Æthelberht II of Kent"
+    },
+    "variants": [
+      {
+        "form": "Æthelberhtus II",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EADBERHT_II",
+    "name": {
+      "normalized": "Eadberht II of Kent"
+    },
+    "variants": [
+      {
+        "form": "Eadberht II",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ECGBERHT_II",
+    "name": {
+      "normalized": "Ecgberht II of Kent"
+    },
+    "variants": [
+      {
+        "form": "Ecgberhtus II",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EADBERHT_PRÆN",
+    "name": {
+      "normalized": "Eadberht Præn"
+    },
+    "variants": [
+      {
+        "form": "Eadberhtus Præn",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CUTHRED_KENT",
+    "name": {
+      "normalized": "Cuthred of Kent"
+    },
+    "variants": [
+      {
+        "form": "Cuthredus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BALDRED",
+    "name": {
+      "normalized": "Baldred of Kent"
+    },
+    "variants": [
+      {
+        "form": "Baldredus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

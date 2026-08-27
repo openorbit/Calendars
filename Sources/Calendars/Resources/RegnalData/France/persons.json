@@ -1,0 +1,814 @@
+[
+  {
+    "id": "PERSON_HUGH_CAPET",
+    "name": {
+      "normalized": "Hugh Capet"
+    },
+    "variants": [
+      {
+        "form": "Hugo Capetus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hugonis Capeti",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Hugues Capet",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ROBERT_II",
+    "name": {
+      "normalized": "Robert II"
+    },
+    "variants": [
+      {
+        "form": "Robertus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Roberti II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Robert II",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_I_FR",
+    "name": {
+      "normalized": "Henry I"
+    },
+    "variants": [
+      {
+        "form": "Henricus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Henri Iᵉʳ",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP_I",
+    "name": {
+      "normalized": "Philip I"
+    },
+    "variants": [
+      {
+        "form": "Philippus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippi I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Philippe Iᵉʳ",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_VI",
+    "name": {
+      "normalized": "Louis VI"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis VI",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_VII",
+    "name": {
+      "normalized": "Louis VII"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis VII",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP_II",
+    "name": {
+      "normalized": "Philip II"
+    },
+    "variants": [
+      {
+        "form": "Philippus II (Augustus)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippi II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Philippe Auguste",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_VIII",
+    "name": {
+      "normalized": "Louis VIII"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis VIII",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_IX",
+    "name": {
+      "normalized": "Louis IX"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus IX (Sanctus)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Saint Louis (Louis IX)",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP_III",
+    "name": {
+      "normalized": "Philip III"
+    },
+    "variants": [
+      {
+        "form": "Philippus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippi III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Philippe III",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP_IV",
+    "name": {
+      "normalized": "Philip IV"
+    },
+    "variants": [
+      {
+        "form": "Philippus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippi IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Philippe IV le Bel",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_X",
+    "name": {
+      "normalized": "Louis X"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis X",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_JOHN_I_FR",
+    "name": {
+      "normalized": "John I (the Posthumous)"
+    },
+    "variants": [
+      {
+        "form": "Ioannes I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannis I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Jean Iᵉʳ le Posthume",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP_V",
+    "name": {
+      "normalized": "Philip V"
+    },
+    "variants": [
+      {
+        "form": "Philippus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippi V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Philippe V le Long",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHARLES_IV",
+    "name": {
+      "normalized": "Charles IV"
+    },
+    "variants": [
+      {
+        "form": "Carolus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Caroli IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Charles IV le Bel",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_PHILIP_VI",
+    "name": {
+      "normalized": "Philip VI"
+    },
+    "variants": [
+      {
+        "form": "Philippus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Philippi VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Philippe VI de Valois",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_JOHN_II_FR",
+    "name": {
+      "normalized": "John II"
+    },
+    "variants": [
+      {
+        "form": "Ioannes II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannis II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Jean II le Bon",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHARLES_V",
+    "name": {
+      "normalized": "Charles V"
+    },
+    "variants": [
+      {
+        "form": "Carolus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Caroli V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Charles V le Sage",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHARLES_VI",
+    "name": {
+      "normalized": "Charles VI"
+    },
+    "variants": [
+      {
+        "form": "Carolus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Caroli VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Charles VI le Fol",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHARLES_VII",
+    "name": {
+      "normalized": "Charles VII"
+    },
+    "variants": [
+      {
+        "form": "Carolus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Caroli VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Charles VII le Victorieux",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_XI",
+    "name": {
+      "normalized": "Louis XI"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis XI",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHARLES_VIII",
+    "name": {
+      "normalized": "Charles VIII"
+    },
+    "variants": [
+      {
+        "form": "Carolus VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Caroli VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Charles VIII",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_XII",
+    "name": {
+      "normalized": "Louis XII"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis XII",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_FRANCIS_I",
+    "name": {
+      "normalized": "Francis I"
+    },
+    "variants": [
+      {
+        "form": "Franciscus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Francisci I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "François Iᵉʳ",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_II_FR",
+    "name": {
+      "normalized": "Henry II"
+    },
+    "variants": [
+      {
+        "form": "Henricus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Henri II",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_FRANCIS_II",
+    "name": {
+      "normalized": "Francis II"
+    },
+    "variants": [
+      {
+        "form": "Franciscus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Francisci II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "François II",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_CHARLES_IX",
+    "name": {
+      "normalized": "Charles IX"
+    },
+    "variants": [
+      {
+        "form": "Carolus IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Caroli IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Charles IX",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_III_FR",
+    "name": {
+      "normalized": "Henry III"
+    },
+    "variants": [
+      {
+        "form": "Henricus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Henri III",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_HENRY_VI_ENGLAND_FR",
+    "name": {
+      "normalized": "Henry VI of England (as King of France)"
+    },
+    "variants": [
+      {
+        "form": "Henricus VI (Angliae et Franciae Rex)",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Henri VI d'Angleterre",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  }
+]

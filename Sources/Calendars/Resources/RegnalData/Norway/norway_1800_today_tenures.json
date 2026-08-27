@@ -1,0 +1,408 @@
+[
+  {
+    "id": "TEN_P_CHRISTIAN_VII_1800",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_CHRISTIAN_VII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1800
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1808
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Continued reign from 1700s."
+  },
+  {
+    "id": "TEN_P_FREDERICK_VI_1808",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_FREDERICK_VI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1808
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1814
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Lost Norway after Napoleonic Wars; Treaty of Kiel 1814."
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_FREDERICK_1814",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_CHRISTIAN_FREDERICK",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1814,
+          "month": 5,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1814,
+          "month": 10,
+          "day": 10
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected king at Eidsvoll; abdicated after Convention of Moss."
+  },
+  {
+    "id": "TEN_P_CHARLES_XIII_1814",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_CHARLES_XIII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1814,
+          "month": 11,
+          "day": 4
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1818
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First king of Sweden–Norway union."
+  },
+  {
+    "id": "TEN_P_CHARLES_XIV_1818",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_CHARLES_XIV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1818
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1844
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OSCAR_I_1844",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OSCAR_I",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1844
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1859
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHARLES_XV_1859",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_CHARLES_XV",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1859
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1872
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_OSCAR_II_1872",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OSCAR_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1872
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1905,
+          "month": 10,
+          "day": 26
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last king of Sweden–Norway; abdicated union 1905."
+  },
+  {
+    "id": "TEN_P_HAAKON_VII_1905",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_VII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1905,
+          "month": 11,
+          "day": 18
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1957,
+          "month": 9,
+          "day": 21
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "First independent king of modern Norway; elected 1905."
+  },
+  {
+    "id": "TEN_P_OLAV_V_1957",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_OLAV_V",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1957,
+          "month": 9,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1991,
+          "month": 1,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HARALD_V_1991",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HARALD_V",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1991,
+          "month": 1,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Current king of Norway."
+  }
+]

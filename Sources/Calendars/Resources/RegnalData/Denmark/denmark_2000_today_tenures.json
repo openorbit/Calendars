@@ -1,0 +1,70 @@
+[
+  {
+    "id": "TEN_P_MARGRETHE_II_2000",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_MARGRETHE_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2000
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2024,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Abdicated on 14 January 2024 in favor of her son Frederik X."
+  },
+  {
+    "id": "TEN_P_FREDERIK_X_2024",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FREDERIK_X",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2024,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded mother Margrethe II after her abdication; reigning monarch."
+  }
+]

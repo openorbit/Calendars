@@ -1,0 +1,128 @@
+[
+  {
+    "id": "P_CHRISTIAN_IV",
+    "name": {
+      "normalized": "Christian IV"
+    },
+    "variants": [
+      {
+        "form": "Kristian IV",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_IV_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_III",
+    "name": {
+      "normalized": "Frederick III"
+    },
+    "variants": [
+      {
+        "form": "Fredrik III",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_III_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_V",
+    "name": {
+      "normalized": "Christian V"
+    },
+    "variants": [
+      {
+        "form": "Kristian V",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_V_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_IV",
+    "name": {
+      "normalized": "Frederick IV"
+    },
+    "variants": [
+      {
+        "form": "Fredrik IV",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_IV_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_VI",
+    "name": {
+      "normalized": "Christian VI"
+    },
+    "variants": [
+      {
+        "form": "Kristian VI",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_VI_of_Denmark"
+    }
+  },
+  {
+    "id": "P_FREDERICK_V",
+    "name": {
+      "normalized": "Frederick V"
+    },
+    "variants": [
+      {
+        "form": "Fredrik V",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Frederick_V_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CHRISTIAN_VII",
+    "name": {
+      "normalized": "Christian VII"
+    },
+    "variants": [
+      {
+        "form": "Kristian VII",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Christian_VII_of_Denmark"
+    }
+  }
+]

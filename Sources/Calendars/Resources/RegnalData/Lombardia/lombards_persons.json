@@ -1,0 +1,347 @@
+[
+  {
+    "id": "P_ALBOIN",
+    "name": {
+      "normalized": "Alboin"
+    },
+    "variants": [
+      {
+        "form": "Alboinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CLEPH",
+    "name": {
+      "normalized": "Cleph"
+    },
+    "variants": [
+      {
+        "form": "Clephus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AUTHARI",
+    "name": {
+      "normalized": "Authari"
+    },
+    "variants": [
+      {
+        "form": "Authari",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AGILULF",
+    "name": {
+      "normalized": "Agilulf"
+    },
+    "variants": [
+      {
+        "form": "Agilulfus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ADALOALD",
+    "name": {
+      "normalized": "Adaloald"
+    },
+    "variants": [
+      {
+        "form": "Adaloaldus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARIOALD",
+    "name": {
+      "normalized": "Arioald"
+    },
+    "variants": [
+      {
+        "form": "Arioaldus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROTHARI",
+    "name": {
+      "normalized": "Rothari"
+    },
+    "variants": [
+      {
+        "form": "Rotharius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RODOALD",
+    "name": {
+      "normalized": "Rodoald"
+    },
+    "variants": [
+      {
+        "form": "Rodoaldus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARIPERT_I",
+    "name": {
+      "normalized": "Aripert I"
+    },
+    "variants": [
+      {
+        "form": "Aripertus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PERCTARIT",
+    "name": {
+      "normalized": "Perctarit"
+    },
+    "variants": [
+      {
+        "form": "Pertaritus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GODEPERT",
+    "name": {
+      "normalized": "Godepert"
+    },
+    "variants": [
+      {
+        "form": "Godepertus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GRIMOALD",
+    "name": {
+      "normalized": "Grimoald"
+    },
+    "variants": [
+      {
+        "form": "Grimoaldus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PERCTARIT_REST",
+    "name": {
+      "normalized": "Perctarit (restored)"
+    },
+    "variants": [
+      {
+        "form": "Pertaritus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CUNIPERT",
+    "name": {
+      "normalized": "Cunipert"
+    },
+    "variants": [
+      {
+        "form": "Cunipertus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIUTPERT",
+    "name": {
+      "normalized": "Liutpert"
+    },
+    "variants": [
+      {
+        "form": "Liutpertus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RAGINPERT",
+    "name": {
+      "normalized": "Raginpert"
+    },
+    "variants": [
+      {
+        "form": "Raginpertus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ARIPERT_II",
+    "name": {
+      "normalized": "Aripert II"
+    },
+    "variants": [
+      {
+        "form": "Aripertus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIUTPRAND",
+    "name": {
+      "normalized": "Liutprand"
+    },
+    "variants": [
+      {
+        "form": "Liutprandus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HILDEPRAND",
+    "name": {
+      "normalized": "Hildeprand"
+    },
+    "variants": [
+      {
+        "form": "Hildeprandus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RATCHIS",
+    "name": {
+      "normalized": "Ratchis"
+    },
+    "variants": [
+      {
+        "form": "Ratchis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ASTOLFO",
+    "name": {
+      "normalized": "Aistulf"
+    },
+    "variants": [
+      {
+        "form": "Astulfus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_DESIDERIUS",
+    "name": {
+      "normalized": "Desiderius"
+    },
+    "variants": [
+      {
+        "form": "Desiderius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LOMBARD_RULE_OF_DUKES",
+    "name": {
+      "normalized": "Rule of the Dukes"
+    },
+    "variants": [
+      {
+        "form": "Interregnum",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "descriptive",
+        "casus": null
+      }
+    ]
+  }
+]

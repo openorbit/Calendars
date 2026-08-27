@@ -1,0 +1,94 @@
+[
+  {
+    "id": "POLITY_GERMANY",
+    "label": "East Francia / Kingdom of Germany",
+    "aliases": [
+      "East Francia",
+      "Regnum Teutonicum",
+      "Regnum Germaniae"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 919
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 1024
+        }
+      }
+    ],
+    "notes": "Successor to East Francia, ruled by Ottonian dynasty 919–1024."
+  },
+  {
+    "id": "POLITY_HOLY_ROMAN_EMPIRE",
+    "label": "Holy Roman Empire",
+    "aliases": [
+      "Sacrum Romanum Imperium"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 962
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 1806
+        }
+      }
+    ],
+    "notes": "Established with Otto I’s coronation (962); here focused on Ottonian period (962–1024)."
+  },
+  {
+    "id": "POLITY_KINGDOM_ITALY",
+    "label": "Kingdom of Italy (Ottonian period)",
+    "aliases": [
+      "Regnum Italiae"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 961
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 1024
+        }
+      }
+    ],
+    "notes": "Northern Italian kingdom; brought under Ottonian control by Otto I."
+  }
+]

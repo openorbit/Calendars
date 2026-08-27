@@ -1,0 +1,38 @@
+[
+  {
+    "id": "OFFICE_FRANKS_KING",
+    "label": "King of the Franks",
+    "scope_polity_id": "POLITY_REGNUM_FRANCORUM",
+    "notes": "Rex Francorum; held by Carolingians 751–843, continuing in West Francia until 987."
+  },
+  {
+    "id": "OFFICE_CAROLINGIAN_ROMAN_EMPEROR",
+    "label": "Emperor of the Romans (Carolingian)",
+    "scope_polity_id": "POLITY_CAROLINGIAN_EMPIRE",
+    "notes": "Imperator Romanorum; Charlemagne crowned 800, Carolingian emperors until 888, intermittent after."
+  },
+  {
+    "id": "OFFICE_WEST_FRANCIA_KING",
+    "label": "King of West Francia",
+    "scope_polity_id": "POLITY_WEST_FRANCIA",
+    "notes": "Ruler of the western Frankish kingdom after the Treaty of Verdun (843)."
+  },
+  {
+    "id": "OFFICE_EAST_FRANCIA_KING",
+    "label": "King of East Francia",
+    "scope_polity_id": "POLITY_EAST_FRANCIA",
+    "notes": "Ruler of the eastern Frankish kingdom after 843; precursor of the Holy Roman Empire."
+  },
+  {
+    "id": "OFFICE_MIDDLE_FRANCIA_KING",
+    "label": "King of Middle Francia",
+    "scope_polity_id": "POLITY_MIDDLE_FRANCIA",
+    "notes": "Created by Treaty of Verdun (843); short-lived central kingdom under Lothair I."
+  },
+  {
+    "id": "OFFICE_ITALY_KING",
+    "label": "King of Italy (Carolingian)",
+    "scope_polity_id": "POLITY_KINGDOM_ITALY",
+    "notes": "Carolingian kings of the Lombards/Italy; held often by emperors."
+  }
+]

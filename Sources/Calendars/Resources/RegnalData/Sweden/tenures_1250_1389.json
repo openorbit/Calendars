@@ -1,0 +1,200 @@
+[
+  {
+    "id": "TENURE_SW_VALDEMAR_I",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_VALDEMAR_I",
+    "ordinal": 15,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1250
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1275
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Birger Jarl, deposed by his brother Magnus."
+  },
+  {
+    "id": "TENURE_SW_MAGNUS_III",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_MAGNUS_III",
+    "ordinal": 16,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1275
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1290
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Magnus Ladulås, consolidated royal power."
+  },
+  {
+    "id": "TENURE_SW_BIRGER",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_BIRGER",
+    "ordinal": 17,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1290
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1318
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Son of Magnus Ladulås; conflict with brothers led to his downfall."
+  },
+  {
+    "id": "TENURE_SW_MAGNUS_IV",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_MAGNUS_IV",
+    "ordinal": 18,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1319
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1364
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Magnus Eriksson, also King of Norway; long reign with noble opposition."
+  },
+  {
+    "id": "TENURE_SW_ALBRECHT",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_ALBRECHT",
+    "ordinal": 19,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1364
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1389
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "German prince installed by Swedish nobles, later defeated by Margaret I."
+  },
+  {
+    "id": "TENURE_SW_MARGARET_I",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "PERSON_MARGARET_I",
+    "ordinal": 20,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1389
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "proleptic",
+        "certainty": "high",
+        "approx": true,
+        "ymd": {
+          "year": 1412
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Queen Margaret I of Denmark, de facto ruler of all Scandinavia; start of Kalmar Union."
+  }
+]

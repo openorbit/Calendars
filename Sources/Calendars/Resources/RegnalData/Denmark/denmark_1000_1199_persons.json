@@ -1,0 +1,434 @@
+[
+  {
+    "id": "P_SWEYN_FORKBEARD",
+    "name": {
+      "normalized": "Sweyn Forkbeard"
+    },
+    "variants": [
+      {
+        "form": "Sveinn tjúguskegg",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Svend Tveskæg",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard"
+    }
+  },
+  {
+    "id": "P_HARALD_II",
+    "name": {
+      "normalized": "Harald II of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Haraldr II",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Harald II",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CNUT",
+    "name": {
+      "normalized": "Cnut the Great"
+    },
+    "variants": [
+      {
+        "form": "Knútr inn ríki",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Knud den Store",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Canutus Magnus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Cnut_the_Great"
+    }
+  },
+  {
+    "id": "P_HARTHACNUT",
+    "name": {
+      "normalized": "Harthacnut"
+    },
+    "variants": [
+      {
+        "form": "Harðaknútur",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hardeknud",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harthacnut"
+    }
+  },
+  {
+    "id": "P_MAGNUS_GOOD",
+    "name": {
+      "normalized": "Magnus the Good (Norway)"
+    },
+    "variants": [
+      {
+        "form": "Magnús góði",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus den Gode",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_the_Good"
+    }
+  },
+  {
+    "id": "P_SWEYN_II",
+    "name": {
+      "normalized": "Sweyn II Estridsson"
+    },
+    "variants": [
+      {
+        "form": "Sveinn Ástríðarson",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Svend Estridsen",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_HARALD_III",
+    "name": {
+      "normalized": "Harald III Hen"
+    },
+    "variants": [
+      {
+        "form": "Haraldr hein",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Harald Hen",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Harald_III_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CANUTE_IV",
+    "name": {
+      "normalized": "Canute IV (the Holy)"
+    },
+    "variants": [
+      {
+        "form": "Knútr hinn helgi",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Knud 4. den Hellige",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark"
+    }
+  },
+  {
+    "id": "P_OLAF_I",
+    "name": {
+      "normalized": "Olaf I Hunger"
+    },
+    "variants": [
+      {
+        "form": "Óláfr hungri",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Olaf Hunger",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Olaf_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ERIC_I",
+    "name": {
+      "normalized": "Eric I Evergood"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr eygóðr",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik Ejegod",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_NIELS",
+    "name": {
+      "normalized": "Niels of Denmark"
+    },
+    "variants": [
+      {
+        "form": "Nikolaus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Niels",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Niels,_King_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ERIC_II",
+    "name": {
+      "normalized": "Eric II Emune"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr Emuna",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik 2. Emune",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_II_of_Denmark"
+    }
+  },
+  {
+    "id": "P_ERIC_III",
+    "name": {
+      "normalized": "Eric III Lamb"
+    },
+    "variants": [
+      {
+        "form": "Eiríkr lamb",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik 3. Lam",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_III_of_Denmark"
+    }
+  },
+  {
+    "id": "P_SWEYN_III",
+    "name": {
+      "normalized": "Sweyn III Grathe"
+    },
+    "variants": [
+      {
+        "form": "Sveinn Grathe",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Svend 3. Grathe",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sweyn_III_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CANUTE_V",
+    "name": {
+      "normalized": "Canute V"
+    },
+    "variants": [
+      {
+        "form": "Knútr V",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Knud 5.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Canute_V_of_Denmark"
+    }
+  },
+  {
+    "id": "P_VALDEMAR_I",
+    "name": {
+      "normalized": "Valdemar I the Great"
+    },
+    "variants": [
+      {
+        "form": "Valdimarr I",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Valdemar den Store",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Valdemar_I_of_Denmark"
+    }
+  },
+  {
+    "id": "P_CANUTE_VI",
+    "name": {
+      "normalized": "Canute VI"
+    },
+    "variants": [
+      {
+        "form": "Knútr VI",
+        "lang": "non",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Knud 6.",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Canute_VI_of_Denmark"
+    }
+  }
+]

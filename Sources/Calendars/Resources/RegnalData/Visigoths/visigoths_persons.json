@@ -1,0 +1,493 @@
+[
+  {
+    "id": "P_WALLIA",
+    "name": {
+      "normalized": "Wallia"
+    },
+    "variants": [
+      {
+        "form": "Wallia",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_THEODERIC_I",
+    "name": {
+      "normalized": "Theodoric I"
+    },
+    "variants": [
+      {
+        "form": "Theodericus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_THORISMUND",
+    "name": {
+      "normalized": "Thorismund"
+    },
+    "variants": [
+      {
+        "form": "Thorismundus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_THEODERIC_II",
+    "name": {
+      "normalized": "Theodoric II"
+    },
+    "variants": [
+      {
+        "form": "Theodericus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EURIC",
+    "name": {
+      "normalized": "Euric"
+    },
+    "variants": [
+      {
+        "form": "Euricus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ALARIC_II",
+    "name": {
+      "normalized": "Alaric II"
+    },
+    "variants": [
+      {
+        "form": "Alaricus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GESALIC",
+    "name": {
+      "normalized": "Gesalec"
+    },
+    "variants": [
+      {
+        "form": "Gesalicus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AMALARIC",
+    "name": {
+      "normalized": "Amalaric"
+    },
+    "variants": [
+      {
+        "form": "Amalaricus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_THELAGISCLUS",
+    "name": {
+      "normalized": "Theudis"
+    },
+    "variants": [
+      {
+        "form": "[",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "T",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "h",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "e",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "u",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "d",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "i",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "s",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "]",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AGILA_I",
+    "name": {
+      "normalized": "Agila I"
+    },
+    "variants": [
+      {
+        "form": "Agila",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ATHANAGILD",
+    "name": {
+      "normalized": "Athanagild"
+    },
+    "variants": [
+      {
+        "form": "Athanagildus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LEOVIGILD",
+    "name": {
+      "normalized": "Leovigild"
+    },
+    "variants": [
+      {
+        "form": "Leovigildus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RECCARED_I",
+    "name": {
+      "normalized": "Reccared I"
+    },
+    "variants": [
+      {
+        "form": "Reccaredus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIUVA_II",
+    "name": {
+      "normalized": "Liuva II"
+    },
+    "variants": [
+      {
+        "form": "Liuvva II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WITTERIC",
+    "name": {
+      "normalized": "Witteric"
+    },
+    "variants": [
+      {
+        "form": "Wittericus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GUNDAMAR",
+    "name": {
+      "normalized": "Gundemar"
+    },
+    "variants": [
+      {
+        "form": "Gundemarus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SISEBUT",
+    "name": {
+      "normalized": "Sisebut"
+    },
+    "variants": [
+      {
+        "form": "Sisebutus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RECCARED_II",
+    "name": {
+      "normalized": "Reccared II"
+    },
+    "variants": [
+      {
+        "form": "Reccaredus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SUINTILA",
+    "name": {
+      "normalized": "Suintila"
+    },
+    "variants": [
+      {
+        "form": "Suintila",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SISENAND",
+    "name": {
+      "normalized": "Sisenand"
+    },
+    "variants": [
+      {
+        "form": "Sisenandus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CHINTILA",
+    "name": {
+      "normalized": "Chintila"
+    },
+    "variants": [
+      {
+        "form": "Chintila",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TULGA",
+    "name": {
+      "normalized": "Tulga"
+    },
+    "variants": [
+      {
+        "form": "Tulga",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CHINDASUINTH",
+    "name": {
+      "normalized": "Chindasuinth"
+    },
+    "variants": [
+      {
+        "form": "Chindasuinthus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RECCESWINTH",
+    "name": {
+      "normalized": "Recceswinth"
+    },
+    "variants": [
+      {
+        "form": "Recceswinthus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WAMBA",
+    "name": {
+      "normalized": "Wamba"
+    },
+    "variants": [
+      {
+        "form": "Wamba",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ERVIG",
+    "name": {
+      "normalized": "Ervig"
+    },
+    "variants": [
+      {
+        "form": "Ervigius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_EGICA",
+    "name": {
+      "normalized": "Egica"
+    },
+    "variants": [
+      {
+        "form": "Egica",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WITTIZA",
+    "name": {
+      "normalized": "Wittiza"
+    },
+    "variants": [
+      {
+        "form": "Wittiza",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_RODERIC",
+    "name": {
+      "normalized": "Roderic"
+    },
+    "variants": [
+      {
+        "form": "Rodericus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]

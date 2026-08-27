@@ -1,0 +1,187 @@
+[
+  {
+    "id": "TEN_P_RUDOLF_II_1576",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_RUDOLF_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1576,
+          "month": 10,
+          "day": 12
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1612,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded Maximilian II 1576; died 20 Jan 1612."
+  },
+  {
+    "id": "TEN_P_MATTHIAS_1612",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_MATTHIAS",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1612,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1619,
+          "month": 3,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded his brother Rudolf II; died 20 Mar 1619."
+  },
+  {
+    "id": "TEN_P_FERDINAND_II_1619",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FERDINAND_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1619,
+          "month": 8,
+          "day": 28
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1637,
+          "month": 2,
+          "day": 15
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 28 Aug 1619; died 15 Feb 1637."
+  },
+  {
+    "id": "TEN_P_FERDINAND_III_1637",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FERDINAND_III",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1637,
+          "month": 2,
+          "day": 15
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1657,
+          "month": 4,
+          "day": 2
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded his father Ferdinand II; died 2 Apr 1657."
+  },
+  {
+    "id": "TEN_P_LEOPOLD_I_1658",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_LEOPOLD_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1658,
+          "month": 7,
+          "day": 18
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1705,
+          "month": 5,
+          "day": 5
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 18 Jul 1658; died 5 May 1705."
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "POLITY_EAST_ANGLIA",
+    "label": "Kingdom of East Anglia",
+    "aliases": [
+      "Ēast Engla rīce",
+      "Regnum Orientalium Anglorum"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 571
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 918
+        }
+      }
+    ],
+    "notes": "One of the Anglo-Saxon Heptarchy; ruled by the Wuffingas dynasty. Conquered by Danes in the 9th century and absorbed into Wessex."
+  }
+]

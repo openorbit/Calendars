@@ -1,0 +1,629 @@
+[
+  {
+    "id": "TEN_P_OLOF_SKOTKONUNG_995",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_OLOF_SKOTKONUNG",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 995
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1022
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "First Christian king of Sweden; dates approximate."
+  },
+  {
+    "id": "TEN_P_ANUND_JACOB_1022",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_ANUND_JACOB",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1022
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1050
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_EMUND_OLD_1050",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_EMUND_OLD",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1050
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1060
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_STENKIL_1060",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_STENKIL",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1060
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1066
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_HALSTEN_1067",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_HALSTEN",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1067
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1070
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Intermittent reign; chronology uncertain."
+  },
+  {
+    "id": "TEN_P_HALSTEN_1079",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_HALSTEN",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1079
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1084
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Possible restoration; dates approximate."
+  },
+  {
+    "id": "TEN_P_HAKAN_RED_1070",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_HAKAN_RED",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1070
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1079
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Dates contested."
+  },
+  {
+    "id": "TEN_P_INGE_ELDER_1079",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_INGE_ELDER",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1079
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1084
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Initial reign; deposed by pagan reaction."
+  },
+  {
+    "id": "TEN_P_INGE_ELDER_1087",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_INGE_ELDER",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1087
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1105
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Restored; death c.1105–1110."
+  },
+  {
+    "id": "TEN_P_BLOT_SWEYN_1084",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_BLOT_SWEYN",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1084
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1087
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Pagan king during reaction against Inge."
+  },
+  {
+    "id": "TEN_P_PHILIP_SWEDEN_1105",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_PHILIP_SWEDEN",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1105
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1125
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Possibly co-ruled with Inge the Younger."
+  },
+  {
+    "id": "TEN_P_INGE_YOUNGER_1110",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_INGE_YOUNGER",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1110
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1125
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_RAGNV_KNAPH_1125",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_RAGNV_KNAPH",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1125
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1127
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "recognized",
+    "notes": "Killed during Eriksgata; reign brief/uncertain."
+  },
+  {
+    "id": "TEN_P_SVERKER_I_1130",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_SVERKER_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1130
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1156
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_ERIC_IX_1156",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_ERIC_IX",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1156
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1160
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_MAGNUS_HENRIK_1160",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_MAGNUS_HENRIK",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1160
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1161
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": "Usurper; killed 1161."
+  },
+  {
+    "id": "TEN_P_CHARLES_VII_SW_1161",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CHARLES_VII_SW",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1161
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1167
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CANUTE_I_1167",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_CANUTE_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1167
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_SVERKER_II_1196",
+    "office_id": "OFFICE_SWEDEN_KING",
+    "person_id": "P_SVERKER_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1208
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  }
+]

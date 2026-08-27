@@ -1,0 +1,187 @@
+[
+  {
+    "id": "TEN_P_MAXIMILIAN_I_1493",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_MAXIMILIAN_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1493,
+          "month": 8,
+          "day": 19
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1519,
+          "month": 1,
+          "day": 12
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded Frederick III 1493; assumed title Emperor 1508 without papal coronation; died 12 Jan 1519."
+  },
+  {
+    "id": "TEN_P_CHARLES_V_1519",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_CHARLES_V",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1519,
+          "month": 6,
+          "day": 28
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1556,
+          "month": 1,
+          "day": 16
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Elected 28 Jun 1519; crowned Emperor by Pope Clement VII in Bologna 24 Feb 1530; abdicated 16 Jan 1556."
+  },
+  {
+    "id": "TEN_P_FERDINAND_I_1556",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_FERDINAND_I",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1556,
+          "month": 1,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1564,
+          "month": 7,
+          "day": 25
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Brother of Charles V; elected King of the Romans 1531; succeeded as Emperor 1556."
+  },
+  {
+    "id": "TEN_P_MAXIMILIAN_II_1564",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_MAXIMILIAN_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1564,
+          "month": 7,
+          "day": 25
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1576,
+          "month": 10,
+          "day": 12
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded his father Ferdinand I on 25 Jul 1564; died 12 Oct 1576."
+  },
+  {
+    "id": "TEN_P_RUDOLF_II_1576",
+    "office_id": "OFFICE_HRE_KING",
+    "person_id": "P_RUDOLF_II",
+    "ordinal": null,
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1576,
+          "month": 10,
+          "day": 12
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1612,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Succeeded his father Maximilian II on 12 Oct 1576; died 20 Jan 1612."
+  }
+]

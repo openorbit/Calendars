@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PERSON_VALDEMAR_I",
+    "name": {
+      "normalized": "Valdemar"
+    },
+    "variants": [
+      {
+        "form": "Waldemarus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Waldemari",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Valdemar Birgersson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_MAGNUS_III",
+    "name": {
+      "normalized": "Magnus III"
+    },
+    "variants": [
+      {
+        "form": "Magnus Ladulaus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magni Ladulaus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Magnus Ladulås",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_BIRGER",
+    "name": {
+      "normalized": "Birger"
+    },
+    "variants": [
+      {
+        "form": "Birgerus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Birgeri",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Birger Magnusson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_MAGNUS_IV",
+    "name": {
+      "normalized": "Magnus IV Eriksson"
+    },
+    "variants": [
+      {
+        "form": "Magnus Erici filius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magni Erici filii",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Magnus Eriksson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_ALBRECHT",
+    "name": {
+      "normalized": "Albrecht of Mecklenburg"
+    },
+    "variants": [
+      {
+        "form": "Albertus de Mekelenburg",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Alberti de Mekelenburg",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Albrekt av Mecklenburg",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_MARGARET_I",
+    "name": {
+      "normalized": "Margaret I"
+    },
+    "variants": [
+      {
+        "form": "Margareta",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Margaretae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Margareta Valdemarsdotter",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  }
+]

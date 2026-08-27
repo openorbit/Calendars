@@ -1,0 +1,259 @@
+[
+  {
+    "id": "P_ERIC_X",
+    "name": {
+      "normalized": "Eric X of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Ericus X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik Knutsson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_X_of_Sweden"
+    }
+  },
+  {
+    "id": "P_JOHN_I",
+    "name": {
+      "normalized": "John I of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Iohannes I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Johan Sverkersson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/John_I_of_Sweden"
+    }
+  },
+  {
+    "id": "P_ERIC_XI",
+    "name": {
+      "normalized": "Eric XI of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Ericus XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Erik Eriksson (läspe och halte)",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Eric_XI_of_Sweden"
+    }
+  },
+  {
+    "id": "P_CANUTE_II",
+    "name": {
+      "normalized": "Canute II of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Canutus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Knut Holmgersson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Knut_II_of_Sweden"
+    }
+  },
+  {
+    "id": "P_VALDEMAR_SW",
+    "name": {
+      "normalized": "Valdemar of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Valdemarus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Valdemar Birgersson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Valdemar,_King_of_Sweden"
+    }
+  },
+  {
+    "id": "P_MAGNUS_III",
+    "name": {
+      "normalized": "Magnus III Ladulås"
+    },
+    "variants": [
+      {
+        "form": "Magnus Ladulaus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus Ladulås",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_III_of_Sweden"
+    }
+  },
+  {
+    "id": "P_BIRGER",
+    "name": {
+      "normalized": "Birger of Sweden"
+    },
+    "variants": [
+      {
+        "form": "Birgerus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Birger Magnusson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Birger,_King_of_Sweden"
+    }
+  },
+  {
+    "id": "P_MAGNUS_IV",
+    "name": {
+      "normalized": "Magnus IV (Smek)"
+    },
+    "variants": [
+      {
+        "form": "Magnus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Magnus Eriksson",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Magnus_IV_of_Sweden"
+    }
+  },
+  {
+    "id": "P_ALBERT_MECK",
+    "name": {
+      "normalized": "Albert of Mecklenburg"
+    },
+    "variants": [
+      {
+        "form": "Albertus Megapolitanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Albrekt av Mecklenburg",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Albert,_King_of_Sweden"
+    }
+  },
+  {
+    "id": "P_MARGARET_I",
+    "name": {
+      "normalized": "Margaret I"
+    },
+    "variants": [
+      {
+        "form": "Margarita I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Margareta",
+        "lang": "sv",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Margrete I",
+        "lang": "da",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_I_of_Denmark"
+    }
+  }
+]

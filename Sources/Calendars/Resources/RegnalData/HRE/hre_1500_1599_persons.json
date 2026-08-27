@@ -1,0 +1,134 @@
+[
+  {
+    "id": "P_MAXIMILIAN_I",
+    "name": {
+      "normalized": "Maximilian I"
+    },
+    "variants": [
+      {
+        "form": "Maximilianus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximilian I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_CHARLES_V",
+    "name": {
+      "normalized": "Charles V"
+    },
+    "variants": [
+      {
+        "form": "Carolus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl V.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Carlos V",
+        "lang": "es",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_FERDINAND_I",
+    "name": {
+      "normalized": "Ferdinand I"
+    },
+    "variants": [
+      {
+        "form": "Ferdinandus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand I.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_I,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_MAXIMILIAN_II",
+    "name": {
+      "normalized": "Maximilian II"
+    },
+    "variants": [
+      {
+        "form": "Maximilianus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximilian II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_II,_Holy_Roman_Emperor"
+    }
+  },
+  {
+    "id": "P_RUDOLF_II",
+    "name": {
+      "normalized": "Rudolf II"
+    },
+    "variants": [
+      {
+        "form": "Rudolphus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Rudolf II.",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_II,_Holy_Roman_Emperor"
+    }
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "TEN_P_THEODERIC_493",
+    "office_id": "OFFICE_OSTROGOTH_KING",
+    "person_id": "P_THEODERIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_OSTROGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 493
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 526
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Founded Ostrogothic Kingdom after defeating Odoacer."
+  },
+  {
+    "id": "TEN_P_ATHALARIC_526",
+    "office_id": "OFFICE_OSTROGOTH_KING",
+    "person_id": "P_ATHALARIC",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_OSTROGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 526
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 534
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Grandson of Theoderic, ruled under regency of his mother Amalasuntha."
+  },
+  {
+    "id": "TEN_P_THEODAHAD_534",
+    "office_id": "OFFICE_OSTROGOTH_KING",
+    "person_id": "P_THEODAHAD",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_OSTROGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 534
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 536
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Nephew of Theoderic, usurped power; deposed."
+  },
+  {
+    "id": "TEN_P_WITIGES_536",
+    "office_id": "OFFICE_OSTROGOTH_KING",
+    "person_id": "P_WITIGES",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_OSTROGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 536
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 540
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "General; surrendered to Byzantines in 540."
+  },
+  {
+    "id": "TEN_P_TOTILA_541",
+    "office_id": "OFFICE_OSTROGOTH_KING",
+    "person_id": "P_TOTILA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_OSTROGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 541
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 552
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Brilliant general; retook much of Italy, killed in 552."
+  },
+  {
+    "id": "TEN_P_TEIA_552",
+    "office_id": "OFFICE_OSTROGOTH_KING",
+    "person_id": "P_TEIA",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_JULIAN_LADYDAY",
+    "polity_id": "POLITY_OSTROGOTHIC_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 552
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "calendarRuleID": "RULE_JULIAN_LADYDAY",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 553
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last Ostrogothic king; killed in battle against Byzantines."
+  }
+]

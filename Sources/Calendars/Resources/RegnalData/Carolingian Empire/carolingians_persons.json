@@ -1,0 +1,532 @@
+[
+  {
+    "id": "P_PEPIN_SHORT",
+    "name": {
+      "normalized": "Pepin the Short"
+    },
+    "variants": [
+      {
+        "form": "Pippinus Brevis",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Pépin le Bref",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Pepin_the_Short"
+    }
+  },
+  {
+    "id": "P_CHARLEMAGNE",
+    "name": {
+      "normalized": "Charlemagne (Charles the Great)"
+    },
+    "variants": [
+      {
+        "form": "Carolus Magnus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Charlemagne",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Karl der Große",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charlemagne"
+    }
+  },
+  {
+    "id": "P_LOUIS_PIOUS",
+    "name": {
+      "normalized": "Louis the Pious"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus Pius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis le Pieux",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludwig der Fromme",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_the_Pious"
+    }
+  },
+  {
+    "id": "P_LOTHAIR_I",
+    "name": {
+      "normalized": "Lothair I"
+    },
+    "variants": [
+      {
+        "form": "Lotharius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Lothaire Ier",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Lothair_I"
+    }
+  },
+  {
+    "id": "P_LOUIS_GERMAN",
+    "name": {
+      "normalized": "Louis the German"
+    },
+    "variants": [
+      {
+        "form": "Ludwig der Deutsche",
+        "lang": "goh",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Hludovicus Germanicus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_the_German"
+    }
+  },
+  {
+    "id": "P_CHARLES_BALD",
+    "name": {
+      "normalized": "Charles the Bald"
+    },
+    "variants": [
+      {
+        "form": "Carolus Calvus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles le Chauve",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_the_Bald"
+    }
+  },
+  {
+    "id": "P_PEPIN_ITALY",
+    "name": {
+      "normalized": "Pepin of Italy"
+    },
+    "variants": [
+      {
+        "form": "Pippin(us) Italiae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Pepin_of_Italy"
+    }
+  },
+  {
+    "id": "P_BERNARD_ITALY",
+    "name": {
+      "normalized": "Bernard of Italy"
+    },
+    "variants": [
+      {
+        "form": "Bernardus Italiae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernard_of_Italy"
+    }
+  },
+  {
+    "id": "P_LOUIS_II",
+    "name": {
+      "normalized": "Louis II (the Younger, Emperor)"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis II",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_II_of_Italy"
+    }
+  },
+  {
+    "id": "P_LOTHAIR_II",
+    "name": {
+      "normalized": "Lothair II (Lotharingia)"
+    },
+    "variants": [
+      {
+        "form": "Lotharius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Lothair_II"
+    }
+  },
+  {
+    "id": "P_CHARLES_PROVENCE",
+    "name": {
+      "normalized": "Charles of Provence"
+    },
+    "variants": [
+      {
+        "form": "Carolus Provinciae",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_of_Provence"
+    }
+  },
+  {
+    "id": "P_LOUIS_STAMMERER",
+    "name": {
+      "normalized": "Louis II the Stammerer"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus II Balbus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis le Bègue",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_the_Stammerer"
+    }
+  },
+  {
+    "id": "P_LOUIS_III_WF",
+    "name": {
+      "normalized": "Louis III (West Francia)"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_III_of_France"
+    }
+  },
+  {
+    "id": "P_CARLOMAN_II_WF",
+    "name": {
+      "normalized": "Carloman II (West Francia)"
+    },
+    "variants": [
+      {
+        "form": "Carlomannus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Carloman_II"
+    }
+  },
+  {
+    "id": "P_CHARLES_FAT",
+    "name": {
+      "normalized": "Charles the Fat"
+    },
+    "variants": [
+      {
+        "form": "Carolus Crassus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles le Gros",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_the_Fat"
+    }
+  },
+  {
+    "id": "P_ODO_PARIS",
+    "name": {
+      "normalized": "Odo of Paris (Robertian)"
+    },
+    "variants": [
+      {
+        "form": "Odo",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Odo_of_France"
+    }
+  },
+  {
+    "id": "P_CHARLES_SIMPLE",
+    "name": {
+      "normalized": "Charles III the Simple"
+    },
+    "variants": [
+      {
+        "form": "Carolus Simplex",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles le Simple",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_the_Simple"
+    }
+  },
+  {
+    "id": "P_LOUIS_IV_WF",
+    "name": {
+      "normalized": "Louis IV (d’Outremer)"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus Transmarinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis d’Outremer",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_IV_of_France"
+    }
+  },
+  {
+    "id": "P_LOTHAIR_WF",
+    "name": {
+      "normalized": "Lothair (West Francia)"
+    },
+    "variants": [
+      {
+        "form": "Lotharius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Lothaire",
+        "lang": "fro",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Lothair_of_France"
+    }
+  },
+  {
+    "id": "P_LOUIS_V_WF",
+    "name": {
+      "normalized": "Louis V (West Francia)"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_V_of_France"
+    }
+  },
+  {
+    "id": "P_CARLOMAN_EF",
+    "name": {
+      "normalized": "Carloman of Bavaria"
+    },
+    "variants": [
+      {
+        "form": "Carlomannus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria"
+    }
+  },
+  {
+    "id": "P_LOUIS_YOUNGER",
+    "name": {
+      "normalized": "Louis the Younger"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus iunior",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_the_Younger"
+    }
+  },
+  {
+    "id": "P_ARNULF",
+    "name": {
+      "normalized": "Arnulf of Carinthia"
+    },
+    "variants": [
+      {
+        "form": "Arnulfus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Arnulf_of_Carinthia"
+    }
+  },
+  {
+    "id": "P_LOUIS_CHILD",
+    "name": {
+      "normalized": "Louis the Child"
+    },
+    "variants": [
+      {
+        "form": "Hludovicus puer",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_the_Child"
+    }
+  }
+]

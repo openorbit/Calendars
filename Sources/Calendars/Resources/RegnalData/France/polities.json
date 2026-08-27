@@ -1,0 +1,13 @@
+[
+  {
+    "id": "POLITY_FRANCE",
+    "label": "Kingdom of France",
+    "calendar_rule_id": "CALR_FRANCE_MEDIEVAL_OS",
+    "region": "France",
+    "valid_julian": {
+      "start": "0987-07-03",
+      "end": "1589-08-02"
+    },
+    "notes": "Dates normalized to proleptic Julian for interoperability. Regional year styles varied; standardized New Year moved to Jan 1 in the 16th c."
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TEN_P_CHRISTIAN_VII_1800",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_CHRISTIAN_VII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1800
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1808
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Reign continued into 19th century; died 1808."
+  },
+  {
+    "id": "TEN_P_FREDERICK_VI_1808",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FREDERICK_VI",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1808
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1839
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_VIII_1839",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_CHRISTIAN_VIII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1839
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1848
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_FREDERICK_VII_1848",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FREDERICK_VII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1848
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1863
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Last king of the Oldenburg line; signed 1849 Constitution."
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_IX_1863",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_CHRISTIAN_IX",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1863
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1906
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Known as the 'Father-in-law of Europe'."
+  },
+  {
+    "id": "TEN_P_FREDERICK_VIII_1906",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FREDERICK_VIII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1906
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1912
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_CHRISTIAN_X_1912",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_CHRISTIAN_X",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1912
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1947
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Symbol of resistance during German occupation in WWII."
+  },
+  {
+    "id": "TEN_P_FREDERICK_IX_1947",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_FREDERICK_IX",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1947
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1972
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": ""
+  },
+  {
+    "id": "TEN_P_MARGRETHE_II_1972",
+    "office_id": "OFFICE_DENMARK_MONARCH",
+    "person_id": "P_MARGRETHE_II",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_DK",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1972
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_DK",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1999
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Continues into 21st century; first queen regnant since Margaret I."
+  }
+]

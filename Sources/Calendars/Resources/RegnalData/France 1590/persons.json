@@ -1,0 +1,154 @@
+[
+  {
+    "id": "PERSON_HENRY_IV_FR",
+    "name": {
+      "normalized": "Henry IV"
+    },
+    "variants": [
+      {
+        "form": "Henricus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Henrici IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Henri IV",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      },
+      {
+        "form": "Henri de Navarre",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_XIII",
+    "name": {
+      "normalized": "Louis XIII"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis XIII",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_XIV",
+    "name": {
+      "normalized": "Louis XIV"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus XIV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici XIV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis XIV",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      },
+      {
+        "form": "Louis le Grand",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_XV",
+    "name": {
+      "normalized": "Louis XV"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus XV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici XV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis XV",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  },
+  {
+    "id": "PERSON_LOUIS_XVI",
+    "name": {
+      "normalized": "Louis XVI"
+    },
+    "variants": [
+      {
+        "form": "Ludovicus XVI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      },
+      {
+        "form": "Ludovici XVI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "genitive",
+        "casus": "gen"
+      },
+      {
+        "form": "Louis XVI",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "orthographic"
+      }
+    ]
+  }
+]

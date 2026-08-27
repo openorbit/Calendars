@@ -1,0 +1,33 @@
+[
+  {
+    "id": "POLITY_KENT",
+    "label": "Kingdom of Kent",
+    "aliases": [
+      "Cantware rīce",
+      "Regnum Cantuariorum"
+    ],
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "medium",
+        "ymd": {
+          "year": 450
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "ymd": {
+          "year": 825
+        }
+      }
+    ],
+    "notes": "One of the Anglo-Saxon Heptarchy; converted to Christianity under Æthelberht. Absorbed into Mercia/Wessex influence by the 9th century."
+  }
+]

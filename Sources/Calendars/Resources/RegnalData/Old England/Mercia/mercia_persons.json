@@ -1,0 +1,347 @@
+[
+  {
+    "id": "P_ICEL",
+    "name": {
+      "normalized": "Icel of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Icel",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CREODA",
+    "name": {
+      "normalized": "Creoda of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Creoda",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PYBBA",
+    "name": {
+      "normalized": "Pybba of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Pybba",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CEORL",
+    "name": {
+      "normalized": "Ceorl of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Ceorl",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PENDA",
+    "name": {
+      "normalized": "Penda of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Penda",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PEAEDA",
+    "name": {
+      "normalized": "Peada of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Peada",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WULFHERE",
+    "name": {
+      "normalized": "Wulfhere of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Wulfhere",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELRED_I",
+    "name": {
+      "normalized": "Æthelred I of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Æþelred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CENRED",
+    "name": {
+      "normalized": "Cenred of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Cenredus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CEOLRED",
+    "name": {
+      "normalized": "Ceolred of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Ceolredus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELBALD",
+    "name": {
+      "normalized": "Æthelbald of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Æthelbaldus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_OFFA",
+    "name": {
+      "normalized": "Offa of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Offa",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_COENWULF",
+    "name": {
+      "normalized": "Coenwulf of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Coenwulfus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CEOLWULF_I",
+    "name": {
+      "normalized": "Ceolwulf I of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Ceolwulfus I",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BEORNWULF",
+    "name": {
+      "normalized": "Beornwulf of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Beornwulfus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUDECA",
+    "name": {
+      "normalized": "Ludeca of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Ludeca",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WIGLAF",
+    "name": {
+      "normalized": "Wiglaf of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Wiglaf",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WIGMUND",
+    "name": {
+      "normalized": "Wigmund of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Wigmund",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_WIGSTAN",
+    "name": {
+      "normalized": "Wigstan (St. Wystan)"
+    },
+    "variants": [
+      {
+        "form": "Wigstan",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BURGRED",
+    "name": {
+      "normalized": "Burgred of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Burgredus",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_CEOLWULF_II",
+    "name": {
+      "normalized": "Ceolwulf II of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Ceolwulfus II",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELRED_MERCIA",
+    "name": {
+      "normalized": "Æthelred of Mercia"
+    },
+    "variants": [
+      {
+        "form": "Æþelred",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AETHELFLAED",
+    "name": {
+      "normalized": "Æthelflæd, Lady of the Mercians"
+    },
+    "variants": [
+      {
+        "form": "Æthelflæd",
+        "lang": "ang",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ]
+  }
+]
