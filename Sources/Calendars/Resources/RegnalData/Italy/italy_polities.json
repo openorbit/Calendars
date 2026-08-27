@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_KINGDOM_ITALY_MODERN",
+    "label": "Kingdom of Italy",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "The Monarchy and the Republic",
+        "url": "https://www.quirinale.it/it/pagine/2-giugno-1946-2-giugno-2016",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_ROMANIA_MONARCHY",
+    "label": "Principality and Kingdom of Romania",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "History of the Romanian Royal Family",
+        "url": "https://familiaregala.ro/istorie",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]

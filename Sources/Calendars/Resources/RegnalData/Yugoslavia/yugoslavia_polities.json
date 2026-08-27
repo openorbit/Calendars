@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_KINGDOM_YUGOSLAVIA",
+    "label": "Kingdom of the Serbs, Croats and Slovenes and Yugoslavia",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "The Royal Family of Serbia: historical press kit",
+        "url": "https://royalfamily.org/wp-content/uploads/2025/02/Press-Kit-February-2025-English.pdf",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]

@@ -1,0 +1,395 @@
+[
+  {
+    "id": "TEN_LIECHTENSTEIN_ANTON_FLORIAN",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_ANTON_FLORIAN",
+    "ordinal": null,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1719
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1721
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_JOSEPH_JOHANN_ADAM",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_JOSEPH_JOHANN_ADAM",
+    "ordinal": null,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1721
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1732
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_JOHANN_NEPOMUK_KARL",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_JOHANN_NEPOMUK_KARL",
+    "ordinal": null,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1732
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1748
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_JOSEPH_WENZEL",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_JOSEPH_WENZEL",
+    "ordinal": null,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1748
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1772
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_FRANZ_JOSEPH_I",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_FRANZ_JOSEPH_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1772
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1781
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_ALOYS_I",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_ALOYS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1781
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1805
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_JOHANN_I_JOSEPH",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_JOHANN_I_JOSEPH",
+    "ordinal": 1,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1805
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1836
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_ALOYS_II",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_ALOYS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1836
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1858
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_JOHANN_II",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_JOHANN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1858
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1929
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_FRANZ_I",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_FRANZ_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1929
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1938
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_FRANZ_JOSEPH_II",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_FRANZ_JOSEPH_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1938
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1989,
+          "month": 11,
+          "day": 13
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LIECHTENSTEIN_HANS_ADAM_II",
+    "office_id": "OFFICE_LIECHTENSTEIN_PRINCE",
+    "person_id": "P_LIECHTENSTEIN_HANS_ADAM_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_LIECHTENSTEIN",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1989,
+          "month": 11,
+          "day": 13
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent"
+  }
+]

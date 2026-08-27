@@ -1,0 +1,224 @@
+[
+  {
+    "id": "TEN_ROMANIA_CAROL_I_PRINCE",
+    "office_id": "OFFICE_ROMANIA_MONARCH",
+    "person_id": "P_ROMANIA_CAROL_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_ROMANIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1866,
+          "month": 5,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1881,
+          "month": 3,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ROMANIA_CAROL_I_KING",
+    "office_id": "OFFICE_ROMANIA_MONARCH",
+    "person_id": "P_ROMANIA_CAROL_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_ROMANIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1881,
+          "month": 3,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1914,
+          "month": 10,
+          "day": 10
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ROMANIA_FERDINAND_I",
+    "office_id": "OFFICE_ROMANIA_MONARCH",
+    "person_id": "P_ROMANIA_FERDINAND_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_ROMANIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1914,
+          "month": 10,
+          "day": 10
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1927,
+          "month": 7,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ROMANIA_MICHAEL_I_A",
+    "office_id": "OFFICE_ROMANIA_MONARCH",
+    "person_id": "P_ROMANIA_MICHAEL_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_ROMANIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1927,
+          "month": 7,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1930,
+          "month": 6,
+          "day": 8
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ROMANIA_CAROL_II",
+    "office_id": "OFFICE_ROMANIA_MONARCH",
+    "person_id": "P_ROMANIA_CAROL_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_ROMANIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1930,
+          "month": 6,
+          "day": 8
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1940,
+          "month": 9,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ROMANIA_MICHAEL_I_B",
+    "office_id": "OFFICE_ROMANIA_MONARCH",
+    "person_id": "P_ROMANIA_MICHAEL_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_ROMANIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1940,
+          "month": 9,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1947,
+          "month": 12,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  }
+]

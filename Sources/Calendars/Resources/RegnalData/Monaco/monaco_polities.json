@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_MONACO",
+    "label": "Principality of Monaco",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "The Prince’s Palace of Monaco",
+        "url": "https://www.palais.mc/en/the-institution/the-prince-s-palace-of-monaco-1-16.html",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]

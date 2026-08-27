@@ -1,0 +1,334 @@
+[
+  {
+    "id": "TEN_SERBIA_MILOS_I_A",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_MILOS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1815
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1839
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_MILAN_I",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_MILAN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1839
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1839
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_MIHAILO_III_A",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_MIHAILO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1839
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1842
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_ALEXANDER",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_ALEXANDER",
+    "ordinal": null,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1842
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1858
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_MILOS_I_B",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_MILOS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1858
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1860
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_MIHAILO_III_B",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_MIHAILO_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1860
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1868
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_MILAN_IV_PRINCE",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_MILAN_OBRENOVIC",
+    "ordinal": 4,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1868
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1882
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_MILAN_I_KING",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_MILAN_OBRENOVIC",
+    "ordinal": 1,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1882
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1889
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_ALEXANDER_I",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_ALEXANDER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1889
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1903
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_SERBIA_PETER_I",
+    "office_id": "OFFICE_SERBIA_MONARCH",
+    "person_id": "P_SERBIA_PETER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_SERBIA_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1903
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1918,
+          "month": 12,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

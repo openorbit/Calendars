@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_LIECHTENSTEIN",
+    "label": "Principality of Liechtenstein",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "The Princely House of Liechtenstein",
+        "url": "https://www.palaisliechtenstein.com/downloadFile?dn=PL_Princely_House_2021&f=L3hzdG9yYWdlLzEvVGV4dGUvSGludGVyZ3J1bmRpbmZvcm1hdGlvbi9QTF9QcmluY2VseV9Ib3VzZV8yMDIxLnBkZg%3D%3D&sh=c193c870db6947789f063c03082d4d0b",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]

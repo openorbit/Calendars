@@ -1,0 +1,252 @@
+[
+  {
+    "id": "TEN_LUXEMBOURG_ADOLPHE",
+    "office_id": "OFFICE_LUXEMBOURG_GRAND_DUKE",
+    "person_id": "P_LUXEMBOURG_ADOLPHE",
+    "ordinal": null,
+    "polity_id": "POLITY_LUXEMBOURG",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1890,
+          "month": 11,
+          "day": 23
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1905,
+          "month": 11,
+          "day": 17
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LUXEMBOURG_WILLIAM_IV",
+    "office_id": "OFFICE_LUXEMBOURG_GRAND_DUKE",
+    "person_id": "P_LUXEMBOURG_WILLIAM_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_LUXEMBOURG",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1905,
+          "month": 11,
+          "day": 17
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1912,
+          "month": 2,
+          "day": 25
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LUXEMBOURG_MARIE_ADELAIDE",
+    "office_id": "OFFICE_LUXEMBOURG_GRAND_DUKE",
+    "person_id": "P_LUXEMBOURG_MARIE_ADELAIDE",
+    "ordinal": null,
+    "polity_id": "POLITY_LUXEMBOURG",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1912,
+          "month": 2,
+          "day": 25
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1919,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LUXEMBOURG_CHARLOTTE",
+    "office_id": "OFFICE_LUXEMBOURG_GRAND_DUKE",
+    "person_id": "P_LUXEMBOURG_CHARLOTTE",
+    "ordinal": null,
+    "polity_id": "POLITY_LUXEMBOURG",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1919,
+          "month": 1,
+          "day": 14
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1964,
+          "month": 11,
+          "day": 12
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LUXEMBOURG_JEAN",
+    "office_id": "OFFICE_LUXEMBOURG_GRAND_DUKE",
+    "person_id": "P_LUXEMBOURG_JEAN",
+    "ordinal": null,
+    "polity_id": "POLITY_LUXEMBOURG",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1964,
+          "month": 11,
+          "day": 12
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2000,
+          "month": 10,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LUXEMBOURG_HENRI",
+    "office_id": "OFFICE_LUXEMBOURG_GRAND_DUKE",
+    "person_id": "P_LUXEMBOURG_HENRI",
+    "ordinal": null,
+    "polity_id": "POLITY_LUXEMBOURG",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2000,
+          "month": 10,
+          "day": 7
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_LUXEMBOURG_GUILLAUME_V",
+    "office_id": "OFFICE_LUXEMBOURG_GRAND_DUKE",
+    "person_id": "P_LUXEMBOURG_GUILLAUME_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_LUXEMBOURG",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent"
+  }
+]

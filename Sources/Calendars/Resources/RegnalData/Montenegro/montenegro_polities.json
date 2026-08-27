@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_MONTENEGRO_MONARCHY",
+    "label": "Principality and Kingdom of Montenegro",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "Montenegro’s history and traditions",
+        "url": "https://www.montenegro.travel/en/explore-montenegro/culture-and-tours/montenegro-s-history-and-traditions",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]

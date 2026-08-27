@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_SERBIA_MONARCHY",
+    "label": "Principality and Kingdom of Serbia",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "History of the Serbian dynasty",
+        "url": "https://kraljevinasrbija.rs/kraljevska-porodica/istorija-dinastije/?lng=cir",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]

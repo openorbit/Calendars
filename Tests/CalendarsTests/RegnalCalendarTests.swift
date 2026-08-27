@@ -8,6 +8,7 @@ struct RegnalCalendarTests {
     @Test("All supported polities load")
     func allSupportedPolitiesLoad() {
         let expectedIDs: Set<String> = [
+            "POLITY_ALBANIAN_KINGDOM",
             "POLITY_AUSTRASIA",
             "POLITY_AUSTRIAN_EMPIRE",
             "POLITY_AUSTRIA_HUNGARY",
@@ -35,10 +36,16 @@ struct RegnalCalendarTests {
             "POLITY_KALMAR_UNION",
             "POLITY_KENT",
             "POLITY_KINGDOM_ITALY",
+            "POLITY_KINGDOM_ITALY_MODERN",
+            "POLITY_KINGDOM_YUGOSLAVIA",
             "POLITY_KINGDOM_LOMBARDS",
+            "POLITY_LIECHTENSTEIN",
+            "POLITY_LUXEMBOURG",
             "POLITY_MERCIA",
             "POLITY_MIDDLE_FRANCIA",
             "POLITY_MODERN_BULGARIA",
+            "POLITY_MONACO",
+            "POLITY_MONTENEGRO_MONARCHY",
             "POLITY_NAVARRE",
             "POLITY_NEUSTRIA",
             "POLITY_NETHERLANDS",
@@ -53,7 +60,9 @@ struct RegnalCalendarTests {
             "POLITY_PORTUGAL",
             "POLITY_REGNUM_FRANCORUM",
             "POLITY_ROMAN_REPUBLIC",
+            "POLITY_ROMANIA_MONARCHY",
             "POLITY_SCOTLAND",
+            "POLITY_SERBIA_MONARCHY",
             "POLITY_SPAIN",
             "POLITY_SUSSEX",
             "POLITY_SWEDEN",
@@ -69,6 +78,7 @@ struct RegnalCalendarTests {
     }
 
     @Test("Polity has regnal tenures", arguments: [
+        "POLITY_ALBANIAN_KINGDOM",
         "POLITY_AUSTRIAN_EMPIRE",
         "POLITY_AUSTRIA_HUNGARY",
         "POLITY_BELGIUM",
@@ -92,10 +102,16 @@ struct RegnalCalendarTests {
         "POLITY_HUNGARY",
         "POLITY_KENT",
         "POLITY_KINGDOM_ITALY",
+        "POLITY_KINGDOM_ITALY_MODERN",
+        "POLITY_KINGDOM_YUGOSLAVIA",
         "POLITY_KINGDOM_LOMBARDS",
+        "POLITY_LIECHTENSTEIN",
+        "POLITY_LUXEMBOURG",
         "POLITY_MERCIA",
         "POLITY_MIDDLE_FRANCIA",
         "POLITY_MODERN_BULGARIA",
+        "POLITY_MONACO",
+        "POLITY_MONTENEGRO_MONARCHY",
         "POLITY_NAVARRE",
         "POLITY_NETHERLANDS",
         "POLITY_NORTHUMBRIA",
@@ -108,7 +124,9 @@ struct RegnalCalendarTests {
         "POLITY_PORTUGAL",
         "POLITY_REGNUM_FRANCORUM",
         "POLITY_ROMAN_REPUBLIC",
+        "POLITY_ROMANIA_MONARCHY",
         "POLITY_SCOTLAND",
+        "POLITY_SERBIA_MONARCHY",
         "POLITY_SPAIN",
         "POLITY_SUSSEX",
         "POLITY_SWEDEN",
@@ -621,6 +639,105 @@ struct RegnalCalendarTests {
         #expect(incumbent.end.first?.ymd?.year == 2029)
         #expect(incumbent.end.first?.ymd?.month == 1)
         #expect(incumbent.end.first?.ymd?.day == 20)
+    }
+
+    @Test("Italian and Romanian monarchies preserve constitutional transitions")
+    func italianAndRomanianMonarchiesPreserveTransitions() throws {
+        let italy = calendar.tenures(forOffice: "OFFICE_MODERN_ITALY_KING")
+        let romania = calendar.tenures(forOffice: "OFFICE_ROMANIA_MONARCH")
+        let umbertoII = try #require(italy.first { $0.personID == "P_ITALY_UMBERTO_II" })
+
+        #expect(italy.count == 4)
+        #expect(umbertoII.end.first?.ymd?.year == 1946)
+        #expect(umbertoII.end.first?.ymd?.month == 6)
+        #expect(umbertoII.end.first?.ymd?.day == 12)
+        #expect(romania.count == 6)
+        #expect(romania.count { $0.personID == "P_ROMANIA_CAROL_I" } == 2)
+        #expect(romania.count { $0.personID == "P_ROMANIA_MICHAEL_I" } == 2)
+        #expect(romania.last?.end.first?.ymd?.year == 1947)
+    }
+
+    @Test("Current European microstate sovereigns remain open incumbents")
+    func currentEuropeanMicrostateSovereignsRemainOpen() throws {
+        let luxembourg = calendar.tenures(forOffice: "OFFICE_LUXEMBOURG_GRAND_DUKE")
+        let liechtenstein = calendar.tenures(forOffice: "OFFICE_LIECHTENSTEIN_PRINCE")
+        let monaco = calendar.tenures(forOffice: "OFFICE_MONACO_PRINCE")
+        let guillaume = try #require(luxembourg.last)
+        let hansAdam = try #require(liechtenstein.last)
+        let albert = try #require(monaco.last)
+
+        #expect(luxembourg.count == 7)
+        #expect(guillaume.personID == "P_LUXEMBOURG_GUILLAUME_V")
+        #expect(guillaume.start.first?.ymd?.year == 2025)
+        #expect(guillaume.start.first?.ymd?.month == 10)
+        #expect(guillaume.start.first?.ymd?.day == 3)
+        #expect(guillaume.end.first?.rep == "open")
+        #expect(liechtenstein.count == 12)
+        #expect(hansAdam.personID == "P_LIECHTENSTEIN_HANS_ADAM_II")
+        #expect(hansAdam.end.first?.rep == "open")
+        #expect(!liechtenstein.contains { $0.personID.contains("ALOIS") })
+        #expect(monaco.count == 14)
+        #expect(albert.personID == "P_MONACO_ALBERT_II")
+        #expect(albert.end.first?.rep == "open")
+        #expect(!monaco.contains { $0.start.first?.ymd?.year == 1800 })
+    }
+
+    @Test("Serbian succession crosses into Yugoslavia without merging polities")
+    func serbianSuccessionCrossesIntoYugoslavia() throws {
+        let serbia = calendar.tenures(forOffice: "OFFICE_SERBIA_MONARCH")
+        let yugoslavia = calendar.tenures(forOffice: "OFFICE_YUGOSLAVIA_KING")
+        let serbianPeter = try #require(serbia.last)
+        let yugoslavPeter = try #require(yugoslavia.first)
+        let peterII = try #require(yugoslavia.last)
+
+        #expect(serbia.count == 10)
+        #expect(serbia.count { $0.personID == "P_SERBIA_MILOS_I" } == 2)
+        #expect(serbia.count { $0.personID == "P_SERBIA_MIHAILO_III" } == 2)
+        #expect(serbia.count { $0.personID == "P_SERBIA_MILAN_OBRENOVIC" } == 2)
+        #expect(Set(serbia.filter { $0.personID == "P_SERBIA_MILAN_OBRENOVIC" }.compactMap(\.ordinal)) == [1, 4])
+        #expect(serbianPeter.end.first?.ymd?.year == 1918)
+        #expect(serbianPeter.end.first?.ymd?.month == 12)
+        #expect(serbianPeter.end.first?.ymd?.day == 1)
+        #expect(yugoslavia.count == 3)
+        #expect(yugoslavPeter.start.first?.ymd?.year == 1918)
+        #expect(yugoslavPeter.start.first?.ymd?.month == 12)
+        #expect(yugoslavPeter.start.first?.ymd?.day == 1)
+        #expect(peterII.end.first?.ymd?.year == 1945)
+    }
+
+    @Test("Montenegrin and Albanian title changes retain historical status")
+    func montenegrinAndAlbanianTitleChangesRetainStatus() throws {
+        let montenegro = calendar.tenures(forOffice: "OFFICE_MONTENEGRO_MONARCH")
+        let albania = calendar.tenures(forOffice: "OFFICE_ALBANIA_KING")
+        let victorEmmanuel = try #require(
+            albania.first { $0.personID == "P_ALBANIA_VICTOR_EMMANUEL_III" }
+        )
+
+        #expect(montenegro.count == 3)
+        #expect(montenegro.count { $0.personID == "P_MONTENEGRO_NIKOLA_I" } == 2)
+        #expect(Set(montenegro.filter { $0.personID == "P_MONTENEGRO_NIKOLA_I" }.compactMap(\.ordinal)) == [1])
+        #expect(albania.count == 2)
+        #expect(albania.first?.start.first?.ymd?.year == 1928)
+        #expect(victorEmmanuel.status == "occupation")
+        #expect(victorEmmanuel.end.first?.ymd?.year == 1943)
+    }
+
+    @Test("New polity datasets retain source provenance", arguments: [
+        "POLITY_ALBANIAN_KINGDOM",
+        "POLITY_KINGDOM_ITALY_MODERN",
+        "POLITY_KINGDOM_YUGOSLAVIA",
+        "POLITY_LIECHTENSTEIN",
+        "POLITY_LUXEMBOURG",
+        "POLITY_MONACO",
+        "POLITY_MONTENEGRO_MONARCHY",
+        "POLITY_ROMANIA_MONARCHY",
+        "POLITY_SERBIA_MONARCHY"
+    ])
+    func newPolityDatasetsRetainSourceProvenance(polityID: String) throws {
+        let polity = try #require(calendar.polities[polityID])
+
+        #expect(!polity.sources.isEmpty)
+        #expect(polity.sources.allSatisfy { $0.url.hasPrefix("https://") })
     }
 
     @Test("English regnal year uses the accession anniversary")

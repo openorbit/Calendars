@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_ALBANIAN_KINGDOM",
+    "label": "Albanian Kingdom",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "Hall of Independence of Albania",
+        "url": "https://www.mhk.gov.al/portfolio/pavijoni-i-pavaresise-2/",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]

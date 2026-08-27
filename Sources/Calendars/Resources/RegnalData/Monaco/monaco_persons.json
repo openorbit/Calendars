@@ -1,0 +1,310 @@
+[
+  {
+    "id": "P_MONACO_HONORE_II",
+    "name": {
+      "normalized": "Honoré II"
+    },
+    "variants": [
+      {
+        "form": "Honoré II",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Honoré II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_LOUIS_I",
+    "name": {
+      "normalized": "Louis I"
+    },
+    "variants": [
+      {
+        "form": "Louis I",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_ANTOINE_I",
+    "name": {
+      "normalized": "Antoine I"
+    },
+    "variants": [
+      {
+        "form": "Antoine I",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Antoine I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_LOUISE_HIPPOLYTE",
+    "name": {
+      "normalized": "Louise Hippolyte"
+    },
+    "variants": [
+      {
+        "form": "Louise-Hippolyte",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Louise Hippolyte",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_JACQUES_I",
+    "name": {
+      "normalized": "Jacques I"
+    },
+    "variants": [
+      {
+        "form": "Jacques I",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jacques I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_HONORE_III",
+    "name": {
+      "normalized": "Honoré III"
+    },
+    "variants": [
+      {
+        "form": "Honoré III",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Honoré III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_HONORE_IV",
+    "name": {
+      "normalized": "Honoré IV"
+    },
+    "variants": [
+      {
+        "form": "Honoré IV",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Honoré IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_HONORE_V",
+    "name": {
+      "normalized": "Honoré V"
+    },
+    "variants": [
+      {
+        "form": "Honoré V",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Honoré V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_FLORESTAN",
+    "name": {
+      "normalized": "Florestan"
+    },
+    "variants": [
+      {
+        "form": "Florestan",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Florestan",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_CHARLES_III",
+    "name": {
+      "normalized": "Charles III"
+    },
+    "variants": [
+      {
+        "form": "Charles III",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_ALBERT_I",
+    "name": {
+      "normalized": "Albert I"
+    },
+    "variants": [
+      {
+        "form": "Albert I",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Albert I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_LOUIS_II",
+    "name": {
+      "normalized": "Louis II"
+    },
+    "variants": [
+      {
+        "form": "Louis II",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Louis II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_RAINIER_III",
+    "name": {
+      "normalized": "Rainier III"
+    },
+    "variants": [
+      {
+        "form": "Rainier III",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Rainier III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONACO_ALBERT_II",
+    "name": {
+      "normalized": "Albert II"
+    },
+    "variants": [
+      {
+        "form": "Albert II",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Albert II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

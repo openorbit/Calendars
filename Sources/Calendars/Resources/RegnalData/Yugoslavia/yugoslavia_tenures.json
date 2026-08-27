@@ -1,0 +1,109 @@
+[
+  {
+    "id": "TEN_YUGOSLAVIA_PETER_I",
+    "office_id": "OFFICE_YUGOSLAVIA_KING",
+    "person_id": "P_YUGOSLAVIA_PETER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_KINGDOM_YUGOSLAVIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1918,
+          "month": 12,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1921
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_YUGOSLAVIA_ALEXANDER_I",
+    "office_id": "OFFICE_YUGOSLAVIA_KING",
+    "person_id": "P_YUGOSLAVIA_ALEXANDER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_KINGDOM_YUGOSLAVIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1921
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1934,
+          "month": 10,
+          "day": 9
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_YUGOSLAVIA_PETER_II",
+    "office_id": "OFFICE_YUGOSLAVIA_KING",
+    "person_id": "P_YUGOSLAVIA_PETER_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_KINGDOM_YUGOSLAVIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1934,
+          "month": 10,
+          "day": 9
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1945,
+          "month": 11,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  }
+]

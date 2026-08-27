@@ -1,0 +1,156 @@
+[
+  {
+    "id": "P_SERBIA_MILOS_I",
+    "name": {
+      "normalized": "Miloš I"
+    },
+    "variants": [
+      {
+        "form": "Милош I",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Miloš I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERBIA_MILAN_I",
+    "name": {
+      "normalized": "Milan I"
+    },
+    "variants": [
+      {
+        "form": "Милан I",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Milan I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERBIA_MIHAILO_III",
+    "name": {
+      "normalized": "Mihailo III"
+    },
+    "variants": [
+      {
+        "form": "Михаило III",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mihailo III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERBIA_MILAN_OBRENOVIC",
+    "name": {
+      "normalized": "Milan Obrenović"
+    },
+    "variants": [
+      {
+        "form": "Милан Обреновић",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "personal",
+        "casus": "nom"
+      },
+      {
+        "form": "Milan Obrenović",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "personal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERBIA_ALEXANDER",
+    "name": {
+      "normalized": "Alexander"
+    },
+    "variants": [
+      {
+        "form": "Александар Карађорђевић",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERBIA_ALEXANDER_I",
+    "name": {
+      "normalized": "Alexander I"
+    },
+    "variants": [
+      {
+        "form": "Александар I",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SERBIA_PETER_I",
+    "name": {
+      "normalized": "Peter I"
+    },
+    "variants": [
+      {
+        "form": "Петар I",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Peter I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

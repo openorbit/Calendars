@@ -1,0 +1,90 @@
+[
+  {
+    "id": "P_ITALY_VICTOR_EMMANUEL_II",
+    "name": {
+      "normalized": "Victor Emmanuel II"
+    },
+    "variants": [
+      {
+        "form": "Vittorio Emanuele II",
+        "lang": "it",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Victor Emmanuel II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ITALY_UMBERTO_I",
+    "name": {
+      "normalized": "Umberto I"
+    },
+    "variants": [
+      {
+        "form": "Umberto I",
+        "lang": "it",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Umberto I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ITALY_VICTOR_EMMANUEL_III",
+    "name": {
+      "normalized": "Victor Emmanuel III"
+    },
+    "variants": [
+      {
+        "form": "Vittorio Emanuele III",
+        "lang": "it",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Victor Emmanuel III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ITALY_UMBERTO_II",
+    "name": {
+      "normalized": "Umberto II"
+    },
+    "variants": [
+      {
+        "form": "Umberto II",
+        "lang": "it",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Umberto II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

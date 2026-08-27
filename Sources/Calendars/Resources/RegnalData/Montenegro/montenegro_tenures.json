@@ -1,0 +1,103 @@
+[
+  {
+    "id": "TEN_MONTENEGRO_DANILO_I",
+    "office_id": "OFFICE_MONTENEGRO_MONARCH",
+    "person_id": "P_MONTENEGRO_DANILO_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MONTENEGRO_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1852
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1860
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONTENEGRO_NIKOLA_I_PRINCE",
+    "office_id": "OFFICE_MONTENEGRO_MONARCH",
+    "person_id": "P_MONTENEGRO_NIKOLA_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MONTENEGRO_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1860
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1910
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONTENEGRO_NIKOLA_I_KING",
+    "office_id": "OFFICE_MONTENEGRO_MONARCH",
+    "person_id": "P_MONTENEGRO_NIKOLA_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MONTENEGRO_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1910
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1918,
+          "month": 11,
+          "day": 26
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

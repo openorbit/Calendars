@@ -1,0 +1,156 @@
+[
+  {
+    "id": "P_LUXEMBOURG_ADOLPHE",
+    "name": {
+      "normalized": "Adolphe"
+    },
+    "variants": [
+      {
+        "form": "Adolphe",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Adolphe",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUXEMBOURG_WILLIAM_IV",
+    "name": {
+      "normalized": "William IV"
+    },
+    "variants": [
+      {
+        "form": "Guillaume IV",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "William IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUXEMBOURG_MARIE_ADELAIDE",
+    "name": {
+      "normalized": "Marie-Adélaïde"
+    },
+    "variants": [
+      {
+        "form": "Marie-Adélaïde",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marie-Adélaïde",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUXEMBOURG_CHARLOTTE",
+    "name": {
+      "normalized": "Charlotte"
+    },
+    "variants": [
+      {
+        "form": "Charlotte",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Charlotte",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUXEMBOURG_JEAN",
+    "name": {
+      "normalized": "Jean"
+    },
+    "variants": [
+      {
+        "form": "Jean",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jean",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUXEMBOURG_HENRI",
+    "name": {
+      "normalized": "Henri"
+    },
+    "variants": [
+      {
+        "form": "Henri",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Henri",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUXEMBOURG_GUILLAUME_V",
+    "name": {
+      "normalized": "Guillaume V"
+    },
+    "variants": [
+      {
+        "form": "Guillaume V",
+        "lang": "fr",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Guillaume V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

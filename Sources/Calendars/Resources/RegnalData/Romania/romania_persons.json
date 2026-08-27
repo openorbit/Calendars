@@ -1,0 +1,90 @@
+[
+  {
+    "id": "P_ROMANIA_CAROL_I",
+    "name": {
+      "normalized": "Carol I"
+    },
+    "variants": [
+      {
+        "form": "Carol I",
+        "lang": "ro",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Carol I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMANIA_FERDINAND_I",
+    "name": {
+      "normalized": "Ferdinand I"
+    },
+    "variants": [
+      {
+        "form": "Ferdinand I",
+        "lang": "ro",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMANIA_MICHAEL_I",
+    "name": {
+      "normalized": "Michael I"
+    },
+    "variants": [
+      {
+        "form": "Mihai I",
+        "lang": "ro",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ROMANIA_CAROL_II",
+    "name": {
+      "normalized": "Carol II"
+    },
+    "variants": [
+      {
+        "form": "Carol al II-lea",
+        "lang": "ro",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Carol II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

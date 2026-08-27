@@ -1,0 +1,46 @@
+[
+  {
+    "id": "P_MONTENEGRO_DANILO_I",
+    "name": {
+      "normalized": "Danilo I"
+    },
+    "variants": [
+      {
+        "form": "Данило I",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Danilo I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MONTENEGRO_NIKOLA_I",
+    "name": {
+      "normalized": "Nikola I"
+    },
+    "variants": [
+      {
+        "form": "Никола I",
+        "lang": "sr",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nikola I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

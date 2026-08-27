@@ -1,0 +1,76 @@
+[
+  {
+    "id": "TEN_ALBANIA_ZOG_I",
+    "office_id": "OFFICE_ALBANIA_KING",
+    "person_id": "P_ALBANIA_ZOG_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_ALBANIAN_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1928,
+          "month": 9,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1939,
+          "month": 4,
+          "day": 7
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_ALBANIA_VICTOR_EMMANUEL_III",
+    "office_id": "OFFICE_ALBANIA_KING",
+    "person_id": "P_ALBANIA_VICTOR_EMMANUEL_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_ALBANIAN_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1939,
+          "month": 4,
+          "day": 16
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1943,
+          "month": 9,
+          "day": 8
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "occupation"
+  }
+]

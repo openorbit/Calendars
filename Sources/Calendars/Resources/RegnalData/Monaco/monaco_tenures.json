@@ -1,0 +1,461 @@
+[
+  {
+    "id": "TEN_MONACO_HONORE_II",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_HONORE_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1633
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1662
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_LOUIS_I",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_LOUIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1662
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1701
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_ANTOINE_I",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_ANTOINE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1701
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1731
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_LOUISE_HIPPOLYTE",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_LOUISE_HIPPOLYTE",
+    "ordinal": null,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1731
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1731
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_JACQUES_I",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_JACQUES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1731
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1733
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_HONORE_III",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_HONORE_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1733
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1793
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_HONORE_IV",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_HONORE_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1814
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1819
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_HONORE_V",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_HONORE_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1819
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1841
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_FLORESTAN",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_FLORESTAN",
+    "ordinal": null,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1841
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1856
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_CHARLES_III",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_CHARLES_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1856
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1889
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_ALBERT_I",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_ALBERT_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1889
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1922
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_LOUIS_II",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_LOUIS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1922
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1949
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_RAINIER_III",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_RAINIER_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1949
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2005,
+          "month": 4,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MONACO_ALBERT_II",
+    "office_id": "OFFICE_MONACO_PRINCE",
+    "person_id": "P_MONACO_ALBERT_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_MONACO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2005,
+          "month": 4,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent"
+  }
+]

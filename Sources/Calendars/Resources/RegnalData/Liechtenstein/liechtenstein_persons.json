@@ -1,0 +1,266 @@
+[
+  {
+    "id": "P_LIECHTENSTEIN_ANTON_FLORIAN",
+    "name": {
+      "normalized": "Anton Florian"
+    },
+    "variants": [
+      {
+        "form": "Anton Florian",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anton Florian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_JOSEPH_JOHANN_ADAM",
+    "name": {
+      "normalized": "Joseph Johann Adam"
+    },
+    "variants": [
+      {
+        "form": "Josef Johann Adam",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph Johann Adam",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_JOHANN_NEPOMUK_KARL",
+    "name": {
+      "normalized": "Johann Nepomuk Karl"
+    },
+    "variants": [
+      {
+        "form": "Johann Nepomuk Karl",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Johann Nepomuk Karl",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_JOSEPH_WENZEL",
+    "name": {
+      "normalized": "Joseph Wenzel"
+    },
+    "variants": [
+      {
+        "form": "Josef Wenzel",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph Wenzel",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_FRANZ_JOSEPH_I",
+    "name": {
+      "normalized": "Franz Joseph I"
+    },
+    "variants": [
+      {
+        "form": "Franz Josef I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Franz Joseph I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_ALOYS_I",
+    "name": {
+      "normalized": "Aloys I"
+    },
+    "variants": [
+      {
+        "form": "Alois I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Aloys I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_JOHANN_I_JOSEPH",
+    "name": {
+      "normalized": "Johann I Joseph"
+    },
+    "variants": [
+      {
+        "form": "Johann I. Josef",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Johann I Joseph",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_ALOYS_II",
+    "name": {
+      "normalized": "Aloys II"
+    },
+    "variants": [
+      {
+        "form": "Alois II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Aloys II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_JOHANN_II",
+    "name": {
+      "normalized": "Johann II"
+    },
+    "variants": [
+      {
+        "form": "Johann II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Johann II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_FRANZ_I",
+    "name": {
+      "normalized": "Franz I"
+    },
+    "variants": [
+      {
+        "form": "Franz I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Franz I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_FRANZ_JOSEPH_II",
+    "name": {
+      "normalized": "Franz Joseph II"
+    },
+    "variants": [
+      {
+        "form": "Franz Josef II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Franz Joseph II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LIECHTENSTEIN_HANS_ADAM_II",
+    "name": {
+      "normalized": "Hans-Adam II"
+    },
+    "variants": [
+      {
+        "form": "Hans-Adam II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hans-Adam II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "POLITY_LUXEMBOURG",
+    "label": "Grand Duchy of Luxembourg",
+    "region": "Europe",
+    "sources": [
+      {
+        "title": "The history of the Nassau dynasty",
+        "url": "https://monarchie.lu/en/luxembourg-monarchy/history-nassau-dynasty",
+        "note": "Primary institutional history used for polity boundaries and succession."
+      }
+    ]
+  }
+]
