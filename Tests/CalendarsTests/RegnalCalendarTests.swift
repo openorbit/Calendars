@@ -33,6 +33,7 @@ struct RegnalCalendarTests {
             "POLITY_NORWAY_KINGDOM",
             "POLITY_NORWAY_SWEDEN_UNION",
             "POLITY_OSTROGOTHIC_KINGDOM",
+            "POLITY_PAPACY",
             "POLITY_REGNUM_FRANCORUM",
             "POLITY_ROMAN_REPUBLIC",
             "POLITY_SUSSEX",
@@ -66,6 +67,7 @@ struct RegnalCalendarTests {
         "POLITY_NORTHUMBRIA",
         "POLITY_NORWAY_KINGDOM",
         "POLITY_OSTROGOTHIC_KINGDOM",
+        "POLITY_PAPACY",
         "POLITY_REGNUM_FRANCORUM",
         "POLITY_ROMAN_REPUBLIC",
         "POLITY_SUSSEX",
@@ -131,6 +133,51 @@ struct RegnalCalendarTests {
         #expect(costa.end.first?.ymd?.month == 5)
         #expect(costa.end.first?.ymd?.day == 31)
         #expect(costa.status == "incumbent")
+    }
+
+    @Test("French medieval and early-modern successions share one polity")
+    func frenchSuccessionsShareOnePolity() {
+        let tenures = calendar.tenures(forOffice: "OFFICE_FRANCE_KING")
+
+        #expect(tenures.contains { $0.personID == "PERSON_HENRY_III_FR" })
+        #expect(tenures.contains { $0.personID == "PERSON_HENRY_IV_FR" })
+        #expect(calendar.offices["OFFICE_FRANCE_KING"]?.polityID == "POLITY_FRANCE")
+    }
+
+    @Test("Papal succession includes all recognized pontiffs")
+    func papalSuccessionIncludesAllRecognizedPontiffs() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_POPE")
+        let francis = try #require(tenures.first { $0.personID == "P_POPE_266" })
+        let leo = try #require(tenures.first { $0.personID == "P_POPE_267" })
+        let earlyAlternative = try #require(tenures.first { $0.personID == "P_POPE_005" })
+
+        #expect(tenures.count == 267)
+        #expect(Set(tenures.map(\.personID)).count == 267)
+        #expect(tenures.allSatisfy { tenure in
+            calendar.person(forID: tenure.personID)?.variants.contains {
+                $0.lang == "la" && $0.kind == "papal"
+            } == true
+        })
+        #expect(
+            calendar.person(forID: "P_POPE_001")?.variants.contains {
+                $0.form == "Petrus" && $0.lang == "la"
+            } == true
+        )
+        #expect(
+            calendar.person(forID: "P_POPE_267")?.variants.contains {
+                $0.form == "Leo XIV" && $0.lang == "la"
+            } == true
+        )
+        #expect(francis.end.first?.ymd?.year == 2025)
+        #expect(francis.end.first?.ymd?.month == 4)
+        #expect(francis.end.first?.ymd?.day == 21)
+        #expect(leo.ordinal == 14)
+        #expect(leo.start.first?.ymd?.year == 2025)
+        #expect(leo.start.first?.ymd?.month == 5)
+        #expect(leo.start.first?.ymd?.day == 8)
+        #expect(leo.status == "incumbent")
+        #expect(earlyAlternative.start.count == 2)
+        #expect(earlyAlternative.certainty == "low")
     }
 
     @Test("United States presidential succession is complete")

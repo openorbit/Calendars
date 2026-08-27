@@ -1,0 +1,8 @@
+[
+  {
+    "id": "OFFICE_POPE",
+    "label": "Bishop of Rome and Supreme Pontiff",
+    "scope_polity_id": "POLITY_PAPACY",
+    "notes": "Pontificates in the Holy See's numbered succession; antipopes excluded."
+  }
+]

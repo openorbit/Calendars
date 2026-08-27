@@ -1,0 +1,6814 @@
+[
+  {
+    "id": "P_POPE_001",
+    "name": {
+      "normalized": "Peter"
+    },
+    "variants": [
+      {
+        "form": "Peter",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Petrus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_002",
+    "name": {
+      "normalized": "Linus"
+    },
+    "variants": [
+      {
+        "form": "Linus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Linus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_003",
+    "name": {
+      "normalized": "Anacletus or Cletus"
+    },
+    "variants": [
+      {
+        "form": "Anacletus or Cletus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anacletus sive Cletus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_004",
+    "name": {
+      "normalized": "Clement"
+    },
+    "variants": [
+      {
+        "form": "Clement",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_005",
+    "name": {
+      "normalized": "Evaristus"
+    },
+    "variants": [
+      {
+        "form": "Evaristus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Evaristus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_006",
+    "name": {
+      "normalized": "Alexander I"
+    },
+    "variants": [
+      {
+        "form": "Alexander I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_007",
+    "name": {
+      "normalized": "Sixtus I"
+    },
+    "variants": [
+      {
+        "form": "Sixtus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sixtus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_008",
+    "name": {
+      "normalized": "Telesphorus"
+    },
+    "variants": [
+      {
+        "form": "Telesphorus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Telesphorus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_009",
+    "name": {
+      "normalized": "Hyginus"
+    },
+    "variants": [
+      {
+        "form": "Hyginus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hyginus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_010",
+    "name": {
+      "normalized": "Pius I"
+    },
+    "variants": [
+      {
+        "form": "Pius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_011",
+    "name": {
+      "normalized": "Anicetus"
+    },
+    "variants": [
+      {
+        "form": "Anicetus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anicetus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_012",
+    "name": {
+      "normalized": "Soterus"
+    },
+    "variants": [
+      {
+        "form": "Soterus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Soterus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_013",
+    "name": {
+      "normalized": "Eleutherius"
+    },
+    "variants": [
+      {
+        "form": "Eleutherius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Eleutherius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_014",
+    "name": {
+      "normalized": "Victor I"
+    },
+    "variants": [
+      {
+        "form": "Victor I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Victor I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_015",
+    "name": {
+      "normalized": "Zephyrinus"
+    },
+    "variants": [
+      {
+        "form": "Zephyrinus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Zephyrinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_016",
+    "name": {
+      "normalized": "Callistus I"
+    },
+    "variants": [
+      {
+        "form": "Callistus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Callistus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_017",
+    "name": {
+      "normalized": "Urban I"
+    },
+    "variants": [
+      {
+        "form": "Urban I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Urbanus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_018",
+    "name": {
+      "normalized": "Pontianus"
+    },
+    "variants": [
+      {
+        "form": "Pontianus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pontianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_019",
+    "name": {
+      "normalized": "Anterus"
+    },
+    "variants": [
+      {
+        "form": "Anterus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anterus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_020",
+    "name": {
+      "normalized": "Fabian"
+    },
+    "variants": [
+      {
+        "form": "Fabian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Fabianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_021",
+    "name": {
+      "normalized": "Cornelius"
+    },
+    "variants": [
+      {
+        "form": "Cornelius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Cornelius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_022",
+    "name": {
+      "normalized": "Lucius I"
+    },
+    "variants": [
+      {
+        "form": "Lucius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Lucius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_023",
+    "name": {
+      "normalized": "Stephen I"
+    },
+    "variants": [
+      {
+        "form": "Stephen I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_024",
+    "name": {
+      "normalized": "Sixtus II"
+    },
+    "variants": [
+      {
+        "form": "Sixtus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sixtus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_025",
+    "name": {
+      "normalized": "Dionysius"
+    },
+    "variants": [
+      {
+        "form": "Dionysius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Dionysius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_026",
+    "name": {
+      "normalized": "Felix I"
+    },
+    "variants": [
+      {
+        "form": "Felix I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Felix I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_027",
+    "name": {
+      "normalized": "Eutichianus"
+    },
+    "variants": [
+      {
+        "form": "Eutichianus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Eutichianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_028",
+    "name": {
+      "normalized": "Caius"
+    },
+    "variants": [
+      {
+        "form": "Caius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Caius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_029",
+    "name": {
+      "normalized": "Marcellinus"
+    },
+    "variants": [
+      {
+        "form": "Marcellinus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marcellinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_030",
+    "name": {
+      "normalized": "Marcellus I"
+    },
+    "variants": [
+      {
+        "form": "Marcellus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marcellus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_031",
+    "name": {
+      "normalized": "Eusebius"
+    },
+    "variants": [
+      {
+        "form": "Eusebius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Eusebius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_032",
+    "name": {
+      "normalized": "Miltiades or Melchiades"
+    },
+    "variants": [
+      {
+        "form": "Miltiades or Melchiades",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Miltiades sive Melchiades",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_033",
+    "name": {
+      "normalized": "Sylvester I"
+    },
+    "variants": [
+      {
+        "form": "Sylvester I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Silvester I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_034",
+    "name": {
+      "normalized": "Mark"
+    },
+    "variants": [
+      {
+        "form": "Mark",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marcus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_035",
+    "name": {
+      "normalized": "Julius I"
+    },
+    "variants": [
+      {
+        "form": "Julius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Iulius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_036",
+    "name": {
+      "normalized": "Liberius"
+    },
+    "variants": [
+      {
+        "form": "Liberius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Liberius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_037",
+    "name": {
+      "normalized": "Damasus I"
+    },
+    "variants": [
+      {
+        "form": "Damasus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Damasus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_038",
+    "name": {
+      "normalized": "Siricius"
+    },
+    "variants": [
+      {
+        "form": "Siricius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Siricius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_039",
+    "name": {
+      "normalized": "Anastasius I"
+    },
+    "variants": [
+      {
+        "form": "Anastasius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anastasius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_040",
+    "name": {
+      "normalized": "Innocent I"
+    },
+    "variants": [
+      {
+        "form": "Innocent I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_041",
+    "name": {
+      "normalized": "Zosimus"
+    },
+    "variants": [
+      {
+        "form": "Zosimus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Zosimus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_042",
+    "name": {
+      "normalized": "Boniface I"
+    },
+    "variants": [
+      {
+        "form": "Boniface I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bonifatius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_043",
+    "name": {
+      "normalized": "Celestine I"
+    },
+    "variants": [
+      {
+        "form": "Celestine I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Caelestinus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_044",
+    "name": {
+      "normalized": "Sixtus III"
+    },
+    "variants": [
+      {
+        "form": "Sixtus III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sixtus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_045",
+    "name": {
+      "normalized": "Leo I"
+    },
+    "variants": [
+      {
+        "form": "Leo I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_046",
+    "name": {
+      "normalized": "Hilarius"
+    },
+    "variants": [
+      {
+        "form": "Hilarius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hilarius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_047",
+    "name": {
+      "normalized": "Simplicius"
+    },
+    "variants": [
+      {
+        "form": "Simplicius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Simplicius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_048",
+    "name": {
+      "normalized": "Felix III"
+    },
+    "variants": [
+      {
+        "form": "Felix III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Felix III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_049",
+    "name": {
+      "normalized": "Gelasius I"
+    },
+    "variants": [
+      {
+        "form": "Gelasius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gelasius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_050",
+    "name": {
+      "normalized": "Anastasius II"
+    },
+    "variants": [
+      {
+        "form": "Anastasius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anastasius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_051",
+    "name": {
+      "normalized": "Symmachus"
+    },
+    "variants": [
+      {
+        "form": "Symmachus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Symmachus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_052",
+    "name": {
+      "normalized": "Hormisdas"
+    },
+    "variants": [
+      {
+        "form": "Hormisdas",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hormisdas",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_053",
+    "name": {
+      "normalized": "John I"
+    },
+    "variants": [
+      {
+        "form": "John I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_054",
+    "name": {
+      "normalized": "Felix IV"
+    },
+    "variants": [
+      {
+        "form": "Felix IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Felix IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_055",
+    "name": {
+      "normalized": "Boniface II"
+    },
+    "variants": [
+      {
+        "form": "Boniface II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bonifatius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_056",
+    "name": {
+      "normalized": "John II"
+    },
+    "variants": [
+      {
+        "form": "John II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mercurio",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_057",
+    "name": {
+      "normalized": "Agapetus I"
+    },
+    "variants": [
+      {
+        "form": "Agapetus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Agapetus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_058",
+    "name": {
+      "normalized": "Silverius"
+    },
+    "variants": [
+      {
+        "form": "Silverius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Silverius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_059",
+    "name": {
+      "normalized": "Vigilius"
+    },
+    "variants": [
+      {
+        "form": "Vigilius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vigilius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_060",
+    "name": {
+      "normalized": "Pelagius I"
+    },
+    "variants": [
+      {
+        "form": "Pelagius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pelagius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_061",
+    "name": {
+      "normalized": "John III"
+    },
+    "variants": [
+      {
+        "form": "John III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Catalino",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_062",
+    "name": {
+      "normalized": "Benedict I"
+    },
+    "variants": [
+      {
+        "form": "Benedict I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_063",
+    "name": {
+      "normalized": "Pelagius II"
+    },
+    "variants": [
+      {
+        "form": "Pelagius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pelagius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_064",
+    "name": {
+      "normalized": "Gregory I"
+    },
+    "variants": [
+      {
+        "form": "Gregory I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_065",
+    "name": {
+      "normalized": "Sabinian"
+    },
+    "variants": [
+      {
+        "form": "Sabinian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sabinianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_066",
+    "name": {
+      "normalized": "Boniface III"
+    },
+    "variants": [
+      {
+        "form": "Boniface III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bonifatius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_067",
+    "name": {
+      "normalized": "Boniface IV"
+    },
+    "variants": [
+      {
+        "form": "Boniface IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bonifatius IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_068",
+    "name": {
+      "normalized": "Deusdedit or Adeodatus I"
+    },
+    "variants": [
+      {
+        "form": "Deusdedit or Adeodatus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Deusdedit sive Adeodatus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_069",
+    "name": {
+      "normalized": "Boniface V"
+    },
+    "variants": [
+      {
+        "form": "Boniface V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bonifatius V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_070",
+    "name": {
+      "normalized": "Honorius I"
+    },
+    "variants": [
+      {
+        "form": "Honorius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Honorius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_071",
+    "name": {
+      "normalized": "Severinus"
+    },
+    "variants": [
+      {
+        "form": "Severinus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Severinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_072",
+    "name": {
+      "normalized": "John IV"
+    },
+    "variants": [
+      {
+        "form": "John IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_073",
+    "name": {
+      "normalized": "Theodore I"
+    },
+    "variants": [
+      {
+        "form": "Theodore I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodorus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_074",
+    "name": {
+      "normalized": "Martin I"
+    },
+    "variants": [
+      {
+        "form": "Martin I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Martinus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_075",
+    "name": {
+      "normalized": "Eugene I"
+    },
+    "variants": [
+      {
+        "form": "Eugene I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Eugenius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_076",
+    "name": {
+      "normalized": "Vitalian"
+    },
+    "variants": [
+      {
+        "form": "Vitalian",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vitalianus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_077",
+    "name": {
+      "normalized": "Adeodatus II"
+    },
+    "variants": [
+      {
+        "form": "Adeodatus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Adeodatus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_078",
+    "name": {
+      "normalized": "Donus"
+    },
+    "variants": [
+      {
+        "form": "Donus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Donus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_079",
+    "name": {
+      "normalized": "Agatho"
+    },
+    "variants": [
+      {
+        "form": "Agatho",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Agatho",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_080",
+    "name": {
+      "normalized": "Leo II"
+    },
+    "variants": [
+      {
+        "form": "Leo II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_081",
+    "name": {
+      "normalized": "Benedict II"
+    },
+    "variants": [
+      {
+        "form": "Benedict II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_082",
+    "name": {
+      "normalized": "John V"
+    },
+    "variants": [
+      {
+        "form": "John V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_083",
+    "name": {
+      "normalized": "Conon"
+    },
+    "variants": [
+      {
+        "form": "Conon",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Conon",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_084",
+    "name": {
+      "normalized": "Sergius I"
+    },
+    "variants": [
+      {
+        "form": "Sergius I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sergius I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_085",
+    "name": {
+      "normalized": "John VI"
+    },
+    "variants": [
+      {
+        "form": "John VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_086",
+    "name": {
+      "normalized": "John VII"
+    },
+    "variants": [
+      {
+        "form": "John VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_087",
+    "name": {
+      "normalized": "Sisinnius"
+    },
+    "variants": [
+      {
+        "form": "Sisinnius",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sisinnius",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_088",
+    "name": {
+      "normalized": "Constantine"
+    },
+    "variants": [
+      {
+        "form": "Constantine",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_089",
+    "name": {
+      "normalized": "Gregory II"
+    },
+    "variants": [
+      {
+        "form": "Gregory II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_090",
+    "name": {
+      "normalized": "Gregory III"
+    },
+    "variants": [
+      {
+        "form": "Gregory III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_091",
+    "name": {
+      "normalized": "Zachary"
+    },
+    "variants": [
+      {
+        "form": "Zachary",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Zacharias",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_092",
+    "name": {
+      "normalized": "Stephen II"
+    },
+    "variants": [
+      {
+        "form": "Stephen II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_093",
+    "name": {
+      "normalized": "Paul I"
+    },
+    "variants": [
+      {
+        "form": "Paul I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Paulus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_094",
+    "name": {
+      "normalized": "Stephen III"
+    },
+    "variants": [
+      {
+        "form": "Stephen III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_095",
+    "name": {
+      "normalized": "Adrian I"
+    },
+    "variants": [
+      {
+        "form": "Adrian I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hadrianus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_096",
+    "name": {
+      "normalized": "Leo III"
+    },
+    "variants": [
+      {
+        "form": "Leo III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_097",
+    "name": {
+      "normalized": "Stephen IV"
+    },
+    "variants": [
+      {
+        "form": "Stephen IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_098",
+    "name": {
+      "normalized": "Paschal I"
+    },
+    "variants": [
+      {
+        "form": "Paschal I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Paschalis I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_099",
+    "name": {
+      "normalized": "Eugene II"
+    },
+    "variants": [
+      {
+        "form": "Eugene II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Eugenius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_100",
+    "name": {
+      "normalized": "Valentine"
+    },
+    "variants": [
+      {
+        "form": "Valentine",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Valentinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_101",
+    "name": {
+      "normalized": "Gregory IV"
+    },
+    "variants": [
+      {
+        "form": "Gregory IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_102",
+    "name": {
+      "normalized": "Sergius II"
+    },
+    "variants": [
+      {
+        "form": "Sergius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sergius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_103",
+    "name": {
+      "normalized": "Leo IV"
+    },
+    "variants": [
+      {
+        "form": "Leo IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_104",
+    "name": {
+      "normalized": "Benedict III"
+    },
+    "variants": [
+      {
+        "form": "Benedict III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_105",
+    "name": {
+      "normalized": "Nicholas I"
+    },
+    "variants": [
+      {
+        "form": "Nicholas I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nicolaus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_106",
+    "name": {
+      "normalized": "Adrian II"
+    },
+    "variants": [
+      {
+        "form": "Adrian II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hadrianus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_107",
+    "name": {
+      "normalized": "John VIII"
+    },
+    "variants": [
+      {
+        "form": "John VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_108",
+    "name": {
+      "normalized": "Marinus I"
+    },
+    "variants": [
+      {
+        "form": "Marinus I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marinus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_109",
+    "name": {
+      "normalized": "Adrian III"
+    },
+    "variants": [
+      {
+        "form": "Adrian III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Hadrianus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_110",
+    "name": {
+      "normalized": "Stephen V"
+    },
+    "variants": [
+      {
+        "form": "Stephen V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_111",
+    "name": {
+      "normalized": "Formosus"
+    },
+    "variants": [
+      {
+        "form": "Formosus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Formosus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_112",
+    "name": {
+      "normalized": "Boniface VI"
+    },
+    "variants": [
+      {
+        "form": "Boniface VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bonifatius VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_113",
+    "name": {
+      "normalized": "Stephen VI"
+    },
+    "variants": [
+      {
+        "form": "Stephen VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_114",
+    "name": {
+      "normalized": "Romanus"
+    },
+    "variants": [
+      {
+        "form": "Romanus",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Romanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_115",
+    "name": {
+      "normalized": "Theodore II"
+    },
+    "variants": [
+      {
+        "form": "Theodore II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodorus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_116",
+    "name": {
+      "normalized": "John IX"
+    },
+    "variants": [
+      {
+        "form": "John IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_117",
+    "name": {
+      "normalized": "Benedict IV"
+    },
+    "variants": [
+      {
+        "form": "Benedict IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_118",
+    "name": {
+      "normalized": "Leo V"
+    },
+    "variants": [
+      {
+        "form": "Leo V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_119",
+    "name": {
+      "normalized": "Sergius III"
+    },
+    "variants": [
+      {
+        "form": "Sergius III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sergius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_120",
+    "name": {
+      "normalized": "Anastasius III"
+    },
+    "variants": [
+      {
+        "form": "Anastasius III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anastasius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_121",
+    "name": {
+      "normalized": "Lando"
+    },
+    "variants": [
+      {
+        "form": "Lando",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Lando",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_122",
+    "name": {
+      "normalized": "John X"
+    },
+    "variants": [
+      {
+        "form": "John X",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_123",
+    "name": {
+      "normalized": "Leo VI"
+    },
+    "variants": [
+      {
+        "form": "Leo VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_124",
+    "name": {
+      "normalized": "Stephen VII"
+    },
+    "variants": [
+      {
+        "form": "Stephen VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_125",
+    "name": {
+      "normalized": "John XI"
+    },
+    "variants": [
+      {
+        "form": "John XI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_126",
+    "name": {
+      "normalized": "Leo VII"
+    },
+    "variants": [
+      {
+        "form": "Leo VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_127",
+    "name": {
+      "normalized": "Stephen VIII"
+    },
+    "variants": [
+      {
+        "form": "Stephen VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_128",
+    "name": {
+      "normalized": "Marinus II"
+    },
+    "variants": [
+      {
+        "form": "Marinus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marinus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_129",
+    "name": {
+      "normalized": "Agapetus II"
+    },
+    "variants": [
+      {
+        "form": "Agapetus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Agapetus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_130",
+    "name": {
+      "normalized": "John XII"
+    },
+    "variants": [
+      {
+        "form": "John XII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ottaviano",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_131",
+    "name": {
+      "normalized": "Leo VIII"
+    },
+    "variants": [
+      {
+        "form": "Leo VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_132",
+    "name": {
+      "normalized": "Benedict V"
+    },
+    "variants": [
+      {
+        "form": "Benedict V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_133",
+    "name": {
+      "normalized": "John XIII"
+    },
+    "variants": [
+      {
+        "form": "John XIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_134",
+    "name": {
+      "normalized": "Benedict VI"
+    },
+    "variants": [
+      {
+        "form": "Benedict VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_135",
+    "name": {
+      "normalized": "Benedict VII"
+    },
+    "variants": [
+      {
+        "form": "Benedict VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_136",
+    "name": {
+      "normalized": "John XIV"
+    },
+    "variants": [
+      {
+        "form": "John XIV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pietro",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XIV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_137",
+    "name": {
+      "normalized": "John XV"
+    },
+    "variants": [
+      {
+        "form": "John XV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_138",
+    "name": {
+      "normalized": "Gregory V"
+    },
+    "variants": [
+      {
+        "form": "Gregory V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bruno of Carinthia",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_139",
+    "name": {
+      "normalized": "Sylvester II"
+    },
+    "variants": [
+      {
+        "form": "Sylvester II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gerbert",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Silvester II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_140",
+    "name": {
+      "normalized": "John XVII"
+    },
+    "variants": [
+      {
+        "form": "John XVII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Siccone",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XVII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_141",
+    "name": {
+      "normalized": "John XVIII"
+    },
+    "variants": [
+      {
+        "form": "John XVIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Fasano",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XVIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_142",
+    "name": {
+      "normalized": "Sergius IV"
+    },
+    "variants": [
+      {
+        "form": "Sergius IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pietro",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Sergius IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_143",
+    "name": {
+      "normalized": "Benedict VIII"
+    },
+    "variants": [
+      {
+        "form": "Benedict VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Teofilatto dei conti di Tuscolo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_144",
+    "name": {
+      "normalized": "John XIX"
+    },
+    "variants": [
+      {
+        "form": "John XIX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Romano dei conti di Tuscolo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XIX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_145",
+    "name": {
+      "normalized": "Benedict IX"
+    },
+    "variants": [
+      {
+        "form": "Benedict IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theophylactus of Tusculum",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_146",
+    "name": {
+      "normalized": "Sylvester III"
+    },
+    "variants": [
+      {
+        "form": "Sylvester III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Silvester III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_147",
+    "name": {
+      "normalized": "Benedict IX"
+    },
+    "variants": [
+      {
+        "form": "Benedict IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theophylactus of Tusculum",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_148",
+    "name": {
+      "normalized": "Gregory VI"
+    },
+    "variants": [
+      {
+        "form": "Gregory VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Graziano",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_149",
+    "name": {
+      "normalized": "Clement II"
+    },
+    "variants": [
+      {
+        "form": "Clement II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Suidger, Graf von Morsleben und Hornburg",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_150",
+    "name": {
+      "normalized": "Benedict IX"
+    },
+    "variants": [
+      {
+        "form": "Benedict IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theophylactus of Tusculum",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_151",
+    "name": {
+      "normalized": "Damasus II"
+    },
+    "variants": [
+      {
+        "form": "Damasus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Poppo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Damasus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_152",
+    "name": {
+      "normalized": "Leo IX"
+    },
+    "variants": [
+      {
+        "form": "Leo IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bruno of Eguisheim-Dagsburg",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_153",
+    "name": {
+      "normalized": "Victor II"
+    },
+    "variants": [
+      {
+        "form": "Victor II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gebhard Of Dollnstein-hirschberg",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Victor II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_154",
+    "name": {
+      "normalized": "Stephen IX"
+    },
+    "variants": [
+      {
+        "form": "Stephen IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Frédéric de Lorraine",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Stephanus IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_155",
+    "name": {
+      "normalized": "Nicholas II"
+    },
+    "variants": [
+      {
+        "form": "Nicholas II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gérard",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Nicolaus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_156",
+    "name": {
+      "normalized": "Alexander II"
+    },
+    "variants": [
+      {
+        "form": "Alexander II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Anselmo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_157",
+    "name": {
+      "normalized": "Gregory VII"
+    },
+    "variants": [
+      {
+        "form": "Gregory VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ildebrando",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_158",
+    "name": {
+      "normalized": "Victor III"
+    },
+    "variants": [
+      {
+        "form": "Victor III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Dauferio (Desiderio)",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Victor III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_159",
+    "name": {
+      "normalized": "Urban II"
+    },
+    "variants": [
+      {
+        "form": "Urban II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Odo of Lagery",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Urbanus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_160",
+    "name": {
+      "normalized": "Paschal II"
+    },
+    "variants": [
+      {
+        "form": "Paschal II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Raniero",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Paschalis II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_161",
+    "name": {
+      "normalized": "Gelasius II"
+    },
+    "variants": [
+      {
+        "form": "Gelasius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Caetani",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gelasius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_162",
+    "name": {
+      "normalized": "Callixtus II"
+    },
+    "variants": [
+      {
+        "form": "Callixtus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Guy of Burgundy",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Callixtus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_163",
+    "name": {
+      "normalized": "Honorius II"
+    },
+    "variants": [
+      {
+        "form": "Honorius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Lamberto Scannabecchi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Honorius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_164",
+    "name": {
+      "normalized": "Innocent II"
+    },
+    "variants": [
+      {
+        "form": "Innocent II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorio Papareschi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_165",
+    "name": {
+      "normalized": "Celestine II"
+    },
+    "variants": [
+      {
+        "form": "Celestine II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Guido",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Caelestinus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_166",
+    "name": {
+      "normalized": "Lucius II"
+    },
+    "variants": [
+      {
+        "form": "Lucius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gerardo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Lucius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_167",
+    "name": {
+      "normalized": "Eugene III"
+    },
+    "variants": [
+      {
+        "form": "Eugene III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bernardo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Eugenius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_168",
+    "name": {
+      "normalized": "Anastasius IV"
+    },
+    "variants": [
+      {
+        "form": "Anastasius IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Corrado",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Anastasius IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_169",
+    "name": {
+      "normalized": "Adrian IV"
+    },
+    "variants": [
+      {
+        "form": "Adrian IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Nicholas Breakspear",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Hadrianus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_170",
+    "name": {
+      "normalized": "Alexander III"
+    },
+    "variants": [
+      {
+        "form": "Alexander III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Rolando Bandinelli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_171",
+    "name": {
+      "normalized": "Lucius III"
+    },
+    "variants": [
+      {
+        "form": "Lucius III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ubaldo Allucingoli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Lucius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_172",
+    "name": {
+      "normalized": "Urban III"
+    },
+    "variants": [
+      {
+        "form": "Urban III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Umberto Crivelli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Urbanus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_173",
+    "name": {
+      "normalized": "Gregory VIII"
+    },
+    "variants": [
+      {
+        "form": "Gregory VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alberto di Morra",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_174",
+    "name": {
+      "normalized": "Clement III"
+    },
+    "variants": [
+      {
+        "form": "Clement III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Paolo Scolari",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_175",
+    "name": {
+      "normalized": "Celestine III"
+    },
+    "variants": [
+      {
+        "form": "Celestine III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giacinto Bobone",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Caelestinus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_176",
+    "name": {
+      "normalized": "Innocent III"
+    },
+    "variants": [
+      {
+        "form": "Innocent III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Lotario dei conti di Segni",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_177",
+    "name": {
+      "normalized": "Honorius III"
+    },
+    "variants": [
+      {
+        "form": "Honorius III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Cencio",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Honorius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_178",
+    "name": {
+      "normalized": "Gregory IX"
+    },
+    "variants": [
+      {
+        "form": "Gregory IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ugolino di Segni",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_179",
+    "name": {
+      "normalized": "Celestine IV"
+    },
+    "variants": [
+      {
+        "form": "Celestine IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Goffredo da Castiglione",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Caelestinus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_180",
+    "name": {
+      "normalized": "Innocent IV"
+    },
+    "variants": [
+      {
+        "form": "Innocent IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sinibaldo Fieschi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_181",
+    "name": {
+      "normalized": "Alexander IV"
+    },
+    "variants": [
+      {
+        "form": "Alexander IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Rinaldo di Jenne",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_182",
+    "name": {
+      "normalized": "Urban IV"
+    },
+    "variants": [
+      {
+        "form": "Urban IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jacques Pantaléon",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Urbanus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_183",
+    "name": {
+      "normalized": "Clement IV"
+    },
+    "variants": [
+      {
+        "form": "Clement IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gui Foulques",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_184",
+    "name": {
+      "normalized": "Gregory X"
+    },
+    "variants": [
+      {
+        "form": "Gregory X",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Tebaldo Visconti",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_185",
+    "name": {
+      "normalized": "Innocent V"
+    },
+    "variants": [
+      {
+        "form": "Innocent V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pierre De Tarentaise",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_186",
+    "name": {
+      "normalized": "Adrian V"
+    },
+    "variants": [
+      {
+        "form": "Adrian V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ottobono Fieschi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Hadrianus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_187",
+    "name": {
+      "normalized": "John XXI"
+    },
+    "variants": [
+      {
+        "form": "John XXI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pedro Julião or Pedro Hispano",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XXI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_188",
+    "name": {
+      "normalized": "Nicholas III"
+    },
+    "variants": [
+      {
+        "form": "Nicholas III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Gaetano Orsini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Nicolaus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_189",
+    "name": {
+      "normalized": "Martin IV"
+    },
+    "variants": [
+      {
+        "form": "Martin IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Simon de Brie or of Brion or of Mainpincien",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Martinus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_190",
+    "name": {
+      "normalized": "Honorius IV"
+    },
+    "variants": [
+      {
+        "form": "Honorius IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giacomo Savelli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Honorius IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_191",
+    "name": {
+      "normalized": "Nicholas IV"
+    },
+    "variants": [
+      {
+        "form": "Nicholas IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Girolamo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Nicolaus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_192",
+    "name": {
+      "normalized": "Celestine V"
+    },
+    "variants": [
+      {
+        "form": "Celestine V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pietro del Morrone",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Caelestinus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_193",
+    "name": {
+      "normalized": "Boniface VIII"
+    },
+    "variants": [
+      {
+        "form": "Boniface VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedetto Caetani",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Bonifatius VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_194",
+    "name": {
+      "normalized": "Benedict XI"
+    },
+    "variants": [
+      {
+        "form": "Benedict XI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Niccolò di Boccasio",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_195",
+    "name": {
+      "normalized": "Clement V"
+    },
+    "variants": [
+      {
+        "form": "Clement V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bertrand de Got",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_196",
+    "name": {
+      "normalized": "John XXII"
+    },
+    "variants": [
+      {
+        "form": "John XXII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jacques Duèse",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XXII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_197",
+    "name": {
+      "normalized": "Benedict XII"
+    },
+    "variants": [
+      {
+        "form": "Benedict XII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jacques Fournier",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_198",
+    "name": {
+      "normalized": "Clement VI"
+    },
+    "variants": [
+      {
+        "form": "Clement VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pierre Roger",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_199",
+    "name": {
+      "normalized": "Innocent VI"
+    },
+    "variants": [
+      {
+        "form": "Innocent VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Étienne Aubert",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_200",
+    "name": {
+      "normalized": "Urban V"
+    },
+    "variants": [
+      {
+        "form": "Urban V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Guillaume Grimoard",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Urbanus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_201",
+    "name": {
+      "normalized": "Gregory XI"
+    },
+    "variants": [
+      {
+        "form": "Gregory XI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pierre Roger de Beaufort",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_202",
+    "name": {
+      "normalized": "Urban VI"
+    },
+    "variants": [
+      {
+        "form": "Urban VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bartolomeo Prignano",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Urbanus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_203",
+    "name": {
+      "normalized": "Boniface IX"
+    },
+    "variants": [
+      {
+        "form": "Boniface IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pietro Tomacelli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Bonifatius IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_204",
+    "name": {
+      "normalized": "Innocent VII"
+    },
+    "variants": [
+      {
+        "form": "Innocent VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Cosma Migliorati",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_205",
+    "name": {
+      "normalized": "Gregory XII"
+    },
+    "variants": [
+      {
+        "form": "Gregory XII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Angelo Correr",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_206",
+    "name": {
+      "normalized": "Martin V"
+    },
+    "variants": [
+      {
+        "form": "Martin V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Oddone Colonna",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Martinus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_207",
+    "name": {
+      "normalized": "Eugene IV"
+    },
+    "variants": [
+      {
+        "form": "Eugene IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gabriele Condulmer",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Eugenius IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_208",
+    "name": {
+      "normalized": "Nicholas V"
+    },
+    "variants": [
+      {
+        "form": "Nicholas V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Tommaso Parentucelli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Nicolaus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_209",
+    "name": {
+      "normalized": "Callixtus III"
+    },
+    "variants": [
+      {
+        "form": "Callixtus III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alonso Borja",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Callixtus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_210",
+    "name": {
+      "normalized": "Pius II"
+    },
+    "variants": [
+      {
+        "form": "Pius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Enea Silvio Piccolomini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_211",
+    "name": {
+      "normalized": "Paul II"
+    },
+    "variants": [
+      {
+        "form": "Paul II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pietro Barbo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Paulus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_212",
+    "name": {
+      "normalized": "Sixtus IV"
+    },
+    "variants": [
+      {
+        "form": "Sixtus IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Francesco della Rovere",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Sixtus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_213",
+    "name": {
+      "normalized": "Innocent VIII"
+    },
+    "variants": [
+      {
+        "form": "Innocent VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Battista Cibo",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_214",
+    "name": {
+      "normalized": "Alexander VI"
+    },
+    "variants": [
+      {
+        "form": "Alexander VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Rodrigo de Borja",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_215",
+    "name": {
+      "normalized": "Pius III"
+    },
+    "variants": [
+      {
+        "form": "Pius III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Francesco Todeschini-Piccolomini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_216",
+    "name": {
+      "normalized": "Julius II"
+    },
+    "variants": [
+      {
+        "form": "Julius II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giuliano della Rovere",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Iulius II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_217",
+    "name": {
+      "normalized": "Leo X"
+    },
+    "variants": [
+      {
+        "form": "Leo X",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni de' Medici",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_218",
+    "name": {
+      "normalized": "Adrian VI"
+    },
+    "variants": [
+      {
+        "form": "Adrian VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Adriaan Florensz",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Hadrianus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_219",
+    "name": {
+      "normalized": "Clement VII"
+    },
+    "variants": [
+      {
+        "form": "Clement VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giulio de' Medici",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_220",
+    "name": {
+      "normalized": "Paul III"
+    },
+    "variants": [
+      {
+        "form": "Paul III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alessandro Farnese",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Paulus III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_221",
+    "name": {
+      "normalized": "Julius III"
+    },
+    "variants": [
+      {
+        "form": "Julius III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Maria Ciocchi del Monte",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Iulius III",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_222",
+    "name": {
+      "normalized": "Marcellus II"
+    },
+    "variants": [
+      {
+        "form": "Marcellus II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Marcello Cervini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Marcellus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_223",
+    "name": {
+      "normalized": "Paul IV"
+    },
+    "variants": [
+      {
+        "form": "Paul IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gian Pietro Carafa",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Paulus IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_224",
+    "name": {
+      "normalized": "Pius IV"
+    },
+    "variants": [
+      {
+        "form": "Pius IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovan Angelo Medici",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius IV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_225",
+    "name": {
+      "normalized": "Pius V"
+    },
+    "variants": [
+      {
+        "form": "Pius V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Antonio (Michele) Ghisleri",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_226",
+    "name": {
+      "normalized": "Gregory XIII"
+    },
+    "variants": [
+      {
+        "form": "Gregory XIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ugo Boncompagni",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_227",
+    "name": {
+      "normalized": "Sixtus V"
+    },
+    "variants": [
+      {
+        "form": "Sixtus V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Felice Peretti",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Sixtus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_228",
+    "name": {
+      "normalized": "Urban VII"
+    },
+    "variants": [
+      {
+        "form": "Urban VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giambattista Castagna",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Urbanus VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_229",
+    "name": {
+      "normalized": "Gregory XIV"
+    },
+    "variants": [
+      {
+        "form": "Gregory XIV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Niccolò Sfondrati",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius XIV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_230",
+    "name": {
+      "normalized": "Innocent IX"
+    },
+    "variants": [
+      {
+        "form": "Innocent IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovan Antonio Facchinetti",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_231",
+    "name": {
+      "normalized": "Clement VIII"
+    },
+    "variants": [
+      {
+        "form": "Clement VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ippolito Aldobrandini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_232",
+    "name": {
+      "normalized": "Leo XI"
+    },
+    "variants": [
+      {
+        "form": "Leo XI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alessandro de' Medici",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_233",
+    "name": {
+      "normalized": "Paul V"
+    },
+    "variants": [
+      {
+        "form": "Paul V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Camillo Borghese",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Paulus V",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_234",
+    "name": {
+      "normalized": "Gregory XV"
+    },
+    "variants": [
+      {
+        "form": "Gregory XV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alessandro Ludovisi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius XV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_235",
+    "name": {
+      "normalized": "Urban VIII"
+    },
+    "variants": [
+      {
+        "form": "Urban VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maffeo Barberini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Urbanus VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_236",
+    "name": {
+      "normalized": "Innocent X"
+    },
+    "variants": [
+      {
+        "form": "Innocent X",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Battista Pamphilj",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_237",
+    "name": {
+      "normalized": "Alexander VII"
+    },
+    "variants": [
+      {
+        "form": "Alexander VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Fabio Chigi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_238",
+    "name": {
+      "normalized": "Clement IX"
+    },
+    "variants": [
+      {
+        "form": "Clement IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giulio Rospigliosi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_239",
+    "name": {
+      "normalized": "Clement X"
+    },
+    "variants": [
+      {
+        "form": "Clement X",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Emilio Altieri",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_240",
+    "name": {
+      "normalized": "Innocent XI"
+    },
+    "variants": [
+      {
+        "form": "Innocent XI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedetto Odescalchi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_241",
+    "name": {
+      "normalized": "Alexander VIII"
+    },
+    "variants": [
+      {
+        "form": "Alexander VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pietro Ottoboni",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_242",
+    "name": {
+      "normalized": "Innocent XII"
+    },
+    "variants": [
+      {
+        "form": "Innocent XII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Antonio Pignatelli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_243",
+    "name": {
+      "normalized": "Clement XI"
+    },
+    "variants": [
+      {
+        "form": "Clement XI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Francesco Albani",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_244",
+    "name": {
+      "normalized": "Innocent XIII"
+    },
+    "variants": [
+      {
+        "form": "Innocent XIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michelangelo Conti",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Innocentius XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_245",
+    "name": {
+      "normalized": "Benedict XIII"
+    },
+    "variants": [
+      {
+        "form": "Benedict XIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pietro Francesco (Vincenzo Maria) Orsini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_246",
+    "name": {
+      "normalized": "Clement XII"
+    },
+    "variants": [
+      {
+        "form": "Clement XII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Lorenzo Corsini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_247",
+    "name": {
+      "normalized": "Benedict XIV"
+    },
+    "variants": [
+      {
+        "form": "Benedict XIV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Prospero Lambertini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus XIV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_248",
+    "name": {
+      "normalized": "Clement XIII"
+    },
+    "variants": [
+      {
+        "form": "Clement XIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Carlo Rezzonico",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_249",
+    "name": {
+      "normalized": "Clement XIV"
+    },
+    "variants": [
+      {
+        "form": "Clement XIV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Vincenzo Antonio (Lorenzo) Ganganelli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Clemens XIV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_250",
+    "name": {
+      "normalized": "Pius VI"
+    },
+    "variants": [
+      {
+        "form": "Pius VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giannangelo Braschi",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_251",
+    "name": {
+      "normalized": "Pius VII"
+    },
+    "variants": [
+      {
+        "form": "Pius VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Barnaba (Gregorio) Chiaramonti",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius VII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_252",
+    "name": {
+      "normalized": "Leo XII"
+    },
+    "variants": [
+      {
+        "form": "Leo XII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Annibale della Genga",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_253",
+    "name": {
+      "normalized": "Pius VIII"
+    },
+    "variants": [
+      {
+        "form": "Pius VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Francesco Saverio Castiglioni",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius VIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_254",
+    "name": {
+      "normalized": "Gregory XVI"
+    },
+    "variants": [
+      {
+        "form": "Gregory XVI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Bartolomeo Alberto (Mauro) Cappellari",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Gregorius XVI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_255",
+    "name": {
+      "normalized": "Pius IX"
+    },
+    "variants": [
+      {
+        "form": "Pius IX",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Maria Mastai Ferretti",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius IX",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_256",
+    "name": {
+      "normalized": "Leo XIII"
+    },
+    "variants": [
+      {
+        "form": "Leo XIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vincenzo Gioacchino Pecci",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo XIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_257",
+    "name": {
+      "normalized": "Pius X"
+    },
+    "variants": [
+      {
+        "form": "Pius X",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giuseppe Melchiorre Sarto",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius X",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_258",
+    "name": {
+      "normalized": "Benedict XV"
+    },
+    "variants": [
+      {
+        "form": "Benedict XV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giacomo della Chiesa",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus XV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_259",
+    "name": {
+      "normalized": "Pius XI"
+    },
+    "variants": [
+      {
+        "form": "Pius XI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Achille Ratti",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius XI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_260",
+    "name": {
+      "normalized": "Pius XII"
+    },
+    "variants": [
+      {
+        "form": "Pius XII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Eugenio Pacelli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Pius XII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_261",
+    "name": {
+      "normalized": "John XXIII"
+    },
+    "variants": [
+      {
+        "form": "John XXIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Angelo Giuseppe Roncalli",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes XXIII",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_262",
+    "name": {
+      "normalized": "Paul VI"
+    },
+    "variants": [
+      {
+        "form": "Paul VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Giovanni Battista Montini",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Paulus VI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_263",
+    "name": {
+      "normalized": "John Paul I"
+    },
+    "variants": [
+      {
+        "form": "John Paul I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Albino Luciani",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes Paulus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_264",
+    "name": {
+      "normalized": "John Paul II"
+    },
+    "variants": [
+      {
+        "form": "John Paul II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Karol Wojtyła",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Ioannes Paulus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_265",
+    "name": {
+      "normalized": "Benedict XVI"
+    },
+    "variants": [
+      {
+        "form": "Benedict XVI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph Ratzinger",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Benedictus XVI",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_266",
+    "name": {
+      "normalized": "Francis"
+    },
+    "variants": [
+      {
+        "form": "Francis",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Jorge Mario Bergoglio",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Franciscus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_POPE_267",
+    "name": {
+      "normalized": "Leo XIV"
+    },
+    "variants": [
+      {
+        "form": "Leo XIV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      },
+      {
+        "form": "Robert Francis Prevost",
+        "lang": null,
+        "script": "Latn",
+        "kind": "secular",
+        "casus": "nom"
+      },
+      {
+        "form": "Leo XIV",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "papal",
+        "casus": "nom"
+      }
+    ]
+  }
+]
