@@ -1,0 +1,25 @@
+[
+  {
+    "id": "POLITY_UNITED_KINGDOM",
+    "label": "Great Britain and the United Kingdom",
+    "region": "United Kingdom",
+    "notes": "Great Britain was created on 1 May 1707; the state title changed with the unions involving Ireland without interrupting the Crown.",
+    "sources": [
+      {
+        "title": "Kings and Queens from 1066",
+        "url": "https://www.royal.uk/kings-and-queens-1066",
+        "note": "Official Royal Household reign chronology."
+      },
+      {
+        "title": "The Articles, constitution and trade",
+        "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/the-articles-constitution-and-trade/",
+        "note": "UK Parliament account fixing the creation of Great Britain on 1 May 1707."
+      },
+      {
+        "title": "100 Coronation Facts",
+        "url": "https://www.royal.uk/100-coronation-facts",
+        "note": "Official confirmation that Charles III succeeded on 8 September 2022."
+      }
+    ]
+  }
+]

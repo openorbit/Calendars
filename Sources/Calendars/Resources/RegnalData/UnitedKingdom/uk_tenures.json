@@ -1,0 +1,474 @@
+[
+  {
+    "id": "TEN_UK_ANNE",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_ENGLAND_ANNE",
+    "ordinal": null,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1707,
+          "month": 5,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1714,
+          "month": 8,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_GEORGE_I",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_GEORGE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1714,
+          "month": 8,
+          "day": 1
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1727,
+          "month": 6,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_GEORGE_II",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_GEORGE_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1727,
+          "month": 6,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1760,
+          "month": 10,
+          "day": 25
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_GEORGE_III",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_GEORGE_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1760,
+          "month": 10,
+          "day": 25
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1820,
+          "month": 1,
+          "day": 29
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_GEORGE_IV",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_GEORGE_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1820,
+          "month": 1,
+          "day": 29
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1830,
+          "month": 6,
+          "day": 26
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_WILLIAM_IV",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_WILLIAM_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1830,
+          "month": 6,
+          "day": 26
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1837,
+          "month": 6,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_VICTORIA",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_VICTORIA",
+    "ordinal": null,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1837,
+          "month": 6,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1901,
+          "month": 1,
+          "day": 22
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_EDWARD_VII",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_EDWARD_VII",
+    "ordinal": 7,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1901,
+          "month": 1,
+          "day": 22
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1910,
+          "month": 5,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_GEORGE_V",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_GEORGE_V",
+    "ordinal": 5,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1910,
+          "month": 5,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1936,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_EDWARD_VIII",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_EDWARD_VIII",
+    "ordinal": 8,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1936,
+          "month": 1,
+          "day": 20
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1936,
+          "month": 12,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_GEORGE_VI",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_GEORGE_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1936,
+          "month": 12,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1952,
+          "month": 2,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_ELIZABETH_II",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_ELIZABETH_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1952,
+          "month": 2,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2022,
+          "month": 9,
+          "day": 8
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_UK_CHARLES_III",
+    "office_id": "OFFICE_UK_MONARCH",
+    "person_id": "P_UK_CHARLES_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_UNITED_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2022,
+          "month": 9,
+          "day": 8
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "open"
+      }
+    ],
+    "certainty": "high",
+    "status": "incumbent"
+  }
+]

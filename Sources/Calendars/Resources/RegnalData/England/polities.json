@@ -6,8 +6,20 @@
     "region": "England",
     "valid_julian": {
       "start": "1066-10-14",
-      "end": "1603-03-24"
+      "end": "1707-05-01"
     },
-    "notes": "Old Style (Annunciation) New Year on March 25 in this period."
+    "notes": "The Kingdom of England continues through the Stuart personal union and ends when England and Scotland unite as Great Britain on 1 May 1707.",
+    "sources": [
+      {
+        "title": "Kings and Queens from 1066",
+        "url": "https://www.royal.uk/kings-and-queens-1066",
+        "note": "Official Royal Household reign chronology."
+      },
+      {
+        "title": "Act of Union 1707: Key dates",
+        "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/key-dates/",
+        "note": "UK Parliament chronology for the Union of the Crowns and creation of Great Britain."
+      }
+    ]
   }
 ]

@@ -28,11 +28,25 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1066
+          "year": 1707,
+          "month": 5,
+          "day": 1
         }
       }
     ],
-    "notes": "Unified under Athelstan; ends here at the Norman Conquest."
+    "notes": "Unified under Athelstan and continued through the Norman and Stuart dynasties until the Union of 1707.",
+    "sources": [
+      {
+        "title": "Kings and Queens from 1066",
+        "url": "https://www.royal.uk/kings-and-queens-1066",
+        "note": "Official Royal Household reign chronology."
+      },
+      {
+        "title": "Act of Union 1707: Key dates",
+        "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/key-dates/",
+        "note": "UK Parliament chronology for the creation of Great Britain."
+      }
+    ]
   },
   {
     "id": "POLITY_WESSEX",

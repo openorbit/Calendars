@@ -96,14 +96,21 @@ public struct RegnalOffice: Codable, Identifiable, Sendable {
     }
 }
 
+public struct RegnalSource: Codable, Sendable, Equatable {
+    public let title: String
+    public let url: String
+    public let note: String?
+}
+
 public struct RegnalPolity: Codable, Identifiable, Sendable {
     public let id: String
     public let label: String
     public let region: String
     public let notes: String?
+    public let sources: [RegnalSource]
 
     enum CodingKeys: String, CodingKey {
-        case id, label, region, notes
+        case id, label, region, notes, sources
     }
 
     public init(from decoder: any Decoder) throws {
@@ -112,6 +119,7 @@ public struct RegnalPolity: Codable, Identifiable, Sendable {
         label = try container.decode(String.self, forKey: .label)
         region = try container.decodeIfPresent(String.self, forKey: .region) ?? ""
         notes = try container.decodeIfPresent(String.self, forKey: .notes)
+        sources = try container.decodeIfPresent([RegnalSource].self, forKey: .sources) ?? []
     }
 }
 

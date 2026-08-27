@@ -58,6 +58,7 @@ struct RegnalCalendarTests {
             "POLITY_SUSSEX",
             "POLITY_SWEDEN",
             "POLITY_TURKEY",
+            "POLITY_UNITED_KINGDOM",
             "POLITY_UNITED_STATES",
             "POLITY_VISIGOTHIC_KINGDOM",
             "POLITY_WESSEX",
@@ -112,6 +113,7 @@ struct RegnalCalendarTests {
         "POLITY_SUSSEX",
         "POLITY_SWEDEN",
         "POLITY_TURKEY",
+        "POLITY_UNITED_KINGDOM",
         "POLITY_UNITED_STATES",
         "POLITY_VISIGOTHIC_KINGDOM",
         "POLITY_WESSEX",
@@ -218,6 +220,46 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("England transitions to Great Britain at the 1707 union")
+    func englandTransitionsToGreatBritainAtThe1707Union() throws {
+        let england = calendar.tenures(forOffice: "OFFICE_ENGLAND_KING")
+        let unitedKingdom = calendar.tenures(forOffice: "OFFICE_UK_MONARCH")
+        let englishAnne = try #require(
+            england.first { $0.personID == "P_ENGLAND_ANNE" }
+        )
+        let britishAnne = try #require(
+            unitedKingdom.first { $0.personID == "P_ENGLAND_ANNE" }
+        )
+
+        #expect(englishAnne.end.first?.ymd?.year == 1707)
+        #expect(englishAnne.end.first?.ymd?.month == 5)
+        #expect(englishAnne.end.first?.ymd?.day == 1)
+        #expect(britishAnne.start.first?.ymd?.year == 1707)
+        #expect(britishAnne.start.first?.ymd?.month == 5)
+        #expect(britishAnne.start.first?.ymd?.day == 1)
+        #expect(england.contains { $0.personID == "P_ENGLAND_JAMES_I" })
+        #expect(england.contains { $0.personID == "P_ENGLAND_WILLIAM_III" })
+    }
+
+    @Test("United Kingdom succession reaches Charles III with sources")
+    func unitedKingdomSuccessionReachesCharlesIIIWithSources() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_UK_MONARCH")
+        let charles = try #require(
+            tenures.first { $0.personID == "P_UK_CHARLES_III" }
+        )
+        let polity = try #require(calendar.polities["POLITY_UNITED_KINGDOM"])
+
+        #expect(tenures.count == 13)
+        #expect(charles.start.first?.ymd?.year == 2022)
+        #expect(charles.start.first?.ymd?.month == 9)
+        #expect(charles.start.first?.ymd?.day == 8)
+        #expect(charles.end.first?.rep == "open")
+        #expect(charles.status == "incumbent")
+        #expect(polity.sources.count == 3)
+        #expect(polity.sources.allSatisfy { $0.url.hasPrefix("https://") })
+        #expect(calendar.polities["POLITY_ENGLAND"]?.sources.isEmpty == false)
     }
 
     @Test("Polish succession preserves the seniorate restorations")

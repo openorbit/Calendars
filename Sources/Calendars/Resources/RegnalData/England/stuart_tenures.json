@@ -1,0 +1,261 @@
+[
+  {
+    "id": "TENURE_ENGLAND_JAMES_I",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "P_ENGLAND_JAMES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_ENGLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1603,
+          "month": 3,
+          "day": 24
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1625,
+          "month": 3,
+          "day": 27
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_ENGLAND_CHARLES_I",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "P_ENGLAND_CHARLES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_ENGLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1625,
+          "month": 3,
+          "day": 27
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1649,
+          "month": 1,
+          "day": 30
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_ENGLAND_CHARLES_II",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "P_ENGLAND_CHARLES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_ENGLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1660,
+          "month": 5,
+          "day": 29
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1685,
+          "month": 2,
+          "day": 6
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_ENGLAND_JAMES_II",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "P_ENGLAND_JAMES_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_ENGLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1685,
+          "month": 2,
+          "day": 6
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1688,
+          "month": 12,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_ENGLAND_WILLIAM_III",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "P_ENGLAND_WILLIAM_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_ENGLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1689,
+          "month": 2,
+          "day": 13
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1702,
+          "month": 3,
+          "day": 8
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_ENGLAND_MARY_II",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "P_ENGLAND_MARY_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_ENGLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1689,
+          "month": 2,
+          "day": 13
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1694,
+          "month": 12,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TENURE_ENGLAND_ANNE",
+    "office_id": "OFFICE_ENGLAND_KING",
+    "person_id": "P_ENGLAND_ANNE",
+    "ordinal": null,
+    "polity_id": "POLITY_ENGLAND",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1702,
+          "month": 3,
+          "day": 8
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Julian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1707,
+          "month": 5,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  }
+]

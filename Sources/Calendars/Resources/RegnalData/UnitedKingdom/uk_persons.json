@@ -1,0 +1,182 @@
+[
+  {
+    "id": "P_UK_GEORGE_I",
+    "name": {
+      "normalized": "George I"
+    },
+    "variants": [
+      {
+        "form": "George I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_GEORGE_II",
+    "name": {
+      "normalized": "George II"
+    },
+    "variants": [
+      {
+        "form": "George II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_GEORGE_III",
+    "name": {
+      "normalized": "George III"
+    },
+    "variants": [
+      {
+        "form": "George III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_GEORGE_IV",
+    "name": {
+      "normalized": "George IV"
+    },
+    "variants": [
+      {
+        "form": "George IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_WILLIAM_IV",
+    "name": {
+      "normalized": "William IV"
+    },
+    "variants": [
+      {
+        "form": "William IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_VICTORIA",
+    "name": {
+      "normalized": "Victoria"
+    },
+    "variants": [
+      {
+        "form": "Victoria",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_EDWARD_VII",
+    "name": {
+      "normalized": "Edward VII"
+    },
+    "variants": [
+      {
+        "form": "Edward VII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_GEORGE_V",
+    "name": {
+      "normalized": "George V"
+    },
+    "variants": [
+      {
+        "form": "George V",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_EDWARD_VIII",
+    "name": {
+      "normalized": "Edward VIII"
+    },
+    "variants": [
+      {
+        "form": "Edward VIII",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_GEORGE_VI",
+    "name": {
+      "normalized": "George VI"
+    },
+    "variants": [
+      {
+        "form": "George VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_ELIZABETH_II",
+    "name": {
+      "normalized": "Elizabeth II"
+    },
+    "variants": [
+      {
+        "form": "Elizabeth II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_UK_CHARLES_III",
+    "name": {
+      "normalized": "Charles III"
+    },
+    "variants": [
+      {
+        "form": "Charles III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "P_ENGLAND_JAMES_I",
+    "name": {
+      "normalized": "James I"
+    },
+    "variants": [
+      {
+        "form": "James I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ENGLAND_CHARLES_I",
+    "name": {
+      "normalized": "Charles I"
+    },
+    "variants": [
+      {
+        "form": "Charles I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ENGLAND_CHARLES_II",
+    "name": {
+      "normalized": "Charles II"
+    },
+    "variants": [
+      {
+        "form": "Charles II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ENGLAND_JAMES_II",
+    "name": {
+      "normalized": "James II"
+    },
+    "variants": [
+      {
+        "form": "James II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ENGLAND_WILLIAM_III",
+    "name": {
+      "normalized": "William III"
+    },
+    "variants": [
+      {
+        "form": "William III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ENGLAND_MARY_II",
+    "name": {
+      "normalized": "Mary II"
+    },
+    "variants": [
+      {
+        "form": "Mary II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_ENGLAND_ANNE",
+    "name": {
+      "normalized": "Anne"
+    },
+    "variants": [
+      {
+        "form": "Anne",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]
