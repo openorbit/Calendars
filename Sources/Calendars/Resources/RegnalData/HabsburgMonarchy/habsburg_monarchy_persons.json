@@ -1,0 +1,288 @@
+[
+  {
+    "id": "P_HABSBURGMONARCHY_FERDINAND_I",
+    "name": {
+      "normalized": "Ferdinand I"
+    },
+    "variants": [
+      {
+        "form": "Ferdinand I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_MAXIMILIAN_II",
+    "name": {
+      "normalized": "Maximilian II"
+    },
+    "variants": [
+      {
+        "form": "Maximilian II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maximilian II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_RUDOLF_II",
+    "name": {
+      "normalized": "Rudolf II"
+    },
+    "variants": [
+      {
+        "form": "Rudolf II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Rudolf II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_MATTHIAS",
+    "name": {
+      "normalized": "Matthias"
+    },
+    "variants": [
+      {
+        "form": "Matthias",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Matthias",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_FERDINAND_II",
+    "name": {
+      "normalized": "Ferdinand II"
+    },
+    "variants": [
+      {
+        "form": "Ferdinand II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_FERDINAND_III",
+    "name": {
+      "normalized": "Ferdinand III"
+    },
+    "variants": [
+      {
+        "form": "Ferdinand III",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_LEOPOLD_I",
+    "name": {
+      "normalized": "Leopold I"
+    },
+    "variants": [
+      {
+        "form": "Leopold I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_JOSEPH_I",
+    "name": {
+      "normalized": "Joseph I"
+    },
+    "variants": [
+      {
+        "form": "Joseph I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_CHARLES_VI",
+    "name": {
+      "normalized": "Karl VI"
+    },
+    "variants": [
+      {
+        "form": "Karl VI",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Charles VI",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_MARIA_THERESA",
+    "name": {
+      "normalized": "Maria Theresia"
+    },
+    "variants": [
+      {
+        "form": "Maria Theresia",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Maria Theresia",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_JOSEPH_II",
+    "name": {
+      "normalized": "Joseph II"
+    },
+    "variants": [
+      {
+        "form": "Joseph II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Joseph II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_LEOPOLD_II",
+    "name": {
+      "normalized": "Leopold II"
+    },
+    "variants": [
+      {
+        "form": "Leopold II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Leopold II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_HABSBURGMONARCHY_FRANCIS_II",
+    "name": {
+      "normalized": "Franz II"
+    },
+    "variants": [
+      {
+        "form": "Franz II",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Francis II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "id": "TEN_HABSBURGMONARCHY_FERDINAND_I",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_FERDINAND_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1526
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1564
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_MAXIMILIAN_II",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_MAXIMILIAN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1564
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1576
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_RUDOLF_II",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_RUDOLF_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1576
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1612
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_MATTHIAS",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_MATTHIAS",
+    "ordinal": null,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1612
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1619
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_FERDINAND_II",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_FERDINAND_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1619
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1637
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_FERDINAND_III",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_FERDINAND_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1637
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1657
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_LEOPOLD_I",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_LEOPOLD_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1657
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1705
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_JOSEPH_I",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_JOSEPH_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1705
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1711
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_CHARLES_VI",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_CHARLES_VI",
+    "ordinal": 6,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1711
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1740
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_MARIA_THERESA",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_MARIA_THERESA",
+    "ordinal": null,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1740
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1780
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_JOSEPH_II",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_JOSEPH_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1780
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1790
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_LEOPOLD_II",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_LEOPOLD_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1790
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_HABSBURGMONARCHY_FRANCIS_II",
+    "office_id": "OFFICE_HABSBURG_MONARCH",
+    "person_id": "P_HABSBURGMONARCHY_FRANCIS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_HABSBURG_MONARCHY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1792
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1804
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

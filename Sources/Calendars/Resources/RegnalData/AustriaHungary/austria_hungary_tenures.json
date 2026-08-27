@@ -1,0 +1,75 @@
+[
+  {
+    "id": "TEN_AUSTRIAHUNGARY_FRANZ_JOSEPH_I",
+    "office_id": "OFFICE_AUSTRIA_HUNGARY_MONARCH",
+    "person_id": "P_AUSTRIAHUNGARY_FRANZ_JOSEPH_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_AUSTRIA_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1867
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1916,
+          "month": 11,
+          "day": 21
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_AUSTRIAHUNGARY_CHARLES_I",
+    "office_id": "OFFICE_AUSTRIA_HUNGARY_MONARCH",
+    "person_id": "P_AUSTRIAHUNGARY_CHARLES_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_AUSTRIA_HUNGARY",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1916,
+          "month": 11,
+          "day": 21
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1918,
+          "month": 11,
+          "day": 11
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Karl relinquished participation in Austrian affairs on 11 November 1918 without formally abdicating; Hungary followed on 13 November."
+  }
+]

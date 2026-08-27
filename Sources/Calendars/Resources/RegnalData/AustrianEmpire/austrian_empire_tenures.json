@@ -1,0 +1,111 @@
+[
+  {
+    "id": "TEN_AUSTRIANEMPIRE_FRANCIS_I",
+    "office_id": "OFFICE_AUSTRIAN_EMPEROR",
+    "person_id": "P_AUSTRIANEMPIRE_FRANCIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_AUSTRIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1804,
+          "month": 8,
+          "day": 11
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1835,
+          "month": 3,
+          "day": 2
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_AUSTRIANEMPIRE_FERDINAND_I",
+    "office_id": "OFFICE_AUSTRIAN_EMPEROR",
+    "person_id": "P_AUSTRIANEMPIRE_FERDINAND_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_AUSTRIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1835,
+          "month": 3,
+          "day": 2
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1848,
+          "month": 12,
+          "day": 2
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_AUSTRIANEMPIRE_FRANZ_JOSEPH_I",
+    "office_id": "OFFICE_AUSTRIAN_EMPEROR",
+    "person_id": "P_AUSTRIANEMPIRE_FRANZ_JOSEPH_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_AUSTRIAN_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1848,
+          "month": 12,
+          "day": 2
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1867
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized"
+  }
+]

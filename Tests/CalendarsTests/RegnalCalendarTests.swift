@@ -9,6 +9,8 @@ struct RegnalCalendarTests {
     func allSupportedPolitiesLoad() {
         let expectedIDs: Set<String> = [
             "POLITY_AUSTRASIA",
+            "POLITY_AUSTRIAN_EMPIRE",
+            "POLITY_AUSTRIA_HUNGARY",
             "POLITY_BELGIUM",
             "POLITY_CROWN_ARAGON",
             "POLITY_CROWN_CASTILE",
@@ -23,6 +25,7 @@ struct RegnalCalendarTests {
             "POLITY_EU",
             "POLITY_FRANCE",
             "POLITY_GERMANY",
+            "POLITY_HABSBURG_MONARCHY",
             "POLITY_HOLY_ROMAN_EMPIRE",
             "POLITY_HRE",
             "POLITY_KALMAR_UNION",
@@ -56,6 +59,8 @@ struct RegnalCalendarTests {
     }
 
     @Test("Polity has regnal tenures", arguments: [
+        "POLITY_AUSTRIAN_EMPIRE",
+        "POLITY_AUSTRIA_HUNGARY",
         "POLITY_BELGIUM",
         "POLITY_CROWN_ARAGON",
         "POLITY_CROWN_CASTILE",
@@ -68,6 +73,7 @@ struct RegnalCalendarTests {
         "POLITY_EU",
         "POLITY_FRANCE",
         "POLITY_GERMANY",
+        "POLITY_HABSBURG_MONARCHY",
         "POLITY_HOLY_ROMAN_EMPIRE",
         "POLITY_HRE",
         "POLITY_KENT",
@@ -194,6 +200,38 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Habsburg realms preserve the 1804 and 1867 state transitions")
+    func habsburgRealmsPreserveStateTransitions() throws {
+        let monarchy = calendar.tenures(forOffice: "OFFICE_HABSBURG_MONARCH")
+        let empire = calendar.tenures(forOffice: "OFFICE_AUSTRIAN_EMPEROR")
+        let dualMonarchy = calendar.tenures(forOffice: "OFFICE_AUSTRIA_HUNGARY_MONARCH")
+        let francis = try #require(
+            empire.first { $0.personID == "P_AUSTRIANEMPIRE_FRANCIS_I" }
+        )
+        let franzJosephInEmpire = try #require(
+            empire.first { $0.personID == "P_AUSTRIANEMPIRE_FRANZ_JOSEPH_I" }
+        )
+        let franzJosephInDualMonarchy = try #require(
+            dualMonarchy.first { $0.personID == "P_AUSTRIAHUNGARY_FRANZ_JOSEPH_I" }
+        )
+        let karl = try #require(
+            dualMonarchy.first { $0.personID == "P_AUSTRIAHUNGARY_CHARLES_I" }
+        )
+
+        #expect(monarchy.count == 13)
+        #expect(empire.count == 3)
+        #expect(dualMonarchy.count == 2)
+        #expect(francis.start.first?.ymd?.year == 1804)
+        #expect(francis.start.first?.ymd?.month == 8)
+        #expect(francis.start.first?.ymd?.day == 11)
+        #expect(franzJosephInEmpire.end.first?.ymd?.year == 1867)
+        #expect(franzJosephInDualMonarchy.start.first?.ymd?.year == 1867)
+        #expect(karl.end.first?.ymd?.year == 1918)
+        #expect(karl.end.first?.ymd?.month == 11)
+        #expect(karl.end.first?.ymd?.day == 11)
+        #expect(calendar.offices["OFFICE_HRE_KING"]?.polityID == "POLITY_HRE")
     }
 
     @Test("Iberian crowns remain distinct through the dynastic union")

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "P_AUSTRIANEMPIRE_FRANCIS_I",
+    "name": {
+      "normalized": "Franz I"
+    },
+    "variants": [
+      {
+        "form": "Franz I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Francis I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AUSTRIANEMPIRE_FERDINAND_I",
+    "name": {
+      "normalized": "Ferdinand I"
+    },
+    "variants": [
+      {
+        "form": "Ferdinand I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AUSTRIANEMPIRE_FRANZ_JOSEPH_I",
+    "name": {
+      "normalized": "Franz Joseph I"
+    },
+    "variants": [
+      {
+        "form": "Franz Joseph I",
+        "lang": "de",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Francis Joseph I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]
