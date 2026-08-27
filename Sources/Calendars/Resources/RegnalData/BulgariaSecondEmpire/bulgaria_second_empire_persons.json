@@ -1,0 +1,486 @@
+[
+  {
+    "id": "P_BULGARIASECONDEMPIRE_PETER_IV",
+    "name": {
+      "normalized": "Peter IV"
+    },
+    "variants": [
+      {
+        "form": "Петър IV",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Peter IV",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_IVAN_ASEN_I",
+    "name": {
+      "normalized": "Ivan Asen I"
+    },
+    "variants": [
+      {
+        "form": "Иван Асен I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan Asen I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_KALOYAN",
+    "name": {
+      "normalized": "Kaloyan"
+    },
+    "variants": [
+      {
+        "form": "Калоян",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Kaloyan",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_BORIL",
+    "name": {
+      "normalized": "Boril"
+    },
+    "variants": [
+      {
+        "form": "Борил",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Boril",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_IVAN_ASEN_II",
+    "name": {
+      "normalized": "Ivan Asen II"
+    },
+    "variants": [
+      {
+        "form": "Иван Асен II",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan Asen II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_KALIMAN_I",
+    "name": {
+      "normalized": "Kaliman I"
+    },
+    "variants": [
+      {
+        "form": "Калиман I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Kaliman I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_MICHAEL_II_ASEN",
+    "name": {
+      "normalized": "Michael II Asen"
+    },
+    "variants": [
+      {
+        "form": "Михаил II Асен",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael II Asen",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_KALIMAN_II",
+    "name": {
+      "normalized": "Kaliman II"
+    },
+    "variants": [
+      {
+        "form": "Калиман II",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Kaliman II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_MITSO_ASEN",
+    "name": {
+      "normalized": "Mitso Asen"
+    },
+    "variants": [
+      {
+        "form": "Мицо Асен",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Mitso Asen",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_CONSTANTINE_TIKH",
+    "name": {
+      "normalized": "Constantine Tikh"
+    },
+    "variants": [
+      {
+        "form": "Константин Тих",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine Tikh",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_IVAYLO",
+    "name": {
+      "normalized": "Ivaylo"
+    },
+    "variants": [
+      {
+        "form": "Ивайло",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivaylo",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_IVAN_ASEN_III",
+    "name": {
+      "normalized": "Ivan Asen III"
+    },
+    "variants": [
+      {
+        "form": "Иван Асен III",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan Asen III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_GEORGE_TERTER_I",
+    "name": {
+      "normalized": "George Terter I"
+    },
+    "variants": [
+      {
+        "form": "Георги Тертер I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "George Terter I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_SMILETS",
+    "name": {
+      "normalized": "Smilets"
+    },
+    "variants": [
+      {
+        "form": "Смилец",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Smilets",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_CHAKA",
+    "name": {
+      "normalized": "Chaka"
+    },
+    "variants": [
+      {
+        "form": "Чака",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Chaka",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_THEODORE_SVETOSLAV",
+    "name": {
+      "normalized": "Theodore Svetoslav"
+    },
+    "variants": [
+      {
+        "form": "Теодор Светослав",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Theodore Svetoslav",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_GEORGE_TERTER_II",
+    "name": {
+      "normalized": "George Terter II"
+    },
+    "variants": [
+      {
+        "form": "Георги Тертер II",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "George Terter II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_MICHAEL_SHISHMAN",
+    "name": {
+      "normalized": "Michael Shishman"
+    },
+    "variants": [
+      {
+        "form": "Михаил Шишман",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Michael Shishman",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_IVAN_STEPHEN",
+    "name": {
+      "normalized": "Ivan Stephen"
+    },
+    "variants": [
+      {
+        "form": "Иван Стефан",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan Stephen",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_IVAN_ALEXANDER",
+    "name": {
+      "normalized": "Ivan Alexander"
+    },
+    "variants": [
+      {
+        "form": "Иван Александър",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan Alexander",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_IVAN_SHISHMAN",
+    "name": {
+      "normalized": "Ivan Shishman"
+    },
+    "variants": [
+      {
+        "form": "Иван Шишман",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan Shishman",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIASECONDEMPIRE_IVAN_SRATSIMIR",
+    "name": {
+      "normalized": "Ivan Sratsimir"
+    },
+    "variants": [
+      {
+        "form": "Иван Срацимир",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan Sratsimir",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

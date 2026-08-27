@@ -1,0 +1,156 @@
+[
+  {
+    "id": "P_GREECE_OTTO",
+    "name": {
+      "normalized": "Otto"
+    },
+    "variants": [
+      {
+        "form": "Όθων",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Otto",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GREECE_GEORGE_I",
+    "name": {
+      "normalized": "George I"
+    },
+    "variants": [
+      {
+        "form": "Γεώργιος Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "George I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GREECE_CONSTANTINE_I",
+    "name": {
+      "normalized": "Constantine I"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Α΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GREECE_ALEXANDER",
+    "name": {
+      "normalized": "Alexander"
+    },
+    "variants": [
+      {
+        "form": "Αλέξανδρος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GREECE_GEORGE_II",
+    "name": {
+      "normalized": "George II"
+    },
+    "variants": [
+      {
+        "form": "Γεώργιος Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "George II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GREECE_PAUL",
+    "name": {
+      "normalized": "Paul"
+    },
+    "variants": [
+      {
+        "form": "Παύλος",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Paul",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GREECE_CONSTANTINE_II",
+    "name": {
+      "normalized": "Constantine II"
+    },
+    "variants": [
+      {
+        "form": "Κωνσταντίνος Β΄",
+        "lang": "el",
+        "script": "Grek",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Constantine II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

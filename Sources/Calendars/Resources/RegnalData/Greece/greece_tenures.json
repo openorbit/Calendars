@@ -1,0 +1,301 @@
+[
+  {
+    "id": "TEN_GREECE_OTTO",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_OTTO",
+    "ordinal": null,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1832
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1862
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_GREECE_GEORGE_I",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_GEORGE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1863
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1913
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_GREECE_CONSTANTINE_I_A",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_CONSTANTINE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1913
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1917
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_GREECE_ALEXANDER",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_ALEXANDER",
+    "ordinal": null,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1917
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1920
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_GREECE_CONSTANTINE_I_B",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_CONSTANTINE_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1920
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1922
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_GREECE_GEORGE_II_A",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_GEORGE_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1922
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1924
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_GREECE_GEORGE_II_B",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_GEORGE_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1935
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1947
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_GREECE_PAUL",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_PAUL",
+    "ordinal": null,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1947
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1964
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_GREECE_CONSTANTINE_II",
+    "office_id": "OFFICE_GREECE_MONARCH",
+    "person_id": "P_GREECE_CONSTANTINE_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_GREECE_KINGDOM",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1964
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1973,
+          "month": 6,
+          "day": 1
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

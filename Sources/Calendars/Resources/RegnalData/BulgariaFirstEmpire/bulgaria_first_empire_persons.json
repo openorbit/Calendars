@@ -1,0 +1,574 @@
+[
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_ASPARUH",
+    "name": {
+      "normalized": "Asparuh"
+    },
+    "variants": [
+      {
+        "form": "Аспарух",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Asparuh",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_TERVEL",
+    "name": {
+      "normalized": "Tervel"
+    },
+    "variants": [
+      {
+        "form": "Тервел",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Tervel",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_KORMESIY",
+    "name": {
+      "normalized": "Kormesiy"
+    },
+    "variants": [
+      {
+        "form": "Кормесий",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Kormesiy",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_SEVAR",
+    "name": {
+      "normalized": "Sevar"
+    },
+    "variants": [
+      {
+        "form": "Севар",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sevar",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_KORMISOSH",
+    "name": {
+      "normalized": "Kormisosh"
+    },
+    "variants": [
+      {
+        "form": "Кормисош",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Kormisosh",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_VINEKH",
+    "name": {
+      "normalized": "Vinekh"
+    },
+    "variants": [
+      {
+        "form": "Винех",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vinekh",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_TELETS",
+    "name": {
+      "normalized": "Telets"
+    },
+    "variants": [
+      {
+        "form": "Телец",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Telets",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_SABIN",
+    "name": {
+      "normalized": "Sabin"
+    },
+    "variants": [
+      {
+        "form": "Сабин",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Sabin",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_UMOR",
+    "name": {
+      "normalized": "Umor"
+    },
+    "variants": [
+      {
+        "form": "Умор",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Umor",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_TOKTU",
+    "name": {
+      "normalized": "Toktu"
+    },
+    "variants": [
+      {
+        "form": "Токту",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Toktu",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_PAGAN",
+    "name": {
+      "normalized": "Pagan"
+    },
+    "variants": [
+      {
+        "form": "Паган",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Pagan",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_TELERIG",
+    "name": {
+      "normalized": "Telerig"
+    },
+    "variants": [
+      {
+        "form": "Телериг",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Telerig",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_KARDAM",
+    "name": {
+      "normalized": "Kardam"
+    },
+    "variants": [
+      {
+        "form": "Кардам",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Kardam",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_KRUM",
+    "name": {
+      "normalized": "Krum"
+    },
+    "variants": [
+      {
+        "form": "Крум",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Krum",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_OMURTAG",
+    "name": {
+      "normalized": "Omurtag"
+    },
+    "variants": [
+      {
+        "form": "Омуртаг",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Omurtag",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_MALAMIR",
+    "name": {
+      "normalized": "Malamir"
+    },
+    "variants": [
+      {
+        "form": "Маламир",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Malamir",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_PRESIAN_I",
+    "name": {
+      "normalized": "Presian I"
+    },
+    "variants": [
+      {
+        "form": "Пресиян I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Presian I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_BORIS_I",
+    "name": {
+      "normalized": "Boris I"
+    },
+    "variants": [
+      {
+        "form": "Борис I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Boris I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_VLADIMIR",
+    "name": {
+      "normalized": "Vladimir"
+    },
+    "variants": [
+      {
+        "form": "Владимир",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Vladimir",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_SIMEON_I",
+    "name": {
+      "normalized": "Simeon I"
+    },
+    "variants": [
+      {
+        "form": "Симеон I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Simeon I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_PETER_I",
+    "name": {
+      "normalized": "Peter I"
+    },
+    "variants": [
+      {
+        "form": "Петър I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Peter I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_BORIS_II",
+    "name": {
+      "normalized": "Boris II"
+    },
+    "variants": [
+      {
+        "form": "Борис II",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Boris II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_ROMAN",
+    "name": {
+      "normalized": "Roman"
+    },
+    "variants": [
+      {
+        "form": "Роман",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Roman",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_SAMUEL",
+    "name": {
+      "normalized": "Samuel"
+    },
+    "variants": [
+      {
+        "form": "Самуил",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Samuel",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_GAVRIL_RADOMIR",
+    "name": {
+      "normalized": "Gavril Radomir"
+    },
+    "variants": [
+      {
+        "form": "Гаврил Радомир",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Gavril Radomir",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_BULGARIAFIRSTEMPIRE_IVAN_VLADISLAV",
+    "name": {
+      "normalized": "Ivan Vladislav"
+    },
+    "variants": [
+      {
+        "form": "Иван Владислав",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ivan Vladislav",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

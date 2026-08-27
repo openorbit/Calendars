@@ -1,0 +1,11 @@
+[
+  {
+    "id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "label": "Second Bulgarian Empire",
+    "region": "Southeastern Europe",
+    "valid_julian": {
+      "start": "1185-01-01",
+      "end": "1396-12-31"
+    }
+  }
+]

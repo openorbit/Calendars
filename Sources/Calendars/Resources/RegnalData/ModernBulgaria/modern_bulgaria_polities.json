@@ -1,0 +1,11 @@
+[
+  {
+    "id": "POLITY_MODERN_BULGARIA",
+    "label": "Principality and Kingdom of Bulgaria",
+    "region": "Southeastern Europe",
+    "valid_julian": {
+      "start": "1879-01-01",
+      "end": "1946-12-31"
+    }
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "TEN_MODERNBULGARIA_ALEXANDER_I",
+    "office_id": "OFFICE_MODERN_BULGARIA_MONARCH",
+    "person_id": "P_MODERNBULGARIA_ALEXANDER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MODERN_BULGARIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1879
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1886
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MODERNBULGARIA_FERDINAND_I_PRINCE",
+    "office_id": "OFFICE_MODERN_BULGARIA_MONARCH",
+    "person_id": "P_MODERNBULGARIA_FERDINAND_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MODERN_BULGARIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1887
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1908
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MODERNBULGARIA_FERDINAND_I_TSAR",
+    "office_id": "OFFICE_MODERN_BULGARIA_MONARCH",
+    "person_id": "P_MODERNBULGARIA_FERDINAND_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_MODERN_BULGARIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1908
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1918
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MODERNBULGARIA_BORIS_III",
+    "office_id": "OFFICE_MODERN_BULGARIA_MONARCH",
+    "person_id": "P_MODERNBULGARIA_BORIS_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_MODERN_BULGARIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1918
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1943
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_MODERNBULGARIA_SIMEON_II",
+    "office_id": "OFFICE_MODERN_BULGARIA_MONARCH",
+    "person_id": "P_MODERNBULGARIA_SIMEON_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_MODERN_BULGARIA",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1943
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 1946,
+          "month": 9,
+          "day": 15
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

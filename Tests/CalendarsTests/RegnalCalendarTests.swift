@@ -12,6 +12,8 @@ struct RegnalCalendarTests {
             "POLITY_AUSTRIAN_EMPIRE",
             "POLITY_AUSTRIA_HUNGARY",
             "POLITY_BELGIUM",
+            "POLITY_BULGARIA_FIRST_EMPIRE",
+            "POLITY_BULGARIA_SECOND_EMPIRE",
             "POLITY_CROWN_ARAGON",
             "POLITY_CROWN_CASTILE",
             "POLITY_BURGUNDY_FRANKISH",
@@ -27,6 +29,7 @@ struct RegnalCalendarTests {
             "POLITY_GERMANY",
             "POLITY_HABSBURG_MONARCHY",
             "POLITY_HOLY_ROMAN_EMPIRE",
+            "POLITY_GREECE_KINGDOM",
             "POLITY_HRE",
             "POLITY_HUNGARY",
             "POLITY_KALMAR_UNION",
@@ -35,6 +38,7 @@ struct RegnalCalendarTests {
             "POLITY_KINGDOM_LOMBARDS",
             "POLITY_MERCIA",
             "POLITY_MIDDLE_FRANCIA",
+            "POLITY_MODERN_BULGARIA",
             "POLITY_NAVARRE",
             "POLITY_NEUSTRIA",
             "POLITY_NETHERLANDS",
@@ -63,6 +67,8 @@ struct RegnalCalendarTests {
         "POLITY_AUSTRIAN_EMPIRE",
         "POLITY_AUSTRIA_HUNGARY",
         "POLITY_BELGIUM",
+        "POLITY_BULGARIA_FIRST_EMPIRE",
+        "POLITY_BULGARIA_SECOND_EMPIRE",
         "POLITY_CROWN_ARAGON",
         "POLITY_CROWN_CASTILE",
         "POLITY_CAROLINGIAN_EMPIRE",
@@ -76,6 +82,7 @@ struct RegnalCalendarTests {
         "POLITY_GERMANY",
         "POLITY_HABSBURG_MONARCHY",
         "POLITY_HOLY_ROMAN_EMPIRE",
+        "POLITY_GREECE_KINGDOM",
         "POLITY_HRE",
         "POLITY_HUNGARY",
         "POLITY_KENT",
@@ -83,6 +90,7 @@ struct RegnalCalendarTests {
         "POLITY_KINGDOM_LOMBARDS",
         "POLITY_MERCIA",
         "POLITY_MIDDLE_FRANCIA",
+        "POLITY_MODERN_BULGARIA",
         "POLITY_NAVARRE",
         "POLITY_NETHERLANDS",
         "POLITY_NORTHUMBRIA",
@@ -202,6 +210,62 @@ struct RegnalCalendarTests {
         #expect(leo.status == "incumbent")
         #expect(earlyAlternative.start.count == 2)
         #expect(earlyAlternative.certainty == "low")
+    }
+
+    @Test("Bulgarian successions remain separated by historical discontinuities")
+    func bulgarianSuccessionsRemainSeparatedByHistoricalDiscontinuities() throws {
+        let firstEmpire = calendar.tenures(forOffice: "OFFICE_BULGARIA_FIRST_RULER")
+        let secondEmpire = calendar.tenures(forOffice: "OFFICE_BULGARIA_SECOND_RULER")
+        let modern = calendar.tenures(forOffice: "OFFICE_MODERN_BULGARIA_MONARCH")
+        let ferdinand = modern.filter {
+            $0.personID == "P_MODERNBULGARIA_FERDINAND_I"
+        }
+        let simeon = try #require(
+            modern.first { $0.personID == "P_MODERNBULGARIA_SIMEON_II" }
+        )
+
+        #expect(firstEmpire.count == 26)
+        #expect(secondEmpire.count == 22)
+        #expect(modern.count == 5)
+        #expect(ferdinand.count == 2)
+        #expect(firstEmpire.last?.end.first?.ymd?.year == 1018)
+        #expect(secondEmpire.last?.end.first?.ymd?.year == 1396)
+        #expect(simeon.end.first?.ymd?.year == 1946)
+        #expect(simeon.end.first?.ymd?.month == 9)
+        #expect(simeon.end.first?.ymd?.day == 15)
+        #expect(
+            calendar.person(forID: "P_BULGARIAFIRSTEMPIRE_SIMEON_I")?.variants.contains {
+                $0.form == "Симеон I" && $0.lang == "bg"
+            } == true
+        )
+    }
+
+    @Test("Greek monarchy preserves restorations and republican interruptions")
+    func greekMonarchyPreservesRestorationsAndRepublicanInterruptions() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_GREECE_MONARCH")
+        let constantineI = tenures.filter {
+            $0.personID == "P_GREECE_CONSTANTINE_I"
+        }
+        let georgeII = tenures.filter {
+            $0.personID == "P_GREECE_GEORGE_II"
+        }
+        let constantineII = try #require(
+            tenures.first { $0.personID == "P_GREECE_CONSTANTINE_II" }
+        )
+
+        #expect(tenures.count == 9)
+        #expect(Set(tenures.map(\.personID)).count == 7)
+        #expect(constantineI.count == 2)
+        #expect(georgeII.count == 2)
+        #expect(!tenures.contains { $0.start.first?.ymd?.year == 1930 })
+        #expect(constantineII.end.first?.ymd?.year == 1973)
+        #expect(constantineII.end.first?.ymd?.month == 6)
+        #expect(constantineII.end.first?.ymd?.day == 1)
+        #expect(
+            calendar.person(forID: "P_GREECE_GEORGE_I")?.variants.contains {
+                $0.form == "Γεώργιος Α΄" && $0.lang == "el"
+            } == true
+        )
     }
 
     @Test("Hungarian succession preserves rival and restored reigns")

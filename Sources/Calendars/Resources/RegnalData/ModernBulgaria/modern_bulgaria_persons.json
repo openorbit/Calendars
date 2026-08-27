@@ -1,0 +1,90 @@
+[
+  {
+    "id": "P_MODERNBULGARIA_ALEXANDER_I",
+    "name": {
+      "normalized": "Alexander I"
+    },
+    "variants": [
+      {
+        "form": "Александър I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Alexander I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MODERNBULGARIA_FERDINAND_I",
+    "name": {
+      "normalized": "Ferdinand I"
+    },
+    "variants": [
+      {
+        "form": "Фердинанд I",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Ferdinand I",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MODERNBULGARIA_BORIS_III",
+    "name": {
+      "normalized": "Boris III"
+    },
+    "variants": [
+      {
+        "form": "Борис III",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Boris III",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MODERNBULGARIA_SIMEON_II",
+    "name": {
+      "normalized": "Simeon II"
+    },
+    "variants": [
+      {
+        "form": "Симеон II",
+        "lang": "bg",
+        "script": "Cyrl",
+        "kind": "regnal",
+        "casus": "nom"
+      },
+      {
+        "form": "Simeon II",
+        "lang": "en",
+        "script": "Latn",
+        "kind": "regnal",
+        "casus": "nom"
+      }
+    ]
+  }
+]

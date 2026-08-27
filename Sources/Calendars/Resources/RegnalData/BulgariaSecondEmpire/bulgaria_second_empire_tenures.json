@@ -1,0 +1,728 @@
+[
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_PETER_IV",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_PETER_IV",
+    "ordinal": 4,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1185
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1197
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_IVAN_ASEN_I",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_IVAN_ASEN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1187
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1196
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_KALOYAN",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_KALOYAN",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1197
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1207
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_BORIL",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_BORIL",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1207
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1218
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_IVAN_ASEN_II",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_IVAN_ASEN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1218
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1241
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_KALIMAN_I",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_KALIMAN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1241
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1246
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_MICHAEL_II_ASEN",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_MICHAEL_II_ASEN",
+    "ordinal": 2,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1246
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1256
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_KALIMAN_II",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_KALIMAN_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1256
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1256
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_MITSO_ASEN",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_MITSO_ASEN",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1256
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1257
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_CONSTANTINE_TIKH",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_CONSTANTINE_TIKH",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1257
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1277
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_IVAYLO",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_IVAYLO",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1278
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1279
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_IVAN_ASEN_III",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_IVAN_ASEN_III",
+    "ordinal": 3,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1279
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1280
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_GEORGE_TERTER_I",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_GEORGE_TERTER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1280
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1292
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_SMILETS",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_SMILETS",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1292
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1298
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_CHAKA",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_CHAKA",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1299
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1300
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "disputed"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_THEODORE_SVETOSLAV",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_THEODORE_SVETOSLAV",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1300
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1322
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_GEORGE_TERTER_II",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_GEORGE_TERTER_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1322
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1323
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_MICHAEL_SHISHMAN",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_MICHAEL_SHISHMAN",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1323
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1330
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_IVAN_STEPHEN",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_IVAN_STEPHEN",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1330
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1331
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_IVAN_ALEXANDER",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_IVAN_ALEXANDER",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1331
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1371
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_IVAN_SHISHMAN",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_IVAN_SHISHMAN",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1371
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1395
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIASECONDEMPIRE_IVAN_SRATSIMIR",
+    "office_id": "OFFICE_BULGARIA_SECOND_RULER",
+    "person_id": "P_BULGARIASECONDEMPIRE_IVAN_SRATSIMIR",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_SECOND_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1371
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1396
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

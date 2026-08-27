@@ -1,0 +1,860 @@
+[
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_ASPARUH",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_ASPARUH",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 681
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_TERVEL",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_TERVEL",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 700
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 721
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_KORMESIY",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_KORMESIY",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 721
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 738
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_SEVAR",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_SEVAR",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 738
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 753
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_KORMISOSH",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_KORMISOSH",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 753
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 756
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_VINEKH",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_VINEKH",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 756
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 762
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_TELETS",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_TELETS",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 762
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 765
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_SABIN",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_SABIN",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 765
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 766
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_UMOR",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_UMOR",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 766
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 766
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_TOKTU",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_TOKTU",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 766
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 767
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_PAGAN",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_PAGAN",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 767
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 768
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_TELERIG",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_TELERIG",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 768
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 777
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_KARDAM",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_KARDAM",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 777
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 803
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_KRUM",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_KRUM",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 803
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 814
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_OMURTAG",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_OMURTAG",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 814
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 831
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_MALAMIR",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_MALAMIR",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 831
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 836
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_PRESIAN_I",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_PRESIAN_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 836
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 852
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_BORIS_I",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_BORIS_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 852
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 889
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_VLADIMIR",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_VLADIMIR",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 889
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 893
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_SIMEON_I",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_SIMEON_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 893
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 927
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_PETER_I",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_PETER_I",
+    "ordinal": 1,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 927
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 969
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_BORIS_II",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_BORIS_II",
+    "ordinal": 2,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 969
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 977
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_ROMAN",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_ROMAN",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 977
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 997
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_SAMUEL",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_SAMUEL",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 997
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1014
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_GAVRIL_RADOMIR",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_GAVRIL_RADOMIR",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1014
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1015
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  },
+  {
+    "id": "TEN_BULGARIAFIRSTEMPIRE_IVAN_VLADISLAV",
+    "office_id": "OFFICE_BULGARIA_FIRST_RULER",
+    "person_id": "P_BULGARIAFIRSTEMPIRE_IVAN_VLADISLAV",
+    "ordinal": null,
+    "polity_id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1015
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "scale": "native",
+        "certainty": "medium",
+        "approx": false,
+        "ymd": {
+          "year": 1018
+        }
+      }
+    ],
+    "certainty": "medium",
+    "status": "recognized"
+  }
+]

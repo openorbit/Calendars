@@ -1,0 +1,11 @@
+[
+  {
+    "id": "POLITY_BULGARIA_FIRST_EMPIRE",
+    "label": "First Bulgarian Empire",
+    "region": "Southeastern Europe",
+    "valid_julian": {
+      "start": "681-01-01",
+      "end": "1018-12-31"
+    }
+  }
+]
