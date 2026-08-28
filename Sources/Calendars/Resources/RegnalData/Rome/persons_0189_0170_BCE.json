@@ -111,7 +111,7 @@
     },
     "variants": [
       {
-        "form": "Q. Marcius Philippus I",
+        "form": "Q. Marcius L. f. Q. n. Philippus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -231,7 +231,7 @@
     },
     "variants": [
       {
-        "form": "L. Aemilius Paullus I",
+        "form": "L. Aemilius L. f. L. n. Paullus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -381,7 +381,7 @@
     },
     "variants": [
       {
-        "form": "Ti. Sempronius Gracchus I",
+        "form": "Ti. Sempronius P. f. Ti. n. Gracchus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -585,4 +585,3 @@
     ]
   }
 ]
-

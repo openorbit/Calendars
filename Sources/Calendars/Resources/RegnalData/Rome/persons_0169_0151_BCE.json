@@ -1,12 +1,12 @@
 [
   {
-    "id": "P_GNAEUS_SERVIUS_CAEPIO_169",
+    "id": "P_GNAEUS_SERVILIUS_CAEPIO_169",
     "name": {
-      "normalized": "Gnaeus Servius Caepio"
+      "normalized": "Gnaeus Servilius Caepio"
     },
     "variants": [
       {
-        "form": "Cn. Servius Caepio",
+        "form": "Cn. Servilius Cn. f. Cn. n. Caepio",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -21,7 +21,7 @@
     },
     "variants": [
       {
-        "form": "C. Licinius Crassus",
+        "form": "C. Licinius C. f. P. n. Crassus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -36,7 +36,7 @@
     },
     "variants": [
       {
-        "form": "Q. Aelius Paetus",
+        "form": "Q. Aelius P. f. Q. n. Paetus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -51,7 +51,7 @@
     },
     "variants": [
       {
-        "form": "M. Iunius Pennus",
+        "form": "M. Iunius M. f. M. n. Pennus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -66,7 +66,7 @@
     },
     "variants": [
       {
-        "form": "M. Claudius Marcellus I",
+        "form": "M. Claudius M. f. M. n. Marcellus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -81,7 +81,7 @@
     },
     "variants": [
       {
-        "form": "C. Sulpicius Galus",
+        "form": "C. Sulpicius C. f. C. n. Galus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -96,7 +96,7 @@
     },
     "variants": [
       {
-        "form": "T. Manlius Torquatus",
+        "form": "T. Manlius A. f. T. n. Torquatus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -111,7 +111,7 @@
     },
     "variants": [
       {
-        "form": "Cn. Octavius",
+        "form": "Cn. Octavius Cn. f. Cn. n.",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -126,7 +126,7 @@
     },
     "variants": [
       {
-        "form": "A. Manlius Torquatus",
+        "form": "A. Manlius A. f. T. n. Torquatus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -141,7 +141,7 @@
     },
     "variants": [
       {
-        "form": "Q. Cassius Longinus",
+        "form": "Q. Cassius L. f. Q. n. Longinus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -156,7 +156,7 @@
     },
     "variants": [
       {
-        "form": "M'. Iuventius Thalna",
+        "form": "M'. Iuventius T. f. T. n. Thalna",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -171,7 +171,7 @@
     },
     "variants": [
       {
-        "form": "P. Cornelius Scipio Nasica I",
+        "form": "P. Cornelius P. f. Cn. n. Scipio Nasica (Corculum)",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -186,7 +186,7 @@
     },
     "variants": [
       {
-        "form": "C. Marcius Figulus I",
+        "form": "C. Marcius C. f. Q. n. Figulus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -201,7 +201,7 @@
     },
     "variants": [
       {
-        "form": "P. Cornelius Lentulus",
+        "form": "P. Cornelius L. f. L. n. Lentulus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -216,7 +216,7 @@
     },
     "variants": [
       {
-        "form": "Cn. Domitius Ahenobarbus",
+        "form": "Cn. Domitius Cn. f. L. n. Ahenobarbus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -231,7 +231,7 @@
     },
     "variants": [
       {
-        "form": "M. Valerius Messalla",
+        "form": "M. Valerius M. f. M. n. Messalla",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -246,7 +246,7 @@
     },
     "variants": [
       {
-        "form": "C. Fannius Strabo",
+        "form": "C. Fannius C. f. C. n. Strabo",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -261,7 +261,7 @@
     },
     "variants": [
       {
-        "form": "L. Anicius Gallus",
+        "form": "L. Anicius L. f. L. n. Gallus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -276,7 +276,7 @@
     },
     "variants": [
       {
-        "form": "M. Cornelius Cethegus",
+        "form": "M. Cornelius C. f. C. n. Cethegus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -291,7 +291,7 @@
     },
     "variants": [
       {
-        "form": "Cn. Cornelius Dolabella",
+        "form": "Cn. Cornelius Cn. f. Cn. n. Dolabella",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -306,7 +306,7 @@
     },
     "variants": [
       {
-        "form": "M. Fulvius Nobilior",
+        "form": "M. Fulvius M. f. M. n. Nobilior",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -321,7 +321,7 @@
     },
     "variants": [
       {
-        "form": "M. Aemilius Lepidus",
+        "form": "M. Aemilius M'. f. M'. n. Lepidus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -336,7 +336,7 @@
     },
     "variants": [
       {
-        "form": "C. Popillius Laenas",
+        "form": "C. Popillius P. f. P. n. Laenas",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -351,7 +351,7 @@
     },
     "variants": [
       {
-        "form": "Sex. Iulius Caesar",
+        "form": "Sex. Iulius Sex. f. L. n. Caesar",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -366,7 +366,7 @@
     },
     "variants": [
       {
-        "form": "L. Aurelius Orestes",
+        "form": "L. Aurelius L. f. L. n. Orestes",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -381,7 +381,7 @@
     },
     "variants": [
       {
-        "form": "L. Cornelius Lentulus Lupus",
+        "form": "L. Cornelius Cn. f. L. n. Lentulus Lupus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -426,7 +426,7 @@
     },
     "variants": [
       {
-        "form": "Q. Fulvius Nobilior",
+        "form": "Q. Fulvius M. f. M. n. Nobilior",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -441,7 +441,7 @@
     },
     "variants": [
       {
-        "form": "T. Annius Luscus",
+        "form": "T. Annius T. f. - n. Luscus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -456,7 +456,7 @@
     },
     "variants": [
       {
-        "form": "L. Valerius Flaccus",
+        "form": "L. Valerius L. f. P. n. Flaccus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -471,7 +471,7 @@
     },
     "variants": [
       {
-        "form": "L. Licinius Lucullus",
+        "form": "L. Licinius - f. - n. Lucullus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -486,7 +486,7 @@
     },
     "variants": [
       {
-        "form": "A. Postumius Albinus",
+        "form": "A. Postumius A. f. A. n. Albinus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",

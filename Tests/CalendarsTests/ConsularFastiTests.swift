@@ -662,6 +662,14 @@ struct ConsularFastiTests {
         }
 
         #expect(calendar.consularYear(auc: 592)?.suffectList.count == 2)
+        #expect(calendar.consularYear(auc: 585)?.consulList.map(\.personID) == [
+            "P_QUINTUS_MARCIUS_PHILIPPUS_186",
+            "P_GNAEUS_SERVILIUS_CAEPIO_169"
+        ])
+        #expect(calendar.consularYear(auc: 592)?.suffectList.map(\.personID) == [
+            "P_PUBLIUS_CORNELIUS_LENTULUS_162",
+            "P_GNAEUS_DOMITIUS_AHENOBARBUS_162"
+        ])
 
         let year150 = try #require(calendar.consularYear(auc: 604))
         #expect(year150.consulList.map(\.personID) == [
@@ -674,6 +682,23 @@ struct ConsularFastiTests {
             "P_MANIUS_ACILIUS_GLABRIO_154"
         ])
         #expect(year154.noteText.contains("died on the way to his province"))
+
+        let broughtonTenures = calendar.tenures.filter { tenure in
+            guard let auc = tenure.start.first?.ymd?.year else { return false }
+            guard (585...604).contains(auc) else { return false }
+            return tenure.consular?.role == .ordinaryConsul
+                || tenure.consular?.role == .suffectConsul
+        }
+        #expect(broughtonTenures.count == 43)
+        #expect(broughtonTenures.allSatisfy { tenure in
+            tenure.consular?.sources.contains { source in
+                source.title.contains("Broughton")
+            } == true
+        })
+        #expect(calendar.consularYear(auc: 590)?.noteText.contains("died in office") == true)
+        #expect(calendar.consularYear(auc: 591)?.noteText.contains("died in office") == true)
+        #expect(calendar.consularYear(auc: 592)?.noteText.contains("compelled to abdicate") == true)
+        #expect(calendar.consularYear(auc: 602)?.noteText.contains("died in office") == true)
     }
 
     @Test("The ordinary sequence continues through 130 BCE")
