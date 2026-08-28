@@ -587,6 +587,29 @@ struct RegnalCalendarTests {
         )
     }
 
+    @Test("Norwegian monarchy reflects the 2026 succession")
+    func norwegianMonarchyReflectsThe2026Succession() throws {
+        let tenures = calendar.tenures(forOffice: "OFFICE_NORWAY_MONARCH")
+        let haraldV = try #require(
+            tenures.first { $0.personID == "P_HARALD_V" }
+        )
+        let haakonVIII = try #require(
+            tenures.first { $0.personID == "P_HAAKON_VIII" }
+        )
+
+        #expect(haraldV.end.first?.ymd?.year == 2026)
+        #expect(haraldV.end.first?.ymd?.month == 8)
+        #expect(haraldV.end.first?.ymd?.day == 28)
+        #expect(haakonVIII.start.first?.ymd?.year == 2026)
+        #expect(haakonVIII.start.first?.ymd?.month == 8)
+        #expect(haakonVIII.start.first?.ymd?.day == 28)
+        #expect(haakonVIII.end.first?.rep == "open")
+        #expect(
+            calendar.person(forID: haakonVIII.personID)?.name.normalized
+                == "Haakon VIII"
+        )
+    }
+
     @Test("Dutch monarchy follows legal succession dates")
     func dutchMonarchyFollowsLegalSuccessionDates() throws {
         let tenures = calendar.tenures(forOffice: "OFFICE_NETHERLANDS_MONARCH")

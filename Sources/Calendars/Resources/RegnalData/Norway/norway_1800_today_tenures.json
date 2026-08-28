@@ -398,11 +398,51 @@
     ],
     "end": [
       {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2026,
+          "month": 8,
+          "day": 28
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "recognized",
+    "notes": "Died in office on 28 August 2026."
+  },
+  {
+    "id": "TEN_P_HAAKON_VIII_2026",
+    "office_id": "OFFICE_NORWAY_MONARCH",
+    "person_id": "P_HAAKON_VIII",
+    "ordinal": null,
+    "default_calendar_rule_id": "RULE_GREGORIAN_NO",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "Gregorian",
+        "calendarRuleID": "RULE_GREGORIAN_NO",
+        "scale": "native",
+        "certainty": "high",
+        "approx": false,
+        "ymd": {
+          "year": 2026,
+          "month": 8,
+          "day": 28
+        }
+      }
+    ],
+    "end": [
+      {
         "rep": "open"
       }
     ],
     "certainty": "high",
     "status": "recognized",
-    "notes": "Current king of Norway."
+    "notes": "Current king of Norway; succeeded his father, Harald V."
   }
 ]

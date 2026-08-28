@@ -196,5 +196,23 @@
     "links": {
       "wikipedia": "https://en.wikipedia.org/wiki/Harald_V_of_Norway"
     }
+  },
+  {
+    "id": "P_HAAKON_VIII",
+    "name": {
+      "normalized": "Haakon VIII"
+    },
+    "variants": [
+      {
+        "form": "Haakon VIII",
+        "lang": "no",
+        "script": "Latn",
+        "kind": "primary",
+        "casus": "nom"
+      }
+    ],
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Haakon_VIII_of_Norway"
+    }
   }
 ]
