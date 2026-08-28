@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P_MARCUS_FULVIUS_CURVUS_PAETINUS_305",
+    "name": {
+      "normalized": "Marcus Fulvius Curvus Paetinus"
+    },
+    "variants": [
+      {
+        "form": "M. Fulvius L. f. L. n. Curvus Paetinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_DECIUS_MUS_265",
+    "name": {
+      "normalized": "Decius Mus"
+    },
+    "variants": [
+      {
+        "form": "? Decius Mus?",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_ATILIUS_REGULUS_256",
+    "name": {
+      "normalized": "Marcus Atilius Regulus"
+    },
+    "variants": [
+      {
+        "form": "M. Atilius M. f. L. n. Regulus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_VALERIUS_LAEVINUS_176",
+    "name": {
+      "normalized": "Gaius Valerius Laevinus"
+    },
+    "variants": [
+      {
+        "form": "C. Valerius M. f. P. n. Laevinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]

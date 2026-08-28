@@ -396,7 +396,7 @@
     },
     "variants": [
       {
-        "form": "Q. Opimius",
+        "form": "Q. Opimius Q. f. Q. n.",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -411,7 +411,7 @@
     },
     "variants": [
       {
-        "form": "L. Postumius Albinus",
+        "form": "L. Postumius Sp. f. L. n. Albinus",
         "lang": "la",
         "script": "Latn",
         "kind": "source",
@@ -517,6 +517,21 @@
     "variants": [
       {
         "form": "M'. Acilius L. f. K. n. Balbus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MANIUS_ACILIUS_GLABRIO_154",
+    "name": {
+      "normalized": "Manius Acilius Glabrio"
+    },
+    "variants": [
+      {
+        "form": "M'. Acilius M'. f. C. n. Glabrio",
         "lang": "la",
         "script": "Latn",
         "kind": "source",

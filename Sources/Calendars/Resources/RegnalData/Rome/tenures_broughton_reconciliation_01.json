@@ -1,0 +1,162 @@
+[
+  {
+    "id": "TENURE_AUC_449_SUFFECT_BROUGHTON",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_MARCUS_FULVIUS_CURVUS_PAETINUS_305",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 449
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 449
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Suffect consul after Ti. Minucius Augurinus died of wounds, according to the tradition followed by the Fasti Capitolini and triumphal fasti.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "305 BCE (A.U.C. 449): Livy 9.44.15; Fasti Capitolini; Acta Triumphalia."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_489_SUFFECT_BROUGHTON",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_DECIUS_MUS_265",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 489
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 489
+        }
+      }
+    ],
+    "certainty": "low",
+    "status": "disputed",
+    "notes": "Disputed possible suffect after Q. Fabius Maximus Gurges died. Broughton reports the literary identification but notes Degrassi's objection that the Fasti Capitolini leave no space for a suffect.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "disputed",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "265 BCE (A.U.C. 489): Auct. De Viris Illustribus 36.2; explicitly disputed by Broughton and Degrassi."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_498_SUFFECT_BROUGHTON",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_MARCUS_ATILIUS_REGULUS_256",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 498
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 498
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Suffect consul after Q. Caedicius died in office.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 1,
+      "consulship_number": 2,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "256 BCE (A.U.C. 498): Fasti Capitolini; Polybius 1.21.11; Livy and later fasti."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_578_SUFFECT_BROUGHTON",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_GAIUS_VALERIUS_LAEVINUS_176",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 578
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 578
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Suffect consul after Cn. Cornelius Scipio Hispallus died following injuries suffered during the Latin Festival.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "176 BCE (A.U.C. 578): Livy 41.17.5-6; Fasti Capitolini."
+        }
+      ]
+    }
+  }
+]

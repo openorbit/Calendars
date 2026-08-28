@@ -575,6 +575,27 @@ struct ConsularFastiTests {
         #expect(year274.consulList[0].consulshipNumber == 3)
     }
 
+    @Test("Broughton reconciliation restores omitted middle-Republic suffects")
+    func broughtonReconciliationRestoresOmittedSuffects() throws {
+        #expect(calendar.consularYear(auc: 449)?.suffectList.map(\.personID).contains(
+            "P_MARCUS_FULVIUS_CURVUS_PAETINUS_305"
+        ) == true)
+        #expect(calendar.consularYear(auc: 498)?.suffectList.map(\.personID).contains(
+            "P_MARCUS_ATILIUS_REGULUS_256"
+        ) == true)
+        #expect(calendar.consularYear(auc: 578)?.suffectList.map(\.personID).contains(
+            "P_GAIUS_VALERIUS_LAEVINUS_176"
+        ) == true)
+
+        let disputedDecius = try #require(calendar.tenures.first {
+            $0.personID == "P_DECIUS_MUS_265"
+        })
+        #expect(disputedDecius.certainty == "low")
+        #expect(disputedDecius.status == "disputed")
+        #expect(disputedDecius.consular?.tradition == .disputed)
+        #expect(disputedDecius.notes?.contains("Degrassi") == true)
+    }
+
     @Test("The ordinary sequence continues through 250 BCE")
     func ordinarySequenceThrough250BCE() throws {
         for auc in 485...504 {
@@ -647,6 +668,12 @@ struct ConsularFastiTests {
             "P_TITUS_QUINCTIUS_FLAMININUS_150",
             "P_MANIUS_ACILIUS_BALBUS_150"
         ])
+
+        let year154 = try #require(calendar.consularYear(auc: 600))
+        #expect(year154.suffectList.map(\.personID) == [
+            "P_MANIUS_ACILIUS_GLABRIO_154"
+        ])
+        #expect(year154.noteText.contains("died on the way to his province"))
     }
 
     @Test("The ordinary sequence continues through 130 BCE")
@@ -660,12 +687,29 @@ struct ConsularFastiTests {
 
         let year147 = try #require(calendar.consularYear(auc: 607))
         let year134 = try #require(calendar.consularYear(auc: 620))
+        #expect(calendar.consularYear(auc: 605)?.consulList.map(\.personID) == [
+            "P_LUCIUS_MARCIUS_CENSORINUS_149",
+            "P_MANIUS_MANILIUS_149"
+        ])
         #expect(year147.consulList[0].personID == year134.consulList[0].personID)
         #expect(year147.consulList[0].consulshipNumber == 1)
         #expect(year134.consulList[0].consulshipNumber == 2)
         #expect(calendar.consularYear(auc: 624)?.suffectList.map(\.personID) == [
-            "P_APPIUS_CLAUDIUS_NERO_130"
+            "P_APPIUS_CLAUDIUS_PULCHER_130"
         ])
+
+        let broughtonTenures = calendar.tenures.filter { tenure in
+            guard let auc = tenure.start.first?.ymd?.year else { return false }
+            guard (605...624).contains(auc) else { return false }
+            return tenure.consular?.role == .ordinaryConsul
+                || tenure.consular?.role == .suffectConsul
+        }
+        #expect(broughtonTenures.count == 41)
+        #expect(broughtonTenures.allSatisfy { tenure in
+            tenure.consular?.sources.contains { source in
+                source.title.contains("Broughton")
+            } == true
+        })
     }
 
     @Test("The Broughton sequence continues through 110 BCE")

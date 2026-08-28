@@ -1678,5 +1678,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "TENURE_AUC_600_SUFFECT_1",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_MANIUS_ACILIUS_GLABRIO_154",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 600
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 600
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Suffect consul for 154 BCE after L. Postumius Albinus died on the way to his province.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "154 BCE (A.U.C. 600): M'. Acilius M'. f. C. n. Glabrio, consul suffectus; Fasti Capitolini and Fasti Antiates."
+        }
+      ]
+    }
   }
 ]
