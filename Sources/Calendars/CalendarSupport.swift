@@ -33,7 +33,48 @@ public enum CalendarId : String, Codable, Sendable, Equatable, Hashable, CaseIte
   case romanRepublican
 }
 
+public struct CalendarYearDesignation: Sendable, Equatable, Hashable {
+  public let token: String
+  public let description: String
+  public let usesCommonEraPreference: Bool
+
+  public init(token: String, description: String, usesCommonEraPreference: Bool = false) {
+    self.token = token
+    self.description = description
+    self.usesCommonEraPreference = usesCommonEraPreference
+  }
+
+  public static let commonEra = CalendarYearDesignation(
+    token: "CE", description: "Common Era", usesCommonEraPreference: true
+  )
+}
+
 extension CalendarId {
+  public var yearDesignation: CalendarYearDesignation {
+    switch self {
+    case .gregorian, .julian, .swedish:
+      return .commonEra
+    case .romanRepublican:
+      return .init(token: "AUC", description: "Ab urbe condita")
+    case .civilIslamic:
+      return .init(token: "AH", description: "Anno Hegirae")
+    case .jewish:
+      return .init(token: "AM", description: "Anno Mundi")
+    case .coptic:
+      return .init(token: "AM", description: "Anno Martyrum")
+    case .ethiopian:
+      return .init(token: "EE", description: "Ethiopian Era")
+    case .egyptian:
+      return .init(token: "EN", description: "Era of Nabonassar")
+    case .frenchRepublican:
+      return .init(token: "An", description: "French Republican year")
+    case .saka:
+      return .init(token: "SE", description: "Saka Era")
+    case .bahai:
+      return .init(token: "BE", description: "Bahá’í Era")
+    }
+  }
+
   public var description : String {
     switch self {
     case .gregorian:

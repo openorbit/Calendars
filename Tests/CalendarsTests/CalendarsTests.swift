@@ -1,6 +1,20 @@
 import Testing
 @testable import Calendars
 
+@Test func calendarYearDesignationsAreCalendarSpecific() {
+  #expect(CalendarId.gregorian.yearDesignation.usesCommonEraPreference)
+  #expect(CalendarId.julian.yearDesignation.usesCommonEraPreference)
+  #expect(CalendarId.coptic.yearDesignation.token == "AM")
+  #expect(CalendarId.egyptian.yearDesignation.token == "EN")
+  #expect(CalendarId.civilIslamic.yearDesignation.token == "AH")
+  #expect(CalendarId.romanRepublican.yearDesignation.token == "AUC")
+}
+
+@Test func egyptianCalendarUsesTheNabonassarEpoch() {
+  #expect(EgyptianCalendar.epoch == 1_448_638)
+  #expect(EgyptianCalendar.toJDN(Y: 1, M: 1, D: 1) == EgyptianCalendar.epoch)
+}
+
 @Test func partialHistoricalDatesProjectToInclusiveJDNBounds() {
   let year = HistoricalDateComponents(calendarID: .gregorian, year: 1702)
   let month = HistoricalDateComponents(calendarID: .gregorian, year: 1702, month: 3)

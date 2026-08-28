@@ -393,6 +393,7 @@ public struct EgyptianCalendar : CalendarProtocol {
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 
+  /// JDN 1,448,638: the epoch of the Era of Nabonassar.
   public static let epoch = 1448638
   public static let shared = EgyptianCalendar()
 
@@ -443,4 +444,3 @@ public struct EgyptianCalendar : CalendarProtocol {
   }
 
 }
-
