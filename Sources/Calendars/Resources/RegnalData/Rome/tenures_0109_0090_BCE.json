@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "TENURE_AUC_645_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_CAECILIUS_METELLUS_NUMIDICUS_109",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 645
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 645
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 109 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 109 BCE (A.U.C. 645); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_645_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_IUNIUS_SILANUS_109",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 645
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 645
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 109 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 109 BCE (A.U.C. 645); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_646_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SERVIUS_SULPICIUS_GALBA_108",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 646
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 646
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 108 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 108 BCE (A.U.C. 646); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_646_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_HORTENSIUS_108",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 646
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 646
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 108 BCE. Condemned before or during the consular year and replaced by the recorded suffect.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 108 BCE (A.U.C. 646); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_647_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_CASSIUS_LONGINUS_107",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 647
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 647
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 107 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 107 BCE (A.U.C. 647); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_647_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MARIUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 647
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 647
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 107 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 107 BCE (A.U.C. 647); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_648_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_SERVILIUS_CAEPIO_106",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 648
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 648
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 106 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 106 BCE (A.U.C. 648); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_648_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_ATILIUS_SERRANUS_106",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 648
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 648
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 106 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 106 BCE (A.U.C. 648); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_649_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_RUTILIUS_RUFUS_105",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 649
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 649
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 105 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 105 BCE (A.U.C. 649); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_649_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GNAEUS_MALLIUS_MAXIMUS_105",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 649
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 649
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 105 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 105 BCE (A.U.C. 649); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_650_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MARIUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 650
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 650
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 104 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 2,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 104 BCE (A.U.C. 650); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_650_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_FLAVIUS_FIMBRIA_104",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 650
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 650
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 104 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 104 BCE (A.U.C. 650); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_651_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MARIUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 651
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 651
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 103 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 3,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 103 BCE (A.U.C. 651); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_651_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_AURELIUS_ORESTES_103",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 651
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 651
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 103 BCE. Died in office; Broughton records no suffect.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 103 BCE (A.U.C. 651); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_652_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MARIUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 652
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 652
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 102 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 4,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 102 BCE (A.U.C. 652); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_652_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_LUTATIUS_CATULUS_102",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 652
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 652
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 102 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 102 BCE (A.U.C. 652); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_653_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MARIUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 101 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 5,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 101 BCE (A.U.C. 653); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_653_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MANIUS_AQUILLIUS_101",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 653
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 101 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 101 BCE (A.U.C. 653); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_654_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_MARIUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 654
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 654
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 100 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 6,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 100 BCE (A.U.C. 654); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_654_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_VALERIUS_FLACCUS_100",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 654
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 654
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 100 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 100 BCE (A.U.C. 654); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_655_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_ANTONIUS_99",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 655
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 655
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 99 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 99 BCE (A.U.C. 655); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_655_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_AULUS_POSTUMIUS_ALBINUS_99",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 655
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 655
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 99 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 99 BCE (A.U.C. 655); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_656_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_CAECILIUS_METELLUS_NEPOS_98",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 656
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 656
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 98 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 98 BCE (A.U.C. 656); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_656_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_TITUS_DIDIUS_98",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 656
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 656
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 98 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 98 BCE (A.U.C. 656); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_657_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GNAEUS_CORNELIUS_LENTULUS_97",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 657
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 657
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 97 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 97 BCE (A.U.C. 657); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_657_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_LICINIUS_CRASSUS_97",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 657
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 657
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 97 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 97 BCE (A.U.C. 657); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_658_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GNAEUS_DOMITIUS_AHENOBARBUS_96",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 658
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 658
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 96 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 96 BCE (A.U.C. 658); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_658_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_CASSIUS_LONGINUS_96",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 658
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 658
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 96 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 96 BCE (A.U.C. 658); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_659_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_LICINIUS_CRASSUS_95",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 659
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 659
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 95 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 95 BCE (A.U.C. 659); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_659_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_MUCIUS_SCAEVOLA_95",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 659
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 659
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 95 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 95 BCE (A.U.C. 659); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_660_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_COELIUS_CALDUS_94",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 660
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 660
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 94 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 94 BCE (A.U.C. 660); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_660_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_DOMITIUS_AHENOBARBUS_94",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 660
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 660
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 94 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 94 BCE (A.U.C. 660); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_661_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_VALERIUS_FLACCUS_93",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 661
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 661
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 93 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 93 BCE (A.U.C. 661); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_661_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_HERENNIUS_93",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 661
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 661
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 93 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 93 BCE (A.U.C. 661); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_662_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_CLAUDIUS_PULCHER_92",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 662
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 662
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 92 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 92 BCE (A.U.C. 662); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_662_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_PERPERNA_92",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 662
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 662
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 92 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 92 BCE (A.U.C. 662); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_663_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_MARCIUS_PHILIPPUS_91",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 663
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 663
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 91 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 91 BCE (A.U.C. 663); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_663_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SEXTUS_IULIUS_CAESAR_91",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 663
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 663
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 91 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 91 BCE (A.U.C. 663); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_664_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_IULIUS_CAESAR_90",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 664
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 664
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 90 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 90 BCE (A.U.C. 664); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_664_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_RUTILIUS_LUPUS_90",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 664
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 664
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 90 BCE. Killed in office on June 11; Broughton records no suffect.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. II",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 90 BCE (A.U.C. 664); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_646_SUFFECT_1",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_MARCUS_AURELIUS_SCAURUS_108",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 646
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 646
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Suffect consul for 108 BCE, replacing the condemned Hortensius; Broughton prints a question mark after the cognomen.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. I",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp73024",
+          "note": "Consuls for 108 BCE (A.U.C. 646); Latin name and filiation follow Broughton. Question marks and dashes preserve uncertain or unknown elements."
+        }
+      ]
+    }
+  }
+]

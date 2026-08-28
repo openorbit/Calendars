@@ -1,0 +1,513 @@
+[
+  {
+    "id": "P_PUBLIUS_CLAUDIUS_PULCHER_249",
+    "name": {
+      "normalized": "Publius Claudius Pulcher"
+    },
+    "variants": [
+      {
+        "form": "P. Claudius Pulcher",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_IUNIUS_PULLUS",
+    "name": {
+      "normalized": "Lucius Iunius Pullus"
+    },
+    "variants": [
+      {
+        "form": "L. Iunius Pullus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_NUMERIUS_FABIUS_BUTEO",
+    "name": {
+      "normalized": "Numerius Fabius Buteo"
+    },
+    "variants": [
+      {
+        "form": "N. Fabius Buteo",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_OTACILIUS_CRASSUS_246",
+    "name": {
+      "normalized": "Marcus Otacilius Crassus"
+    },
+    "variants": [
+      {
+        "form": "M. Otacilius Crassus II",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FABIUS_LICINUS",
+    "name": {
+      "normalized": "Marcus Fabius Licinus"
+    },
+    "variants": [
+      {
+        "form": "M. Fabius Licinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_FABIUS_BUTEO",
+    "name": {
+      "normalized": "Marcus Fabius Buteo"
+    },
+    "variants": [
+      {
+        "form": "M. Fabius Buteo",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_ATILIUS_BULBUS",
+    "name": {
+      "normalized": "Gaius Atilius Bulbus"
+    },
+    "variants": [
+      {
+        "form": "C. Atilius Bulbus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_MANLIUS_TORQUATUS_ATTICUS",
+    "name": {
+      "normalized": "Aulus Manlius Torquatus Atticus"
+    },
+    "variants": [
+      {
+        "form": "A. Manlius Torquatus Atticus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_FUNDANIUS_FUNDULUS",
+    "name": {
+      "normalized": "Gaius Fundanius Fundulus"
+    },
+    "variants": [
+      {
+        "form": "C. Fundanius Fundulus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_SULPICIUS_GALUS_243",
+    "name": {
+      "normalized": "Gaius Sulpicius Galus"
+    },
+    "variants": [
+      {
+        "form": "C. Sulpicius Galus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_LUTATIUS_CATULUS_242",
+    "name": {
+      "normalized": "Gaius Lutatius Catulus"
+    },
+    "variants": [
+      {
+        "form": "C. Lutatius Catulus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_AULUS_POSTUMIUS_ALBINUS_242",
+    "name": {
+      "normalized": "Aulus Postumius Albinus"
+    },
+    "variants": [
+      {
+        "form": "A. Postumius Albinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_LUTATIUS_CERCO",
+    "name": {
+      "normalized": "Quintus Lutatius Cerco"
+    },
+    "variants": [
+      {
+        "form": "Q. Lutatius Cerco",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_CLAUDIUS_CENTHO",
+    "name": {
+      "normalized": "Gaius Claudius Centho"
+    },
+    "variants": [
+      {
+        "form": "C. Claudius Centho",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_SEMPRONIUS_TUDITANUS_240",
+    "name": {
+      "normalized": "Marcus Sempronius Tuditanus"
+    },
+    "variants": [
+      {
+        "form": "M. Sempronius Tuditanus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_MAMILIUS_TURRINUS",
+    "name": {
+      "normalized": "Gaius Mamilius Turrinus"
+    },
+    "variants": [
+      {
+        "form": "C. Mamilius Turrinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_VALERIUS_FALTO",
+    "name": {
+      "normalized": "Quintus Valerius Falto"
+    },
+    "variants": [
+      {
+        "form": "Q. Valerius Falto",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TIBERIUS_SEMPRONIUS_GRACCHUS_238",
+    "name": {
+      "normalized": "Tiberius Sempronius Gracchus"
+    },
+    "variants": [
+      {
+        "form": "Ti. Sempronius Gracchus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_VALERIUS_FALTO",
+    "name": {
+      "normalized": "Publius Valerius Falto"
+    },
+    "variants": [
+      {
+        "form": "P. Valerius Falto",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_CORNELIUS_LENTULUS_CAUDINUS_237",
+    "name": {
+      "normalized": "Lucius Cornelius Lentulus Caudinus"
+    },
+    "variants": [
+      {
+        "form": "L. Cornelius Lentulus Caudinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_FULVIUS_FLACCUS",
+    "name": {
+      "normalized": "Quintus Fulvius Flaccus"
+    },
+    "variants": [
+      {
+        "form": "Q. Fulvius Flaccus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_PUBLIUS_CORNELIUS_LENTULUS_CAUDINUS",
+    "name": {
+      "normalized": "Publius Cornelius Lentulus Caudinus"
+    },
+    "variants": [
+      {
+        "form": "P. Cornelius Lentulus Caudinus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_LICINIUS_VARUS",
+    "name": {
+      "normalized": "Gaius Licinius Varus"
+    },
+    "variants": [
+      {
+        "form": "C. Licinius Varus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_TITUS_MANLIUS_TORQUATUS_235",
+    "name": {
+      "normalized": "Titus Manlius Torquatus"
+    },
+    "variants": [
+      {
+        "form": "T. Manlius Torquatus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_LUCIUS_POSTUMIUS_ALBINUS_234",
+    "name": {
+      "normalized": "Lucius Postumius Albinus"
+    },
+    "variants": [
+      {
+        "form": "L. Postumius Albinus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_SPURIUS_CARVILIUS_MAXIMUS_234",
+    "name": {
+      "normalized": "Spurius Carvilius Maximus"
+    },
+    "variants": [
+      {
+        "form": "Sp. Carvilius Maximus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_QUINTUS_FABIUS_MAXIMUS_VERRUCOSUS",
+    "name": {
+      "normalized": "Quintus Fabius Maximus Verrucosus"
+    },
+    "variants": [
+      {
+        "form": "Q. Fabius Maximus Verrucosus I",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MANIUS_POMPONIUS_MATHO",
+    "name": {
+      "normalized": "Manius Pomponius Matho"
+    },
+    "variants": [
+      {
+        "form": "M'. Pomponius Matho",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_AEMILIUS_LEPIDUS_232",
+    "name": {
+      "normalized": "Marcus Aemilius Lepidus"
+    },
+    "variants": [
+      {
+        "form": "M. Aemilius Lepidus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_PUBLICIUS_MALLEOLUS",
+    "name": {
+      "normalized": "Marcus Publicius Malleolus"
+    },
+    "variants": [
+      {
+        "form": "M. Publicius Malleolus",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_POMPONIUS_MATHO_231",
+    "name": {
+      "normalized": "Marcus Pomponius Matho"
+    },
+    "variants": [
+      {
+        "form": "M. Pomponius Matho",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_GAIUS_PAPIRIUS_MASO",
+    "name": {
+      "normalized": "Gaius Papirius Maso"
+    },
+    "variants": [
+      {
+        "form": "C. Papirius Maso",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_AEMILIUS_BARBULA_230",
+    "name": {
+      "normalized": "Marcus Aemilius Barbula"
+    },
+    "variants": [
+      {
+        "form": "M. Aemilius Barbula",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  },
+  {
+    "id": "P_MARCUS_IUNIUS_PERA",
+    "name": {
+      "normalized": "Marcus Iunius Pera"
+    },
+    "variants": [
+      {
+        "form": "M. Iunius Pera",
+        "lang": "la",
+        "script": "Latn",
+        "kind": "source",
+        "casus": "nom"
+      }
+    ]
+  }
+]
+

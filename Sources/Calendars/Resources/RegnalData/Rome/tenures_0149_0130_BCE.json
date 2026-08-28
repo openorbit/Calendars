@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "TENURE_AUC_605_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_MARCIUS_CENSORINUS_149",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 605
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 605
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 149 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "149 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_605_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MANIUS_MANLIUS_149",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 605
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 605
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 149 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "149 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_606_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SPURIUS_POSTUMIUS_ALBINUS_MAGNUS_148",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 606
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 606
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 148 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "148 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_606_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_CALPURNIUS_PISO_CAESONINUS_148",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 606
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 606
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 148 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "148 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_607_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_CORNELIUS_SCIPIO_AFRICANUS_AEMILIANUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 607
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 607
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 147 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "147 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_607_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_LIVIUS_DRUSUS_147",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 607
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 607
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 147 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "147 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_608_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GNAEUS_CORNELIUS_LENTULUS_146",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 608
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 608
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 146 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "146 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_608_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_MUMMIUS_146",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 608
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 608
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 146 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "146 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_609_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_FABIUS_MAXIMUS_AEMILIANUS_145",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 609
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 609
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 145 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "145 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_609_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_HOSTILIUS_MANCINUS_145",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 609
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 609
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 145 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "145 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_610_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SERVIUS_SULPICIUS_GALBA_144",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 610
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 610
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 144 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "144 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_610_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_AURELIUS_COTTA_144",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 610
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 610
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 144 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "144 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_611_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_APPIUS_CLAUDIUS_PULCHER_143",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 611
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 611
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 143 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "143 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_611_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_CAECILIUS_METELLUS_MACEDONICUS_143",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 611
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 611
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 143 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "143 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_612_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_CAECILIUS_METELLUS_CALVUS_142",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 612
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 612
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 142 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "142 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_612_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_FABIUS_MAXIMUS_SERVILIANUS_142",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 612
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 612
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 142 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "142 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_613_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GNAEUS_SERVILIUS_CAEPIO_141",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 613
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 613
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 141 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "141 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_613_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_POMPEIUS_141",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 613
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 613
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 141 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "141 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_614_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_LAELIUS_SAPIENS_140",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 614
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 614
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 140 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "140 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_614_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_SERVILIUS_CAEPIO_140",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 614
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 614
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 140 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "140 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_615_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GNAEUS_CALPURNIUS_PISO_139",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 615
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 615
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 139 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "139 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_615_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_POPILLIUS_LAENAS_139",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 615
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 615
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 139 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "139 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_616_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_CORNELIUS_SCIPIO_NASICA_SERAPIO_138",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 138 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "138 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_616_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_DECIMUS_IUNIUS_BRUTUS_CALLAICUS_138",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 616
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 138 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "138 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_617_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_AEMILIUS_LEPIDUS_PORCINA_137",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 617
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 617
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 137 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "137 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_617_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_HOSTILIUS_MANCINUS_137",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 617
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 617
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 137 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "137 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_618_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_FURIUS_PHILUS_136",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 618
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 618
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 136 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "136 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_618_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SEXTUS_ATILIUS_SERRANUS_136",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 618
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 618
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 136 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "136 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_619_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_SERVIUS_FULVIUS_FLACCUS_135",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 619
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 619
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 135 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "135 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_619_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_QUINTUS_CALPURNIUS_PISO_135",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 619
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 619
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 135 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "135 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_620_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_CORNELIUS_SCIPIO_AFRICANUS_AEMILIANUS",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 620
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 620
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 134 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 2,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "134 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_620_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_GAIUS_FULVIUS_FLACCUS_134",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 620
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 620
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 134 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "134 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_621_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_MUCIUS_SCAEVOLA_133",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 621
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 621
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 133 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "133 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_621_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_CALPURNIUS_PISO_FRUGI_133",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 621
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 621
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 133 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "133 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_622_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_POPILLIUS_LAENAS_132",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 622
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 622
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 132 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "132 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_622_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_RUPILIUS_132",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 622
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 622
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 132 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "132 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_623_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_PUBLIUS_LICINIUS_CRASSUS_DIVES_MUCIANUS_131",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 623
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 623
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 131 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "131 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_623_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_VALERIUS_FLACCUS_131",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 623
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 623
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 131 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "131 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_624_CONSUL_1",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_LUCIUS_CORNELIUS_LENTULUS_130",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 624
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 624
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 130 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "130 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_624_CONSUL_2",
+    "office_id": "OFFICE_CONSUL_ORDINARIUS",
+    "person_id": "P_MARCUS_PERPERNA_130",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 624
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 624
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Republican ordinary consul for 130 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "ordinary_consul",
+      "seat": 2,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "130 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  },
+  {
+    "id": "TENURE_AUC_624_SUFFECT_1",
+    "office_id": "OFFICE_CONSUL_SUFFECTUS",
+    "person_id": "P_APPIUS_CLAUDIUS_NERO_130",
+    "start": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 624
+        }
+      }
+    ],
+    "end": [
+      {
+        "rep": "ymd",
+        "calendar": "AUC",
+        "ymd": {
+          "year": 624
+        }
+      }
+    ],
+    "certainty": "high",
+    "status": "attested",
+    "notes": "Suffect consul for 130 BCE.",
+    "consular": {
+      "dataset": "republican",
+      "role": "suffect_consul",
+      "seat": 1,
+      "consulship_number": 1,
+      "tradition": "attested",
+      "sources": [
+        {
+          "title": "Christopher S. Mackay, Consuls of the Roman Republic",
+          "url": "https://sites.ualberta.ca/~csmackay/Consuls.List.html",
+          "note": "130 BCE; A.L.C. derived from Varronian A.U.C."
+        }
+      ]
+    }
+  }
+]

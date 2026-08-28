@@ -574,4 +574,248 @@ struct ConsularFastiTests {
         let year274 = try #require(calendar.consularYear(auc: 480))
         #expect(year274.consulList[0].consulshipNumber == 3)
     }
+
+    @Test("The ordinary sequence continues through 250 BCE")
+    func ordinarySequenceThrough250BCE() throws {
+        for auc in 485...504 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+    }
+
+    @Test("The ordinary sequence continues through 230 BCE")
+    func ordinarySequenceThrough230BCE() throws {
+        for auc in 505...524 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+    }
+
+    @Test("The ordinary sequence continues through 210 BCE")
+    func ordinarySequenceThrough210BCE() throws {
+        for auc in 525...544 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+        }
+
+        #expect(calendar.consularYear(auc: 537)?.suffectList.count == 1)
+        #expect(calendar.consularYear(auc: 539)?.suffectList.count == 2)
+        #expect(calendar.tenures.filter {
+            $0.start.first?.ymd?.year == 534 && $0.consular?.alternativeToTenureID != nil
+        }.count == 2)
+    }
+
+    @Test("The ordinary sequence continues through 190 BCE")
+    func ordinarySequenceThrough190BCE() throws {
+        for auc in 545...564 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(RomanChronology.alc(fromVarronianAUC: auc) == auc - 244)
+        }
+    }
+
+    @Test("The ordinary sequence continues through 170 BCE")
+    func ordinarySequenceThrough170BCE() throws {
+        for auc in 565...584 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+        }
+
+        #expect(calendar.consularYear(auc: 574)?.suffectList.count == 1)
+    }
+
+    @Test("The ordinary sequence continues through 150 BCE")
+    func ordinarySequenceThrough150BCE() throws {
+        for auc in 585...604 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        #expect(calendar.consularYear(auc: 592)?.suffectList.count == 2)
+
+        let year150 = try #require(calendar.consularYear(auc: 604))
+        #expect(year150.consulList.map(\.personID) == [
+            "P_TITUS_QUINCTIUS_FLAMININUS_150",
+            "P_MANIUS_ACILIUS_BALBUS_150"
+        ])
+    }
+
+    @Test("The ordinary sequence continues through 130 BCE")
+    func ordinarySequenceThrough130BCE() throws {
+        for auc in 605...624 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        let year147 = try #require(calendar.consularYear(auc: 607))
+        let year134 = try #require(calendar.consularYear(auc: 620))
+        #expect(year147.consulList[0].personID == year134.consulList[0].personID)
+        #expect(year147.consulList[0].consulshipNumber == 1)
+        #expect(year134.consulList[0].consulshipNumber == 2)
+        #expect(calendar.consularYear(auc: 624)?.suffectList.map(\.personID) == [
+            "P_APPIUS_CLAUDIUS_NERO_130"
+        ])
+    }
+
+    @Test("The Broughton sequence continues through 110 BCE")
+    func broughtonSequenceThrough110BCE() throws {
+        for auc in 625...644 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        let scipio = try #require(calendar.consularYear(auc: 643)?.consulList.first)
+        #expect(scipio.personID == "P_PUBLIUS_CORNELIUS_SCIPIO_NASICA_SERAPIO_111")
+        #expect(calendar.consularYear(auc: 643)?.suffectList.isEmpty == true)
+
+        let broughtonTenures = calendar.tenures.filter { tenure in
+            guard let auc = tenure.start.first?.ymd?.year else { return false }
+            return (625...644).contains(auc) && tenure.consular?.role == .ordinaryConsul
+        }
+        #expect(broughtonTenures.count == 40)
+        #expect(broughtonTenures.allSatisfy { tenure in
+            tenure.consular?.sources.contains { source in
+                source.title.contains("Broughton")
+            } == true
+        })
+        #expect(broughtonTenures.first { tenure in
+            tenure.personID == "P_PUBLIUS_CORNELIUS_SCIPIO_NASICA_SERAPIO_111"
+        }?.notes?.contains("died in office") == true)
+    }
+
+    @Test("The Broughton sequence continues through 90 BCE")
+    func broughtonSequenceThrough90BCE() throws {
+        for auc in 645...664 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        #expect(calendar.consularYear(auc: 646)?.suffectList.map(\.personID) == [
+            "P_MARCUS_AURELIUS_SCAURUS_108"
+        ])
+
+        let mariusAUCs = [647, 650, 651, 652, 653, 654]
+        for (index, auc) in mariusAUCs.enumerated() {
+            let marius = try #require(calendar.consularYear(auc: auc)?.consulList.first {
+                $0.personID == "P_GAIUS_MARIUS"
+            })
+            #expect(marius.consulshipNumber == index + 1)
+        }
+
+        let lateVolumeTenures = calendar.tenures.filter { tenure in
+            guard let auc = tenure.start.first?.ymd?.year else { return false }
+            return (655...664).contains(auc) && tenure.consular?.role == .ordinaryConsul
+        }
+        #expect(lateVolumeTenures.count == 20)
+        #expect(lateVolumeTenures.allSatisfy { tenure in
+            tenure.consular?.sources.allSatisfy { $0.title.hasSuffix("vol. II") } == true
+        })
+    }
+
+    @Test("The Broughton sequence continues through 70 BCE")
+    func broughtonSequenceThrough70BCE() throws {
+        for auc in 665...684 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        #expect(calendar.consularYear(auc: 667)?.suffectList.map(\.personID) == [
+            "P_LUCIUS_CORNELIUS_MERULA_87"
+        ])
+        #expect(calendar.consularYear(auc: 668)?.suffectList.map(\.personID) == [
+            "P_LUCIUS_VALERIUS_FLACCUS_86"
+        ])
+
+        for (auc, number) in [(667, 1), (668, 2), (669, 3), (670, 4)] {
+            let cinna = try #require(calendar.consularYear(auc: auc)?.consulList.first {
+                $0.personID == "P_LUCIUS_CORNELIUS_CINNA"
+            })
+            #expect(cinna.consulshipNumber == number)
+        }
+        #expect(calendar.consularYear(auc: 668)?.consulList.first {
+            $0.personID == "P_GAIUS_MARIUS"
+        }?.consulshipNumber == 7)
+        #expect(calendar.consularYear(auc: 674)?.consulList.first {
+            $0.personID == "P_LUCIUS_CORNELIUS_SULLA_FELIX"
+        }?.consulshipNumber == 2)
+    }
+
+    @Test("The Broughton sequence continues through 50 BCE")
+    func broughtonSequenceThrough50BCE() throws {
+        for auc in 685...704 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            #expect(year.consulList.count == 2)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        let year68 = try #require(calendar.consularYear(auc: 686))
+        #expect(year68.suffectList.isEmpty)
+        #expect(year68.noteText.contains("died before entering office"))
+
+        let year52 = try #require(calendar.consularYear(auc: 702))
+        #expect(year52.consulList.map(\.personID) == [
+            "P_GNAEUS_POMPEIUS_MAGNUS",
+            "P_QUINTUS_CAECILIUS_METELLUS_PIUS_SCIPIO_NASICA_52"
+        ])
+        #expect(year52.consulList[0].consulshipNumber == 3)
+        #expect(year52.noteText.contains("sole consul"))
+        #expect(year52.noteText.contains("final five months"))
+
+        let year55 = try #require(calendar.consularYear(auc: 699))
+        #expect(year55.consulList.map(\.consulshipNumber) == [2, 2])
+    }
+
+    @Test("The Broughton Republican sequence reaches 31 BCE")
+    func broughtonRepublicanSequenceReaches31BCE() throws {
+        for auc in 705...723 {
+            let year = try #require(calendar.consularYear(auc: auc))
+            let expectedOrdinaries = [709, 723].contains(auc) ? 1 : 2
+            #expect(year.consulList.count == expectedOrdinaries)
+            #expect(year.startJDN == RomanCalendar.shared.startOfYearJDN(year: auc))
+            #expect(year.endJDN == RomanCalendar.shared.endOfYearJDN(year: auc))
+        }
+
+        #expect(calendar.consularYear(auc: 709)?.suffectList.count == 3)
+        #expect(calendar.consularYear(auc: 711)?.suffectList.count == 4)
+        #expect(calendar.consularYear(auc: 720)?.suffectList.count == 4)
+        #expect(calendar.consularYear(auc: 721)?.suffectList.count == 6)
+        #expect(calendar.consularYear(auc: 723)?.suffectList.count == 3)
+
+        let octavianYears = [(711, 1), (721, 2), (723, 3)]
+        for (auc, number) in octavianYears {
+            let year = try #require(calendar.consularYear(auc: auc))
+            let officeholder = try #require((year.consulList + year.suffectList).first {
+                ["P_GAIUS_IULIUS_CAESAR_OCTAVIANUS", "P_IMPERATOR_CAESAR_DIVI_FILIUS"]
+                    .contains($0.personID)
+            })
+            #expect(officeholder.consulshipNumber == number)
+        }
+
+        let year31 = try #require(calendar.consularYear(auc: 723))
+        #expect(year31.consulList.map(\.personID) == ["P_IMPERATOR_CAESAR_DIVI_FILIUS"])
+        #expect(year31.noteText.contains("deprived before entering office"))
+        #expect(year31.suffectList.map(\.personID) == [
+            "P_MARCUS_VALERIUS_MESSALLA_CORVINUS_31",
+            "P_MARCUS_TITIUS_31",
+            "P_GNAEUS_POMPEIUS_31"
+        ])
+    }
 }
