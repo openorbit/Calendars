@@ -114,6 +114,10 @@ private let julMonToInt: [String:Int] = [
     "AUG":8,"SEP":9,"SEPT":9,"OCT":10,"NOV":11,"DEC":12
 ]
 
+private func writeToStandardError(_ message: String) {
+  FileHandle.standardError.write(Data(message.utf8))
+}
+
 
 // ------------------------
 // Parsing Bennett row
@@ -336,7 +340,7 @@ func normalize(csvPath: String) throws -> BuildInputs {
 struct RomanCalendarNormalize {
   static func main() {
     guard CommandLine.arguments.count >= 2 else {
-      fputs("""
+      writeToStandardError("""
         Usage: roman-civil-normalize <year_oriented.csv> [output.csv]
         
         Input CSV headers (case-sensitive recommended):
@@ -344,7 +348,7 @@ struct RomanCalendarNormalize {
         
         Each month cell: e.g.  "-41 Jan 2" (astronomical year; English month; day)
         Empty cell => month absent that year.
-        """, stderr)
+        """)
       exit(2)
     }
 
@@ -370,7 +374,7 @@ struct RomanCalendarNormalize {
 
 
     } catch {
-      fputs("Error: \(error)\n", stderr)
+      writeToStandardError("Error: \(error)\n")
       exit(1)
     }
   }
