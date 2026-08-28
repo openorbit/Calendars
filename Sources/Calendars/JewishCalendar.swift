@@ -208,7 +208,7 @@ fileprivate let jewishMonths: [String : MonthSpec] = [
     ]
   ),
 
-  "jewish:I1" : MonthSpec(
+  "jewish:adar_i" : MonthSpec(
     monthUID: "jewish:adar_i",
     intercalary: false,
     intercalaryRuleRef: nil,
@@ -223,7 +223,7 @@ fileprivate let jewishMonths: [String : MonthSpec] = [
       )
     ]
   ),
-  "jewish:I2" : MonthSpec(
+  "jewish:adar_ii" : MonthSpec(
     monthUID: "jewish:adar_ii",
     intercalary: false,
     intercalaryRuleRef: nil,

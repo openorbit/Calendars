@@ -8,16 +8,9 @@ public final class RegnalCalendar: @unchecked Sendable {
     public let offices: [String: RegnalOffice]
     public let polities: [String: RegnalPolity]
     public let magistracyGaps: [RomanMagistracyGap]
-    public var consulYears: [RomanConsulYear] {
-        let years = Set(
-            tenures.compactMap { tenure -> Int? in
-                guard tenure.consular?.role == .ordinaryConsul,
-                      tenure.start.first?.calendar == "AUC" else { return nil }
-                return tenure.start.first?.ymd?.year
-            }
-        )
-        return years.sorted().compactMap { consularYear(auc: $0) }
-    }
+    public let consulYears: [RomanConsulYear]
+    private let consulYearsByAUC: [Int: RomanConsulYear]
+    private let consulSearchIndex: [Int: String]
     
     private init() {
         // Load data into local vars first
@@ -92,7 +85,7 @@ public final class RegnalCalendar: @unchecked Sendable {
                 .filter { $0.polityID == "POLITY_ROMAN_REPUBLIC" }
                 .map(\.auc)
         )
-        self.tenures = t.values.filter { tenure in
+        let loadedTenures = t.values.filter { tenure in
             guard tenure.start.first?.calendar == "AUC",
                   let auc = tenure.start.first?.ymd?.year,
                   assertedRomanGapYears.contains(auc),
@@ -101,10 +94,21 @@ public final class RegnalCalendar: @unchecked Sendable {
             }
             return false
         }
+        let loadedConsulYears = Self.makeConsulYears(tenures: loadedTenures, persons: p)
+        self.tenures = loadedTenures
         self.persons = p
         self.offices = o
         self.polities = pol
         self.magistracyGaps = Array(gaps.values)
+        self.consulYears = loadedConsulYears
+        self.consulYearsByAUC = Dictionary(uniqueKeysWithValues: loadedConsulYears.map { ($0.auc, $0) })
+        self.consulSearchIndex = Dictionary(uniqueKeysWithValues: loadedConsulYears.map { year in
+            let names = (year.consuls + year.suffects).flatMap { consul -> [String] in
+                let variants = p[consul.personID]?.variants.map(\.form) ?? []
+                return [consul.name] + variants
+            }
+            return (year.auc, Self.canonicalSearchText(names.joined(separator: " ")))
+        })
     }
     
     // MARK: - Date Calculation
@@ -198,6 +202,18 @@ public final class RegnalCalendar: @unchecked Sendable {
         persons[id]
     }
 
+    /// Searches ordinary and suffect consul names, including recorded name variants.
+    /// Search text is normalized once when the bundled regnal data is loaded.
+    public func searchConsulYears(matching query: String) -> [RomanConsulYear] {
+        let terms = Self.canonicalSearchText(query).split(separator: " ")
+        guard !terms.isEmpty else { return consulYears }
+
+        return consulYears.filter { year in
+            guard let searchableText = consulSearchIndex[year.auc] else { return false }
+            return terms.allSatisfy(searchableText.contains)
+        }
+    }
+
     public func magistracyGap(
         auc: Int,
         dataset: ConsularTenure.Dataset = .republican
@@ -210,6 +226,9 @@ public final class RegnalCalendar: @unchecked Sendable {
         auc: Int,
         dataset: ConsularTenure.Dataset = .republican
     ) -> RomanConsulYear? {
+        if dataset == .republican {
+            return consulYearsByAUC[auc]
+        }
         let yearTenures = tenures.filter { tenure in
             tenure.consular?.dataset == dataset
                 && tenure.start.first?.calendar == "AUC"
@@ -244,6 +263,58 @@ public final class RegnalCalendar: @unchecked Sendable {
             consuls: names(for: .ordinaryConsul),
             suffects: names(for: .suffectConsul),
             notes: notes.isEmpty ? nil : notes.joined(separator: " ")
+        )
+    }
+
+    private static func makeConsulYears(
+        tenures: [RegnalTenure],
+        persons: [String: RegnalPerson]
+    ) -> [RomanConsulYear] {
+        let grouped = Dictionary(grouping: tenures.filter {
+            $0.consular?.dataset == .republican
+                && $0.start.first?.calendar == "AUC"
+                && $0.start.first?.ymd?.year != nil
+        }) { $0.start.first!.ymd!.year }
+
+        return grouped.keys.sorted().compactMap { auc in
+            guard let yearTenures = grouped[auc],
+                  yearTenures.contains(where: { $0.consular?.role == .ordinaryConsul }) else {
+                return nil
+            }
+
+            func names(for role: ConsularTenure.Role) -> [RomanConsulYear.ConsulName] {
+                yearTenures
+                    .filter {
+                        $0.consular?.role == role
+                            && $0.consular?.alternativeToTenureID == nil
+                    }
+                    .sorted { ($0.consular?.seat ?? Int.max) < ($1.consular?.seat ?? Int.max) }
+                    .map { tenure in
+                        RomanConsulYear.ConsulName(
+                            personID: tenure.personID,
+                            name: persons[tenure.personID]?.name.normalized ?? tenure.personID,
+                            seat: tenure.consular?.seat,
+                            consulshipNumber: tenure.consular?.consulshipNumber
+                        )
+                    }
+            }
+
+            let notes = yearTenures.compactMap(\.notes).filter { !$0.isEmpty }
+            return RomanConsulYear(
+                auc: auc,
+                startJDN: RomanCalendar.shared.startOfYearJDN(year: auc),
+                endJDN: RomanCalendar.shared.endOfYearJDN(year: auc),
+                consuls: names(for: .ordinaryConsul),
+                suffects: names(for: .suffectConsul),
+                notes: notes.isEmpty ? nil : notes.joined(separator: " ")
+            )
+        }
+    }
+
+    private static func canonicalSearchText(_ value: String) -> String {
+        value.folding(
+            options: [.caseInsensitive, .diacriticInsensitive],
+            locale: Locale(identifier: "en_US_POSIX")
         )
     }
 }
