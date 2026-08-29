@@ -30,6 +30,19 @@ struct ConsularFastiTests {
         #expect(year.endJDN != nil)
     }
 
+    @Test("Reconstructed years clip their final month at the civil-year boundary")
+    func reconstructedYearClipsTrailingMarch() throws {
+        let months = RomanCalendar.shared.months(forYear: 531, mode: .civil)
+        let start = try #require(RomanCalendar.shared.startOfYearJDN(year: 531))
+        let end = try #require(RomanCalendar.shared.endOfYearJDN(year: 531))
+
+        #expect(months.first?.index == 0)
+        #expect(months.first?.firstDay == 15)
+        #expect(months.first?.length == 17)
+        #expect(months.last?.length == 14)
+        #expect(months.map(\.length).reduce(0, +) == end - start + 1)
+    }
+
     @Test("Eponymous year is derived from ordinary tenures only")
     func eponymousYearExcludesSuffects() throws {
         let year = try #require(calendar.consularYear(auc: 245))

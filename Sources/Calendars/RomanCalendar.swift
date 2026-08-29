@@ -580,20 +580,28 @@ public struct RomanCalendar : CalendarProtocol {
 
     case .reconstructed:
       let months = RomanCalendar.table.monthRows(forYear: year)
+      guard let anchor = RomanCalendar.table.anchor(forYear: year) else { return [] }
 
       var result: [ResolvedMonth] = []
       
       // Check for leading fragment (Month 0)
-      if let anchor = RomanCalendar.table.anchor(forYear: year), let frag = anchor.leadingFragment {
+      if let frag = anchor.leadingFragment {
           result.append(ResolvedMonth(spec: romanMonths[frag.monthInfoIndex],
                                       index: 0, mode: mode,
                                       firstDay: frag.startDay, length: frag.length))
       }
 
       for (i, month) in zip(1...months.count, months) {
+        // A source month row can cross the civil-year boundary when the next
+        // Roman year begins partway through that month. Keep only the portion
+        // belonging to this year; the remainder is exposed as month zero in
+        // the following year's leading fragment.
+        let monthStartJDN = anchor.yearStartJDN + month.offsetFromYearStart
+        let lengthWithinYear = min(month.length, max(0, anchor.yearEndJDN - monthStartJDN))
+        guard lengthWithinYear > 0 else { continue }
         result.append(ResolvedMonth(spec: romanMonths[month.monthInfoIndex],
                                     index: i, mode: mode,
-                                    firstDay: 1, length: month.length))
+                                    firstDay: 1, length: lengthWithinYear))
       }
 
       return result
