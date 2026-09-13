@@ -249,8 +249,8 @@ public struct SwedishCalendar : CalendarProtocol {
                                   yearMode: .civil, year: y, month: m, day: d)
   }
 
-  public static let epoch = 2342042
-  public static let endEpoch = 2346425
+  public static let epoch = JulianCalendar.toJDN(Y: 1700, M: 2, D: 29)
+  public static let endEpoch = GregorianCalendar.toJDN(Y: 1753, M: 3, D: 1) - 1
   public static let shared = SwedishCalendar()
 
   public static func isLeapYear(year: Int) -> Bool {
@@ -259,6 +259,9 @@ public struct SwedishCalendar : CalendarProtocol {
   public static func daysInMonth(year: Int, month: Int) -> Int {
     let normalMonthLength = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     if month == 2 {
+      if year == 1753 {
+        return 17
+      }
       if year == 1712 {
         return 30
       }
@@ -276,6 +279,9 @@ public struct SwedishCalendar : CalendarProtocol {
       return false
     }
     if D < 1 || daysInMonth(year: Y, month: M) < D {
+      return false
+    }
+    if Y == 1753 && M == 2 && D > 17 {
       return false
     }
     return true
@@ -301,13 +307,38 @@ public struct SwedishCalendar : CalendarProtocol {
     return monthNames[month-1]
   }
 
-  static let algorithm = SwedishCalendarAlgorithm(y: 4716, j: 1401, m: 2, n: 12, r: 4, p: 1461, q: 0, v: 3, u: 5, s: 153, t: 2, w: 2)
-
   public static func toJDN(Y: Int, M: Int, D: Int) -> Int {
-    algorithm.toJd(Y: Y, M: M, D: D)
+    if (Y, M, D) >= (1753, 3, 1) {
+      return GregorianCalendar.toJDN(Y: Y, M: M, D: D)
+    }
+    if (Y, M, D) >= (1712, 3, 1) {
+      return JulianCalendar.toJDN(Y: Y, M: M, D: D)
+    }
+    if Y == 1712 && M == 2 && D == 30 {
+      return JulianCalendar.toJDN(Y: 1712, M: 2, D: 29)
+    }
+    if (Y, M, D) >= (1700, 3, 1) {
+      return JulianCalendar.toJDN(Y: Y, M: M, D: D) - 1
+    }
+    return JulianCalendar.toJDN(Y: Y, M: M, D: D)
   }
   public static func toDate(J: Int) -> (Int, Int, Int) {
-    algorithm.toDate(J: J)
+    let gregorianAdoptionJDN = GregorianCalendar.toJDN(Y: 1753, M: 3, D: 1)
+    if gregorianAdoptionJDN <= J {
+      return GregorianCalendar.toDate(J: J)
+    }
+
+    let julianResumptionJDN = JulianCalendar.toJDN(Y: 1712, M: 3, D: 1)
+    if julianResumptionJDN <= J {
+      return JulianCalendar.toDate(J: J)
+    }
+    if J == JulianCalendar.toJDN(Y: 1712, M: 2, D: 29) {
+      return (1712, 2, 30)
+    }
+    if epoch <= J {
+      return JulianCalendar.toDate(J: J + 1)
+    }
+    return JulianCalendar.toDate(J: J)
   }
 
   public static func dayOfWeek(Y: Int, M: Int, D: Int) -> Int {
@@ -316,4 +347,3 @@ public struct SwedishCalendar : CalendarProtocol {
     return W
   }
 }
-
