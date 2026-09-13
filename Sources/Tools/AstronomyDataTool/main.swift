@@ -481,6 +481,58 @@ private func generateSolarEclipses(arguments: [String]) throws {
   print("Wrote \(eclipses.count) NASA solar eclipses to \(outputURL.path)")
 }
 
+private func generateLunarEclipses(arguments: [String]) throws {
+  let packageDirectory = try locatePackageDirectory()
+  let inputURL: URL
+  let outputURL: URL
+  if arguments.isEmpty {
+    inputURL = packageDirectory.appendingPathComponent(
+      "Data/NASA-Eclipses/5MKLEcatalog.txt"
+    )
+    outputURL = packageDirectory.appendingPathComponent(
+      "Sources/Calendars/Resources/AstronomyData/lunar-eclipses.bin"
+    )
+  } else if arguments.count == 2 {
+    inputURL = URL(fileURLWithPath: arguments[0])
+    outputURL = URL(fileURLWithPath: arguments[1])
+  } else {
+    throw GeneratorError.usage(
+      "Usage: AstronomyDataTool generate-lunar-eclipses [<NASA catalog> <output file>]"
+    )
+  }
+  let eclipses = try LunarEclipseDataGenerator.read(inputURL)
+  var encoded = Data("CALLE001".utf8)
+  encoded.appendLittleEndian(UInt16(1))
+  encoded.appendLittleEndian(UInt16(54))
+  encoded.appendLittleEndian(UInt32(eclipses.count))
+  encoded.appendLittleEndian(UInt32(0))
+  for eclipse in eclipses {
+    encoded.appendLittleEndian(eclipse.year)
+    encoded.append(eclipse.month)
+    encoded.append(eclipse.day)
+    encoded.appendLittleEndian(eclipse.greatestEclipseSeconds)
+    encoded.append(eclipse.julianDate)
+    encoded.append(eclipse.deltaT)
+    encoded.appendLittleEndian(eclipse.lunation)
+    encoded.appendLittleEndian(eclipse.saros)
+    let type = Array(eclipse.type.utf8.prefix(4))
+    encoded.append(contentsOf: type)
+    encoded.append(contentsOf: repeatElement(0, count: 4 - type.count))
+    for value in [
+      eclipse.gamma,
+      eclipse.penumbralMagnitude,
+      eclipse.umbralMagnitude,
+      eclipse.penumbralDurationMinutes ?? .nan,
+      eclipse.partialDurationMinutes ?? .nan,
+      eclipse.totalDurationMinutes ?? .nan,
+    ] {
+      encoded.append(value)
+    }
+  }
+  try encoded.write(to: outputURL, options: .atomic)
+  print("Wrote \(eclipses.count) NASA lunar eclipses to \(outputURL.path)")
+}
+
 private func run() throws {
   var arguments = Array(CommandLine.arguments.dropFirst())
   let command = arguments.first ?? "stars"
@@ -498,6 +550,8 @@ private func run() throws {
     try validateEvents2024(arguments: arguments)
   case "generate-solar-eclipses":
     try generateSolarEclipses(arguments: arguments)
+  case "generate-lunar-eclipses":
+    try generateLunarEclipses(arguments: arguments)
   default:
     // Preserve the original two-positional-argument invocation.
     try generateStars(arguments: [command] + arguments)

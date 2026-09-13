@@ -118,6 +118,9 @@ download_file \
     "${nasa_eclipse_url}/5MCSE/5MKSEcatalog.txt" \
     "${data_directory}/NASA-Eclipses/5MKSEcatalog.txt"
 download_file \
+    "${nasa_eclipse_url}/5MCLE/5MKLEcatalog.txt" \
+    "${data_directory}/NASA-Eclipses/5MKLEcatalog.txt"
+download_file \
     "${nasa_eclipse_url}/eclipse_besselian_from_mysqldump2.csv" \
     "${data_directory}/NASA-Eclipses/solar-eclipse-besselian.csv"
 

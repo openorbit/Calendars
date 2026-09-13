@@ -77,6 +77,17 @@ The resulting resource contains all 11,898 eclipses from astronomical year
 circumstances solver. Applications displaying this data should include
 `SolarEclipseCatalog.sourceAcknowledgement`.
 
+Generate the 12,064 NASA/GSFC lunar eclipses from astronomical year -1999
+through 3000 with:
+
+```sh
+swift run AstronomyDataTool generate-lunar-eclipses
+```
+
+The compact table preserves the eclipse type, greatest-eclipse instant,
+Delta-T, Saros number, magnitudes, and phase durations. Applications displaying
+this data should include `LunarEclipseCatalog.sourceAcknowledgement`.
+
 Generate DE441-derived equinoxes, solstices, and primary lunar phases with:
 
 ```sh
