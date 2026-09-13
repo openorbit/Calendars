@@ -516,7 +516,7 @@ public struct JewishCalendar : CalendarProtocol {
     let a = firstJDNOfYear(Y: Y)
     let b = firstJDNOfYear(Y: Y + 1)
     let K = b - a - 352 - 27 * (((7 * Y + 13) % 19) / 12)
-    let J = a + A[K-1, M] + D - 1
+    let J = a + A[K, M] + D - 1
     return J
   }
   static func toDate(J: Int) -> (Int, Int, Int) {
