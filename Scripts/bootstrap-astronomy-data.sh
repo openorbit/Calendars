@@ -113,6 +113,14 @@ download_gzip \
     "${cds_base_url}/I/311/hip2.dat.gz" \
     "${data_directory}/Hipparcos-2-CDS/hip2.dat"
 
+nasa_eclipse_url="https://eclipse.gsfc.nasa.gov"
+download_file \
+    "${nasa_eclipse_url}/5MCSE/5MKSEcatalog.txt" \
+    "${data_directory}/NASA-Eclipses/5MKSEcatalog.txt"
+download_file \
+    "${nasa_eclipse_url}/eclipse_besselian_from_mysqldump2.csv" \
+    "${data_directory}/NASA-Eclipses/solar-eclipse-besselian.csv"
+
 if [[ "$include_de441" == true ]]; then
     jpl_linux_url="https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/de441"
     jpl_ascii_url="https://ssd.jpl.nasa.gov/ftp/eph/planets/ascii/de441"

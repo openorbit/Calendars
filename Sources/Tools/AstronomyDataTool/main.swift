@@ -25,7 +25,7 @@ private struct OutputStar {
   let astrometry: HipparcosAstrometry
 }
 
-private enum GeneratorError: Error, CustomStringConvertible {
+enum GeneratorError: Error, CustomStringConvertible {
   case usage(String)
   case malformedRecord(file: String, line: Int)
   case noRecords
@@ -311,6 +311,176 @@ private func validateReferenceFrame(arguments: [String]) throws {
   print("Maximum absolute error: \(maximumError)")
 }
 
+private func prolepticGregorianJDN(year: Int, month: Int, day: Int) -> Double {
+  var adjustedYear = year
+  var adjustedMonth = month
+  if adjustedMonth <= 2 {
+    adjustedYear -= 1
+    adjustedMonth += 12
+  }
+  let century = floor(Double(adjustedYear) / 100)
+  let correction = 2 - century + floor(century / 4)
+  return floor(365.25 * Double(adjustedYear + 4_716))
+    + floor(30.6001 * Double(adjustedMonth + 1))
+    + Double(day) + correction - 1_524.5
+}
+
+private func generateEvents(arguments: [String]) throws {
+  let startYear: Int
+  let endYear: Int
+  let outputURL: URL
+  if arguments.isEmpty {
+    let packageDirectory = try locatePackageDirectory()
+    startYear = -4_000
+    endYear = 3_000
+    outputURL = packageDirectory.appendingPathComponent(
+      "Sources/Calendars/Resources/AstronomyData/astronomical-events.bin"
+    )
+  } else if arguments.count == 3,
+            let parsedStart = Int(arguments[0]),
+            let parsedEnd = Int(arguments[1]),
+            parsedStart <= parsedEnd {
+    startYear = parsedStart
+    endYear = parsedEnd
+    outputURL = URL(fileURLWithPath: arguments[2])
+  } else {
+    throw GeneratorError.usage(
+      "Usage: AstronomyDataTool generate-events [<start year> <end year> <output file>]"
+    )
+  }
+  let dataDirectory = try locatePackageDirectory().appendingPathComponent("Data/DE441")
+  let ephemeris = try DE441Ephemeris(
+    url: dataDirectory.appendingPathComponent("linux_m13000p17000.441")
+  )
+  let startDate = prolepticGregorianJDN(year: startYear, month: 1, day: 1)
+  let endDate = prolepticGregorianJDN(year: endYear + 1, month: 1, day: 1)
+  guard startDate >= ephemeris.startDate, endDate <= ephemeris.endDate else {
+    throw GeneratorError.usage("Requested years are outside the installed DE441 segment")
+  }
+  let generator = AstronomicalEventGenerator(
+    positions: ApparentPositionCalculator(ephemeris: ephemeris)
+  )
+  let events = try generator.events(from: startDate, through: endDate)
+
+  var encoded = Data("CALEVT01".utf8)
+  encoded.appendLittleEndian(UInt16(1))
+  encoded.appendLittleEndian(UInt16(16))
+  encoded.appendLittleEndian(UInt32(events.count))
+  encoded.appendLittleEndian(UInt32(0))
+  for event in events {
+    encoded.append(event.kind.rawValue)
+    encoded.append(contentsOf: repeatElement(0, count: 7))
+    encoded.append(event.julianDateTDB)
+  }
+  try FileManager.default.createDirectory(
+    at: outputURL.deletingLastPathComponent(),
+    withIntermediateDirectories: true
+  )
+  try encoded.write(to: outputURL, options: .atomic)
+  print("Wrote \(events.count) astronomical events for \(startYear)...\(endYear) to \(outputURL.path)")
+}
+
+private func validateEvents2024(arguments: [String]) throws {
+  guard arguments.isEmpty else {
+    throw GeneratorError.usage("Usage: AstronomyDataTool validate-events-2024")
+  }
+  let directory = try locatePackageDirectory().appendingPathComponent("Data/DE441")
+  let ephemeris = try DE441Ephemeris(
+    url: directory.appendingPathComponent("linux_m13000p17000.441")
+  )
+  let events = try AstronomicalEventGenerator(
+    positions: ApparentPositionCalculator(ephemeris: ephemeris)
+  ).events(
+    from: prolepticGregorianJDN(year: 2024, month: 1, day: 1),
+    through: prolepticGregorianJDN(year: 2025, month: 1, day: 1)
+  )
+  // USNO publishes UTC rounded to the minute. TT-UTC was 69.184 seconds in
+  // 2024; TDB-TT is below two milliseconds for this comparison.
+  let offsetToTDB = 69.184 / 86_400
+  let references: [(GeneratedAstronomicalEventKind, Int, Int, Int, Int)] = [
+    (.lastQuarter, 1, 4, 3, 30),
+    (.newMoon, 1, 11, 11, 57),
+    (.firstQuarter, 1, 18, 3, 52),
+    (.fullMoon, 1, 25, 17, 54),
+    (.marchEquinox, 3, 20, 3, 6),
+    (.juneSolstice, 6, 20, 20, 51),
+    (.septemberEquinox, 9, 22, 12, 44),
+    (.decemberSolstice, 12, 21, 9, 20),
+  ]
+  var maximumDifferenceMinutes = 0.0
+  for (kind, month, day, hour, minute) in references {
+    let expected = prolepticGregorianJDN(year: 2024, month: month, day: day)
+      + Double(hour * 60 + minute) / 1_440 + offsetToTDB
+    guard let actual = events.filter({ $0.kind == kind }).min(by: {
+      abs($0.julianDateTDB - expected) < abs($1.julianDateTDB - expected)
+    }) else {
+      throw GeneratorError.validationFailed(maximumError: .infinity, tolerance: 2)
+    }
+    maximumDifferenceMinutes = max(
+      maximumDifferenceMinutes,
+      abs(actual.julianDateTDB - expected) * 1_440
+    )
+  }
+  let toleranceMinutes = 2.0
+  guard maximumDifferenceMinutes <= toleranceMinutes else {
+    throw GeneratorError.validationFailed(
+      maximumError: maximumDifferenceMinutes,
+      tolerance: toleranceMinutes
+    )
+  }
+  print("Validated 2024 seasons and representative lunar phases against USNO")
+  print("Maximum difference from minute-rounded published values: \(maximumDifferenceMinutes) minutes")
+}
+
+private func generateSolarEclipses(arguments: [String]) throws {
+  let packageDirectory = try locatePackageDirectory()
+  let inputURL: URL
+  let outputURL: URL
+  if arguments.isEmpty {
+    inputURL = packageDirectory.appendingPathComponent(
+      "Data/NASA-Eclipses/solar-eclipse-besselian.csv"
+    )
+    outputURL = packageDirectory.appendingPathComponent(
+      "Sources/Calendars/Resources/AstronomyData/solar-eclipses.bin"
+    )
+  } else if arguments.count == 2 {
+    inputURL = URL(fileURLWithPath: arguments[0])
+    outputURL = URL(fileURLWithPath: arguments[1])
+  } else {
+    throw GeneratorError.usage(
+      "Usage: AstronomyDataTool generate-solar-eclipses [<NASA CSV> <output file>]"
+    )
+  }
+  let eclipses = try SolarEclipseDataGenerator.read(inputURL)
+  var encoded = Data("CALSE001".utf8)
+  encoded.appendLittleEndian(UInt16(1))
+  encoded.appendLittleEndian(UInt16(162))
+  encoded.appendLittleEndian(UInt32(eclipses.count))
+  encoded.appendLittleEndian(UInt32(0))
+  for eclipse in eclipses {
+    encoded.appendLittleEndian(eclipse.year)
+    encoded.append(eclipse.month)
+    encoded.append(eclipse.day)
+    encoded.appendLittleEndian(eclipse.greatestEclipseSeconds)
+    encoded.append(eclipse.julianDate)
+    encoded.append(eclipse.deltaT)
+    encoded.appendLittleEndian(eclipse.lunation)
+    encoded.appendLittleEndian(eclipse.saros)
+    let type = Array(eclipse.type.utf8.prefix(4))
+    encoded.append(contentsOf: type)
+    encoded.append(contentsOf: repeatElement(0, count: 4 - type.count))
+    for value in [
+      eclipse.gamma, eclipse.magnitude, eclipse.latitude, eclipse.longitude,
+      eclipse.sunAltitude, eclipse.sunAzimuth, eclipse.pathWidthKilometers,
+      eclipse.centralDurationSeconds,
+    ] + eclipse.besselian {
+      encoded.append(value)
+    }
+  }
+  try encoded.write(to: outputURL, options: .atomic)
+  print("Wrote \(eclipses.count) NASA solar eclipses to \(outputURL.path)")
+}
+
 private func run() throws {
   var arguments = Array(CommandLine.arguments.dropFirst())
   let command = arguments.first ?? "stars"
@@ -322,6 +492,12 @@ private func run() throws {
     try validateDE441(arguments: arguments)
   case "validate-reference-frame":
     try validateReferenceFrame(arguments: arguments)
+  case "generate-events":
+    try generateEvents(arguments: arguments)
+  case "validate-events-2024":
+    try validateEvents2024(arguments: arguments)
+  case "generate-solar-eclipses":
+    try generateSolarEclipses(arguments: arguments)
   default:
     // Preserve the original two-positional-argument invocation.
     try generateStars(arguments: [command] + arguments)

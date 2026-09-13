@@ -60,6 +60,8 @@ final class DE441Ephemeris {
 
   private let handle: FileHandle
   private let dataRecordCount: Int
+  private var cachedRecordIndex: Int?
+  private var cachedRecord: [Double] = []
   private(set) var startDate = 0.0
   private(set) var endDate = 0.0
 
@@ -194,17 +196,21 @@ final class DE441Ephemeris {
   }
 
   private func readRecord(_ index: Int) throws -> [Double] {
+    if cachedRecordIndex == index { return cachedRecord }
     let offset = UInt64(index + Self.dataRecordOffset) * UInt64(Self.recordSize)
     try handle.seek(toOffset: offset)
     guard let data = try handle.read(upToCount: Self.recordSize), data.count == Self.recordSize else {
       throw DE441Error.invalidFile("short read at coefficient record \(index)")
     }
-    return data.withUnsafeBytes { bytes in
+    let record: [Double] = data.withUnsafeBytes { bytes in
       (0..<(Self.recordSize / 8)).map { item in
         let bits = bytes.loadUnaligned(fromByteOffset: item * 8, as: UInt64.self)
         return Double(bitPattern: UInt64(littleEndian: bits))
       }
     }
+    cachedRecordIndex = index
+    cachedRecord = record
+    return record
   }
 }
 

@@ -1,7 +1,8 @@
 # IAU SOFA-derived computations
 
-`AstronomicalReferenceFrame.swift` adapts computations from the IAU SOFA
-Collection's `iauLtpecl` and `iauLtpequ` routines, release 2023-10-11. The
+`AstronomicalReferenceFrame.swift` and `ApparentPositionCalculator.swift` adapt
+computations from the IAU SOFA Collection's `iauLtpecl`, `iauLtpequ`, and
+`iauAb` routines, release 2023-10-11. The
 adaptation changes the language, names, data representation, and program
 structure. It is a derived work and is neither software provided by nor
 endorsed by SOFA.

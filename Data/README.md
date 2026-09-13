@@ -24,6 +24,8 @@ The expected inputs are:
 - `Hipparcos-I-239`: original Hipparcos main catalogue, used as an identifier bridge.
 - `Hipparcos-2-CDS`: van Leeuwen Hipparcos new reduction, CDS I/311.
 - `DE441`: JPL DE441 little-endian ephemeris, header, and test positions.
+- `NASA-Eclipses`: NASA's Five Millennium Solar Eclipse Catalog and its
+  Besselian elements, covering astronomical years -1999 through 3000.
 
 Use `--force` to refresh files that are already present. Review upstream catalogue
 revisions and generator regression results before committing newly generated
@@ -63,3 +65,25 @@ This model is used instead of extrapolating the modern IAU 2006 polynomial over
 the full historical range. The implementation is adapted from the IAU SOFA
 long-term routines; its provenance and license requirements are recorded beside
 the generator source in `SOFA-NOTICE.md`.
+
+Generate the compact NASA/GSFC solar-eclipse catalog with:
+
+```sh
+swift run AstronomyDataTool generate-solar-eclipses
+```
+
+The resulting resource contains all 11,898 eclipses from astronomical year
+-1999 through 3000, including the Besselian elements needed by a later local
+circumstances solver. Applications displaying this data should include
+`SolarEclipseCatalog.sourceAcknowledgement`.
+
+Generate DE441-derived equinoxes, solstices, and primary lunar phases with:
+
+```sh
+swift run AstronomyDataTool generate-events
+```
+
+The default range is astronomical years -4000 through 3000. A smaller range and
+an alternate output can be supplied as `<start year> <end year> <output file>`.
+Use `validate-events-2024` to compare representative output with the
+minute-rounded U.S. Naval Observatory tables.
