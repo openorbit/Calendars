@@ -6,3 +6,9 @@ DerivedData/
 .swiftpm/configuration/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
+
+# Large upstream inputs recreated by Scripts/bootstrap-astronomy-data.sh.
+/Data/DE441/
+/Data/Hipparcos-I-239/
+/Data/Hipparcos-2-CDS/
+/Data/YBSC5/

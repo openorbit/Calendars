@@ -18,6 +18,7 @@ let package = Package(
 
         // Tools for working with the library
         .executable(name: "RomanTableTool", targets: ["RomanTableTool"]),
+        .executable(name: "AstronomyDataTool", targets: ["AstronomyDataTool"]),
 
     ],
     dependencies: [
@@ -31,6 +32,7 @@ let package = Package(
             name: "Calendars",
             resources: [
                 .copy("Resources/RegnalData"),
+                .copy("Resources/AstronomyData"),
                 .process("Resources/world_events.json")
             ]),
 
@@ -42,6 +44,11 @@ let package = Package(
               .product(name: "SwiftCSV", package: "SwiftCSV"),
             ],
             path: "Sources/Tools/RomanTableTool"
+        ),
+
+        .executableTarget(
+            name: "AstronomyDataTool",
+            path: "Sources/Tools/AstronomyDataTool"
         ),
 
         .testTarget(
