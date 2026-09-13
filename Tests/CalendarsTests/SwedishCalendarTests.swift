@@ -18,6 +18,23 @@ func swedishAnomalousCalendarEaster() {
   }
 }
 
+@Test("Swedish Easter in 1709 was four weeks after Gregorian and one week before Julian Easter")
+func swedishEasterWasUniqueIn1709() {
+  let (swedishYear, swedishMonth, swedishDay) = SwedishCalendar.dayOfEaster(Y: 1709)
+  let (gregorianYear, gregorianMonth, gregorianDay) = GregorianCalendar.dayOfEaster(Y: 1709)
+  let (julianYear, julianMonth, julianDay) = JulianCalendar.dayOfEaster(Y: 1709)
+
+  let swedishJDN = SwedishCalendar.toJDN(Y: swedishYear, M: swedishMonth, D: swedishDay)
+  let gregorianJDN = GregorianCalendar.toJDN(
+    Y: gregorianYear,
+    M: gregorianMonth,
+    D: gregorianDay)
+  let julianJDN = JulianCalendar.toJDN(Y: julianYear, M: julianMonth, D: julianDay)
+
+  #expect(swedishJDN - gregorianJDN == 28)
+  #expect(julianJDN - swedishJDN == 7)
+}
+
 @Test("Swedish astronomical Easter dates before Gregorian adoption")
 func swedishAstronomicalEasterInJulianCalendar() {
   let expected = [
