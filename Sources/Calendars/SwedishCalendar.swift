@@ -346,4 +346,48 @@ public struct SwedishCalendar : CalendarProtocol {
     let W = 1 + (J + 1) % 7
     return W
   }
+
+  /// Returns the historical date of Easter Sunday in the calendar then used
+  /// in Sweden. This is not a proleptic rule: Sweden changed its Easter
+  /// reckoning independently of its civil calendar reforms.
+  public static func dayOfEaster(Y: Int) -> (Int, Int, Int) {
+    if Y < 1700 || (1712 ... 1739).contains(Y) {
+      return JulianCalendar.dayOfEaster(Y: Y)
+    }
+
+    if let date = anomalousCalendarEasters[Y] {
+      return (Y, date.month, date.day)
+    }
+
+    // The improved astronomical reckoning agreed with Gregorian computus in
+    // all other Swedish years from 1753 through 1843. Sweden formally adopted
+    // Gregorian computus in 1844.
+    if Y >= 1753 {
+      return GregorianCalendar.dayOfEaster(Y: Y)
+    }
+
+    // 1700–1711 used Julian paschal tables, but Sunday was selected in the
+    // anomalous Swedish civil calendar. The complete surviving results are
+    // represented above, so this is only a defensive fallback.
+    return JulianCalendar.dayOfEaster(Y: Y)
+  }
+
+  private static let anomalousCalendarEasters: [Int: (month: Int, day: Int)] = [
+    // Julian computus expressed in the anomalous Swedish calendar.
+    1700: (4, 1), 1701: (4, 21), 1702: (4, 6), 1703: (3, 29),
+    1704: (4, 17), 1705: (4, 2), 1706: (3, 25), 1707: (4, 14),
+    1708: (4, 5), 1709: (4, 18), 1710: (4, 10), 1711: (3, 26),
+
+    // Astronomical ("improved") Easter, still expressed in the Julian civil
+    // calendar used by Sweden through February 1753.
+    1740: (4, 6), 1741: (3, 22), 1742: (3, 14), 1743: (4, 3),
+    1744: (3, 18), 1745: (4, 7), 1746: (3, 30), 1747: (3, 22),
+    1748: (4, 3), 1749: (3, 26), 1750: (3, 18), 1751: (3, 31),
+    1752: (3, 22),
+
+    // Astronomical Easter dates actually observed after the Gregorian civil
+    // calendar was adopted. The projected anomalies of 1825 and 1829 were not
+    // observed in Sweden.
+    1802: (4, 25), 1805: (4, 21), 1818: (3, 29),
+  ]
 }
