@@ -186,36 +186,23 @@ public enum SolarEclipsePathCalculator {
     }
 
     private func polynomial(start: Int, count: Int, t: Double) -> Double {
-      (0..<count).reduce(0) { $0 + values[start + $1] * pow(t, Double($1)) }
+      var result = 0.0
+      for exponent in 0..<count {
+        let coefficient = values[start + exponent]
+        let power = pow(t, Double(exponent))
+        result += coefficient * power
+      }
+      return result
     }
 
     private func derivative(start: Int, count: Int, t: Double) -> Double {
-      (1..<count).reduce(0) {
-        $0 + Double($1) * values[start + $1] * pow(t, Double($1 - 1))
+      var result = 0.0
+      for exponent in 1..<count {
+        let coefficient = Double(exponent) * values[start + exponent]
+        let power = pow(t, Double(exponent - 1))
+        result += coefficient * power
       }
+      return result
     }
-  }
-}
-
-private struct Elements {
-  let values: [Double]
-  init(_ source: [Float]) { values = source.map(Double.init) }
-  var referenceHour: Double { values[0] }
-  var tangentF2: Double { values[22] }
-  var minimumHour: Double { values[23] }
-  var maximumHour: Double { values[24] }
-  func polynomial(_ start: Int, _ count: Int, _ t: Double) -> Double {
-    (0..<count).reduce(0) { $0 + values[start + $1] * pow(t, Double($1)) }
-  }
-  func derivative(_ start: Int, _ count: Int, _ t: Double) -> Double {
-    (1..<count).reduce(0) { $0 + Double($1) * values[start + $1] * pow(t, Double($1 - 1)) }
-  }
-  func x(_ t: Double) -> Double { polynomial(1, 4, t) }
-  func y(_ t: Double) -> Double { polynomial(5, 4, t) }
-  func declination(_ t: Double) -> Double { polynomial(9, 3, t) }
-  func mu(_ t: Double) -> Double { polynomial(12, 3, t) }
-  func l2(_ t: Double) -> Double { polynomial(18, 3, t) }
-  func velocity(_ t: Double) -> (x: Double, y: Double) {
-    (derivative(1, 4, t), derivative(5, 4, t))
   }
 }
