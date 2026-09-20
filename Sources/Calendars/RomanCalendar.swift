@@ -460,8 +460,7 @@ public struct RomanDate : Sendable, Hashable, Equatable, Comparable {
 
 enum RomanCalendarFactory {
   static func make() -> TableCalendar {
-    // Pseudocode placeholders — wire these to your Bennett-derived data
-    let years: [YearAnchor] = RomanTables.anchors  // sorted by AUC
+    let years: [YearAnchor] = RomanTables.anchors
     let months: [MonthRow]  = RomanTables.months   // grouped by AUC ranges
     let reverse: [Range<Int>]  = RomanTables.reverse   // grouped by AUC ranges
     return TableCalendar(years: years, months: months, reverse: reverse)
@@ -511,7 +510,7 @@ public struct RomanCalendar : CalendarProtocol {
     355, 377, 355, 377,
     355, 377, 355, 355
   ]
-  private static let table = RomanCalendarFactory.make()
+  package static let table = RomanCalendarFactory.make()
   private static let averageCycleLength = 365.25 * 24 
   // Anchor: May 1, 491 AUC.
   // We need the JDN for this date.

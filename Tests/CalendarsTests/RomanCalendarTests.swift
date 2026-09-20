@@ -106,3 +106,37 @@ func testRomanJulianAlignmentPostTables() async throws {
   let firstPostTabulatedJDN = RomanCalendar.shared.jdn(from: firstPostTabulatedDate!)
   #expect(firstPostTabulatedJDN == JulianCalendar.shared.jdn(forYear: 61, month: 1, day: 1))
 }
+
+@Test
+func romanNundinalMarketLettersComeFromTheReconstructionTable() {
+  let ordinary = RomanCalendar.shared.nundinalMarketLetters(forYear: 492)
+  #expect(ordinary?.beforeIntercalation == .C)
+  #expect(ordinary?.afterIntercalation == nil)
+  #expect(ordinary?.conventionalBeforeIntercalation == .G)
+
+  let intercalary = RomanCalendar.shared.nundinalMarketLetters(forYear: 493)
+  #expect(intercalary?.beforeIntercalation == .H)
+  #expect(intercalary?.afterIntercalation == .A)
+  #expect(intercalary?.conventionalBeforeIntercalation == .B)
+  #expect(intercalary?.conventionalAfterIntercalation == .A)
+
+  // AUC 600 is the short year from Id. Mart. through December. Its dates are
+  // on the January-aligned source row whose left AUC column is 599.
+  let shortYear = RomanCalendar.shared.nundinalMarketLetters(forYear: 600)
+  #expect(shortYear?.beforeIntercalation == .E)
+  #expect(shortYear?.afterIntercalation == .F)
+
+  let shortYearStart = RomanCalendar.shared.startOfYearJDN(year: 600)!
+  #expect(RomanCalendar.shared.nundinalLetter(atJDN: shortYearStart) == .A)
+  #expect(RomanCalendar.shared.nundinalLetter(atJDN: shortYearStart + 7) == .H)
+  #expect(RomanCalendar.shared.nundinalLetter(atJDN: shortYearStart + 8) == .A)
+  #expect(RomanCalendar.shared.isNundinalMarketDay(atJDN: shortYearStart + 5) == true)
+  #expect(RomanCalendar.shared.isNundinalMarketDay(atJDN: shortYearStart + 4) == false)
+}
+
+@Test
+func romanNundinalMarketLettersDoNotInventMissingAnchors() {
+  #expect(RomanCalendar.shared.nundinalMarketLetters(forYear: 490) == nil)
+  #expect(RomanCalendar.shared.nundinalMarketLetters(forYear: 491) == nil)
+  #expect(RomanCalendar.shared.nundinalMarketLetters(forYear: 814) == nil)
+}

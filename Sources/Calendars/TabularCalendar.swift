@@ -22,6 +22,9 @@ package struct YearAnchor: Sendable {
   package let yearStartJDN: Int         // Absolute first day of this year
   package var yearEndJDN: Int           // Absolute day of next year day of this year
   package let monthRows: Range<Int>     // Slice into `months` for this year
+  package let nundinalMarketLetter: RomanNundinalLetter?
+  package let nundinalMarketLetterAfterIntercalation: RomanNundinalLetter?
+  package let nundinalAfterIntercalationAtYearStart: Bool
 
   /// Optional leading fragment when a year starts mid-month (e.g., Mar 15  - Mar 31)
   /// length == number of days in the fragment; canonicalMonth is useful for display
@@ -39,12 +42,24 @@ package struct YearAnchor: Sendable {
     }
   }
 
-  package init(year: Int, yearStartJDN: Int, yearEndJDN: Int, monthRows: Range<Int>, leadingFragment: LeadingFragment?) {
+  package init(
+    year: Int,
+    yearStartJDN: Int,
+    yearEndJDN: Int,
+    monthRows: Range<Int>,
+    leadingFragment: LeadingFragment?,
+    nundinalMarketLetter: RomanNundinalLetter? = nil,
+    nundinalMarketLetterAfterIntercalation: RomanNundinalLetter? = nil,
+    nundinalAfterIntercalationAtYearStart: Bool = false
+  ) {
     self.year = year
     self.yearStartJDN = yearStartJDN
     self.yearEndJDN = yearEndJDN
     self.monthRows = monthRows
     self.leadingFragment = leadingFragment
+    self.nundinalMarketLetter = nundinalMarketLetter
+    self.nundinalMarketLetterAfterIntercalation = nundinalMarketLetterAfterIntercalation
+    self.nundinalAfterIntercalationAtYearStart = nundinalAfterIntercalationAtYearStart
   }
 }
 

@@ -164,7 +164,17 @@ func normalize(csvPath: String) throws -> BuildInputs {
 
 
   print("Loading CSV")
-  let csv = try CSV<Named>(url: URL(fileURLWithPath: csvPath))
+  // The downloaded Bennett file has a copyright line before its header and
+  // repeats the AUC/B.C. column names at the right edge of the table. Normalize
+  // that source shape here so the checked-in CSV can remain an exact copy.
+  let source = try String(contentsOfFile: csvPath, encoding: .windowsCP1252)
+  var sourceLines = source.components(separatedBy: .newlines)
+  guard sourceLines.count >= 2 else {
+    fatalError("Bennett CSV does not contain a header")
+  }
+  sourceLines.removeFirst()
+  sourceLines[0] = "B.C.,AUC,Ianuarius,Februarius,Intercalaris,Martius,Aprilis,Maius,Iunius,Quintilis,Sextilis,September,October,November,Int I,Int II,December,End AUC,End B.C.,Nundinal"
+  let csv = try CSV<Named>(string: sourceLines.joined(separator: "\n"))
 
   // Build list of anchors (month Kalends) with AUC + RomanMonth + Julian date
   print("Building Anchors")
@@ -181,12 +191,17 @@ func normalize(csvPath: String) throws -> BuildInputs {
 
   var julianDates: [(Int, RomanMonth, Int, Int, Int, Int)] = []
 
-  let initialJulianYear = Int(csv.rows[0]["Julian Year"]!)!
+  guard let firstBC = csv.rows.first?["B.C."].flatMap(Int.init) else {
+    fatalError("Could not derive the initial Julian year")
+  }
+  let initialJulianYear = 1 - firstBC
   var year = initialJulianYear
   for row in csv.rows {
     print("CSV ROW: \(row)")
+    // Bennett repeats the headings where the side labels change from B.C. to
+    // A.D.; it is not a civil-year row.
     guard let aucStr = row["AUC"], let auc = Int(aucStr) else {
-      fatalError("Could not parse AUC from \(row)")
+      continue
     }
     //guard let julianStartStr = row["Julian Year"], let jyStart = Int(julianStartStr) else {
     //  fatalError("Could not parse Julian Start from \(row)")
@@ -333,7 +348,10 @@ func normalize(csvPath: String) throws -> BuildInputs {
     records.append(NormalizedRecord(auc: auc, month: mon, julianYear: jy, julianMonth: jm, julianDay: jd, days: days))
   }
 
-  return BuildInputs(records: records)
+  return BuildInputs(
+    records: records,
+    nundinalPhasesByJanuaryYear: nundinalPhaseByAUC
+  )
 }
 
 @main
@@ -341,7 +359,7 @@ struct RomanCalendarNormalize {
   static func main() {
     guard CommandLine.arguments.count >= 2 else {
       writeToStandardError("""
-        Usage: roman-civil-normalize <year_oriented.csv> [output.csv]
+        Usage: roman-civil-normalize <year_oriented.csv> [normalized.csv] [swift-output]
         
         Input CSV headers (case-sensitive recommended):
           AUC, IAN, FEB, MAR, APR, MAI, IUN, QUI, SEX, SEP, OCT, NOV, DEC, INT, INT I, INT II
@@ -354,6 +372,7 @@ struct RomanCalendarNormalize {
 
     let input = CommandLine.arguments[1]
     let outputPath = (CommandLine.arguments.count >= 3) ? CommandLine.arguments[2] : nil
+    let swiftOutputPath = (CommandLine.arguments.count >= 4) ? CommandLine.arguments[3] : "years.swift"
 
     do {
       let rows = try normalize(csvPath: input)
@@ -370,7 +389,7 @@ struct RomanCalendarNormalize {
       }
 
       let tables = buildRomanYears(rows)
-      try emitSwift(tables: tables, into: "years.swift")
+      try emitSwift(tables: tables, into: swiftOutputPath)
 
 
     } catch {
@@ -391,8 +410,11 @@ struct RomanCalendarNormalize {
 // Build years; you supply consular starts and nundinal phases per AUC
 struct BuildInputs {
   let records: [NormalizedRecord]
-  init(records: [NormalizedRecord]) {
+  let nundinalPhasesByJanuaryYear: [Int: NundinalPhase]
+
+  init(records: [NormalizedRecord], nundinalPhasesByJanuaryYear: [Int: NundinalPhase]) {
     self.records = records
+    self.nundinalPhasesByJanuaryYear = nundinalPhasesByJanuaryYear
   }
 }
 
@@ -432,6 +454,8 @@ func buildRomanYears(_ input: BuildInputs) -> TableCalendar {
     // March is 31 days, therefore we subtract 17 to get to march 15
     let adjustment = (531 <= auc && auc <= 599) ? 17 : 0
     let startJDN = firstNormalMonthJDN - adjustment
+    let sourceYear = auc <= 600 ? auc - 1 : auc
+    let phase = input.nundinalPhasesByJanuaryYear[sourceYear]
 
     var leadingFrag: YearAnchor.LeadingFragment? = nil
     if adjustment > 0 {
@@ -439,7 +463,15 @@ func buildRomanYears(_ input: BuildInputs) -> TableCalendar {
     }
     yearAnchors.append(YearAnchor(year: auc, yearStartJDN: startJDN, yearEndJDN: 0,
                                   monthRows: startIndex ..< nextIndex,
-                                  leadingFragment: leadingFrag))
+                                  leadingFragment: leadingFrag,
+                                  nundinalMarketLetter: phase.flatMap {
+                                    RomanNundinalLetter(rawValue: $0.start)
+                                  },
+                                  nundinalMarketLetterAfterIntercalation: phase?.afterIntercalation.flatMap {
+                                    RomanNundinalLetter(rawValue: $0)
+                                  },
+                                  nundinalAfterIntercalationAtYearStart: sourceYear != auc
+                                    && phase?.afterIntercalation != nil))
   }
 
 
@@ -465,7 +497,10 @@ func buildRomanYears(_ input: BuildInputs) -> TableCalendar {
                                 yearStartJDN: oldAnchor.yearStartJDN,
                                 yearEndJDN: nextAnchor.yearStartJDN,
                                 monthRows: oldAnchor.monthRows,
-                                leadingFragment: oldAnchor.leadingFragment)
+                                leadingFragment: oldAnchor.leadingFragment,
+                                nundinalMarketLetter: oldAnchor.nundinalMarketLetter,
+                                nundinalMarketLetterAfterIntercalation: oldAnchor.nundinalMarketLetterAfterIntercalation,
+                                nundinalAfterIntercalationAtYearStart: oldAnchor.nundinalAfterIntercalationAtYearStart)
   }
   var lastYear = yearAnchors.last!
   lastYear.yearEndJDN = lastYear.yearStartJDN + monthEntries.last!.offsetFromYearStart + monthEntries.last!.length
@@ -557,6 +592,15 @@ func emitSwift(tables: TableCalendar, into path: String) throws {
       w("        leadingFragment: YearAnchor.LeadingFragment(monthInfoIndex: \(frag.monthInfoIndex), startDay: \(frag.startDay), length: \(frag.length)),")
     } else {
       w("        leadingFragment: nil,")
+    }
+    if let letter = y.nundinalMarketLetter {
+      w("        nundinalMarketLetter: .\(letter),")
+    }
+    if let letter = y.nundinalMarketLetterAfterIntercalation {
+      w("        nundinalMarketLetterAfterIntercalation: .\(letter),")
+    }
+    if y.nundinalAfterIntercalationAtYearStart {
+      w("        nundinalAfterIntercalationAtYearStart: true,")
     }
     w("      )")
     w("    )")
