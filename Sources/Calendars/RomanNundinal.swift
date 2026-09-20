@@ -30,6 +30,20 @@ public struct RomanNundinalMarketLetters: Equatable, Sendable {
 }
 
 extension RomanCalendar {
+  public func cycleDay(atJDN jdn: Int, cycle: CalendarCycle) -> CalendarCycleDay? {
+    guard cycle == .nundinal else {
+      return defaultCycleDay(atJDN: jdn, cycle: cycle)
+    }
+    guard let letter = nundinalLetter(atJDN: jdn),
+          let asciiValue = letter.rawValue.asciiValue else { return nil }
+    return CalendarCycleDay(
+      cycle: .nundinal,
+      ordinal: Int(asciiValue) - 65,
+      label: String(letter.rawValue),
+      role: isNundinalMarketDay(atJDN: jdn) == true ? .commonRest : .working
+    )
+  }
+
   public func nundinalMarketLetters(forYear year: Int) -> RomanNundinalMarketLetters? {
     guard let anchor = RomanCalendar.table.anchor(forYear: year),
           let first = anchor.nundinalMarketLetter else { return nil }

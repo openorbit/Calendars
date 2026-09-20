@@ -135,6 +135,7 @@ public protocol CalendarProtocol: Sendable {
 
   func jdn(forYear year: Int, month: Int, day: Int) -> Int
   func date(fromJDN jdn: Int) -> CalendarDateComponents?
+  func cycleDay(atJDN jdn: Int, cycle: CalendarCycle) -> CalendarCycleDay?
 
   /// Returns the first Julian day number in the calendar year.
   func startOfYearJDN(year: Int) -> Int?
