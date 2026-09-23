@@ -200,6 +200,19 @@ fileprivate let frenchMonths: [MonthSpec] = [
       )
     ]
   ),
+  MonthSpec(
+    monthUID: "french_republican:M13",
+    intercalary: true,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: ["en": "Sansculottides"],
+        sources: nil
+      )
+    ]
+  ),
 
 ]
 
@@ -216,9 +229,10 @@ public struct FrenchRepublicanCalendar : CalendarProtocol {
     var result: [ResolvedMonth] = []
 
     for (i, month) in zip(1 ... frenchMonths.count, frenchMonths) {
+      let length = daysInMonth(year: year, month: i)
       result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
-                                  length: daysInMonth(year: year, month: i),
-                                  leapDayNumber: nil))
+                                  length: length,
+                                  leapDayNumber: i == 13 && length == 6 ? 6 : nil))
     }
 
     return result
@@ -261,25 +275,26 @@ public struct FrenchRepublicanCalendar : CalendarProtocol {
     let monthNames = ["Vendémiaire", "Brumaire", "Frimaire",
                       "Nivôse", "Pluviôse", "Ventôse",
                       "Germinal", "Floréal", "Prairial",
-                      "Messidor", "Thermidor", "Fructidor"]
-    return monthNames[month-1]
+                      "Messidor", "Thermidor", "Fructidor", "Sansculottides"]
+    return monthNames[month - 1]
   }
   public static func numberOfMonth(_ month: String) -> Int? {
-    let monthDictionary = ["Vendémiaire": 1, "Brumaire": 2, "Frimaire": 3,
-                           "Nivôse": 4, "Pluviôse": 5, "Ventôse": 6,
-                           "Germinal": 7, "Floréal": 8, "Prairial": 9,
-                           "Messidor": 10, "Thermidor": 11, "Fructidor": 12]
+    let monthDictionary = ["vendémiaire": 1, "brumaire": 2, "frimaire": 3,
+                           "nivôse": 4, "pluviôse": 5, "ventôse": 6,
+                           "germinal": 7, "floréal": 8, "prairial": 9,
+                           "messidor": 10, "thermidor": 11, "fructidor": 12,
+                           "sansculottides": 13]
     return monthDictionary[month.lowercased()]
   }
 
-  // TODO: Fixme
   public static func daysInMonth(year: Int, month: Int) -> Int {
-    let normalMonthLength = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-    return normalMonthLength[month - 1]
+    guard (1...13).contains(month) else { return 0 }
+    if month <= 12 { return 30 }
+    return toJDN(Y: year + 1, M: 1, D: 1) - toJDN(Y: year, M: 13, D: 1)
   }
 
   public static func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
-    if M < 1 || 12 < M {
+    if M < 1 || 13 < M {
       return false
     }
     if D < 1 || daysInMonth(year: Y, month: M) < D {

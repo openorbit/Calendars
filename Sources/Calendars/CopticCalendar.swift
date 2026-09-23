@@ -28,7 +28,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "January"
+          "en": "Thout"
         ],
         sources: nil
       )
@@ -44,7 +44,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "February"
+          "en": "Paopi"
         ],
         sources: nil
       )
@@ -59,7 +59,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "March"
+          "en": "Hathor"
         ],
         sources: nil
       )
@@ -74,7 +74,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "April"
+          "en": "Koiak"
         ],
         sources: nil
       )
@@ -89,7 +89,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "May"
+          "en": "Tobi"
         ],
         sources: nil
       )
@@ -104,7 +104,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "June"
+          "en": "Meshir"
         ],
         sources: nil
       )
@@ -119,7 +119,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "July"
+          "en": "Paremhat"
         ],
         sources: nil
       )
@@ -134,7 +134,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "August"
+          "en": "Paremoude"
         ],
         sources: nil
       )
@@ -149,7 +149,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "September"
+          "en": "Pashons"
         ],
         sources: nil
       )
@@ -164,7 +164,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "October"
+          "en": "Paoni"
         ],
         sources: nil
       )
@@ -179,7 +179,7 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "November"
+          "en": "Epip"
         ],
         sources: nil
       )
@@ -194,8 +194,21 @@ fileprivate let copticMonths: [MonthSpec] = [
         nameType: .seasonalNumeric,
         priority: 80,
         variants: [
-          "en": "December"
+          "en": "Mesori"
         ],
+        sources: nil
+      )
+    ]
+  ),
+  MonthSpec(
+    monthUID: "coptic:M13",
+    intercalary: true,
+    intercalaryRuleRef: nil,
+    names: [
+      MonthNameRecord(
+        nameType: .seasonalNumeric,
+        priority: 80,
+        variants: ["en": "Pi Kogi Enavot"],
         sources: nil
       )
     ]
@@ -210,10 +223,11 @@ public struct CopticCalendar : CalendarProtocol {
   {
     var result: [ResolvedMonth] = []
 
-    for (i, month) in zip(1 ... 12, copticMonths) {
+    for (i, month) in zip(1 ... copticMonths.count, copticMonths) {
+      let length = daysInMonth(year: year, month: i)
       result.append(ResolvedMonth(spec: month, index: i, mode: mode, firstDay: 1,
-                                  length: daysInMonth(year: year, month: i),
-                                  leapDayNumber: nil))
+                                  length: length,
+                                  leapDayNumber: i == 13 && length == 6 ? 6 : nil))
     }
 
     return result
@@ -259,29 +273,30 @@ public struct CopticCalendar : CalendarProtocol {
     return d < epoch
   }
 
-  // TODO: Fixme
   public static func daysInMonth(year: Int, month: Int) -> Int {
-    let normalMonthLength = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-    return normalMonthLength[month - 1]
+    guard (1...13).contains(month) else { return 0 }
+    if month <= 12 { return 30 }
+    return toJDN(Y: year + 1, M: 1, D: 1) - toJDN(Y: year, M: 13, D: 1)
   }
   public static func numberOfMonth(_ month: String) -> Int? {
-    let monthDictionary = ["january": 1, "february": 2, "march": 3,
-                           "april": 4, "may": 5, "june": 6,
-                           "july": 7, "august": 8, "september": 9,
-                           "october": 10, "november": 11, "december": 12]
+    let monthDictionary = ["thout": 1, "paopi": 2, "hathor": 3,
+                           "koiak": 4, "tobi": 5, "meshir": 6,
+                           "paremhat": 7, "paremoude": 8, "pashons": 9,
+                           "paoni": 10, "epip": 11, "mesori": 12,
+                           "pi kogi enavot": 13]
     return monthDictionary[month.lowercased()]
   }
 
   public static func nameOfMonth(_ month: Int) -> String? {
-    let monthNames = ["january", "february", "march",
-                      "april", "may", "june",
-                      "july", "august", "september",
-                      "october", "november", "december"]
-    return monthNames[month-1]
+    let monthNames = ["Thout", "Paopi", "Hathor", "Koiak", "Tobi", "Meshir",
+                      "Paremhat", "Paremoude", "Pashons", "Paoni", "Epip", "Mesori",
+                      "Pi Kogi Enavot"]
+    guard monthNames.indices.contains(month - 1) else { return nil }
+    return monthNames[month - 1]
   }
 
   public static func isValidDate(Y: Int, M: Int, D: Int) -> Bool {
-    if M < 1 || 12 < M {
+    if M < 1 || 13 < M {
       return false
     }
     if D < 1 || daysInMonth(year: Y, month: M) < D {
