@@ -113,17 +113,20 @@ public struct RegnalOffice: Codable, Identifiable, Sendable {
     public let id: String
     public let label: String
     public let polityID: String
+    public let successionMode: String?
 
     enum CodingKeys: String, CodingKey {
         case id, label
         case polityID = "polity_id"
         case scopePolityID = "scope_polity_id"
+        case successionMode = "succession_mode"
     }
 
     public init(from decoder: any Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         id = try container.decode(String.self, forKey: .id)
         label = try container.decode(String.self, forKey: .label)
+        successionMode = try container.decodeIfPresent(String.self, forKey: .successionMode)
 
         if let polityID = try container.decodeIfPresent(String.self, forKey: .polityID) {
             self.polityID = polityID
@@ -137,6 +140,7 @@ public struct RegnalOffice: Codable, Identifiable, Sendable {
         try container.encode(id, forKey: .id)
         try container.encode(label, forKey: .label)
         try container.encode(polityID, forKey: .polityID)
+        try container.encodeIfPresent(successionMode, forKey: .successionMode)
     }
 }
 
@@ -167,6 +171,69 @@ public struct RomanMagistracyGap: Codable, Identifiable, Sendable, Equatable {
 
     public enum Kind: String, Codable, Sendable {
         case noCuruleMagistrates = "no_curule_magistrates"
+    }
+}
+
+public struct RegnalCalendarRule: Codable, Identifiable {
+    public let id: String
+    public let label: String
+    public let baseCalendar: String
+    public let yearStart: String
+    public let validFrom: RegnalTenure.DateDefinition
+    public let validTo: RegnalTenure.DateDefinition
+    public let regions: [String]
+    public let notes: String?
+
+    enum CodingKeys: String, CodingKey {
+        case id, label, regions, notes
+        case baseCalendar = "base_calendar"
+        case yearStart = "year_start"
+        case validFrom = "valid_from"
+        case validTo = "valid_to"
+    }
+
+    public var calendarID: CalendarId? {
+        CalendarRegistry.shared.calendarID(for: baseCalendar)
+    }
+
+    public var historicalYearStart: HistoricalYearStart {
+        switch yearStart.lowercased() {
+        case "jan_1", "january_1":
+            return .january1
+        case "march_25":
+            return .march25
+        case "september_1":
+            return .september1
+        case "december_25":
+            return .december25
+        default:
+            return .calendarDefault
+        }
+    }
+
+    public var validFromJDN: Int? { Self.jdn(for: validFrom) }
+    public var validToJDN: Int? { Self.jdn(for: validTo) }
+
+    public func contains(jdn: Int) -> Bool {
+        if let startJDN = validFromJDN, jdn < startJDN {
+            return false
+        }
+        if let endJDN = validToJDN, jdn > endJDN {
+            return false
+        }
+        return true
+    }
+
+    private static func jdn(for endpoint: RegnalTenure.DateDefinition) -> Int? {
+        guard endpoint.rep != "open",
+              let ymd = endpoint.ymd,
+              let month = ymd.month,
+              let day = ymd.day,
+              let calendar = CalendarRegistry.shared.calendar(for: endpoint.calendar),
+              calendar.isValidDate(year: ymd.year, month: month, day: day) else {
+            return nil
+        }
+        return calendar.jdn(forYear: ymd.year, month: month, day: day)
     }
 }
 

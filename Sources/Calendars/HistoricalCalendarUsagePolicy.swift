@@ -18,7 +18,152 @@
 
 import Foundation
 
-public enum HistoricalCalendarPolity: String, Codable, Sendable, CaseIterable {
+/// A calendar-relative rule for assigning absolute days to labelled historical years.
+public enum HistoricalYearStart: String, Codable, Sendable, CaseIterable, Hashable {
+  case calendarDefault
+  case january1
+  case march25
+  case september1
+  case december25
+}
+
+/// The absolute extent and label of a year under a particular reckoning.
+public struct HistoricalYearSpan: Sendable, Hashable {
+  public let labeledYear: Int
+  public let startJDN: Int
+  public let endJDN: Int
+  public let yearStart: HistoricalYearStart
+
+  public init(labeledYear: Int, startJDN: Int, endJDN: Int, yearStart: HistoricalYearStart) {
+    self.labeledYear = labeledYear
+    self.startJDN = startJDN
+    self.endJDN = endJDN
+    self.yearStart = yearStart
+  }
+
+  public func contains(jdn: Int) -> Bool {
+    (startJDN...endJDN).contains(jdn)
+  }
+}
+
+/// Resolves alternative New Year conventions without changing the underlying calendar conversion.
+public enum HistoricalYearResolver {
+  public static func span(
+    labeledYear: Int,
+    calendar: any CalendarProtocol,
+    yearStart: HistoricalYearStart
+  ) -> HistoricalYearSpan? {
+    guard let resolvedStartJDN = startJDN(
+      labeledYear: labeledYear,
+      calendar: calendar,
+      yearStart: yearStart
+    ), let nextStartJDN = startJDN(
+      labeledYear: labeledYear + 1,
+      calendar: calendar,
+      yearStart: yearStart
+    ) else {
+      return nil
+    }
+
+    return HistoricalYearSpan(
+      labeledYear: labeledYear,
+      startJDN: resolvedStartJDN,
+      endJDN: nextStartJDN - 1,
+      yearStart: yearStart
+    )
+  }
+
+  public static func span(
+    containing jdn: Int,
+    calendar: any CalendarProtocol,
+    yearStart: HistoricalYearStart
+  ) -> HistoricalYearSpan? {
+    guard let date = calendar.date(fromJDN: jdn) else { return nil }
+    for label in (date.year - 1)...(date.year + 2) {
+      if let span = span(labeledYear: label, calendar: calendar, yearStart: yearStart),
+         span.contains(jdn: jdn) {
+        return span
+      }
+    }
+    return nil
+  }
+
+  public static func yearStart(
+    for polity: HistoricalCalendarPolity,
+    onJDN jdn: Int
+  ) -> HistoricalYearStart {
+    guard let entity = yearStartEntity(for: polity),
+          let culture = JulianYearStartPolicy.culture(
+            for: entity,
+            usage: .civil,
+            onJDN: jdn
+          ) else {
+      return .calendarDefault
+    }
+    return HistoricalYearStart(culture: culture)
+  }
+
+  private static func startJDN(
+    labeledYear: Int,
+    calendar: any CalendarProtocol,
+    yearStart: HistoricalYearStart
+  ) -> Int? {
+    switch yearStart {
+    case .calendarDefault:
+      return calendar.startOfYearJDN(year: labeledYear)
+    case .january1:
+      return validJDN(year: labeledYear, month: 1, day: 1, calendar: calendar)
+    case .march25:
+      return validJDN(year: labeledYear, month: 3, day: 25, calendar: calendar)
+    case .september1:
+      return validJDN(year: labeledYear - 1, month: 9, day: 1, calendar: calendar)
+    case .december25:
+      return validJDN(year: labeledYear - 1, month: 12, day: 25, calendar: calendar)
+    }
+  }
+
+  private static func validJDN(
+    year: Int,
+    month: Int,
+    day: Int,
+    calendar: any CalendarProtocol
+  ) -> Int? {
+    guard calendar.isValidDate(year: year, month: month, day: day) else { return nil }
+    return calendar.jdn(forYear: year, month: month, day: day)
+  }
+
+  private static func yearStartEntity(
+    for polity: HistoricalCalendarPolity
+  ) -> JulianYearStartEntity? {
+    switch polity {
+    case .global:
+      return .global
+    case .greatBritain:
+      return .englandAndWales
+    case .france:
+      return .france
+    case .sweden, .finland, .denmark, .norway, .russia:
+      return nil
+    }
+  }
+}
+
+public extension HistoricalYearStart {
+  init(culture: JulianYearStartCulture) {
+    switch culture {
+    case .civilJan1:
+      self = .january1
+    case .annunciationMar25:
+      self = .march25
+    case .christmasDec25:
+      self = .december25
+    case .byzantineSep1:
+      self = .september1
+    }
+  }
+}
+
+public enum HistoricalCalendarPolity: String, Codable, Sendable, CaseIterable, Hashable {
   case global
   case sweden
   case finland

@@ -7,6 +7,7 @@ public final class RegnalCalendar: @unchecked Sendable {
     public let persons: [String: RegnalPerson]
     public let offices: [String: RegnalOffice]
     public let polities: [String: RegnalPolity]
+    public let calendarRulesByPolity: [String: [RegnalCalendarRule]]
     public let magistracyGaps: [RomanMagistracyGap]
     public let consulYears: [RomanConsulYear]
     private let consulYearsByAUC: [Int: RomanConsulYear]
@@ -18,6 +19,8 @@ public final class RegnalCalendar: @unchecked Sendable {
         var p: [String: RegnalPerson] = [:]
         var o: [String: RegnalOffice] = [:]
         var pol: [String: RegnalPolity] = [:]
+        var polityIDsByDirectory: [URL: [String]] = [:]
+        var calendarRulesByDirectory: [URL: [RegnalCalendarRule]] = [:]
         var gaps: [String: RomanMagistracyGap] = [:]
         
         if let resourceURL = Bundle.module.url(forResource: "RegnalData", withExtension: nil) {
@@ -26,7 +29,13 @@ public final class RegnalCalendar: @unchecked Sendable {
                 for case let fileURL as URL in enumerator {
                     if fileURL.pathExtension == "json" {
                         let filename = fileURL.lastPathComponent
-                        if filename.contains("magistracy_gaps") {
+                        let directory = fileURL.deletingLastPathComponent().standardizedFileURL
+                        if filename.contains("calendar_rules") {
+                            if let data = try? Data(contentsOf: fileURL),
+                               let items = try? JSONDecoder().decode([RegnalCalendarRule].self, from: data) {
+                                calendarRulesByDirectory[directory, default: []].append(contentsOf: items)
+                            }
+                        } else if filename.contains("magistracy_gaps") {
                             if let data = try? Data(contentsOf: fileURL),
                                let items = try? JSONDecoder().decode([RomanMagistracyGap].self, from: data) {
                                 for gap in items {
@@ -70,6 +79,7 @@ public final class RegnalCalendar: @unchecked Sendable {
                                 let items = try? JSONDecoder().decode([RegnalPolity].self, from: data) {
                                  for polity in items {
                                      pol[polity.id] = polity
+                                     polityIDsByDirectory[directory, default: []].append(polity.id)
                                  }
                              }
                         }
@@ -95,10 +105,18 @@ public final class RegnalCalendar: @unchecked Sendable {
             return false
         }
         let loadedConsulYears = Self.makeConsulYears(tenures: loadedTenures, persons: p)
+        var rulesByPolity: [String: [RegnalCalendarRule]] = [:]
+        for (directory, polityIDs) in polityIDsByDirectory {
+            let rules = calendarRulesByDirectory[directory] ?? []
+            for polityID in polityIDs {
+                rulesByPolity[polityID] = rules
+            }
+        }
         self.tenures = loadedTenures
         self.persons = p
         self.offices = o
         self.polities = pol
+        self.calendarRulesByPolity = rulesByPolity
         self.magistracyGaps = Array(gaps.values)
         self.consulYears = loadedConsulYears
         self.consulYearsByAUC = Dictionary(uniqueKeysWithValues: loadedConsulYears.map { ($0.auc, $0) })
@@ -180,6 +198,144 @@ public final class RegnalCalendar: @unchecked Sendable {
         polities.values.sorted { $0.label < $1.label }
     }
     
+
+    public struct MonarchSelection {
+        public let primary: RegnalTenure?
+        public let candidates: [RegnalTenure]
+
+        public var isAmbiguous: Bool { candidates.count > 1 }
+    }
+
+    public struct RegnalYearSpan {
+        public let tenure: RegnalTenure
+        public let regnalYear: Int
+        public let startJDN: Int
+        public let endJDN: Int
+    }
+
+    public func monarchSelection(forPolity polityID: String, onJDN jdn: Int) -> MonarchSelection {
+        let officeIDs = Set(offices.values.filter {
+            $0.polityID == polityID && ($0.successionMode == "monarchic" || $0.label.lowercased().contains("king"))
+        }.map(\.id))
+        let matching = tenures.filter {
+            officeIDs.contains($0.officeID) && Self.possiblyContains($0, jdn: jdn)
+        }.sorted { lhs, rhs in
+            if lhs.status != rhs.status { return lhs.status == "recognized" }
+            return lhs.id < rhs.id
+        }
+        var active: [RegnalTenure] = []
+        for tenure in matching {
+            if let index = active.firstIndex(where: { Self.sameMonarchAssertion($0, tenure, persons: persons) }) {
+                let existingName = persons[active[index].personID]?.name.normalized ?? ""
+                let candidateName = persons[tenure.personID]?.name.normalized ?? ""
+                if candidateName.count > existingName.count { active[index] = tenure }
+            } else {
+                active.append(tenure)
+            }
+        }
+        let recognized = active.filter { $0.status == "recognized" }
+        let primary = recognized.count == 1 ? recognized[0] : (active.count == 1 ? active[0] : nil)
+        return MonarchSelection(primary: primary, candidates: active)
+    }
+
+    /// Returns a numbered regnal year only when both tenure boundaries and the
+    /// accession anniversary are exact. Year-only data is never coerced to January 1.
+    public func exactRegnalYear(containing jdn: Int, tenure: RegnalTenure) -> RegnalYearSpan? {
+        guard let start = Self.exactJDN(tenure.start.first),
+              let tenureEnd = Self.exactJDN(tenure.end.first),
+              start <= jdn, jdn <= tenureEnd,
+              let definition = tenure.start.first,
+              let ymd = definition.ymd,
+              let month = ymd.month,
+              let day = ymd.day,
+              let calendar = CalendarRegistry.shared.calendar(for: definition.calendar),
+              let current = calendar.date(fromJDN: jdn) else { return nil }
+
+        var anniversaryYear = current.year
+        var anniversary = calendar.jdn(forYear: anniversaryYear, month: month, day: day)
+        if anniversary > jdn {
+            anniversaryYear -= 1
+            anniversary = calendar.jdn(forYear: anniversaryYear, month: month, day: day)
+        }
+        let number = anniversaryYear - ymd.year + 1
+        guard number > 0 else { return nil }
+        let next = calendar.jdn(forYear: anniversaryYear + 1, month: month, day: day)
+        return RegnalYearSpan(
+            tenure: tenure,
+            regnalYear: number,
+            startJDN: max(start, anniversary),
+            endJDN: min(tenureEnd, next - 1)
+        )
+    }
+
+    private static func exactJDN(_ definition: RegnalTenure.DateDefinition?) -> Int? {
+        guard let definition,
+              definition.rep == "ymd",
+              let ymd = definition.ymd,
+              let month = ymd.month,
+              let day = ymd.day,
+              let calendar = CalendarRegistry.shared.calendar(for: definition.calendar),
+              calendar.isValidDate(year: ymd.year, month: month, day: day) else { return nil }
+        return calendar.jdn(forYear: ymd.year, month: month, day: day)
+    }
+
+    private static func sameMonarchAssertion(
+        _ lhs: RegnalTenure,
+        _ rhs: RegnalTenure,
+        persons: [String: RegnalPerson]
+    ) -> Bool {
+        guard lhs.status == rhs.status,
+              lhs.start.first?.ymd?.year == rhs.start.first?.ymd?.year,
+              lhs.end.first?.ymd?.year == rhs.end.first?.ymd?.year else { return false }
+        let lhsName = persons[lhs.personID]?.name.normalized.lowercased() ?? ""
+        let rhsName = persons[rhs.personID]?.name.normalized.lowercased() ?? ""
+        return lhsName == rhsName || lhsName.contains(rhsName) || rhsName.contains(lhsName)
+    }
+
+    private static func possiblyContains(_ tenure: RegnalTenure, jdn: Int) -> Bool {
+        guard let start = endpointJDN(tenure.start.first, isEnd: false),
+              let end = endpointJDN(tenure.end.first, isEnd: true) else { return false }
+        return start <= jdn && jdn <= end
+    }
+
+    private static func endpointJDN(
+        _ definition: RegnalTenure.DateDefinition?,
+        isEnd: Bool
+    ) -> Int? {
+        guard let definition,
+              definition.rep == "ymd",
+              let ymd = definition.ymd,
+              let calendar = CalendarRegistry.shared.calendar(for: definition.calendar) else {
+            return nil
+        }
+        let month = ymd.month ?? (isEnd ? calendar.months(forYear: ymd.year, mode: .civil).last?.index ?? 12 : 1)
+        let day = ymd.day ?? (isEnd ? calendar.daysInMonth(year: ymd.year, month: month) : 1)
+        guard calendar.isValidDate(year: ymd.year, month: month, day: day) else { return nil }
+        return calendar.jdn(forYear: ymd.year, month: month, day: day)
+    }
+
+    public func calendarRules(forPolity polityID: String) -> [RegnalCalendarRule] {
+        calendarRulesByPolity[polityID] ?? []
+    }
+
+    public func calendarRule(forPolity polityID: String, onJDN jdn: Int) -> RegnalCalendarRule? {
+        let matches = calendarRules(forPolity: polityID).filter { $0.contains(jdn: jdn) }
+        guard let latestStart = matches.map({ $0.validFromJDN ?? Int.min }).max() else {
+            return nil
+        }
+        let latest = matches.filter { ($0.validFromJDN ?? Int.min) == latestStart }
+        let highestSpecificity = latest.map { $0.regions == ["*"] ? 0 : 1 }.max() ?? 0
+        let mostSpecific = latest.filter { ($0.regions == ["*"] ? 0 : 1) == highestSpecificity }
+        guard let first = mostSpecific.first,
+              mostSpecific.allSatisfy({
+                  $0.calendarID == first.calendarID
+                      && $0.historicalYearStart == first.historicalYearStart
+              }) else {
+            return nil
+        }
+        return first
+    }
+
     public func offices(forPolity polityID: String) -> [RegnalOffice] {
         return offices.values.filter { $0.polityID == polityID }.sorted { $0.label < $1.label }
     }

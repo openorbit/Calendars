@@ -50,6 +50,17 @@ public struct SolarEclipseCatalog: Sendable {
     return eclipses.filter { (startYear...endYear).contains($0.year) }
   }
 
+  public func eclipses(from startDateTD: Double, through endDateTD: Double) -> [SolarEclipse] {
+    guard startDateTD <= endDateTD else { return [] }
+    let start = eclipses.partitioningIndex {
+      $0.julianDateTerrestrialDynamicalTime >= startDateTD
+    }
+    let end = eclipses.partitioningIndex {
+      $0.julianDateTerrestrialDynamicalTime > endDateTD
+    }
+    return Array(eclipses[start..<end])
+  }
+
   public static func loadBundled() throws -> SolarEclipseCatalog {
     guard let url = Bundle.module.url(
       forResource: "solar-eclipses",
@@ -94,6 +105,24 @@ public struct SolarEclipseCatalog: Sendable {
       ))
     }
     return SolarEclipseCatalog(eclipses: eclipses)
+  }
+}
+
+private extension Collection {
+  func partitioningIndex(where predicate: (Element) -> Bool) -> Index {
+    var lower = startIndex
+    var count = self.count
+    while count > 0 {
+      let step = count / 2
+      let candidate = index(lower, offsetBy: step)
+      if predicate(self[candidate]) {
+        count = step
+      } else {
+        lower = index(after: candidate)
+        count -= step + 1
+      }
+    }
+    return lower
   }
 }
 
