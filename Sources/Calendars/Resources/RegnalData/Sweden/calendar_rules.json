@@ -52,7 +52,7 @@
       "certainty": "high",
       "approx": false,
       "ymd": {
-        "year": 1753,
+        "year": 1700,
         "month": 2,
         "day": 28
       }
@@ -60,7 +60,75 @@
     "regions": [
       "SE"
     ],
-    "notes": "Swedish chancery uses Jan 1 from 1559; Julian day-count until Gregorian adoption in 1753."
+    "notes": "Swedish chancery uses Jan 1 from 1559; Julian day-count until Sweden omitted 29 February 1700."
+  },
+  {
+    "id": "RULE_SWEDISH_TRANSITIONAL_JAN1",
+    "label": "Swedish transitional calendar (year starts January 1)",
+    "base_calendar": "swedish_transitional",
+    "year_start": "jan_1",
+    "valid_from": {
+      "rep": "ymd",
+      "calendar": "swedish_transitional",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1700,
+        "month": 3,
+        "day": 1
+      }
+    },
+    "valid_to": {
+      "rep": "ymd",
+      "calendar": "swedish_transitional",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1712,
+        "month": 2,
+        "day": 30
+      }
+    },
+    "regions": [
+      "SE"
+    ],
+    "notes": "Swedish style was one day ahead of the Julian calendar after the omission of 29 February 1700. The extra 30 February 1712 restored the Julian reckoning."
+  },
+  {
+    "id": "RULE_JULIAN_JAN1_RESUMED_SE",
+    "label": "Julian (Sweden, restored; year starts January 1)",
+    "base_calendar": "Julian",
+    "year_start": "jan_1",
+    "valid_from": {
+      "rep": "ymd",
+      "calendar": "Julian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1712,
+        "month": 3,
+        "day": 1
+      }
+    },
+    "valid_to": {
+      "rep": "ymd",
+      "calendar": "Julian",
+      "scale": "native",
+      "certainty": "high",
+      "approx": false,
+      "ymd": {
+        "year": 1753,
+        "month": 2,
+        "day": 17
+      }
+    },
+    "regions": [
+      "SE"
+    ],
+    "notes": "Sweden restored the Julian calendar in 1712 and retained it until 17 February 1753."
   },
   {
     "id": "RULE_GREGORIAN_SE",
