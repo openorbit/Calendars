@@ -1,6 +1,33 @@
 import Testing
 @testable import Calendars
 
+/// The Battle of Narva is recorded as 19 November 1700 in the Julian calendar,
+/// 20 November in the Swedish transitional calendar, and 30 November in the
+/// Gregorian calendar.
+/// Source: https://en.wikipedia.org/wiki/Battle_of_Narva_(1700)
+@Test("Battle of Narva's three historical dates identify the same day")
+func battleOfNarvaTripleDate() {
+  let julian = JulianCalendar.toJDN(Y: 1700, M: 11, D: 19)
+  let swedish = SwedishCalendar.toJDN(Y: 1700, M: 11, D: 20)
+  let gregorian = GregorianCalendar.toJDN(Y: 1700, M: 11, D: 30)
+
+  #expect(julian == swedish)
+  #expect(swedish == gregorian)
+  #expect(SwedishCalendar.toDate(J: gregorian) == (1700, 11, 20))
+}
+
+/// Source: https://en.wikipedia.org/wiki/Battle_of_Poltava
+@Test("Battle of Poltava's three historical dates identify the same day")
+func battleOfPoltavaTripleDate() {
+  let julian = JulianCalendar.toJDN(Y: 1709, M: 6, D: 27)
+  let swedish = SwedishCalendar.toJDN(Y: 1709, M: 6, D: 28)
+  let gregorian = GregorianCalendar.toJDN(Y: 1709, M: 7, D: 8)
+
+  #expect(julian == swedish)
+  #expect(swedish == gregorian)
+  #expect(SwedishCalendar.toDate(J: gregorian) == (1709, 6, 28))
+}
+
 @Test("Swedish Easter follows Julian computus in the anomalous calendar")
 func swedishAnomalousCalendarEaster() {
   let expected = [
