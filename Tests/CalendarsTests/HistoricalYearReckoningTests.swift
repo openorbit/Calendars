@@ -102,6 +102,35 @@ func regnalPolityCalendarRulesChangeOverTime() throws {
   #expect(modern.historicalYearStart == .january1)
 }
 
+@Test("Swedish regnal years use exact accession anniversaries")
+func swedishRegnalYearsUseAccessionAnniversaries() throws {
+  let regnal = RegnalCalendar.shared
+  let tenure = try #require(
+    regnal.findTenures(forMonarch: "Gustav III")
+      .first { $0.officeID == "OFFICE_SWEDEN_KING" }
+  )
+
+  let beforeAnniversary = GregorianCalendar.toJDN(Y: 1772, M: 2, D: 11)
+  let onAnniversary = GregorianCalendar.toJDN(Y: 1772, M: 2, D: 12)
+
+  #expect(regnal.exactRegnalYear(containing: beforeAnniversary, tenure: tenure)?.regnalYear == 1)
+  #expect(regnal.exactRegnalYear(containing: onAnniversary, tenure: tenure)?.regnalYear == 2)
+}
+
+@Test("An open current Swedish reign still has exact regnal years")
+func openSwedishReignHasExactRegnalYears() throws {
+  let regnal = RegnalCalendar.shared
+  let date = GregorianCalendar.toJDN(Y: 2026, M: 9, D: 24)
+  let selection = regnal.monarchSelection(forPolity: "POLITY_SWEDEN", onJDN: date)
+  let tenure = try #require(selection.primary)
+  let span = try #require(regnal.exactRegnalYear(containing: date, tenure: tenure))
+
+  #expect(tenure.personID == "P_CARL_XVI_GUSTAF")
+  #expect(span.regnalYear == 54)
+  #expect(span.startJDN == GregorianCalendar.toJDN(Y: 2026, M: 9, D: 15))
+  #expect(span.endJDN == GregorianCalendar.toJDN(Y: 2027, M: 9, D: 14))
+}
+
 @Test("Fixed New Year rules work with non-Julian calendars")
 func fixedNewYearRulesAreCalendarGeneric() throws {
   let span = try #require(HistoricalYearResolver.span(

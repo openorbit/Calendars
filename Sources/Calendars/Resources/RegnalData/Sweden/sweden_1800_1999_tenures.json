@@ -13,7 +13,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1809
+          "year": 1809,
+          "month": 6,
+          "day": 6
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -26,7 +28,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1818
+          "year": 1818,
+          "month": 2,
+          "day": 5
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -49,7 +53,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1818
+          "year": 1818,
+          "month": 2,
+          "day": 5
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -62,7 +68,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1844
+          "year": 1844,
+          "month": 3,
+          "day": 8
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -85,7 +93,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1844
+          "year": 1844,
+          "month": 3,
+          "day": 8
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -98,7 +108,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1859
+          "year": 1859,
+          "month": 7,
+          "day": 8
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -121,7 +133,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1859
+          "year": 1859,
+          "month": 7,
+          "day": 8
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -134,7 +148,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1872
+          "year": 1872,
+          "month": 9,
+          "day": 18
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -157,7 +173,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1872
+          "year": 1872,
+          "month": 9,
+          "day": 18
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -170,7 +188,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1907
+          "year": 1907,
+          "month": 12,
+          "day": 8
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -193,7 +213,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1907
+          "year": 1907,
+          "month": 12,
+          "day": 8
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -206,7 +228,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1950
+          "year": 1950,
+          "month": 10,
+          "day": 29
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -229,7 +253,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1950
+          "year": 1950,
+          "month": 10,
+          "day": 29
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -242,7 +268,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1973
+          "year": 1973,
+          "month": 9,
+          "day": 15
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }
@@ -265,7 +293,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1973
+          "year": 1973,
+          "month": 9,
+          "day": 15
         },
         "calendarRuleID": "RULE_GREGORIAN_SE"
       }

@@ -672,7 +672,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1523
+          "year": 1523,
+          "month": 6,
+          "day": 6
         }
       }
     ],
@@ -684,7 +686,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1560
+          "year": 1560,
+          "month": 9,
+          "day": 29
         }
       }
     ],
@@ -705,7 +709,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1560
+          "year": 1560,
+          "month": 9,
+          "day": 29
         }
       }
     ],
@@ -717,7 +723,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1568
+          "year": 1568,
+          "month": 9,
+          "day": 29
         }
       }
     ],
@@ -738,7 +746,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1568
+          "year": 1568,
+          "month": 9,
+          "day": 30
         }
       }
     ],
@@ -750,7 +760,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1592
+          "year": 1592,
+          "month": 11,
+          "day": 17
         }
       }
     ],
@@ -771,7 +783,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1592
+          "year": 1592,
+          "month": 11,
+          "day": 17
         }
       }
     ],
@@ -783,7 +797,9 @@
         "certainty": "high",
         "approx": false,
         "ymd": {
-          "year": 1599
+          "year": 1599,
+          "month": 7,
+          "day": 24
         }
       }
     ],

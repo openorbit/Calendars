@@ -238,11 +238,12 @@ public final class RegnalCalendar: @unchecked Sendable {
         return MonarchSelection(primary: primary, candidates: active)
     }
 
-    /// Returns a numbered regnal year only when both tenure boundaries and the
-    /// accession anniversary are exact. Year-only data is never coerced to January 1.
+    /// Returns a numbered regnal year only when the accession anniversary is exact
+    /// and the tenure has either an exact end or is explicitly open. Year-only data
+    /// is never coerced to January 1.
     public func exactRegnalYear(containing jdn: Int, tenure: RegnalTenure) -> RegnalYearSpan? {
         guard let start = Self.exactJDN(tenure.start.first),
-              let tenureEnd = Self.exactJDN(tenure.end.first),
+              let tenureEnd = Self.exactJDN(tenure.end.first) ?? Self.openEndJDN(tenure.end.first),
               start <= jdn, jdn <= tenureEnd,
               let definition = tenure.start.first,
               let ymd = definition.ymd,
@@ -279,6 +280,10 @@ public final class RegnalCalendar: @unchecked Sendable {
         return calendar.jdn(forYear: ymd.year, month: month, day: day)
     }
 
+    private static func openEndJDN(_ definition: RegnalTenure.DateDefinition?) -> Int? {
+        definition?.rep == "open" ? Int.max : nil
+    }
+
     private static func sameMonarchAssertion(
         _ lhs: RegnalTenure,
         _ rhs: RegnalTenure,
@@ -293,8 +298,10 @@ public final class RegnalCalendar: @unchecked Sendable {
     }
 
     private static func possiblyContains(_ tenure: RegnalTenure, jdn: Int) -> Bool {
-        guard let start = endpointJDN(tenure.start.first, isEnd: false),
-              let end = endpointJDN(tenure.end.first, isEnd: true) else { return false }
+        guard let start = endpointJDN(tenure.start.first, isEnd: false) else { return false }
+        let end = endpointJDN(tenure.end.first, isEnd: true)
+            ?? openEndJDN(tenure.end.first)
+        guard let end else { return false }
         return start <= jdn && jdn <= end
     }
 
