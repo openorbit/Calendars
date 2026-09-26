@@ -93,7 +93,7 @@ import Testing
   let fmt = HistoricDateFormatter(calendar: CopticCalendar.shared, format: .ymd)
   let str = fmt.format(hd)
 
-  #expect(str == "0001-January-01")
+  #expect(str == "0001-Thout-01")
 }
 
 @Test func testEthiopianDateFormat() async throws {
@@ -103,5 +103,5 @@ import Testing
   let fmt = HistoricDateFormatter(calendar: EthiopianCalendar.shared, format: .ymd)
   let str = fmt.format(hd)
 
-  #expect(str == "0001-January-01")
+  #expect(str == "0001-Meskerem-01")
 }
