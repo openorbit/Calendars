@@ -36,9 +36,9 @@ struct ConsularFastiTests {
         let start = try #require(RomanCalendar.shared.startOfYearJDN(year: 531))
         let end = try #require(RomanCalendar.shared.endOfYearJDN(year: 531))
 
-        #expect(months.first?.index == 0)
-        #expect(months.first?.firstDay == 15)
-        #expect(months.first?.length == 17)
+        #expect(months.first?.index == 1)
+        #expect(months.first?.firstDay == 1)
+        #expect(months.first?.length == 31)
         #expect(months.last?.length == 14)
         #expect(months.map(\.length).reduce(0, +) == end - start + 1)
     }

@@ -28,13 +28,7 @@ let calendarRoundTripCases: [CalendarRoundTripCase] = [
 func calendarJDNConversionsRoundTrip(testCase: CalendarRoundTripCase) throws {
     let calendar = try #require(CalendarRegistry.shared.calendar(for: testCase.id))
 
-    if testCase.id == .romanRepublican {
-        try withKnownIssue("Roman reconstructed leading fragments do not yet round-trip") {
-            try verifyRoundTrips(calendar: calendar, testCase: testCase)
-        }
-    } else {
-        try verifyRoundTrips(calendar: calendar, testCase: testCase)
-    }
+    try verifyRoundTrips(calendar: calendar, testCase: testCase)
 }
 
 private func verifyRoundTrips(calendar: CalendarProtocol, testCase: CalendarRoundTripCase) throws {

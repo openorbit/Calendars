@@ -21,10 +21,54 @@ func testRomanFirstDateRoundtrip() async throws {
   #expect(reverse!.day == 1)
 }
 
+@Test
+func testRomanMayToIdesConsularYearBoundary() throws {
+  let calendar = RomanCalendar.shared
+
+  // AUC 531 still begins on Kal. Mai.; its final Martius begins on
+  // Julian 9 March 222 BC.
+  let auc531Start = try #require(calendar.startOfYearJDN(year: 531))
+  #expect(auc531Start == calendar.jdn(forYear: 531, month: 1, day: 1))
+  #expect(auc531Start == JulianCalendar.toJDN(Y: -222, M: 5, D: 18))
+
+  let auc531MarchStart = calendar.jdn(forYear: 531, month: 11, day: 1)
+  #expect(auc531MarchStart == JulianCalendar.toJDN(Y: -221, M: 3, D: 9))
+
+  // AUC 532 begins on Id. Mart., fourteen elapsed days after Martius 1.
+  let auc532Start = try #require(calendar.startOfYearJDN(year: 532))
+  #expect(auc532Start - auc531MarchStart == 14)
+  #expect(auc532Start == calendar.jdn(forYear: 532, month: 0, day: 1))
+  #expect(auc532Start == JulianCalendar.toJDN(Y: -221, M: 3, D: 23))
+
+  let lastDayOfAUC531 = try #require(calendar.date(fromJDN: auc532Start - 1))
+  #expect(lastDayOfAUC531.year == 531)
+  #expect(lastDayOfAUC531.month == 11)
+  #expect(lastDayOfAUC531.day == 14)
+}
+
+@Test
+func testRomanShortAUC600Boundary() throws {
+  let calendar = RomanCalendar.shared
+
+  // AUC 600 is the short transition year: Id. Mart. through prid. Kal. Ian.
+  let auc600Start = try #require(calendar.startOfYearJDN(year: 600))
+  #expect(auc600Start == calendar.jdn(forYear: 600, month: 0, day: 1))
+  #expect(auc600Start == JulianCalendar.toJDN(Y: -153, M: 3, D: 5))
+
+  let auc601Start = try #require(calendar.startOfYearJDN(year: 601))
+  #expect(auc601Start == calendar.jdn(forYear: 601, month: 1, day: 1))
+  #expect(auc601Start == JulianCalendar.toJDN(Y: -153, M: 12, D: 14))
+
+  let lastDayOfAUC600 = try #require(calendar.date(fromJDN: auc601Start - 1))
+  #expect(lastDayOfAUC600.year == 600)
+  #expect(lastDayOfAUC600.month == 9)
+  #expect(lastDayOfAUC600.day == 29)
+}
+
 
 @Test
 func testRomanIdes15YearStartDate() async throws {
-  // AUC 532 MAR 15 = = 532-0-1 = Julian -262-3-23
+  // AUC 532 MAR 15 = 532-0-1 = Julian -221-3-23
   // AUC 532 APR 1 = Julian -221,4,9
   #expect(
     RomanCalendar.shared.jdn(forYear:532, month: 0, day: 1)

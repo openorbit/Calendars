@@ -452,7 +452,7 @@ func buildRomanYears(_ input: BuildInputs) -> TableCalendar {
     let firstNormalMonthJDN = JulianCalendar.toJDN(Y: r.julianYear, M: r.julianMonth, D: r.julianDay)
 
     // March is 31 days, therefore we subtract 17 to get to march 15
-    let adjustment = (531 <= auc && auc <= 599) ? 17 : 0
+    let adjustment = (532 <= auc && auc <= 600) ? 17 : 0
     let startJDN = firstNormalMonthJDN - adjustment
     let sourceYear = auc <= 600 ? auc - 1 : auc
     let phase = input.nundinalPhasesByJanuaryYear[sourceYear]
